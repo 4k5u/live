@@ -22,19 +22,22 @@ echo -e `date` >> $logfile
 
 
 for userId in ${userIds}; do
-    if grep -q "${userId}" data.txt; then
-        echo "The UID $uid exists in data.txt"
-    else
-        json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"  "https://bjapi.afreecatv.com/api/{$userId}/station"` 
-        BNO=`echo $json| jq -r .broad.broad_no`
-        is_password=`echo $json| jq -r .broad.is_password`
-        timestamp=$(date +%s)
-        img="https://liveimg.afreecatv.com/m/${BNO}?${timestamp}.jpg"
-        echo $img
-        startTime=`echo "$json"|jq -r .station.broad_start`
+    json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"  "https://bjapi.afreecatv.com/api/{$userId}/station"` 
+    BNO=`echo $json| jq -r .broad.broad_no`
+    
+    if [ -n "$BNO"  ] &&  [ "$BNO" != null ] && [ "$is_password" != "true" ]; then
+        echo "在线，开始获取直播源"
+        echo -e "$userId ">> online.txt
         
-        echo "开始获取直播源"
-        if [ -n "$BNO"  ] &&  [ "$BNO" != null ] && [ "$is_password" != "true" ]; then
+        if grep -q "${userId}" data.txt; then
+            echo "The UID $userId exists in data.txt"
+        else
+            is_password=`echo $json| jq -r .broad.is_password`
+            timestamp=$(date +%s)
+            img="https://liveimg.afreecatv.com/m/${BNO}?${timestamp}.jpg"
+            #echo $img
+            startTime=`echo "$json"|jq -r .station.broad_start`
+        
             hls_json=`curl -k --http1.1 -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H "cookie:${afcookie}" -F "bid=${userId}" -F "type=aid" -X POST 'https://live.afreecatv.com/afreeca/player_live_api.php'`
             echo $hls_json
             hls_key=`echo $hls_json| jq -r .CHANNEL.AID`
@@ -52,12 +55,14 @@ for userId in ${userIds}; do
             echo -e "$userId $hls">> data.txt
             echo -e "$userId ">> online.txt
             echo -e "添加$userId $hls">> $logfile
-        else 
-            echo "$userId 获取直播源失败！"
-            echo "错误提示：$(echo $json| jq -r .broad)"  #$json "
-        fi   
-        echo "-----------`date`--------------"
-        sleep 2
-    fi
+        fi
+            
+    else 
+        echo "$userId 获取直播源失败！"
+        echo "错误提示：$(echo $json| jq -r .broad)"  #$json "
+    fi   
+    echo "-----------`date`--------------"
+    sleep 2
+   
 done   
 
