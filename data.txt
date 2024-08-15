@@ -1,1 +1,10 @@
-ttt
+my_eyes_higher https://edge19-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7007a82d6a0a694cad66a4e982fdfb47691654f85eb7fccdde9c28a32255ae11_trns_h264/playlist.m3u8
+navi04 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.QITRJe3IKBfJn8cK2GD4hC1IZ5wZlkIMejYmnupfPkke3CJsmvTcgyLmVChy4izDeled-QbIHVeS36A4lIMQ3w
+leelate https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.kcvxgu7UymTen__K8mIbO6GKYMkqswG55sHXgDM77WLbUG6S3WDYK0kJ81M25QBugRQp4ODeDC-kY-UjpiV2xA
+y1026 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VkWx7MtQiDiMEUHjAbfvpAuDUULzQrG4rif9NRTCsuEfycoxGUXxiLuqlaiWbSsijVAb0bScTutpJnRxvtoqCA
+kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5JtNHXDwPN-JErZP6_Fu8lnPtBt4gReB0jruwHoxEJw6pAmov3cErWCqNr9wZYlTsm-w7HlDDmG6SRmDZoZEFg
+yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3MjM3NTUyMTAzNzIsImlhdCI6MTcyMzcxMjAxMH0.gSSVVCGfQEO4OKhrof17zlASScjMEp1yYR7rm672ufgQc9J37ZcoYGbLs_-Inlm_VnpkE4HrIpRtXP6kMN0EMomejHFYlAW-IRB_Q7MaxASRaLp9iLa9GUJd7H0ZP58v
+luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MjM3NTU2NjIyODcsImlhdCI6MTcyMzcxMjQ2Mn0.rywcT5lStOnjfFGH2kDYe2zh1JTmh2rzF-EulQJ2LnhpxSjpzwxmzxb9hIpGrmGnEF_OOCeazDrvUu4vWb8fNZvuzOOICccfoCvW9bOcvR_LMzYv8oQkgoT7hNEA4MQ4
+Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
