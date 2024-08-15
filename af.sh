@@ -26,7 +26,7 @@ for userId in ${userIds}; do
     BNO=`echo $json| jq -r .broad.broad_no`
     
     if [ -n "$BNO"  ] &&  [ "$BNO" != null ] && [ "$is_password" != "true" ]; then
-        echo "在线，开始获取直播源"
+        echo "$userId 在线，开始获取直播源"
         echo -e "$userId ">> online.txt
         
         if grep -q "${userId}" data.txt; then
@@ -58,7 +58,7 @@ for userId in ${userIds}; do
         fi
             
     else 
-        echo "$userId 获取直播源失败！"
+        echo "$userId 可能没开播！"
         echo "错误提示：$(echo $json| jq -r .broad)"  #$json "
     fi   
     echo "-----------`date`--------------"
