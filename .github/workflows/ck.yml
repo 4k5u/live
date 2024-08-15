@@ -25,7 +25,7 @@ jobs:
       - name: Run a one-line script
         run: |
           echo "start"
-          bash flex.sh 
+          bash tw.sh 
         env:
           AUTHORIZATION: ${{ secrets.AUTHORIZATION }}
           BOTTOKEN: ${{ secrets.BOTTOKEN }}
