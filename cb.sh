@@ -41,6 +41,7 @@ for userId in ${userIds}; do
                 #text=$(echo "${text}" | sed 's/_/\\\\_/g')
                 curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@kbjol\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=HTML"
                 echo -e "$userId $hls">> data.txt
+                echo -e "$userId ">> online.txt
                 echo -e "添加$userId $hls">> $logfile
             fi
                 
