@@ -6,9 +6,7 @@ while IFS= read -r line || [ -n "$line" ]
 do
     # 从每行中提取URL
     userId=$(echo "$line" | cut -d ' ' -f1)
-    roomid=$(echo "$line" | cut -d ' ' -f2)
-    roomToken=$(echo "$line" | cut -d ' ' -f3)
-    url=$(echo "$line" | cut -d ' ' -f4)
+    url=$(echo "$line" | cut -d ' ' -f2)
     # 使用curl检测URL的可用性
     # 检测URL是否包含特定字符串
     if [[ "$url" == *"https://ffdced"* ]]; then
