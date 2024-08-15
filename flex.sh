@@ -32,7 +32,7 @@ for userId in ${userIds}; do
             	echo "直播源：${hls}"
 
             	echo "$userId 推送到TG"
-            	text="<b>J哥提醒你！！！！</b>\n\n#Flextv 主播 #${userId} 在线\n\n本场开播时间：$startTime（UTC时间+8小时）\n\n<a href='{m3u8site}?url=${hls}'>直播源地址</a>\n\n<a href='https://www.flextv.co.kr/channels/${channelId}/live'>直播间链接</a>\n\n-----"
+            	text="<b>@kbjba 提醒你！！！！</b>\n\n#Flextv 主播 #${userId} 在线\n\n本场开播时间：$startTime（UTC时间+8小时）\n\n<a href='{m3u8site}?url=${hls}'>直播源地址</a>\n\n<a href='https://www.flextv.co.kr/channels/${channelId}/live'>直播间链接</a>\n\n-----"
             	#text=$(echo "${text}" | sed 's/-/\\\\-/g')
             	curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@kbjol\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=HTML"
             	echo -e "$userId $hls">> data.txt
