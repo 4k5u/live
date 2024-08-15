@@ -441,3 +441,14 @@ Thu Aug 15 22:42:22 CST 2024
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+添加cuddles_me https://edge9-ash.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-00f0a735b42f8ea8f6ffda35a9c30cdfc711cb3a0bf928c524142c118ee8a046_trns_h264/playlist.m3u8
+Thu Aug 15 23:06:38 CST 2024
+Thu Aug 15 23:07:28 CST 2024
+Thu Aug 15 23:08:45 CST 2024
+Thu Aug 15 23:08:59 CST 2024
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除oki_dokie https://edge7-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-fc31dfa2a33b6fc496ee9c0f0ed4bb114648ca7dbf482d952f25053d6968d007_trns_h264/playlist.m3u8
+删除lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQjJEQzJDNC1FNjAxLTRBQ0UtQjFFOS0yNDQ1OEM1NzBERkMiLCJ2aWV3ZXItaWQiOiIyNDI0NDQ0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM3MTcwMTEsImV4cCI6MTcyMzcxNzYxMX0.P513VDDhtoxNcMOAOTKE83A2RKxVxN3W880AM8Itt25_NdVeTci3NTWmlACLFWBgv5GauxssXLLvIfqb_PfDgndBqehckv6KuVEHn6Q1L9XIAGA8HSbDGT7KO6SJ2DXJ
+删除alswl2208 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zl_nsAbeQCC64WmKgT17ZozCPa352DfK73q2UhBerxWmsIt5yExqnng9g3MSJxrKDOXvXqsYpwym_LmJFO5XUw
+删除aesoon96 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.4NaAcTktGqxD.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC80TmFBY1RrdEdxeEQiLCJleHAiOjE3MjM3Njk2OTUwNjMsImlhdCI6MTcyMzcyNjQ5NX0.iqRP8gB-sYC3arjz5it_5Jx7L1x6VnL6aDI3Tq6tD8RuelSkRhBJpKYamFgMOmUYnIfEenMvUKTtKK2rV1hZ55h5ndflX8ldg_eZQOe7i1mCtKGJ1JwQrhll8UTP5L09
