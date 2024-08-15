@@ -20,12 +20,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Setup WARP
-        uses: fscarmen/warp-on-actions@v1.1
-        continue-on-error: true
+#        uses: fscarmen/warp-on-actions@v1.1
+#        continue-on-error: true
       - name: Run a one-line script
         run: |
           echo "start"
-          bash cb.sh 
+          bash flex.sh 
         env:
           AUTHORIZATION: ${{ secrets.AUTHORIZATION }}
           BOTTOKEN: ${{ secrets.BOTTOKEN }}
