@@ -100,81 +100,34 @@ echo "监控中在线主播：${userIds[@]}"
 #? lovether
 
 echo -e `date` >> $logfile
-userToken=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' --data-raw "{\"username\": \"${username}\",\"password\": \"${password}\"}" -X POST "${synctv}/api/user/login"|jq -r .data.token`
-echo $userToken
 
-unreachableIds=()
-#for ((i=1; i<=1000; i++)); do
-#    echo "Round $i:"
-    for userId in ${userIds[@]}; do
-        if grep -q "${userId}" data.txt; then
-            echo "The UID $userId exists in data.txt"
-        else
-            json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H 'x-device-info:{"t":"webMobile","v":"1.0","ui":24631221}' -H "cookie:${cookie}" -X POST  "${pdapi}/v1/live/play?action=watch&userId=${userId}"` 
-            hls=`echo $json| jq -r .PlayList.hls[0].url`
-            img=`echo $json| jq -r .media.ivsThumbnail`
-            startTime=`echo "$json"| jq -r .media.startTime`
-            echo "开始获取直播源"
-            if [ -n "$hls"  ] &&  [ "$hls" != null ]; then
-                echo "${userId}获取成功。"
-                echo "直播源：${hls}"
-                echo "开始创建房间" 
-                room=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${userToken}" --data-raw "{\"roomName\":\"Panda_${userId}\",\"password\":\"\",\"setting\": {\"hidden\": false}}" -X POST "${synctv}/api/room/create"`
-                roomid=`echo $room|jq -r .data.roomId`
-                roomToken=`echo $room|jq -r .data.token`
-                echo "房间id：$roomid"
-                if [ -n "$roomid"  ] && [ "$roomid" != null ]; then
-                    jsondata="{\"name\": \"${userId}\",\"url\": \"${hls}\",\"type\": \"m3u8\",\"live\": true}"
-                    #echo -e "$userId $roomid $roomToken $hls">> data.txt
-                    #echo -e "添加$userId $hls">> $logfile
 
-                    #添加影片
-                    curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}" -w %{http_code} --data-raw "${jsondata}" -X POST "${synctv}/api/movie/push"
-                    #影片id
-                    movieid=$(curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}" "${synctv}/api/movie/movies?page=1&max=10"|jq -r .data.movies[0].id)
-                    #播放影片
-                    curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3  -w %{http_code} -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}" -d "{\"id\": \"$movieid\"}" "${synctv}/api/movie/current"
-                
-                    echo "$userId 已推送到Sync TV, removing from list"
-                    #text="*J哥提醒你！！！！*\n\nPanda主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，sync维护！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
-                    #text=$(echo "${text}" | sed 's/-/\\\\-/g')
-                    #curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
-                elif [ "$roomid" = null ]; then
-                    echo $room|jq -r .error
-                    echo "创建房间失败，可能已有同名房间，跳过此ID" 
-                else 
-                    echo "创建房间失败，跳过此ID（错误提示${room}）" 
-                fi
+for userId in ${userIds[@]}; do
+    if grep -q "${userId}" data.txt; then
+        echo "The UID $userId exists in data.txt"
+    else
+        json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H 'x-device-info:{"t":"webMobile","v":"1.0","ui":24631221}' -H "cookie:${cookie}" -X POST  "${pdapi}/v1/live/play?action=watch&userId=${userId}"` 
+        hls=`echo $json| jq -r .PlayList.hls[0].url`
+        img=`echo $json| jq -r .media.ivsThumbnail`
+        startTime=`echo "$json"| jq -r .media.startTime`
+        echo "开始获取直播源"
+        if [ -n "$hls"  ] &&  [ "$hls" != null ]; then
+            echo "${userId}获取成功。"
+            echo "直播源：${hls}"
             
-                echo "$userId 推送到TG"
-                #text="*J哥提醒你！！！！*\n\nPanda主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
-                text="*J哥提醒你！！！！*\n\nPanda主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，sync维护中！](${m3u8site}?url=${userId})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
-                text=$(echo "${text}" | sed 's/-/\\\\-/g')
-                curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
-                echo -e "$userId $roomid $roomToken $hls">> data.txt
-                echo -e "添加$userId $hls">> $logfile
-                reachableIds+=("$userId")
-            else 
-                echo "$userId 获取直播源失败！"
-                echo "错误提示：$json "
-            fi
+            echo "$userId 推送到TG"
+            #text="*J哥提醒你！！！！*\n\nPanda主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
+            text="*J哥提醒你！！！！*\n\nPanda主播 #${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址](${m3u8site}?url=${userId})\n\n[直播间链接](https://www.pandalive.co.kr/live/play/${userId})\n\n"
+            text=$(echo "${text}" | sed 's/-/\\\\-/g')
+            curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@kbjol\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"                echo -e "$userId $roomid $roomToken $hls">> data.txt
+            echo -e "添加$userId $hls">> $logfile
+        else 
+            echo "$userId 获取直播源失败！"
+            echo "错误提示：$json "
         fi
-        echo "-----------`date`--------------"
-        sleep 2
-    done   
-    #sleep 10    
-
-    # 从原始列表中移除已推送的UserID
-    for reachableId in "${reachableIds[@]}"; do
-        userIds=${userIds//$reachableId/}
-    done
-
-    echo "Remaining UserIds for rechecking: $userIds"
-
-    # 在剩余的UserID中重新检查
-    if [ ${#userIds} -eq 0 ]; then
-        echo "All UserIds are reachable. Exiting."
-        break
     fi
-#done
+    echo "-----------`date`--------------"
+    sleep 2
+done   
+ 
 
