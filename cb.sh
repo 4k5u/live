@@ -35,7 +35,7 @@ for userId in ${userIds}; do
                 echo "The UID $uid exists in data.txt"
             else
                 echo "$userId 已推送到TG"
-                text="*J哥提醒你！！！！*\n\n#Chaturbate主播 #${userId} 在线\n\n[让我康康！直播源地址](${m3u8site}?url=${hls})\n\n[直播间链接](https://www.chaturbate.com/${userId})\n\n_"
+                text="*J哥提醒你！！！！*\n\n#Chaturbate 主播 #${userId} 在线\n\n[让我康康！直播源地址](${m3u8site}?url=${hls})\n\n[直播间链接](https://www.chaturbate.com/${userId})\n\n_"
                 text=$(echo "${text}" | sed 's/-/\\\\-/g')
                 text=$(echo "${text}" | sed 's/_/\\\\_/g')
                 curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@kbjol\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
