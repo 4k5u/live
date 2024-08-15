@@ -57,3 +57,8 @@ Fri Aug 16 01:40:35 CST 2024
 Fri Aug 16 01:42:21 CST 2024
 Fri Aug 16 01:42:34 CST 2024
 删除purelove2 https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zk5XddLRiEZf-mSxnjVTNzqOPjlDLcbfBH319F4TDOTwNmGifuFw0kUgch69Fe0dTRYJcHStnHUDhJ8n15b2kA
+Fri Aug 16 01:51:06 CST 2024
+Fri Aug 16 01:51:22 CST 2024
+Fri Aug 16 01:53:10 CST 2024
+Fri Aug 16 01:53:23 CST 2024
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
