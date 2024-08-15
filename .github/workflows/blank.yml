@@ -6,7 +6,7 @@ name: CI
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/60 * * * *'
+    - cron: '*/10 * * * *'
 #  repository_dispatch:
 #    types: [trigger_workflow]
     
@@ -28,6 +28,7 @@ jobs:
           bash pd.sh
           bash af.sh
           bash flex.sh
+          bash tw.sh
           bash st.sh
         env:
           AUTHORIZATION: ${{ secrets.AUTHORIZATION }}
