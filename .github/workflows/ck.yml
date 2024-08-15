@@ -31,6 +31,7 @@ jobs:
           BOTTOKEN: ${{ secrets.BOTTOKEN }}
           SYNCTV: ${{ secrets.SYNCTV }}
           COOKIE: ${{ secrets.COOKIE }}
+          M3U8SITE: ${{ secrets.M3U8SITE }}
           USERTOKEN: ${{ secrets.USERTOKEN }}
           USERNAME: ${{ secrets.USERNAME }}
           PASSWORD: ${{ secrets.PASSWORD }}
