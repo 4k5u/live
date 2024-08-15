@@ -279,3 +279,6 @@ Thu Aug 15 18:36:04 CST 2024
 Thu Aug 15 18:37:13 CST 2024
 删除kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5JtNHXDwPN-JErZP6_Fu8lnPtBt4gReB0jruwHoxEJw6pAmov3cErWCqNr9wZYlTsm-w7HlDDmG6SRmDZoZEFg
 删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+Thu Aug 15 18:45:30 CST 2024
+Thu Aug 15 18:45:52 CST 2024
+Thu Aug 15 18:47:03 CST 2024
