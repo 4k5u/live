@@ -15,7 +15,7 @@ do
             echo -e "删除$userId $url">> $logfile
             sed -i "\~$url~d" data.txt
         else
-            echo "$userId 直播源有效"
+            echo "$userId 在线"
         fi
         
     elif curl --max-time 15 --connect-timeout 5 --retry-delay 0 --retry 1  --output /dev/null --silent --head --fail "$url"; then
@@ -30,3 +30,4 @@ do
         fi
     fi
 done < data.txt
+rm online.txt
