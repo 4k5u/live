@@ -28,7 +28,7 @@ for userId in ${userIds}; do
         stream=$(curl  -s "https://gql.twitch.tv/gql" -H "Client-ID:kimne78kx3ncx6brgo4mv6wki5h1ko" --data-raw '{"operationName":"UseLive","variables":{"channelLogin":"'${userId}'"},"extensions":{"persistedQuery":{"version":1,"sha256Hash":"639d5f11bfb8bf3053b424d9ef650d04c4ebb7d94711d644afb08fe9a0fad5d9"}}}'|jq .data.user.stream)
         if [ -n "$stream" ] && [ "$stream" != null ] ; then
             echo "在线，开始获取直播源"
-            local res=$(curl  -s "https://gql.twitch.tv/gql" -H "Client-ID:kimne78kx3ncx6brgo4mv6wki5h1ko" --data-raw '{"operationName":"PlaybackAccessToken","extensions":{"persistedQuery":{"version":1,"sha256Hash":"0828119ded1c13477966434e15800ff57ddacf13ba1911c129dc2200705b0712"}},"variables":{"isLive":true,"login":"'${userId}'","isVod":false,"vodID":"","playerType":"embed"}}')
+            res=$(curl  -s "https://gql.twitch.tv/gql" -H "Client-ID:kimne78kx3ncx6brgo4mv6wki5h1ko" --data-raw '{"operationName":"PlaybackAccessToken","extensions":{"persistedQuery":{"version":1,"sha256Hash":"0828119ded1c13477966434e15800ff57ddacf13ba1911c129dc2200705b0712"}},"variables":{"isLive":true,"login":"'${userId}'","isVod":false,"vodID":"","playerType":"embed"}}')
             startTime=$(echo "$stream"|jq -r .createdAt)
             streamPlaybackAccessToken=$(echo "$res"| jq -r .data.streamPlaybackAccessToken.value)
             signature=$(echo "$res"| jq -r .data.streamPlaybackAccessToken.signature)
