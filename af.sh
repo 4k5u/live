@@ -46,7 +46,7 @@ for userId in ${userIds}; do
 
             echo "$userId 推送到TG"
             #text="*J哥提醒你！！！！*\n\nAfreeca主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
-            text="*J哥提醒你！！！！*\n\n#Afreeca 主播 #${userId} 在线\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n<a href=\"$hls\">直播源地址</a>\n\n<a href=\"https://play.afreecatv.com/${userId}/${BNO}\">直播间链接</a>\n\n-----"
+            text="<b>J哥提醒你！！！！</b>\n\n#Afreeca 主播 #${userId} 在线\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n<a href=\"$hls\">直播源地址</a>\n\n<a href=\"https://play.afreecatv.com/${userId}/${BNO}\">直播间链接</a>\n\n-----"
             #text=$(echo "${text}" | sed 's/-/\\\\-/g')
             curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@kbjol\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=HTML"
             echo -e "$userId $hls">> data.txt
