@@ -103,3 +103,10 @@ Fri Aug 16 03:28:46 CST 2024
 Fri Aug 16 03:29:00 CST 2024
 删除sol3712 https://live-global-cdn-v02.afreecatv.com/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.W9ZDsx2w9qYPYNrPxbKvo43Gh3in-eyq32O_QpDFiGb5gcO2bVcrqwc15siQLL8ONIgxnOPK1NIbCLw-Xrxy3g
 删除minllor5 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E2SD0xJDwT0Z.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0UyU0QweEpEd1QwWiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1RjU0MDJDNi0zNkY3LTRCMTMtQTFDRS01QThFNzc0OUQ1MTUiLCJ2aWV3ZXItaWQiOiIyNDczNTQwOCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM3NDEwMjgsImV4cCI6MTcyMzc0MTYyOH0.7ekPqn9FbC62YDX27amhxzxgIkYIN9HUf4fcrtJfaq9PKpVEe2-OPKDT-O8VVZcRBaJqmmyVU9kgymaFFIRxRn8yFkuY9_YdYPORadP1yEN1FWs6BHpcfsRNMLB1ZkOT
+添加gina_gracia https://edge9-lax.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-2545fc7fefa006ea45e41c65c509cc6eb9fc37790673a4732a955dd0b1d25007_trns_h264/playlist.m3u8
+Fri Aug 16 03:39:14 CST 2024
+Fri Aug 16 03:39:20 CST 2024
+Fri Aug 16 03:41:01 CST 2024
+Fri Aug 16 03:41:13 CST 2024
+添加TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
