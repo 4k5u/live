@@ -35,7 +35,7 @@ for userId in ${userIds}; do
             	text="*J哥提醒你！！！！*\n\n#Flextv 主播 #${userId} 在线\n\n本场开播时间：$startTime（UTC时间+8小时）\n\n[直播源地址]($hls)\n\n[直播间链接](https://play.afreecatv.com/${userId}/${BNO})\n\n-----"
             	text=$(echo "${text}" | sed 's/-/\\\\-/g')
             	curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@kbjol\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
-            	echo -e "$userId $roomid $roomToken $hls">> data.txt
+            	echo -e "$userId $hls">> data.txt
             	echo -e "添加$userId $hls">> $logfile
         	else 
             	echo "$userId 获取直播源失败！"
