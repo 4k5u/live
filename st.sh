@@ -15,12 +15,11 @@ userIds="520-chuchu 172----95----student MeghanCollin 172-95-student kolll88 Asi
 #Ailen_baby  student-se
 #Witcher_DK 777YikuYiku
 
-
 for userId in ${userIds}; do
-    json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H 'x-device-info:{"t":"webMobile","v":"1.0","ui":24631221}'  "https://zh.stripchat.com/api/front/v2/models/username/${userId}/cam"` 
-    sid=`echo $json| jq -r .cam.streamName`
-    islive=`echo $json|jq .cam.isCamAvailable`
-    imgTimestamp=`echo $json| jq -r .user.user.snapshotTimestamp`
+    json=$(curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H 'x-device-info:{"t":"webMobile","v":"1.0","ui":24631221}' "https://zh.stripchat.com/api/front/v2/models/username/${userId}/cam")
+    sid=$(echo $json | jq -r .cam.streamName)
+    islive=$(echo $json | jq .cam.isCamAvailable)
+    imgTimestamp=$(echo $json | jq -r .user.user.snapshotTimestamp)
     img="https://img.strpst.com/thumbs/${imgTimestamp}/${sid}_webp"
     echo "${islive}"
     echo "开始获取直播源"
@@ -28,22 +27,21 @@ for userId in ${userIds}; do
         echo "${userId}获取成功。"
         hls="https://edge-hls.doppiocdn.live/hls/${sid}/master/${sid}_auto.m3u8"
         echo "直播源：$hls"
-            
 
         if grep -q "${userId}" data.txt; then
-            echo "The UID $uid exists in data.txt"
+            echo "The UID $userId exists in data.txt"
         else
             echo "$userId 已推送到TG"
-            text="<b>@kbjba 提醒你！！！！</b>\n\n#Stripchat 主播 #${userId} 在线\n\n<a href='${m3u8site}?url=${hls}'>让我康康！直播源地址</a>\n\n<a href='https://zh.stripchat.com/${userId}'>直播间链接</a>\n\n_
+            text="<b>@kbjba 提醒你！！！！</b>\n\n#Stripchat 主播 #${userId} 在线\n\n<a href='${m3u8site}?url=${hls}'>让我康康！直播源地址</a>\n\n<a href='https://zh.stripchat.com/${userId}'>直播间链接</a>\n\n_"
             #text=$(echo "${text}" | sed 's/-/\\\\-/g')
             #text=$(echo "${text}" | sed 's/_/\\\\_/g')
             curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@kbjol\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=HTML"
-            echo -e "$userId $hls">> data.txt
-            echo -e "添加$userId $hls">> $logfile
+            echo -e "$userId $hls" >> data.txt
+            echo -e "添加$userId $hls" >> $logfile
         fi
     else 
         echo "$userId 获取直播源失败！"
-        echo "错误提示："$json "
+        echo "错误提示：$json"
     fi   
     echo "-----------`date`--------------"
     sleep 1
@@ -51,4 +49,3 @@ done
 
 echo "开始检测失效房间"
 bash check.sh
-
