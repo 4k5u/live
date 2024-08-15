@@ -10,9 +10,9 @@ do
     # 使用curl检测URL的可用性
     # 检测URL是否包含特定字符串
     if [[ "$url" == *"https://ffdced"* ]]; then
-        if grep -q "${userId}" userid.txt; then
+        if ! grep -q "${userId}" userid.txt; then
             echo "$userId 已下播, 删除记录" 
-            echo -e "删除$userId $hls">> $logfile
+            echo -e "删除$userId $url">> $logfile
             sed -i "\~$url~d" data.txt
         else
             echo "$userId 直播源有效"
@@ -22,7 +22,7 @@ do
         echo "$userId - $url 直播源有效"
     else
         echo "$userId - $url 直播源失效, 删除房间, 删除记录" 
-        echo -e "删除$userId $hls">> $logfile
+        echo -e "删除$userId $url">> $logfile
         sed -i "\~$url~d" data.txt
     fi
 done < data.txt
