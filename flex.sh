@@ -25,7 +25,7 @@ for userId in ${userIds}; do
 		res=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H 'x-device-info:{"t":"webMobile","v":"1.0","ui":24631221}' -H "cookie:${FLEXCOOKIE}"  "https://api.flextv.co.kr/api/channels/${channelId}/stream?option=all" `
         	url=$(echo "$res"| jq -r .sources[].url)
         	userId=$(echo "$res"| jq -r .owner.loginId)
-        	thumbUrl=$(echo "$res"| jq -r .thumbUrl)
+        	img=$(echo "$res"| jq -r .thumbUrl)
         	startTime=$(echo "$res"| jq -r .stream.createdAt)
         	if [ -n "$url" ] && [ "$url" != null ] ; then
             	echo "${userId}获取成功。"
