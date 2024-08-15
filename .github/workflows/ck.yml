@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Setup WARP
+#      - name: Setup WARP
 #        uses: fscarmen/warp-on-actions@v1.1
 #        continue-on-error: true
       - name: Run a one-line script
