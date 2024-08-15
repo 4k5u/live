@@ -1,1 +1,4 @@
 
+joysuniverse https://edge16-atl.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-182c0abdafb8da38f59fecffb47751f7439f304eff44a75fe8c5771c1c911db2_trns_h264/playlist.m3u8
+oki_dokie https://edge16-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-829e4c0aef2f5dd9f0093924ba030ef4f4b195f504101dee431de266dd1e567a_trns_h264/playlist.m3u8
+my_eyes_higher https://edge19-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7007a82d6a0a694cad66a4e982fdfb47691654f85eb7fccdde9c28a32255ae11_trns_h264/playlist.m3u8
