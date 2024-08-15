@@ -34,7 +34,7 @@ for userId in ${userIds}; do
             echo "The UID $uid exists in data.txt"
         else
             echo "$userId 已推送到TG"
-            text="<b>J哥提醒你！！！！</b>\n\n#Stripchat 主播 #${userId} 在线\n\n<a href='${m3u8site}?url=${hls}'>让我康康！直播源地址</a>\n\n<a href='https://zh.stripchat.com/${userId}'>直播间链接</a>\n\n_
+            text="<b>@kbjba 提醒你！！！！</b>\n\n#Stripchat 主播 #${userId} 在线\n\n<a href='${m3u8site}?url=${hls}'>让我康康！直播源地址</a>\n\n<a href='https://zh.stripchat.com/${userId}'>直播间链接</a>\n\n_
             #text=$(echo "${text}" | sed 's/-/\\\\-/g')
             #text=$(echo "${text}" | sed 's/_/\\\\_/g')
             curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@kbjol\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=HTML"
@@ -43,11 +43,11 @@ for userId in ${userIds}; do
         fi
     else 
         echo "$userId 获取直播源失败！"
-        echo "错误提示：" #$json "
+        echo "错误提示："$json "
     fi   
     echo "-----------`date`--------------"
     sleep 1
-done   
+done
 
 echo "开始检测失效房间"
 bash check.sh
