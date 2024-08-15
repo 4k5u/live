@@ -25,6 +25,7 @@ for userId in ${userIds}; do
     echo "开始获取直播源"
     if [ "${islive}" == true ]; then
         echo "${userId}获取成功。"
+        echo -e "$userId ">> online.txt
         hls="https://edge-hls.doppiocdn.live/hls/${sid}/master/${sid}_auto.m3u8"
         echo "直播源：$hls"
 
