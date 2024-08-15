@@ -1,3 +1,1 @@
 
-oki_dokie https://edge1-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-829e4c0aef2f5dd9f0093924ba030ef4f4b195f504101dee431de266dd1e567a_trns_h264/playlist.m3u8
-my_eyes_higher https://edge10-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7007a82d6a0a694cad66a4e982fdfb47691654f85eb7fccdde9c28a32255ae11_trns_h264/playlist.m3u8
