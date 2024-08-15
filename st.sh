@@ -41,7 +41,7 @@ for userId in ${userIds}; do
         fi
     else 
         echo "$userId 获取直播源失败！"
-        echo "错误提示：$json"
+        echo "错误提示：$(echo $json | jq -r .user.user.statusChangedAt)"
     fi   
     echo "-----------`date`--------------"
     sleep 1
