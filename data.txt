@@ -3,7 +3,6 @@ alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m
 gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.RHiIBtHHRZ_hjA_txPJ4T_1wn2OBNjGkIxg1HefDk-dFPblb2dMMf-cqqz4Ip2XMxhk7FeBYcc7xrwP1n8Yn9A
 kiyoko_rin https://edge12-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-3710ce56a7a48114b8dffea7542ebb08f98c48c6b95f741fbb496c5d9b23ef91_trns_h264/playlist.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
-TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
@@ -18,7 +17,7 @@ mazzanti_ https://edge2-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6df1b503f
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RjdCNEFGNy0xRjJGLTRGM0QtOTIwNC0wMTMyRUFDMjNBQUQiLCJ2aWV3ZXItaWQiOiIyNTAzNjk0NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM4NDU2NTIsImV4cCI6MTcyMzg0NjI1Mn0.fU66StWVpTi5gqLIZWrmohr6fwFs-CLepwxBbCJTZ6KeDy_voZA98HBJ8PbCXvP9ocXwn6J1KgwmMpWkcqHsU3LwvuY5VNH4BUob6-4sJ27PEHu0-_jViqoCnCZrpXDA
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
-gina_gracia https://edge21-ash.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-fbaea936dace524b673b9128c227a2fbfbb6f34b3d95d44e52816982f443926a_trns_h264/playlist.m3u8
 my_eyes_higher https://edge28-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7d49dadc318eb8b2a6e3bd83f9aafcc4a3cdc283f52b53d12f2e1c8df5d9480d_trns_h264/playlist.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
