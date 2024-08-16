@@ -360,3 +360,10 @@ Fri Aug 16 14:59:05 CST 2024
 Fri Aug 16 14:59:18 CST 2024
 删除glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1vabf_O3EYBONYLSpRH-yvgmeiWbZlFbWJUI3ggqk5o_dx-j-G-FO8OAWub90SACR5VhWaZK8A_MbTRmaxS0Dw
 删除cuddles_me https://edge18-aus.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-1543bb7259c24138c3334bdc4aa78e9f62fcb8a96e3b9b86caf65d01e0d4d3f8_trns_h264/playlist.m3u8
+Fri Aug 16 15:16:48 CST 2024
+Fri Aug 16 15:16:58 CST 2024
+添加yeosi1004 https://live-global-cdn-v02.afreecatv.com/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Fri Aug 16 15:18:53 CST 2024
+Fri Aug 16 15:19:07 CST 2024
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
