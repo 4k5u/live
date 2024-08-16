@@ -56,3 +56,10 @@ Sat Aug 17 01:34:27 CST 2024
 删除Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 删除qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+Sat Aug 17 01:41:29 CST 2024
+Sat Aug 17 01:41:53 CST 2024
+Sat Aug 17 01:43:41 CST 2024
+Sat Aug 17 01:43:53 CST 2024
+删除thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.d4skZmXRChaD.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2Q0c2tabVhSQ2hhRCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwRDJBRDI5NS0wM0VBLTQxRTUtOUJFRC1CMTU0OTFEOEEzNjkiLCJ2aWV3ZXItaWQiOiIyNDU2Mzc4MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM4MTIwNTMsImV4cCI6MTcyMzgxMjY1M30.TlH_R85HEfDWCIqTfEwlvkgoq_3b9eO7-NtHBpGTQ2XWtN_o5TJh8Ge2ticvA_r65b4xqOqRFucJQsFQMTN4phd7zeGalrPtXLLtjZ4Bx7-v43q794JSPioi4pz7qwa1
+删除naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQzE2Q0EzRi00RkQ1LTQxRDYtQUVDOS0yQ0MzRjYwRUUyRDYiLCJ2aWV3ZXItaWQiOiIyNTA2MTk4MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM4MTU0NDQsImV4cCI6MTcyMzgxNjA0NH0.FbceHsbY3lesRwbAM2g66shJzXqikQmsW7vj7pVmx_3WJwDkH71QC1SUbuOGsBB5-6eBF5XzjjHKL40DIROcDq2kdM1d96FuCOdn881f5nTGQcZ1TDu1hFKM2QwHH4FW
+删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
