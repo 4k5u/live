@@ -7,13 +7,9 @@ dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.RHiIBtHHRZ_hjA_txPJ4T_1wn2OBNjGkIxg1HefDk-dFPblb2dMMf-cqqz4Ip2XMxhk7FeBYcc7xrwP1n8Yn9A
--Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 kiyoko_rin https://edge12-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-3710ce56a7a48114b8dffea7542ebb08f98c48c6b95f741fbb496c5d9b23ef91_trns_h264/playlist.m3u8
--Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
--Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
--Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNTc5RUYwMy1CREVCLTREQjctOUM5RS04NzlFQzM2RTNCNEUiLCJ2aWV3ZXItaWQiOiIyMjg1NzUzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM4MzU3MzYsImV4cCI6MTcyMzgzNjMzNn0.WveOlm60AzByJ2M8s2eaa_Kvo1YdstfwBrf9J6ScucWUBfXKStAZ7sUFkAtV5Pzj4O5uFRgb1zMG6qiqIVjXqXgE4GVTGdjo-LhNWGjYhtZSospSdB4ttTe84JMSvyph
