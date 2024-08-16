@@ -243,3 +243,9 @@ Sat Aug 17 07:30:59 CST 2024
 Sat Aug 17 07:32:45 CST 2024
 Sat Aug 17 07:33:00 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加mazzanti_ https://edge10-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6df1b503f8aecbc8d339a06ac41957d10f69cdbc8b3707a98570736637454d0d_trns_h264/playlist.m3u8
+Sat Aug 17 07:42:34 CST 2024
+Sat Aug 17 07:42:40 CST 2024
+Sat Aug 17 07:44:31 CST 2024
+Sat Aug 17 07:44:45 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
