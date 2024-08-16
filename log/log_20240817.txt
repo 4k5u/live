@@ -228,3 +228,13 @@ Sat Aug 17 07:00:58 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
 删除gina_gracia https://edge21-ash.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-fbaea936dace524b673b9128c227a2fbfbb6f34b3d95d44e52816982f443926a_trns_h264/playlist.m3u8
+Sat Aug 17 07:20:52 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMzY0NTkwNS05QTM2LTRBOUQtQTZFOC1ENTgyNDNBMDdDQ0EiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM4NTA0NTYsImV4cCI6MTcyMzg1MTA1Nn0.x8C1V0YZsphyiJYDOAv4E1tDRaUgD4BwlTmGLIs9BUEVYd00ztqHJ0c1NF-27pbodoR2YFH_0GdmnHelzIHlBlu_rHCVN98nmZLe_rQ3dbyapN7HSrFTfoNhVnF2BLLF
+Sat Aug 17 07:20:59 CST 2024
+Sat Aug 17 07:22:39 CST 2024
+Sat Aug 17 07:22:51 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除mazzanti_ https://edge2-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6df1b503f8aecbc8d339a06ac41957d10f69cdbc8b3707a98570736637454d0d_trns_h264/playlist.m3u8
