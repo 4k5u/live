@@ -237,3 +237,9 @@ Fri Aug 16 10:31:22 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 删除kiyoko_rin https://edge11-chi.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-e0d86bba56a4d445905debbbd5e73cf66dec201af93d11f456c5ee1e0aa49661_trns_h264/playlist.m3u8
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+添加amilia4u https://edge21-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-6db9f359124e97e0f53268f4a9de1ac0d6262b059636c1bd7c1f756ebefce647_trns_h264/playlist.m3u8
+Fri Aug 16 10:51:06 CST 2024
+Fri Aug 16 10:51:16 CST 2024
+Fri Aug 16 10:53:08 CST 2024
+Fri Aug 16 10:53:22 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
