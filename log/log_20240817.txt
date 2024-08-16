@@ -193,3 +193,10 @@ Sat Aug 17 05:50:17 CST 2024
 Sat Aug 17 05:52:09 CST 2024
 Sat Aug 17 05:52:23 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+Sat Aug 17 06:00:52 CST 2024
+添加slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RjdCNEFGNy0xRjJGLTRGM0QtOTIwNC0wMTMyRUFDMjNBQUQiLCJ2aWV3ZXItaWQiOiIyNTAzNjk0NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM4NDU2NTIsImV4cCI6MTcyMzg0NjI1Mn0.fU66StWVpTi5gqLIZWrmohr6fwFs-CLepwxBbCJTZ6KeDy_voZA98HBJ8PbCXvP9ocXwn6J1KgwmMpWkcqHsU3LwvuY5VNH4BUob6-4sJ27PEHu0-_jViqoCnCZrpXDA
+Sat Aug 17 06:01:00 CST 2024
+Sat Aug 17 06:02:41 CST 2024
+Sat Aug 17 06:02:53 CST 2024
+删除jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNTc5RUYwMy1CREVCLTREQjctOUM5RS04NzlFQzM2RTNCNEUiLCJ2aWV3ZXItaWQiOiIyMjg1NzUzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM4MzU3MzYsImV4cCI6MTcyMzgzNjMzNn0.WveOlm60AzByJ2M8s2eaa_Kvo1YdstfwBrf9J6ScucWUBfXKStAZ7sUFkAtV5Pzj4O5uFRgb1zMG6qiqIVjXqXgE4GVTGdjo-LhNWGjYhtZSospSdB4ttTe84JMSvyph
+删除168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
