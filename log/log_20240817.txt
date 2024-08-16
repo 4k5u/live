@@ -133,3 +133,9 @@ Sat Aug 17 03:41:00 CST 2024
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加gina_gracia https://edge17-chi.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-fbaea936dace524b673b9128c227a2fbfbb6f34b3d95d44e52816982f443926a_trns_h264/playlist.m3u8
+Sat Aug 17 03:48:12 CST 2024
+Sat Aug 17 03:48:22 CST 2024
+Sat Aug 17 03:50:12 CST 2024
+Sat Aug 17 03:50:26 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8

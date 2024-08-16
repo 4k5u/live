@@ -14,3 +14,5 @@ TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNTc5RUYwMy1CREVCLTREQjctOUM5RS04NzlFQzM2RTNCNEUiLCJ2aWV3ZXItaWQiOiIyMjg1NzUzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM4MzU3MzYsImV4cCI6MTcyMzgzNjMzNn0.WveOlm60AzByJ2M8s2eaa_Kvo1YdstfwBrf9J6ScucWUBfXKStAZ7sUFkAtV5Pzj4O5uFRgb1zMG6qiqIVjXqXgE4GVTGdjo-LhNWGjYhtZSospSdB4ttTe84JMSvyph
 168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
+gina_gracia https://edge17-chi.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-fbaea936dace524b673b9128c227a2fbfbb6f34b3d95d44e52816982f443926a_trns_h264/playlist.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
