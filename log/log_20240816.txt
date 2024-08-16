@@ -219,3 +219,10 @@ Fri Aug 16 08:00:23 CST 2024
 Fri Aug 16 08:02:18 CST 2024
 Fri Aug 16 08:02:31 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加gina_gracia https://edge7-slc.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-69b288f4990e3ecde36faf93b331d87c5bb2699f0506d053195332efe4240f8e_trns_h264/playlist.m3u8
+Fri Aug 16 09:40:20 CST 2024
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MEMxQjgwOS01NDkzLTRCRjUtQkFEMC01MzhFNDk0QTAzNzMiLCJ2aWV3ZXItaWQiOiIyMzQ1OTE5NSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM3NzI0MjcsImV4cCI6MTcyMzc3MzAyN30.mQdplx2jKN1ePPTsE4HFlANLjT8UYHbH5TWpFmFZGJXJPLMzTKauntQ7gdqnZoSAye6JTyHaYlb91BXskh8ugulNwGmByjlf4l5JpfH_9CvAPMNOxFa4QH1II0g-R9JN
+Fri Aug 16 09:40:30 CST 2024
+Fri Aug 16 09:42:10 CST 2024
+Fri Aug 16 09:42:22 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
