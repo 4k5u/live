@@ -4,7 +4,6 @@ gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_pla
 kiyoko_rin https://edge12-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-3710ce56a7a48114b8dffea7542ebb08f98c48c6b95f741fbb496c5d9b23ef91_trns_h264/playlist.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
-TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
@@ -21,4 +20,5 @@ slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 gina_gracia https://edge21-ash.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-fbaea936dace524b673b9128c227a2fbfbb6f34b3d95d44e52816982f443926a_trns_h264/playlist.m3u8
 my_eyes_higher https://edge28-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7d49dadc318eb8b2a6e3bd83f9aafcc4a3cdc283f52b53d12f2e1c8df5d9480d_trns_h264/playlist.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
