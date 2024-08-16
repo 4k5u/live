@@ -153,3 +153,8 @@ Sat Aug 17 04:23:39 CST 2024
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 删除Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+Sat Aug 17 04:32:09 CST 2024
+Sat Aug 17 04:32:19 CST 2024
+Sat Aug 17 04:34:07 CST 2024
+Sat Aug 17 04:34:20 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
