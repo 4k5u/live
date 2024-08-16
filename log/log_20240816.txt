@@ -398,3 +398,8 @@ Fri Aug 16 16:29:26 CST 2024
 Fri Aug 16 16:29:40 CST 2024
 删除leelate https://live-global-cdn-v02.afreecatv.com/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ETVgExcBzH_gMmCB7PVSuB4j4YTEGQfED9BVoN3vSSIKKJAUHY0fBfvj3N91FpRnKmsbZeXAI4Thhi6Zmwbfeg
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Fri Aug 16 16:41:08 CST 2024
+Fri Aug 16 16:41:23 CST 2024
+Fri Aug 16 16:43:14 CST 2024
+Fri Aug 16 16:43:28 CST 2024
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
