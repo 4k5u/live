@@ -11,8 +11,6 @@ won110 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
-amilia4u https://edge17-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-6db9f359124e97e0f53268f4a9de1ac0d6262b059636c1bd7c1f756ebefce647_trns_h264/playlist.m3u8
-kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=null
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 your_desssert https://edge20-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-fe819386f704dd7453680a4e398b77aa1e0a8192ce391880822a9e653e60eb68_trns_h264/playlist.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8

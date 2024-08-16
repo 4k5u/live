@@ -347,3 +347,9 @@ Fri Aug 16 14:25:15 CST 2024
 添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除_marydel_ https://edge5-aus.live.mmcdn.com/live-hls/amlst:_marydel_-sd-d0c19e1a2ab928f6c8857c76f1e30dbd2a9c013b52d27c715ff0967473f34b82_trns_h264/playlist.m3u8
 删除sexygamesx https://edge16-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-1df5ba276dab0745307959e19caf6d94fd827ed0e49c08e6b0fe0f3fa8e52536_trns_h264/playlist.m3u8
+Fri Aug 16 14:42:42 CST 2024
+Fri Aug 16 14:42:52 CST 2024
+Fri Aug 16 14:44:39 CST 2024
+Fri Aug 16 14:44:53 CST 2024
+删除amilia4u https://edge17-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-6db9f359124e97e0f53268f4a9de1ac0d6262b059636c1bd7c1f756ebefce647_trns_h264/playlist.m3u8
+删除kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=null
