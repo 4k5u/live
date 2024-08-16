@@ -338,3 +338,12 @@ Fri Aug 16 13:56:58 CST 2024
 Fri Aug 16 13:57:13 CST 2024
 Fri Aug 16 13:59:03 CST 2024
 Fri Aug 16 13:59:17 CST 2024
+添加my_eyes_higher https://edge16-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d8816cc15a4453909cf2da1e8fd689ad927a5b325207a2bdb72ffd44360ca925_trns_h264/playlist.m3u8
+Fri Aug 16 14:22:59 CST 2024
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4QTBENjgxRC01OTNFLTQ1QTQtOTFCNi1DNkYyQjZGMTY2MzMiLCJ2aWV3ZXItaWQiOiIyMjY3ODI5MCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM3ODkzODYsImV4cCI6MTcyMzc4OTk4Nn0.ttVWgCWRKgu0VaRRQvni6Y6azS2e3gr6yqme87xlFOXyA5fGxkkfCVJijNSd58m8zCJh24OCOyxK5UnPD0SoQaKXM2uSRbDDv9qNCRkQ5-Tlx9KAcB9g5B_xSnxRO0NR
+Fri Aug 16 14:23:11 CST 2024
+Fri Aug 16 14:25:01 CST 2024
+Fri Aug 16 14:25:15 CST 2024
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除_marydel_ https://edge5-aus.live.mmcdn.com/live-hls/amlst:_marydel_-sd-d0c19e1a2ab928f6c8857c76f1e30dbd2a9c013b52d27c715ff0967473f34b82_trns_h264/playlist.m3u8
+删除sexygamesx https://edge16-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-1df5ba276dab0745307959e19caf6d94fd827ed0e49c08e6b0fe0f3fa8e52536_trns_h264/playlist.m3u8
