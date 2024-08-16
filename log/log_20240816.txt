@@ -260,3 +260,9 @@ Fri Aug 16 11:31:04 CST 2024
 删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNTQwNTU0NS0yMUFELTRFRDItODQ2RC00NjkzNThGRjVGQzQiLCJ2aWV3ZXItaWQiOiIyNTAzNjk0NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM3NTg2NzQsImV4cCI6MTcyMzc1OTI3NH0.DCT2v0ANNj_ozY8Rb-oRg3fk9KIwvgokRiO5BkDW-mAIY6CzGFmFxZnltL9gmbYIbw9C9R-Z5VSQBu7Ixlb07VE6HIoxRZJU4k0KPsoVIavu0PXRd33vM557GFqvAVkz
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+Fri Aug 16 11:43:26 CST 2024
+Fri Aug 16 11:43:34 CST 2024
+Fri Aug 16 11:45:14 CST 2024
+Fri Aug 16 11:45:26 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除_marydel_ https://edge5-aus.live.mmcdn.com/live-hls/amlst:_marydel_-sd-d0c19e1a2ab928f6c8857c76f1e30dbd2a9c013b52d27c715ff0967473f34b82_trns_h264/playlist.m3u8
