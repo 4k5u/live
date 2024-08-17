@@ -531,3 +531,16 @@ Sat Aug 17 19:02:10 CST 2024
 Sat Aug 17 19:02:25 CST 2024
 添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
 删除yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3MjM5MzMwNDYzODYsImlhdCI6MTcyMzg4OTg0Nn0.fEXFaFaIuIefy_m__lOF4EW1tColJF-oAous14NCgvOKfhX3Ht8nR3bsYC7DDca5hCF9QgO6dKAT7rL9QiSKYYnnoZlBSAoPbdDabLACJo1c-u0ziOrKgxTPS5F7te9a
+Sat Aug 17 19:18:25 CST 2024
+Sat Aug 17 19:18:43 CST 2024
+添加smmms2002 https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.DHJXzgaztBuN52XLMl-RaYwg1xXUhmqpx3QThf61yVhEnBhgRrBhOx4izrOEbHIbp3JYZkpmJyae_aJ6NuKIug
+添加1004ysus https://live-global-cdn-v02.afreecatv.com/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zPkA2BiAUBV-M3Zt5LNJOKm8zUPs4fnQbULZavV3Uh6yiDHlepqdEl4bMGA5Tu_jxzftAeK0ubt5nqnKymk3Eg
+添加kmj87990 https://live-global-cdn-v02.afreecatv.com/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.DHJXzgaztBuN52XLMl-Rac5-frTGL09MqwZdfg7Qx_gTzkiZQARC0TNMWnSVvTa2D8ikxOAwH4C2RLRNSwfsjw
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.8yiq_2ooK1_RkRveBKdQzdjn8Oa2AkO8uWKlwRiMfqDC1i-Jwy3ht_ta6h1ORXVhPjHfv_4vOl_Ge7_KQYb0Bw
+Sat Aug 17 19:20:56 CST 2024
+添加aesoon96 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.4NaAcTktGqxD.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC80TmFBY1RrdEdxeEQiLCJleHAiOjE3MjM5MzYxNzg5NzEsImlhdCI6MTcyMzg5Mjk3OH0.MnTbOySmD6jD7xsFRNGLTsuPvlhuJDEoF1jf6UrWVytJi2-sztDL_O3PhQy11UUYzcb5zmdqHLivdil6F4OvQJCWUUm88SxC6XHQvCpPzuVqtoZBbfGUaduCILxiXKt-
+添加yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3MjM5MzY3NzA2MDUsImlhdCI6MTcyMzg5MzU3MH0.BulKz7rnXptVb45K8CCEjun9LzBVvFNtp_Nd3qKHkx9NemwMXYu0tG12uYF3UskBUJKH4hIo3B1eGFyi83i3QhQsZRQ8oq077eRqnQCHHZoXMK36Xft4-EFl-MEKEaqE
+Sat Aug 17 19:21:14 CST 2024
+删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除oki_dokie https://edge5-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-44f3bc1c8d33c31e58f2e173a10fe5236c8a9fdf23fe502f3422a4aa6b2dfc04_trns_h264/playlist.m3u8
+删除joysuniverse https://edge2-lax.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-4be9a241b5f70cd93f7d66b8257f7689061a66fd97886133ff94bc96a7a0806e_trns_h264/playlist.m3u8
