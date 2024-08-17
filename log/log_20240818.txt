@@ -1,0 +1,9 @@
+Sun Aug 18 00:00:39 CST 2024
+Sun Aug 18 00:01:15 CST 2024
+Sun Aug 18 00:03:06 CST 2024
+Sun Aug 18 00:03:21 CST 2024
+添加minion998 https://edge-hls.doppiocdn.live/hls/131654942/master/131654942_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除m0m099 https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.aA0cmt6tCgX3X5lIP0KBjruxpf4j5o_qlOLnALHQUh9XS_82Bc36Asvg59uj1AJAF_8NWy6wKWgaTMUa83ILiw
+删除wltn9818 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.elP2kz8DfcdH.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VsUDJrejhEZmNkSCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RjhCNkU3OS1FRTNFLTQ1RDAtODQ4MC1EMDdBNTE1QjcxMEIiLCJ2aWV3ZXItaWQiOiIxMjExNzU3NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5MDQ0NDYsImV4cCI6MTcyMzkwNTA0Nn0.e6qrG8-tayKSyFik2oUl5LpLh5MU8us_3sRvhrnta5n7ZIUyZoOZUhPlE7evqDL8ym0gJ29CTQ7Kt8DSeLJUrKo-V5EVOe965Yough4ZBhWmUpVS-nsUZky0Ge2BuoEg
+删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
