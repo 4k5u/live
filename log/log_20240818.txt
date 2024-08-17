@@ -137,3 +137,14 @@ Sun Aug 18 03:03:32 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sun Aug 18 03:19:40 CST 2024
+Sun Aug 18 03:19:44 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0lz8-uyEME53uRlx_xjO7KWk1UtPOwuNc3pi9NoAsr1jjKgsEUrOD6OfM0-t-69KU7DQURfsGYvnWvSeiKUXdQ
+Sun Aug 18 03:21:35 CST 2024
+Sun Aug 18 03:21:48 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
+添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+删除ee5844 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sqZhpatfnW7L.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NxWmhwYXRmblc3TCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQTI2NkE4NC1GQzAzLTRCQUMtOEIxOC01NEE0Mzg2MDdGNDgiLCJ2aWV3ZXItaWQiOiIyNTEyMzAzOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5MDc4NjEsImV4cCI6MTcyMzkwODQ2MX0.TV6jbSHcDRHbqWgFAlDfULKzAgSEKHPSVNvxvkXr0NSAlVmZNgvIhoqKskFYXAIP3gqdGrlbiTm-mRcW_4EBS4ELd0btDLQhWH0Wndrpvf7yFPBkh5Q65q5_ZTcQlV0X
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
