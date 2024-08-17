@@ -1,5 +1,4 @@
 dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NEE5MkI5MC1COTRFLTQ3NTktOTY2Ny05RDY1OUVFQThCMTciLCJ2aWV3ZXItaWQiOiIxOTIyMjg1NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM4MTMyNzIsImV4cCI6MTcyMzgxMzg3Mn0.t99bg06L1fbQjltD6bU7axTf8oyaHqHoJ7pgtn285YmiByq5nbnfZYcvbkl-6XORrkeU5bgK7R8qGbUzgA_ENdJbzClkJ1d2wTv9vs35Sj8FUGB2jbHWDBOIXjHpX1K-
-Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 rmrm1313 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.kehc5nb0j5tY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tlaGM1bmIwajV0WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMTVERjcxQS1DOUI1LTQxNkYtQUZCRS1CRTU4MEMwRTg0RkMiLCJ2aWV3ZXItaWQiOiI3NTYyNDc5Iiwidmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTcyMzg5ODM0NCwiZXhwIjoxNzIzODk4OTQ0fQ.I7fnK69cwko6rIcjBdLly-yZ2BNkrvm5HTV0Vs458W7ZF28kgG4GzCN88IVIiPHthIRyWa02grz0fWNuHWhbn4S-qZ9_RZE1h7S6QzdkCqsTn5yVOHa55-Dvt2oaRvi8
 sol3712 https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KW_Gq8GBxgrytai8GFeehYyg65U73LxyeUgeZviXzzueXvKRoEb1EkVQy-LRYRwVKG6t4Ysr-nEaxuDTPWgiPg
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
@@ -45,3 +44,6 @@ gina_gracia https://edge9-aus.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-7e2c2
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+_PunPun18 https://edge-hls.doppiocdn.live/hls/149392038/master/149392038_auto.m3u8
