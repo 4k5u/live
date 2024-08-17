@@ -1,10 +1,8 @@
 dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NEE5MkI5MC1COTRFLTQ3NTktOTY2Ny05RDY1OUVFQThCMTciLCJ2aWV3ZXItaWQiOiIxOTIyMjg1NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM4MTMyNzIsImV4cCI6MTcyMzgxMzg3Mn0.t99bg06L1fbQjltD6bU7axTf8oyaHqHoJ7pgtn285YmiByq5nbnfZYcvbkl-6XORrkeU5bgK7R8qGbUzgA_ENdJbzClkJ1d2wTv9vs35Sj8FUGB2jbHWDBOIXjHpX1K-
-smmms2002 https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.DHJXzgaztBuN52XLMl-RaYwg1xXUhmqpx3QThf61yVhEnBhgRrBhOx4izrOEbHIbp3JYZkpmJyae_aJ6NuKIug
 Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 rmrm1313 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.kehc5nb0j5tY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tlaGM1bmIwajV0WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMTVERjcxQS1DOUI1LTQxNkYtQUZCRS1CRTU4MEMwRTg0RkMiLCJ2aWV3ZXItaWQiOiI3NTYyNDc5Iiwidmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTcyMzg5ODM0NCwiZXhwIjoxNzIzODk4OTQ0fQ.I7fnK69cwko6rIcjBdLly-yZ2BNkrvm5HTV0Vs458W7ZF28kgG4GzCN88IVIiPHthIRyWa02grz0fWNuHWhbn4S-qZ9_RZE1h7S6QzdkCqsTn5yVOHa55-Dvt2oaRvi8
 sol3712 https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KW_Gq8GBxgrytai8GFeehYyg65U73LxyeUgeZviXzzueXvKRoEb1EkVQy-LRYRwVKG6t4Ysr-nEaxuDTPWgiPg
 glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KngrLw6q_UoqFDv3Nlz5wA4N2g_sHuCfFLMDIwRvj3ztA6s6s5KGaOSj1aEgJKSaisl8LUF9FV48xMDPvItjCg
-alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
@@ -18,7 +16,6 @@ bps1016 https://usher.ttvnw.net/api/channel/hls/bps1016.m3u8?client_id=kimne78kx
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
-wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 kiyoko_rin https://edge20-ash.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-e08eedc7e1ca71e78207b8a6de8ae4d10a3e6c6610e117f16fe22ab397d36d26_trns_h264/playlist.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
@@ -39,6 +36,8 @@ Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 sexygamesx https://edge9-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-c5745b3edaa94927eeb09ec8ba5a017730f4c6b4c217318dd51b8a6c9ac86444_trns_h264/playlist.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
