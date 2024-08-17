@@ -317,3 +317,9 @@ Sun Aug 18 07:27:33 CST 2024
 Sun Aug 18 07:27:42 CST 2024
 Sun Aug 18 07:29:32 CST 2024
 Sun Aug 18 07:29:47 CST 2024
+添加my_eyes_higher https://edge6-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d7a97be932b1d3e127c57f121e3c7f99098483b9dd8d9ef9f9dc6b9a9bab50eb_trns_h264/playlist.m3u8
+Sun Aug 18 07:39:31 CST 2024
+Sun Aug 18 07:39:37 CST 2024
+Sun Aug 18 07:41:27 CST 2024
+Sun Aug 18 07:41:42 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
