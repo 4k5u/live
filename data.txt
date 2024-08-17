@@ -29,3 +29,8 @@ kiyoko_rin https://edge20-ash.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-e08eed
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3QTBGNkI3My1CMzgzLTQyNEItQjY5RC0xMzA2QUUwQjZBNkEiLCJ2aWV3ZXItaWQiOiIyNDIzNzE5MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5MjEyODAsImV4cCI6MTcyMzkyMTg4MH0.PGNN6HXxox37Dq73wbDG2Jo05gTr56PnTmM9vSU2ZRyHvMmvKBArhmi3uaktMasSNJ908JvAGNQr7umocC30zf1z-bO3dR1U2rfyllm0lBVWsNBfeMoQlGBH6oDGXRf6
+dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.2MUvMyqyuQFW.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8yTVV2TXlxeXVRRlciLCJleHAiOjE3MjM5NjMxODA2MjMsImlhdCI6MTcyMzkxOTk4MH0.GEcqgHWze1bxl_YZ625l9FH4ikngYgdzqG5f-3246pX_NS8n13HoTWYCeERjIe3S9KP7sPS27zOHc7NQ5F285sxBYS4_cFQB17iTLHliwPmfXOwWkZwXgl5Hmzee1q1R
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
