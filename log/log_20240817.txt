@@ -676,3 +676,11 @@ Sat Aug 17 22:34:57 CST 2024
 添加dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.2MUvMyqyuQFW.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8yTVV2TXlxeXVRRlciLCJleHAiOjE3MjM5NDgzMDIyMjksImlhdCI6MTcyMzkwNTEwMn0.yJ4VZLqQhdWe4e8pd3pZTp4KULbP7A2UZRW5yAvvRppUF1O1TmIQQz9P0AWEQP3RlyhoJmZpJRVzltX-HKwNuiSiMNuCrU6I8SFcNR-hqM_aA1fZWnvlF7bO9O_uYUEj
 Sat Aug 17 22:35:14 CST 2024
 添加Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
+Sat Aug 17 22:47:06 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwOTk2QUIyQi04MDQ3LTRDQjItOUQ1Qy0yOTE2MTQzQzVBNTMiLCJ2aWV3ZXItaWQiOiIxOTU4ODgzNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5MDYwNTMsImV4cCI6MTcyMzkwNjY1M30.AWq5AcmJeyMhwvhr5-rSk0aHprGNT_hmuTtU9qLrc1DQHx0pY28XEdsSHBP9jiadtmZKsVewzChMuBfke2TkqsRFGiSIRMM54i-EMwfk0LrIFmMkruYhVHcMiDfLTY1K
+Sat Aug 17 22:47:53 CST 2024
+Sat Aug 17 22:49:40 CST 2024
+Sat Aug 17 22:49:53 CST 2024
+删除kmj87990 https://live-global-cdn-v02.afreecatv.com/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.DHJXzgaztBuN52XLMl-Rac5-frTGL09MqwZdfg7Qx_gTzkiZQARC0TNMWnSVvTa2D8ikxOAwH4C2RLRNSwfsjw
+删除cuddles_me https://edge17-chi.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-b8be9b96fab6d1a7fc842f912f69fd0c315e0c2372f8da1585c3aed208391632_trns_h264/playlist.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
