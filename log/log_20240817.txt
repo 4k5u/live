@@ -249,3 +249,11 @@ Sat Aug 17 07:42:40 CST 2024
 Sat Aug 17 07:44:31 CST 2024
 Sat Aug 17 07:44:45 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+Sat Aug 17 07:57:02 CST 2024
+Sat Aug 17 07:57:08 CST 2024
+Sat Aug 17 07:58:56 CST 2024
+Sat Aug 17 07:59:09 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除mazzanti_ https://edge10-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6df1b503f8aecbc8d339a06ac41957d10f69cdbc8b3707a98570736637454d0d_trns_h264/playlist.m3u8
