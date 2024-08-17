@@ -148,3 +148,9 @@ Sun Aug 18 03:21:48 CST 2024
 添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
 删除ee5844 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sqZhpatfnW7L.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NxWmhwYXRmblc3TCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQTI2NkE4NC1GQzAzLTRCQUMtOEIxOC01NEE0Mzg2MDdGNDgiLCJ2aWV3ZXItaWQiOiIyNTEyMzAzOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5MDc4NjEsImV4cCI6MTcyMzkwODQ2MX0.TV6jbSHcDRHbqWgFAlDfULKzAgSEKHPSVNvxvkXr0NSAlVmZNgvIhoqKskFYXAIP3gqdGrlbiTm-mRcW_4EBS4ELd0btDLQhWH0Wndrpvf7yFPBkh5Q65q5_ZTcQlV0X
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Sun Aug 18 03:29:51 CST 2024
+Sun Aug 18 03:29:55 CST 2024
+Sun Aug 18 03:31:41 CST 2024
+Sun Aug 18 03:31:54 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
