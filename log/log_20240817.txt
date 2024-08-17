@@ -443,3 +443,14 @@ Sat Aug 17 16:02:20 CST 2024
 Sat Aug 17 16:02:34 CST 2024
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除yeosi1004 https://live-global-cdn-v02.afreecatv.com/live-stm-20/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.JjcprkEX9KiO2KYAls8_6qd9WY4MdTwNdOQhjHlDGBSbZXgH5rM2XWVEz4DFPAnHE20klzd2d5BBE9UoGNzkDQ
+添加joysuniverse https://edge2-lax.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-4be9a241b5f70cd93f7d66b8257f7689061a66fd97886133ff94bc96a7a0806e_trns_h264/playlist.m3u8
+添加your_desssert https://edge1-aus.live.mmcdn.com/live-hls/amlst:your_desssert-sd-db039d1383764d215e616767f4d0f6d5bed8a5c6e66bb63b92e4562cdaaca100_trns_h264/playlist.m3u8
+Sat Aug 17 16:26:20 CST 2024
+添加yamimm https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hwBiCuRsnMsw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2h3QmlDdVJzbk1zdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNDhDNTg1Ri1DOTEzLTQ0RjMtODkyMy03ODRENjZERThFM0EiLCJ2aWV3ZXItaWQiOiIyNTI2NTI1MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM4ODMxODAsImV4cCI6MTcyMzg4Mzc4MH0.w3maNuit2Z3Rd259VRKhTgDm2lDnd3hMFc6wOiobbBTUpI2UAeAbGa-EIcnRZIP7qe7_LzNgc3Xmaw7ee7itEY_XwTyII46HaJKPVYwt71gQM7EYxKW4ntcp18xVNijs
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNzUxQTI2RS1BRENFLTRBMDYtODFBRS1EQ0I1Mzg3MTQ5NEMiLCJ2aWV3ZXItaWQiOiIyMzg4Mjc0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM4ODMxODUsImV4cCI6MTcyMzg4Mzc4NX0.omX5PpYUWXMu7_OR_OGc762Ix08XhaJYGj7W2i-SW49Sv8OeZ2iz5aW1CajnZwibjM0X4bH2kjzycmzJVy40KxNvCYoLyYo-bI-YrUj7vBCXUeG9zlG9V5SyFn9MRF4B
+Sat Aug 17 16:26:32 CST 2024
+Sat Aug 17 16:28:16 CST 2024
+Sat Aug 17 16:28:29 CST 2024
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
