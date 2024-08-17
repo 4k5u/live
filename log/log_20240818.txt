@@ -272,3 +272,9 @@ Sun Aug 18 05:51:00 CST 2024
 Sun Aug 18 05:52:51 CST 2024
 Sun Aug 18 05:53:06 CST 2024
 删除168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
+添加_meganmeow_ https://edge13-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-80380fae605bd8fea12cb58920bae465a1e55eb2a39b1104e80d2e7b34430fe7_trns_h264/playlist.m3u8
+Sun Aug 18 06:00:53 CST 2024
+Sun Aug 18 06:00:59 CST 2024
+Sun Aug 18 06:02:51 CST 2024
+Sun Aug 18 06:03:06 CST 2024
+删除Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
