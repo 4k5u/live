@@ -44,3 +44,16 @@ Sun Aug 18 01:00:14 CST 2024
 删除minion998 https://edge-hls.doppiocdn.live/hls/131654942/master/131654942_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+Sun Aug 18 01:14:13 CST 2024
+Sun Aug 18 01:14:33 CST 2024
+Sun Aug 18 01:16:13 CST 2024
+Sun Aug 18 01:16:25 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加minion998 https://edge-hls.doppiocdn.live/hls/131654942/master/131654942_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.biN_Xij1aN-1y9Ata-g3IUDy7l6Pg8_WZN9rdPuRbWYh6rQVBTn3_3Hsqqg0qufn4uMXgWT3Xz8UzqRkjkm-oQ
+删除wintersnowwin https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Lo1VOk9jVU8j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xvMVZPazlqVlU4aiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMzFCQjNERC03RDRBLTRCQkItOUQxMy0xMTc5QkYwQjQxRjYiLCJ2aWV3ZXItaWQiOiIyNDQ5NTQ3NCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5MDA2OTQsImV4cCI6MTcyMzkwMTI5NH0.p9Re1OX27hnQHTcmXUzFs4Gwkre4X64VKxfFNiUd4cEvx7B1CLnFe74pxF0XAq-eFTxey6iiqk3nO5upOltwzri9JJZy9bLbaBeePbU5KAQ1cjdD-HOV6m50LRNRdRfH
+删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除TAOZI-BAOBei https://edge-hls.doppiocdn.live/hls/164676457/master/164676457_auto.m3u8
