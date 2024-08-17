@@ -320,3 +320,8 @@ Sat Aug 17 11:20:26 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RjdCNEFGNy0xRjJGLTRGM0QtOTIwNC0wMTMyRUFDMjNBQUQiLCJ2aWV3ZXItaWQiOiIyNTAzNjk0NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM4NDU2NTIsImV4cCI6MTcyMzg0NjI1Mn0.fU66StWVpTi5gqLIZWrmohr6fwFs-CLepwxBbCJTZ6KeDy_voZA98HBJ8PbCXvP9ocXwn6J1KgwmMpWkcqHsU3LwvuY5VNH4BUob6-4sJ27PEHu0-_jViqoCnCZrpXDA
+Sat Aug 17 11:32:15 CST 2024
+Sat Aug 17 11:32:25 CST 2024
+Sat Aug 17 11:34:10 CST 2024
+Sat Aug 17 11:34:24 CST 2024
+删除Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
