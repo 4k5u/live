@@ -18,3 +18,5 @@ eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-14/auth_master_p
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMDVCQTI5MS0wRkVGLTRBNjItQkMxQy0wNDE3QUI4OTI4OTgiLCJ2aWV3ZXItaWQiOiIyNDQzMTI4MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM4NjcwNTIsImV4cCI6MTcyMzg2NzY1Mn0.DSvp4Ze-BvbiUrmdWCht0pi_YG7DA6ORqcH6QtmsPMx7ZmX-KA_8MF1LGjWZ3CAaAtgpDVHqiSQXUk4L0QxRBu7uHIxcYqWeCI_hmPmqHOONEf1zagDoIisrzFxuvBXJ
+San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
