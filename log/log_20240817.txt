@@ -385,3 +385,8 @@ Sat Aug 17 13:50:20 CST 2024
 删除intim_mate https://edge13-lax.live.mmcdn.com/live-hls/amlst:intim_mate-sd-e9f3c15b819df8882d27dc82242c2e451d64a4d20ec928dc94293c215cc18a2f_trns_h264/playlist.m3u8
 删除_marydel_ https://edge15-chi.live.mmcdn.com/live-hls/amlst:_marydel_-sd-0637f8e68fcf92a5bb02419fa4720c9bfc0d345c3c34c941befb6a4a7d4ce238_trns_h264/playlist.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sat Aug 17 13:58:25 CST 2024
+Sat Aug 17 13:58:33 CST 2024
+添加yeosi1004 https://live-global-cdn-v02.afreecatv.com/live-stm-20/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.JjcprkEX9KiO2KYAls8_6qd9WY4MdTwNdOQhjHlDGBSbZXgH5rM2XWVEz4DFPAnHE20klzd2d5BBE9UoGNzkDQ
+Sat Aug 17 14:00:30 CST 2024
+Sat Aug 17 14:00:44 CST 2024
