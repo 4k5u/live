@@ -304,3 +304,11 @@ Sun Aug 18 06:57:21 CST 2024
 Sun Aug 18 06:59:07 CST 2024
 Sun Aug 18 06:59:20 CST 2024
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Sun Aug 18 07:16:19 CST 2024
+Sun Aug 18 07:16:23 CST 2024
+Sun Aug 18 07:18:12 CST 2024
+Sun Aug 18 07:18:26 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除sexygamesx https://edge9-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-c5745b3edaa94927eeb09ec8ba5a017730f4c6b4c217318dd51b8a6c9ac86444_trns_h264/playlist.m3u8
+删除gina_gracia https://edge9-aus.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-7e2c293e08d8c6917cae175c08a87d52021502a7a2095d044d56911a9d766362_trns_h264/playlist.m3u8
+删除my_eyes_higher https://edge17-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d7a97be932b1d3e127c57f121e3c7f99098483b9dd8d9ef9f9dc6b9a9bab50eb_trns_h264/playlist.m3u8
