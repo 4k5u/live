@@ -438,3 +438,12 @@ Sun Aug 18 13:40:14 CST 2024
 删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除my_eyes_higher https://edge6-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d7a97be932b1d3e127c57f121e3c7f99098483b9dd8d9ef9f9dc6b9a9bab50eb_trns_h264/playlist.m3u8
 删除2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGRkQzRUE4Qy02NEY5LTQ4ODEtOERENC1CMTY2NTI3N0ZGNDIiLCJ2aWV3ZXItaWQiOiIyMTk4OTAwMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5NTExMTUsImV4cCI6MTcyMzk1MTcxNX0.OH1eGwuT8LmfL8uK1DTenjL7dTFVKzMKsvb0crhmOd-k4WMvPwES33zH_0cOOognq9oYG8F8XYva5ZCh9CF2SgkS4KvNWF_LA5apY7eMHUUm5Zl-1iWdC49oMwnL9Klh
+Sun Aug 18 13:48:18 CST 2024
+添加yamimm https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hwBiCuRsnMsw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2h3QmlDdVJzbk1zdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNTMwREUxQy1DNzZFLTQxQjMtQUNGMS03ODVBMjZCMDQxMDkiLCJ2aWV3ZXItaWQiOiIyNTI2NTI1MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5NjAwOTgsImV4cCI6MTcyMzk2MDY5OH0.h_dBC4oeePzlPsK2E7oSo3tb1voyjpNwyyAHLExdnrW9MSUdTIqvXtRlC6XD5GYBWKlx87Y63u7CiB1T-4C3LXY0BVaSec8Col7SRDYBjZ_hyn82_4zdL9zr5OpsjRii
+Sun Aug 18 13:48:33 CST 2024
+添加yeonyumilk https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MnUqDb0MlGwkaast7fr7sjjkG5Qkkk-SHT7D7bPyQeTM5QP-1G7-YpRUL-KQ_zxK3h9hfNtA2XMgG8kL-BqdKw
+Sun Aug 18 13:50:32 CST 2024
+Sun Aug 18 13:50:46 CST 2024
+添加Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+删除Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除gina_gracia https://edge6-lax.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-1bc25991f1d1b2ace33e0755670594e7b643a115e5b9383eac609316d534c4ce_trns_h264/playlist.m3u8
