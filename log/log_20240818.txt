@@ -375,3 +375,9 @@ Sun Aug 18 11:20:50 CST 2024
 删除_meganmeow_ https://edge13-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-80380fae605bd8fea12cb58920bae465a1e55eb2a39b1104e80d2e7b34430fe7_trns_h264/playlist.m3u8
 删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 删除amilia4u https://edge23-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-aad960c0806d29a14211d8f57543938c90efdf002e1761e0e1aefb75ee54a25c_trns_h264/playlist.m3u8
+添加amilia4u https://edge23-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-aad960c0806d29a14211d8f57543938c90efdf002e1761e0e1aefb75ee54a25c_trns_h264/playlist.m3u8
+Sun Aug 18 11:31:58 CST 2024
+Sun Aug 18 11:32:06 CST 2024
+Sun Aug 18 11:33:58 CST 2024
+Sun Aug 18 11:34:13 CST 2024
+删除minllor5 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E2SD0xJDwT0Z.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0UyU0QweEpEd1QwWiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFRTI0MDVBMy1EN0E4LTRFNUUtOTc3NS1FNDQwRTFFOUU0QkYiLCJ2aWV3ZXItaWQiOiIyNDczNTQwOCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5MzcyNTYsImV4cCI6MTcyMzkzNzg1Nn0.0LlkQeRPwayNCoLd0GeY3yhPXST5vasNZ8i6ZvPZNmU-QuQpOIEn5uYgLGYCMR_dWEZgYsHbZ2IoK324aqr_-7B5__Xq1iWyG_kYN9JzdXgFUulqjdD_Rl7CzELu_sVX
