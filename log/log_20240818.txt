@@ -404,3 +404,9 @@ Sun Aug 18 12:39:58 CST 2024
 Sun Aug 18 12:41:54 CST 2024
 Sun Aug 18 12:42:08 CST 2024
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加gina_gracia https://edge6-lax.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-1bc25991f1d1b2ace33e0755670594e7b643a115e5b9383eac609316d534c4ce_trns_h264/playlist.m3u8
+Sun Aug 18 12:50:23 CST 2024
+Sun Aug 18 12:50:31 CST 2024
+Sun Aug 18 12:52:11 CST 2024
+Sun Aug 18 12:52:23 CST 2024
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
