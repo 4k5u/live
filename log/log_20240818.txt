@@ -690,3 +690,13 @@ Sun Aug 18 21:23:40 CST 2024
 删除grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 删除galantini https://edge6-chi.live.mmcdn.com/live-hls/amlst:galantini-sd-c17e41e171dcc48914bc86400bcacb2e2c76967898a9405b72c4b5e7060e722e_trns_h264/playlist.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Sun Aug 18 21:31:57 CST 2024
+Sun Aug 18 21:32:39 CST 2024
+Sun Aug 18 21:34:19 CST 2024
+Sun Aug 18 21:34:31 CST 2024
+添加regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
+添加168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
+删除your_desssert https://edge27-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-d8379124934f4efb8a2be5b5c6fef5d9f5c44c855549d17e4dc015a71954bd07_trns_h264/playlist.m3u8
