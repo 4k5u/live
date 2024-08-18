@@ -533,3 +533,10 @@ Sun Aug 18 16:51:14 CST 2024
 添加Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
 删除amilia4u https://edge23-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-aad960c0806d29a14211d8f57543938c90efdf002e1761e0e1aefb75ee54a25c_trns_h264/playlist.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Sun Aug 18 16:59:04 CST 2024
+Sun Aug 18 16:59:12 CST 2024
+Sun Aug 18 17:01:00 CST 2024
+Sun Aug 18 17:01:14 CST 2024
+删除MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
