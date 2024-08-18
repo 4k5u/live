@@ -215,3 +215,9 @@ Mon Aug 19 05:50:48 CST 2024
 Mon Aug 19 05:52:30 CST 2024
 Mon Aug 19 05:52:42 CST 2024
 删除TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
+Mon Aug 19 06:01:46 CST 2024
+Mon Aug 19 06:01:48 CST 2024
+Mon Aug 19 06:03:28 CST 2024
+Mon Aug 19 06:03:40 CST 2024
+添加TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
+删除big541 https://live-global-cdn-v02.afreecatv.com/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zXLJDZl6pXcGPwzzRiad6uzhSEX36ImH7ihBaSrAiE3rGy_TYA04d-IffvzmMTi5YAmXhZqEo4FDiPidBz9zhg
