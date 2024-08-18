@@ -559,3 +559,8 @@ Sun Aug 18 17:39:55 CST 2024
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+Sun Aug 18 17:47:52 CST 2024
+Sun Aug 18 17:48:00 CST 2024
+Sun Aug 18 17:49:50 CST 2024
+Sun Aug 18 17:50:04 CST 2024
+添加peichen6699 https://edge-hls.doppiocdn.live/hls/160752369/master/160752369_auto.m3u8
