@@ -381,3 +381,8 @@ Sun Aug 18 11:32:06 CST 2024
 Sun Aug 18 11:33:58 CST 2024
 Sun Aug 18 11:34:13 CST 2024
 删除minllor5 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E2SD0xJDwT0Z.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0UyU0QweEpEd1QwWiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFRTI0MDVBMy1EN0E4LTRFNUUtOTc3NS1FNDQwRTFFOUU0QkYiLCJ2aWV3ZXItaWQiOiIyNDczNTQwOCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5MzcyNTYsImV4cCI6MTcyMzkzNzg1Nn0.0LlkQeRPwayNCoLd0GeY3yhPXST5vasNZ8i6ZvPZNmU-QuQpOIEn5uYgLGYCMR_dWEZgYsHbZ2IoK324aqr_-7B5__Xq1iWyG_kYN9JzdXgFUulqjdD_Rl7CzELu_sVX
+Sun Aug 18 11:46:55 CST 2024
+Sun Aug 18 11:47:04 CST 2024
+Sun Aug 18 11:48:54 CST 2024
+Sun Aug 18 11:49:08 CST 2024
+删除eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.uST3PYISiTBwVafjgvV3rSsJ7Vnkt241x-n7OJ_PY5ehilWC_nJ7YS7S7Nuq3paCHxgzA_G4erdBl3CLlEByPg
