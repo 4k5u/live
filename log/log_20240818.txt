@@ -357,3 +357,10 @@ Sun Aug 18 10:34:53 CST 2024
 删除kiyoko_rin https://edge20-ash.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-e08eedc7e1ca71e78207b8a6de8ae4d10a3e6c6610e117f16fe22ab397d36d26_trns_h264/playlist.m3u8
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加amilia4u https://edge23-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-aad960c0806d29a14211d8f57543938c90efdf002e1761e0e1aefb75ee54a25c_trns_h264/playlist.m3u8
+Sun Aug 18 10:53:57 CST 2024
+Sun Aug 18 10:54:07 CST 2024
+Sun Aug 18 10:55:58 CST 2024
+Sun Aug 18 10:56:13 CST 2024
+添加ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ddooyaa%22%2C%22channel_id%22%3A442709328%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1723950975%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.228.78%22%2C%22version%22%3A2%7D&sig=002ce543a44a4e8b8c23c7dc2dd72367d0878c1b&allow_source=true&allow_audio_only=true
+删除Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
