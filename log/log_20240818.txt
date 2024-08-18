@@ -513,3 +513,12 @@ Sun Aug 18 16:26:47 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Sun Aug 18 16:38:34 CST 2024
+Sun Aug 18 16:38:42 CST 2024
+Sun Aug 18 16:40:32 CST 2024
+Sun Aug 18 16:40:47 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除your_desssert https://edge13-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-bda2bbbcdda5521d5e0f508851cb964ede6091abd95b2c3fef563a1b860913aa_trns_h264/playlist.m3u8
+删除acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNDJFNTgyNS1CRDYzLTRFREQtOEFEMi0yQjJEQUJBMTNEMUMiLCJ2aWV3ZXItaWQiOiIxNjI0MjUzOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5NTg1ODgsImV4cCI6MTcyMzk1OTE4OH0.9vNQfKgWun1NdFfH4W7I_WcSxdbVUP6JhxmwWcHjvgkuPGcEjVrqReDCVdLMiY54h-OO8kBAPaUMIdvJMEcCbhMcF3Gyp0AjVdbX4HY5UBsLdpbRmd8aFRLlc4c4r5jA
