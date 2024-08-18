@@ -580,3 +580,8 @@ Sun Aug 18 18:22:08 CST 2024
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除your_desssert https://edge9-lax.live.mmcdn.com/live-hls/amlst:your_desssert-sd-bda2bbbcdda5521d5e0f508851cb964ede6091abd95b2c3fef563a1b860913aa_trns_h264/playlist.m3u8
+Sun Aug 18 18:34:29 CST 2024
+Sun Aug 18 18:34:43 CST 2024
+Sun Aug 18 18:36:34 CST 2024
+Sun Aug 18 18:36:48 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
