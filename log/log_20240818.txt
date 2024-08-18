@@ -738,3 +738,9 @@ Sun Aug 18 22:34:14 CST 2024
 Sun Aug 18 22:36:07 CST 2024
 Sun Aug 18 22:36:21 CST 2024
 删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+Sun Aug 18 22:47:11 CST 2024
+Sun Aug 18 22:47:55 CST 2024
+Sun Aug 18 22:49:44 CST 2024
+Sun Aug 18 22:49:58 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
