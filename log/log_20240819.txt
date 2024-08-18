@@ -273,3 +273,10 @@ Mon Aug 19 07:00:21 CST 2024
 Mon Aug 19 07:00:34 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除gina_gracia https://edge10-lax.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-6c3f34676dab10faf6f3b55e5e9ea54e7ced2a80e8194562e0f59af494aa8c52_trns_h264/playlist.m3u8
+Mon Aug 19 07:21:51 CST 2024
+Mon Aug 19 07:21:54 CST 2024
+Mon Aug 19 07:23:46 CST 2024
+Mon Aug 19 07:24:00 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
