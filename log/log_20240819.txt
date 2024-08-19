@@ -476,3 +476,13 @@ Mon Aug 19 16:02:35 CST 2024
 添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 删除getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQUUwNUM3Mi1GNUFCLTQwQjktOUQ2NC01NkE5NEM2NkE5OTgiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQwMzU3MjgsImV4cCI6MTcyNDAzNjMyOH0.6Flzs8AfY29_zvQMHJ26CW4u6WWqOY-4yiARMDXTX8Yg1rZqVd6nj7ZM4_B5eN7sPaz6A42VCdVVEHLf_W2_49NCxpvfZMcAkwMYq6APh41sIQOILRpcBBcorfcSqFvj
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Mon Aug 19 16:28:38 CST 2024
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3OUMzODgwRS04RDMyLTRBMEEtQUMzOS02NUEwMDU4ODQ2MzIiLCJ2aWV3ZXItaWQiOiIyMzg4Mjc0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQwNTYxMjAsImV4cCI6MTcyNDA1NjcyMH0.x8isogWcd77D4zxCCDfBMNyNRNnTB2B4kM95I4SpowCx__74eFT4i2oammFkz8vz_LdGkVn6f1lZ8PRd4sWU4p1beRMYTCcDrgcRBhqNu81spw8mkwsGhM24d2kC3N7a
+Mon Aug 19 16:28:48 CST 2024
+添加y1026 https://live-global-cdn-v02.afreecatv.com/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Lq5lrYIW32wWjZx1QOXgdT4t_t0GkKCmodaPU1ON_VTumSetVyiXGknmbrotJyeSzSJrt3fhzJ2VM8nvwwFlug
+Mon Aug 19 16:30:46 CST 2024
+Mon Aug 19 16:31:00 CST 2024
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除oda_assuri https://edge10-chi.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-0bee1074190d6eee031876d2a9c7eefe563c198bc6fae9fc8719e35c821d4d3e_trns_h264/playlist.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
