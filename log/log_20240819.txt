@@ -352,3 +352,7 @@ Mon Aug 19 11:25:17 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除sexygamesx https://edge13-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-3434c7298e3f220dec8dff10bab9271781ebb2b57c7c41590b4b96ad8c24bf6c_trns_h264/playlist.m3u8
+Mon Aug 19 11:39:10 CST 2024
+Mon Aug 19 11:39:12 CST 2024
+Mon Aug 19 11:40:55 CST 2024
+Mon Aug 19 11:41:08 CST 2024
