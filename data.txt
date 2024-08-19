@@ -35,3 +35,5 @@ Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.
 kiyoko_rin https://edge6-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-27ee90cd828da0f5d8baee96a9685fc554d3f5570290eb820ff63125e41e3569_trns_h264/playlist.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
