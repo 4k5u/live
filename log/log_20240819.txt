@@ -431,3 +431,8 @@ Mon Aug 19 14:32:48 CST 2024
 添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 删除Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Mon Aug 19 14:45:31 CST 2024
+Mon Aug 19 14:45:39 CST 2024
+Mon Aug 19 14:47:28 CST 2024
+Mon Aug 19 14:47:42 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
