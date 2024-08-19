@@ -74,3 +74,14 @@ Tue Aug 20 01:59:57 CST 2024
 Tue Aug 20 02:00:09 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+Tue Aug 20 02:23:09 CST 2024
+Tue Aug 20 02:23:21 CST 2024
+Tue Aug 20 02:25:12 CST 2024
+Tue Aug 20 02:25:26 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除smmms2002 https://live-global-cdn-v02.afreecatv.com/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IJPVlpkKVHlfpfHGO1EXh16-g_0hrWofiqvDQfeaLaamCvO38a60PpO23Ee66e5nIZr0JVUQyPT9NcVP-G3JsA
+删除thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.d4skZmXRChaD.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2Q0c2tabVhSQ2hhRCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMDZEN0I2OS01NjU2LTQ5OUItOTQ1RC1CNUFCRUNCNzc5MUYiLCJ2aWV3ZXItaWQiOiIyNDU2Mzc4MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQwNzEzODUsImV4cCI6MTcyNDA3MTk4NX0.AFFZYoO07VWfU4nTVxxYFJDt1NU-SDpwN44pPggmoKPl-cChdZO0MqgFJvzePey2GtHX4nXfWi2nG7A0bk1VBjmUAl7W5_0tcWY66uipZjmAeZJJOMOqNQZdaOSXLCqd
+删除wintersnowwin https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Lo1VOk9jVU8j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xvMVZPazlqVlU4aiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMDZENjE3MC02NzAxLTQ1QkYtOEFDQi1FODlCOTEzNkQ1MUEiLCJ2aWV3ZXItaWQiOiIyNDQ5NTQ3NCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQwNzI3MDYsImV4cCI6MTcyNDA3MzMwNn0.4HAkSmvMkJcLiUTeW3HfMXGuE4uNYYDJIjeZbqYUg2Kbe3yGT-zj63qBNWKtiO0OOHzLGlh8csTBUPK4EctAt04ax9vJ4brCK25KxjTAw2tLNT9vd23S4GU-j425k4K7
+删除Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
