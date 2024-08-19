@@ -524,3 +524,11 @@ Mon Aug 19 17:47:08 CST 2024
 Mon Aug 19 17:47:22 CST 2024
 Mon Aug 19 17:49:09 CST 2024
 Mon Aug 19 17:49:22 CST 2024
+Mon Aug 19 17:58:21 CST 2024
+Mon Aug 19 17:58:35 CST 2024
+Mon Aug 19 18:00:20 CST 2024
+添加aesoon96 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.4NaAcTktGqxD.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC80TmFBY1RrdEdxeEQiLCJleHAiOjE3MjQxMDQ3ODY2MzUsImlhdCI6MTcyNDA2MTU4Nn0.SJEj7pairkDy4RIRfaNQACPs8UrXkozdkMRX3p242WyhSjARjN4ilXBdTi3tDYboR6LmjziwX4P5hFUfjdn7VnJkuLoJQupdulsQeyaSPTb-5vhizJ88-_MMio46pjgn
+Mon Aug 19 18:00:35 CST 2024
+删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
