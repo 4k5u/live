@@ -592,3 +592,9 @@ Mon Aug 19 19:50:20 CST 2024
 添加smmms2002 https://live-global-cdn-v02.afreecatv.com/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IJPVlpkKVHlfpfHGO1EXh16-g_0hrWofiqvDQfeaLaamCvO38a60PpO23Ee66e5nIZr0JVUQyPT9NcVP-G3JsA
 Mon Aug 19 19:52:16 CST 2024
 Mon Aug 19 19:52:29 CST 2024
+Mon Aug 19 20:00:11 CST 2024
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3OERCRkQyOS1CNjMzLTQ2QTUtQTlDRS03Njc2MEREQUU3MUEiLCJ2aWV3ZXItaWQiOiIyMjg0MDkyNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQwNjg4NDAsImV4cCI6MTcyNDA2OTQ0MH0.U9NgHTs22C1bjWX39bZP6vLIKmiIa-WSTTyIm0cBGgsJFEKl30BkJzAfiwsfc59ceiVI4-q2h4YbDDHR1S9tncjlyDcIKs20yEba_z4hspeNlM_ucEu8gZn2H3XryRqO
+Mon Aug 19 20:00:44 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-14/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.CEFvuIid38yFQVRXx_xHBURMfmSMX4NCSPGT6owoflgjtqv_cC3UOozafdI03nIvwaSgtdgj-7MnOqZkYmcaWA
+Mon Aug 19 20:03:01 CST 2024
+Mon Aug 19 20:03:15 CST 2024
