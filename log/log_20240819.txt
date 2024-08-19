@@ -553,3 +553,12 @@ Mon Aug 19 18:49:50 CST 2024
 Mon Aug 19 18:50:08 CST 2024
 Mon Aug 19 18:51:55 CST 2024
 Mon Aug 19 18:52:09 CST 2024
+Mon Aug 19 19:00:27 CST 2024
+添加eerttyui12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wwOh3R6TnzpH.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3d3T2gzUjZUbnpwSCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0QkYxQzRBNi00NTQ1LTQ4M0EtOEU5Ri1EMjU5QUYxMDFENEYiLCJ2aWV3ZXItaWQiOiIxNDcwMTQzOCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQwNjUyMjcsImV4cCI6MTcyNDA2NTgyN30.QwXp93idG4lnw-OvinLg4UpS0l2r8ZwqX-rpj_OPhRakpknovoTB0ukOxfcbMHd2VO6MTtvW9Rv_rN5w064iiSg9w_riVGX69htC6_P0aKK6O6Ua69gmD1FWevtE5zaA
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1QUIyRDcwNC1GQjRCLTRFMDYtOURCRi00Q0Y0NzZFMUEzOUQiLCJ2aWV3ZXItaWQiOiIyMjU5NDUzMSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQwNjUyNTEsImV4cCI6MTcyNDA2NTg1MX0.JGxJh2BL8s75ZJ9rJSXmMvIKOfm-PtPScOSLC3mfw0jlwfZ-NmUnhFJb3Q-UuuecJSpSOC9-1xd2rPLxgbgLjzkLDLIaxVxXlqBFto8LjuQ_y0DsiBb1b16kfpFVsET3
+Mon Aug 19 19:00:55 CST 2024
+Mon Aug 19 19:02:36 CST 2024
+Mon Aug 19 19:02:48 CST 2024
+添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
