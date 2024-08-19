@@ -11,3 +11,5 @@ kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_p
 _PunPun18 https://edge-hls.doppiocdn.live/hls/149392038/master/149392038_auto.m3u8
 168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+my_eyes_higher https://edge5-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8a920fad39fc94d71f33120b10dc98d81422937e4c2524ccbd349dd2e577ca3f_trns_h264/playlist.m3u8
+Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8

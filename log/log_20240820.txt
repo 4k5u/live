@@ -248,3 +248,9 @@ Tue Aug 20 06:36:13 CST 2024
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加my_eyes_higher https://edge5-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8a920fad39fc94d71f33120b10dc98d81422937e4c2524ccbd349dd2e577ca3f_trns_h264/playlist.m3u8
+Tue Aug 20 06:47:10 CST 2024
+Tue Aug 20 06:47:10 CST 2024
+Tue Aug 20 06:49:02 CST 2024
+Tue Aug 20 06:49:16 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
