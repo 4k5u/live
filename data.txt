@@ -31,3 +31,5 @@ Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 ad0res https://edge9-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-f50bc4f17304b7cac1b56169720bb094fdcfb3c23dcebde208acde3cd2dc11ff_trns_h264/playlist.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
