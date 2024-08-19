@@ -468,3 +468,11 @@ Mon Aug 19 15:50:31 CST 2024
 Mon Aug 19 15:50:39 CST 2024
 Mon Aug 19 15:52:19 CST 2024
 Mon Aug 19 15:52:31 CST 2024
+添加joysuniverse https://edge16-chi.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-7ef2dd9279dd7f1b2d32e4b4a61c138d59dfa5943681af5b789ff0d9197f0662_trns_h264/playlist.m3u8
+Mon Aug 19 16:00:27 CST 2024
+Mon Aug 19 16:00:33 CST 2024
+Mon Aug 19 16:02:21 CST 2024
+Mon Aug 19 16:02:35 CST 2024
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+删除getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQUUwNUM3Mi1GNUFCLTQwQjktOUQ2NC01NkE5NEM2NkE5OTgiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQwMzU3MjgsImV4cCI6MTcyNDAzNjMyOH0.6Flzs8AfY29_zvQMHJ26CW4u6WWqOY-4yiARMDXTX8Yg1rZqVd6nj7ZM4_B5eN7sPaz6A42VCdVVEHLf_W2_49NCxpvfZMcAkwMYq6APh41sIQOILRpcBBcorfcSqFvj
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
