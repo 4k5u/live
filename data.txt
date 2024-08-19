@@ -6,7 +6,6 @@ TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 intim_mate https://edge3-aus.live.mmcdn.com/live-hls/amlst:intim_mate-sd-88bb412ef8429b8d8fc643a6b3960f362d24cd60b97314e4b9b7647ea8ef3bd5_trns_h264/playlist.m3u8
 asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
-Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 gina_gracia https://edge23-ash.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-0c33b551aaf88a35455c6e2c35351f933ecd6eaf4db0c6d619670e4d437252ae_trns_h264/playlist.m3u8
 oda_assuri https://edge10-chi.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-0bee1074190d6eee031876d2a9c7eefe563c198bc6fae9fc8719e35c821d4d3e_trns_h264/playlist.m3u8
 sexygamesx https://edge13-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-3434c7298e3f220dec8dff10bab9271781ebb2b57c7c41590b4b96ad8c24bf6c_trns_h264/playlist.m3u8
@@ -21,3 +20,4 @@ getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
