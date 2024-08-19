@@ -416,3 +416,9 @@ Mon Aug 19 13:50:52 CST 2024
 Mon Aug 19 13:51:05 CST 2024
 删除gina_gracia https://edge23-ash.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-0c33b551aaf88a35455c6e2c35351f933ecd6eaf4db0c6d619670e4d437252ae_trns_h264/playlist.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加foxylovesyou https://edge21-ash.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-2004ece0100037cab3d32f0bf6bc978cbb525d3a2e97ec08f1308973d9c54696_trns_h264/playlist.m3u8
+Mon Aug 19 13:59:11 CST 2024
+Mon Aug 19 13:59:17 CST 2024
+Mon Aug 19 14:01:06 CST 2024
+Mon Aug 19 14:01:21 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
