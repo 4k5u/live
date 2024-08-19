@@ -422,3 +422,12 @@ Mon Aug 19 13:59:17 CST 2024
 Mon Aug 19 14:01:06 CST 2024
 Mon Aug 19 14:01:21 CST 2024
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加ake_mi https://edge1-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-cc170e412a80fab6fed3a1eb7daeed68c6b0a21e9a7f8b911c8d1bdcd7ff8d6e_trns_h264/playlist.m3u8
+Mon Aug 19 14:30:38 CST 2024
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwNzBERTQ2Ni0zNzVDLTRFMTMtODEyOC1FMzZFM0UyNzM4Q0IiLCJ2aWV3ZXItaWQiOiIyMjY3ODI5MCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQwNDkwNDMsImV4cCI6MTcyNDA0OTY0M30.gJNW9ixJ4ThO2CbEmmMK9aNCFW9vuf_Al6S4WqwicPLTKRRDvtZ7dzjDWPwbbiWOyLIZ12NGDxKuAym3WbdHdzn5MFZJIjDwHHwrxUPKlmtCjOxCeEuFzppCe_9pK1Dl
+Mon Aug 19 14:30:48 CST 2024
+Mon Aug 19 14:32:35 CST 2024
+Mon Aug 19 14:32:48 CST 2024
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+删除Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
