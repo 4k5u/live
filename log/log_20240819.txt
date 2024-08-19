@@ -297,3 +297,18 @@ Mon Aug 19 07:58:49 CST 2024
 Mon Aug 19 07:59:02 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+添加gina_gracia https://edge23-ash.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-0c33b551aaf88a35455c6e2c35351f933ecd6eaf4db0c6d619670e4d437252ae_trns_h264/playlist.m3u8
+添加oda_assuri https://edge10-chi.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-0bee1074190d6eee031876d2a9c7eefe563c198bc6fae9fc8719e35c821d4d3e_trns_h264/playlist.m3u8
+添加sexygamesx https://edge13-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-3434c7298e3f220dec8dff10bab9271781ebb2b57c7c41590b4b96ad8c24bf6c_trns_h264/playlist.m3u8
+Mon Aug 19 09:13:50 CST 2024
+Mon Aug 19 09:13:52 CST 2024
+Mon Aug 19 09:15:42 CST 2024
+Mon Aug 19 09:15:55 CST 2024
+添加LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.lMdea9a3QN4L.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2xNZGVhOWEzUU40TCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNUNFRDhFMy1ENTdFLTQ5NTYtQUZGRC04NkUyRjM1NThFMTciLCJ2aWV3ZXItaWQiOiIyNDc5Mjg3OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5ODA0NDQsImV4cCI6MTcyMzk4MTA0NH0.FWzvUHqrKV7ik2lbQj8AfbPJemnmNlR1PHuzn6RHTsvo5C7t0rAy23dP8TV5C7RB4pVDX_DfXE04sWdLLMDJkRFHnQjIBF1btCWMh56gbeTnYZ_53XnzzXQXbHnf9Df4
+删除gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.B-D1M5frZYaVOEButu87lH1Y8lYeaPOgHlAB__5oUvuac1vi174MNxOdrV07yDjD9Zx2Dv4t8KxeP8ol19-Raw
+删除TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
