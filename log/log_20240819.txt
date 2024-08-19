@@ -581,3 +581,9 @@ Mon Aug 19 19:32:20 CST 2024
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 添加Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
 删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+Mon Aug 19 19:39:49 CST 2024
+Mon Aug 19 19:40:17 CST 2024
+Mon Aug 19 19:42:08 CST 2024
+添加dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.2MUvMyqyuQFW.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8yTVV2TXlxeXVRRlciLCJleHAiOjE3MjQxMTA2NDI5MTMsImlhdCI6MTcyNDA2NzQ0Mn0.hWbIaioQQ2Rw8xq_mHPK52aZMzXL5WdB-KLHqo1wQXqJ8UrTGCMZvolkQVGZ3ICRHx2u7mWvHPXrcZ6-Ol9l_53OYjYJ-neAdpWwKlxByMOHbqpi4AleFdht_bUOlHQG
+Mon Aug 19 19:42:24 CST 2024
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
