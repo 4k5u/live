@@ -312,3 +312,18 @@ Mon Aug 19 09:15:55 CST 2024
 删除TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加joysuniverse https://edge16-lax.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-1b614ec8af76161b974f2108711e392fc46b208120f42275bf5b679809ae7744_trns_h264/playlist.m3u8
+Mon Aug 19 10:17:06 CST 2024
+Mon Aug 19 10:17:08 CST 2024
+Mon Aug 19 10:18:49 CST 2024
+Mon Aug 19 10:19:01 CST 2024
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除kiyoko_rin https://edge1-lax.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-15870edf537c775547aa6b623e0bbb4151375d29f1ef63ed1f24fa45a9feb245_trns_h264/playlist.m3u8
+删除mazzanti_ https://edge3-slc.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-44dd5894c599b1f6aa246091a878f1a1dee988bc59d557c14d69cb8077e35cf2_trns_h264/playlist.m3u8
+删除Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
