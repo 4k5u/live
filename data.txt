@@ -7,7 +7,6 @@ dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/
 ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0OTFBNTM2My05NUM4LTQ2OUQtOEY5Mi04QTc3RkZBQTIxQjEiLCJ2aWV3ZXItaWQiOiIyMjQ3Mjk0OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQwNzE0MDgsImV4cCI6MTcyNDA3MjAwOH0.Y2f6wweUrMXm2SOMmaEG8pH8fX9j8H4TwSsnRmyTWAtAAz7UaFKrrDRMkDFZjaOzc6G4MAXSW7AQ1kz_hx94wX_EK_WuhnMgIQdF4d-u0uu7I1fbmojvc9SorpJBhKvK
 wltn9818 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.elP2kz8DfcdH.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VsUDJrejhEZmNkSCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQTBDRjE2Ri1BNThELTQ3RkQtQTI0My0zNjcyMUQ5NUM2OUYiLCJ2aWV3ZXItaWQiOiIxMjExNzU3NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQwNzQxNDYsImV4cCI6MTcyNDA3NDc0Nn0.-5ZcA7hLBAgIE4EC14gHPiEQJ81rKGPje1WaGODYQo5mtHSI4Bq8u9TGxlVswSGuJvdOPOLNXl65MsMN-_OHaQR0qO4B4ML_0GddEz1s8_1QaiE7_Yt319YcTkDqgk6c
 jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNUI5RTExNS03N0IwLTQzNjItOENGOC1BQjEzMkY0RUI1OTkiLCJ2aWV3ZXItaWQiOiIyMjg1NzUzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQwNzYwMjAsImV4cCI6MTcyNDA3NjYyMH0.UTk9EWHL7-f4RYZvA47F2WD4R1XeYag5KvQVl9LoCPl3g1GrXdxnhI4oCxAntuMnUiuUo6K5DzNdW5nWhd8gYxipgyARAtrIuxFHfezBhuLVdfRD1MEojjfWbyJT2mR_
-alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
@@ -35,6 +34,8 @@ kiyoko_rin https://edge6-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-27ee90c
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
