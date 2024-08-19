@@ -24,3 +24,5 @@ dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video
 y1026 https://live-global-cdn-v02.afreecatv.com/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Lq5lrYIW32wWjZx1QOXgdT4t_t0GkKCmodaPU1ON_VTumSetVyiXGknmbrotJyeSzSJrt3fhzJ2VM8nvwwFlug
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+h920823 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wbo_QFXK3wKp6EST-XRdcfMoy9Rlj5tOgTwLu4kOVUOrToxlTn03wqHxFJv1jJEn48xV0gpOrmZnNhOHS2bJfw
+TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
