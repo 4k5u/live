@@ -132,3 +132,11 @@ Wed Aug 21 03:30:39 CST 2024
 Wed Aug 21 03:30:54 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+Wed Aug 21 03:39:39 CST 2024
+Wed Aug 21 03:39:45 CST 2024
+Wed Aug 21 03:41:39 CST 2024
+Wed Aug 21 03:41:54 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJERDJFNkIzQy1GNDcyLTQ4MDUtQTQ4QS04QjVDQkFENzY0MkYiLCJ2aWV3ZXItaWQiOiIyNDIzNzE5MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQxNTkyOTMsImV4cCI6MTcyNDE1OTg5M30.agWsZGzV-REO5Nwt15W2HAcfMmRAnLN_iMNSi-n-CujfR3SaMTdBg4pYpLtMy8nmvp3tS7fFY6xFkWflS-I4EdsAZoTAmD7_cyUEL68BZ-knGHQ04E154EROMGxaMcCG
+删除Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
