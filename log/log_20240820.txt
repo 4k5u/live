@@ -550,3 +550,8 @@ Tue Aug 20 19:30:24 CST 2024
 Tue Aug 20 19:30:38 CST 2024
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+Tue Aug 20 19:39:55 CST 2024
+Tue Aug 20 19:40:31 CST 2024
+Tue Aug 20 19:42:15 CST 2024
+Tue Aug 20 19:42:28 CST 2024
+删除dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQzBDNjIwMS02NzBDLTRGQkItQkMzNS1DMTUxNkUzRDkwNDEiLCJ2aWV3ZXItaWQiOiIxOTIyMjg1NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5ODExMzEsImV4cCI6MTcyMzk4MTczMX0.7UiI7e8wA-xfNmftNAZFTHi1BzXRVFFJ6FKm-lxAE75c-YkcSOD2VlD7liJnXHa7Bt933U7nLm4ayOwC8ePf-Q4npqig19JHYMDHoIsSGCBoZ5GaQJp1865yh9lGO_53
