@@ -41,3 +41,4 @@ alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m
 NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
 Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
 Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
+kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
