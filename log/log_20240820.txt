@@ -354,3 +354,8 @@ Tue Aug 20 12:44:53 CST 2024
 Tue Aug 20 12:44:57 CST 2024
 Tue Aug 20 12:46:48 CST 2024
 Tue Aug 20 12:47:02 CST 2024
+添加mode_bad https://edge1-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-ae243af585414d9951e185fbfb24ad595fce70fcf2f477404f2b4e3266f9900b_trns_h264/playlist.m3u8
+Tue Aug 20 12:57:00 CST 2024
+Tue Aug 20 12:57:04 CST 2024
+Tue Aug 20 12:58:54 CST 2024
+Tue Aug 20 12:59:08 CST 2024
