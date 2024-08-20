@@ -16,7 +16,6 @@ leeaeae123 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3pZnsx6Jcwvl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNwWm5zeDZKY3d2bCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQTYzNjFGRC0yMzMxLTRERkMtOUU1Ni02Nzg5QUJFOTJCQzAiLCJ2aWV3ZXItaWQiOiIyMTA1ODEzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQxNjIzOTIsImV4cCI6MTcyNDE2Mjk5Mn0.EFmYVlJpL0qjoKfcl85lm4AGYSy_fe5acyfdJIE1i2D3zhFzUE-ZM8uqMYCb-t0wwC8p6IDxntkxul3m-YfiEWZcuAf8_B4jXrdasWldvywrNmznXfzObsCqTLcOna4C
 jeehyeoun https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.e0niqxUEKUnmnBnwSbX8pP3jw21M06GL9SxG3-sPxZGhdelpiFoBPFe2rPJXDf9FVr2PhZT54_RRduH6cqBOXg
 glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.M5Xg8KTpAlY-Xd5B_pNxxniZhiy8gQ4H4K7X48hNp3wzPWD_KyxUq8CmTFMsN-9D2RyZMvn_JUPeyz7DcsWhQA
-starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNkI0NDQ2MS02REY0LTQ4MzgtOEEzNy1CNDY2MDU3NDE5RTQiLCJ2aWV3ZXItaWQiOiIxOTU4ODgzNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQxNjU4OTUsImV4cCI6MTcyNDE2NjQ5NX0.xS1hCHlEZyV_tVnuT0ZyzGgDVjCENx_PVMFFk9fAlqEcBTDGzvPRM7m_8Kpz7jZJpTzgA48-VfBREJUL6rM9OA5b4b_LBj1A2OOjiC0spAXC7W073fJAellUMo8bfL1Q
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
@@ -24,6 +23,8 @@ minion998 https://edge-hls.doppiocdn.live/hls/131654942/master/131654942_auto.m3
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8

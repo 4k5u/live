@@ -59,3 +59,10 @@ Wed Aug 21 01:21:41 CST 2024
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
+Wed Aug 21 01:32:53 CST 2024
+Wed Aug 21 01:33:07 CST 2024
+Wed Aug 21 01:34:50 CST 2024
+Wed Aug 21 01:35:02 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNkI0NDQ2MS02REY0LTQ4MzgtOEEzNy1CNDY2MDU3NDE5RTQiLCJ2aWV3ZXItaWQiOiIxOTU4ODgzNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQxNjU4OTUsImV4cCI6MTcyNDE2NjQ5NX0.xS1hCHlEZyV_tVnuT0ZyzGgDVjCENx_PVMFFk9fAlqEcBTDGzvPRM7m_8Kpz7jZJpTzgA48-VfBREJUL6rM9OA5b4b_LBj1A2OOjiC0spAXC7W073fJAellUMo8bfL1Q
