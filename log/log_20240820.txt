@@ -276,3 +276,8 @@ Tue Aug 20 07:42:35 CST 2024
 Tue Aug 20 07:44:15 CST 2024
 Tue Aug 20 07:44:28 CST 2024
 添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+Tue Aug 20 07:57:05 CST 2024
+Tue Aug 20 07:57:05 CST 2024
+Tue Aug 20 07:58:56 CST 2024
+Tue Aug 20 07:59:10 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
