@@ -22,3 +22,6 @@ wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 kiyoko_rin https://edge6-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-f92703bd2f4fea0fed6d09c062bb9cfcd334e0eb4af1b4dec5b3d163b21e403c_trns_h264/playlist.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
