@@ -562,3 +562,9 @@ Tue Aug 20 19:50:27 CST 2024
 添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yfM6MsS7dmxXEkAH8DmTJaMVT9uFV2B2WMMxfY7Wy3Dvsup7195kdCxqRBiflLRRU9Iu63UWwbemznNbsOqmeg
 Tue Aug 20 19:52:26 CST 2024
 Tue Aug 20 19:52:40 CST 2024
+Tue Aug 20 20:00:09 CST 2024
+Tue Aug 20 20:00:52 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Nw9PvH15kEQDskOyAvGd1yibMIUh24Wxdy-j6fFsyV7R5SX0hoSq3W89bcaPlnp2wTMF6wpNWTYc5gc5Q4XAVw
+Tue Aug 20 20:02:52 CST 2024
+Tue Aug 20 20:03:06 CST 2024
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
