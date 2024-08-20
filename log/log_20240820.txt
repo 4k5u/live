@@ -372,3 +372,12 @@ Tue Aug 20 13:18:42 CST 2024
 删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 删除_marydel_ https://edge5-sea.live.mmcdn.com/live-hls/amlst:_marydel_-sd-5653f40b8f2975738dc034eaaeecd4370369907e0636fe16a519a4d15d886ea1_trns_h264/playlist.m3u8
+添加your_desssert https://edge15-aus.live.mmcdn.com/live-hls/amlst:your_desssert-sd-28ab35eb7e7db546237d34dbea51b82ae6fb0aa4cd57e484ef6d8ee08047f0ea_trns_h264/playlist.m3u8
+Tue Aug 20 13:32:53 CST 2024
+Tue Aug 20 13:33:01 CST 2024
+Tue Aug 20 13:34:40 CST 2024
+Tue Aug 20 13:34:53 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除my_eyes_higher https://edge5-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8a920fad39fc94d71f33120b10dc98d81422937e4c2524ccbd349dd2e577ca3f_trns_h264/playlist.m3u8
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
