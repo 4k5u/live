@@ -306,3 +306,8 @@ Tue Aug 20 10:17:44 CST 2024
 删除kiyoko_rin https://edge6-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-27ee90cd828da0f5d8baee96a9685fc554d3f5570290eb820ff63125e41e3569_trns_h264/playlist.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Tue Aug 20 10:48:40 CST 2024
+Tue Aug 20 10:48:42 CST 2024
+Tue Aug 20 10:50:31 CST 2024
+Tue Aug 20 10:50:46 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
