@@ -185,3 +185,10 @@ Wed Aug 21 05:23:21 CST 2024
 Wed Aug 21 05:23:35 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加gina_gracia https://edge23-atl.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-e0ed6eb73528fedc59bf0dedc253c7a3684997485c59db04ea92a2185c0fcce5_trns_h264/playlist.m3u8
+Wed Aug 21 05:31:34 CST 2024
+Wed Aug 21 05:31:38 CST 2024
+Wed Aug 21 05:33:30 CST 2024
+Wed Aug 21 05:33:43 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
