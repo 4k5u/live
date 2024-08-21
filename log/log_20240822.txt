@@ -81,3 +81,14 @@ Thu Aug 22 01:59:43 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加kiyoko_rin https://edge23-sea.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-4052de773e3f268c3d3008cc891be2dac441ac81abac0230f834e43568b63ef9_trns_h264/playlist.m3u8
+Thu Aug 22 02:24:34 CST 2024
+Thu Aug 22 02:24:44 CST 2024
+Thu Aug 22 02:26:26 CST 2024
+Thu Aug 22 02:26:37 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNkUwMUZGNy05ODMxLTQ4ODUtQjYzRi03NzdBMkU2RTMzRDMiLCJ2aWV3ZXItaWQiOiIyNDQzMTI4MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyMTkzMjAsImV4cCI6MTcyNDIxOTkyMH0.IJrcozTpJ9_rOeIXGHk5-XZVr9B6WrtYAi2vwiNSoqV8wdxYaRGxKLe5i3y7Hu1yOm0yVB38GuRIPqfwXpJyDt1uLKnGx03yGWdj1J1cYWpGg5xIFGfIna3MP6r1mjXR
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
