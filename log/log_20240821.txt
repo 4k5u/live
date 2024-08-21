@@ -434,3 +434,10 @@ Wed Aug 21 14:43:50 CST 2024
 Wed Aug 21 14:45:33 CST 2024
 Wed Aug 21 14:45:46 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+添加foxylovesyou https://edge16-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-627a5c70ae5927b7cbff0015272f7133f6de44966a886b345bcf32ae0370fb08_trns_h264/playlist.m3u8
+Wed Aug 21 14:57:05 CST 2024
+Wed Aug 21 14:57:15 CST 2024
+Wed Aug 21 14:59:10 CST 2024
+Wed Aug 21 14:59:24 CST 2024
+添加qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
