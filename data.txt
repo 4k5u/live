@@ -21,3 +21,9 @@ kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 sexygamesx https://edge4-slc.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-75ee02ede92a0e0589ad3f86dc8ada0fa66b2083eed33b7c8b9abcad6a3a299d_trns_h264/playlist.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+oki_dokie https://edge5-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2bfafbb8aac1873bf77be7277719578fe51e5cd369a15d98d696bdfd7d743fa1_trns_h264/playlist.m3u8
+won110 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.fYJ3Ue8cRoOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ZZSjNVZThjUm9PbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMkRDRDZGMC04NTBELTRBQTYtOEYyNC1ENjRBQkYxNkNGOTciLCJ2aWV3ZXItaWQiOiIyNDQ0NjY1OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyMTQ0MzAsImV4cCI6MTcyNDIxNTAzMH0.NvGr8YoEYEZ4JCnRiKJPpeJx8xRWwKHSP_e7kJzR_tQzIj-302hrOzYZ10ta0gQY42ain0iEiSvfrjHsybZD27Y_eX2AFs8vQwa2TYRobha0aA5vmftS9oxiR1_dVHAL
+y1026 https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=null
+fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
