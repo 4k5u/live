@@ -412,3 +412,12 @@ Wed Aug 21 13:48:50 CST 2024
 Wed Aug 21 13:50:42 CST 2024
 Wed Aug 21 13:50:55 CST 2024
 删除Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+Wed Aug 21 13:58:57 CST 2024
+Wed Aug 21 13:59:09 CST 2024
+Wed Aug 21 14:01:02 CST 2024
+Wed Aug 21 14:01:16 CST 2024
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除galantini https://edge9-chi.live.mmcdn.com/live-hls/amlst:galantini-sd-e21de7255ed5fb5bc362b6a231301a4b76a9356ad94596b5876e1bd8612a0de8_trns_h264/playlist.m3u8
+删除_marydel_ https://edge19-ash.live.mmcdn.com/live-hls/amlst:_marydel_-sd-adea6ff7119a2a3452940dbaf13b53931119b09b006d44895843738b95a68a68_trns_h264/playlist.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除foxylovesyou https://edge16-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-627a5c70ae5927b7cbff0015272f7133f6de44966a886b345bcf32ae0370fb08_trns_h264/playlist.m3u8
