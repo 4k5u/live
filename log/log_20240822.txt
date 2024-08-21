@@ -55,3 +55,10 @@ Thu Aug 22 01:23:36 CST 2024
 删除NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+Thu Aug 22 01:32:01 CST 2024
+Thu Aug 22 01:32:18 CST 2024
+Thu Aug 22 01:34:07 CST 2024
+Thu Aug 22 01:34:20 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
