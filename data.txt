@@ -9,3 +9,8 @@ _PunPun18 https://edge-hls.doppiocdn.live/hls/149392038/master/149392038_auto.m3
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 intim_mate https://edge11-aus.live.mmcdn.com/live-hls/amlst:intim_mate-sd-540eeb34c303136112655086e60400dc5cf472d1aa7b20ea5131a2b2131e129f_trns_h264/playlist.m3u8
 asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+gina_gracia https://edge18-lax.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-916f96e5f3a2c18e1e3fc59c24b12190ea907c62fb12f63fef6d2d2723272efe_trns_h264/playlist.m3u8
+joysuniverse https://edge16-sea.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-1f1382033adffb81a5d4bdeeb982181a5f6dcca3610ddfbb6a6222335426b6c5_trns_h264/playlist.m3u8
+4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMThGQzBFNC01RkYxLTQyREEtQUEyQy0wNDE4NjQwQzdBNkQiLCJ2aWV3ZXItaWQiOiIyMzQ1OTE5NSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyMDQ0MzYsImV4cCI6MTcyNDIwNTAzNn0.vzwDGASD5pglbGnutVtxcFb_3DWUapxiKbBhViD1SLpMPxtl55VVWteHo9dxpmj5WIfjpQs0msGiQaaZ3Iw4UtEnAV53LZ47xzLOgbrewT5u2knZRN99GHk3RLywUw5W
+LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
