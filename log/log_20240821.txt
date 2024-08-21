@@ -311,3 +311,19 @@ Wed Aug 21 09:42:25 CST 2024
 Wed Aug 21 09:42:37 CST 2024
 添加LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加galantini https://edge9-chi.live.mmcdn.com/live-hls/amlst:galantini-sd-e21de7255ed5fb5bc362b6a231301a4b76a9356ad94596b5876e1bd8612a0de8_trns_h264/playlist.m3u8
+Wed Aug 21 10:28:52 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RTE0MjE3NS00QjgwLTREMUEtQjI2MC1GOUU1NkZGNzI0RkYiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyMDczMzcsImV4cCI6MTcyNDIwNzkzN30.zvxrpgFJoEvJk2-a3PlqK6qmPf6Kisimup6HvTKOpcavHarmshLtgEzof7vX9Ku_pQuvFt5Pa5nP-API1gFAGUeQhPFF-6SNDKMcC5rgiAcOCWCbntsIq-ax7MKoGmyz
+Wed Aug 21 10:29:03 CST 2024
+Wed Aug 21 10:30:59 CST 2024
+Wed Aug 21 10:31:13 CST 2024
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除kiyoko_rin https://edge6-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-f92703bd2f4fea0fed6d09c062bb9cfcd334e0eb4af1b4dec5b3d163b21e403c_trns_h264/playlist.m3u8
+删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除gina_gracia https://edge18-lax.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-916f96e5f3a2c18e1e3fc59c24b12190ea907c62fb12f63fef6d2d2723272efe_trns_h264/playlist.m3u8
