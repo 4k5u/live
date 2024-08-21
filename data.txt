@@ -11,7 +11,6 @@ dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/
 168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
 naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMDQxRkJDQS01QjMxLTRGNUItOURCRC02QTEwRjQwODQ0RUEiLCJ2aWV3ZXItaWQiOiIyNTA2MTk4MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyNDczMDEsImV4cCI6MTcyNDI0NzkwMX0.4LAsSNO6wqYtDpjS2I9gur8yIsbatqzYT6mhEPHHlD-THkKW8V9xZEiOHE0di4kpwhrQSeXhJKoGkm8-TYZjLb64_bKhU28nvvE0ghSUAxnsxG5Ymr_7y6cpc_xf_sXu
 ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1QTA2RDVBNS1EQjFGLTQzNjgtQUFENS01MUJDRTY5QkFFNjQiLCJ2aWV3ZXItaWQiOiIyMjQ3Mjk0OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyNDczMzgsImV4cCI6MTcyNDI0NzkzOH0.-aa1sQ3tdkmOfDwfcx-mwN-NxrNflzWDAJsK2EHxlSTDAWUELlvin6dJr0VCxlpvs_Xfvqua_1UXzh_mZovurUeImwbjDneINZfXQ4w0ZWrbpUKM28Br_Ro7ny_26yJr
-TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
 saone451 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMDVCQjk4Qi03MTIzLTRCRkQtOTQzMi00NjhDNTk4Nzk4MjMiLCJ2aWV3ZXItaWQiOiIyNDY3NzM1MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyNDgwOTQsImV4cCI6MTcyNDI0ODY5NH0.jEhHm6oEmaMQqeHQyfaL0CLABGboszV1br2PZUpCrkCL0Dcc_z_q-glCAzQcuYVaO5A1cuj7z2QY0qZNxwRWNcrsGFvGlJTgK78caXgyKoqosve5UxXfovlVSOHSFSpg
 day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3pZnsx6Jcwvl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNwWm5zeDZKY3d2bCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MjAxRUQ5RC03NUM5LTQwNjctQTlCOC1BNzNCOEM0ODY4QTUiLCJ2aWV3ZXItaWQiOiIyMTA1ODEzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyNDg2OTQsImV4cCI6MTcyNDI0OTI5NH0.j_T2qLGap1UagUOe7D8PIPp9ravU7VVO3Bj96dR3nC9F3P5helaBqqIk5OyGIlzFQdZMLBHzvg4S0qmsZqj4VTFrWbOWZuxCi3pGyCScycDryC_z88YpmFNNGz-yLlnA
@@ -24,10 +23,11 @@ qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_
 172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
 Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
-yeosi1004 https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_playlist.m3u8?aid=null
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
