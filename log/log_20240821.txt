@@ -685,3 +685,9 @@ Wed Aug 21 21:50:24 CST 2024
 Wed Aug 21 21:50:39 CST 2024
 删除yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3MjQyNzE4NDcwMzEsImlhdCI6MTcyNDIyODY0N30.kddQUDxeEXzy9a5qBQnTlHbIs2GU8KRDunVueTf1TxO0FpNf6VNGrNKrqb_F6tbs1wt1UJqGDM7RB9nSyw6pRkt8IRt-V5_xk0wQlxcF6F7ah42tcNSlqzKavY6jZ0-m
 删除MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
+Wed Aug 21 21:57:21 CST 2024
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3pZnsx6Jcwvl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNwWm5zeDZKY3d2bCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MjAxRUQ5RC03NUM5LTQwNjctQTlCOC1BNzNCOEM0ODY4QTUiLCJ2aWV3ZXItaWQiOiIyMTA1ODEzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyNDg2OTQsImV4cCI6MTcyNDI0OTI5NH0.j_T2qLGap1UagUOe7D8PIPp9ravU7VVO3Bj96dR3nC9F3P5helaBqqIk5OyGIlzFQdZMLBHzvg4S0qmsZqj4VTFrWbOWZuxCi3pGyCScycDryC_z88YpmFNNGz-yLlnA
+Wed Aug 21 21:58:28 CST 2024
+Wed Aug 21 22:00:17 CST 2024
+Wed Aug 21 22:00:30 CST 2024
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
