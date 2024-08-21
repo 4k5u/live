@@ -758,3 +758,10 @@ Wed Aug 21 23:34:01 CST 2024
 删除Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Wed Aug 21 23:41:36 CST 2024
+Wed Aug 21 23:42:17 CST 2024
+Wed Aug 21 23:44:11 CST 2024
+Wed Aug 21 23:44:24 CST 2024
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除aesoon96 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.4NaAcTktGqxD.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC80TmFBY1RrdEdxeEQiLCJleHAiOjE3MjQyNzg5NDUyNDAsImlhdCI6MTcyNDIzNTc0NX0.7gmQXvblKwbrpFr1BiM1AuaoYbiegmDJhO4Jopm665muVrSKdsxTl9MylRvnzMUGHuZytN5Y4yqlyCIKakV36IXh0Gm9PJy5cKGqzcF4P5ys7nuk9zzBbu1aL8zwLlxv
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
