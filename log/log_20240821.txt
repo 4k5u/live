@@ -635,3 +635,13 @@ Wed Aug 21 20:42:33 CST 2024
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加iminako https://edge15-aus.live.mmcdn.com/live-hls/amlst:iminako-sd-daad75a2d7642c1ee3c9dbf996396fb38ff366f949e9e1c2572c42872f4b8375_trns_h264/playlist.m3u8
+Wed Aug 21 20:55:49 CST 2024
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RTMzQTIxMy1BRkE0LTRFODUtOTAxRi05NzBCQzI1RTlBOEUiLCJ2aWV3ZXItaWQiOiIyNDg1MTIzOCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyNDQ5NzAsImV4cCI6MTcyNDI0NTU3MH0.cgU0AqzYV8E3d-yaMfHkwtxhvYEl50PekB_xJC3zjO5tX-mvzr-hpcASxmh6UVmJymAM35ioalrOf-36x4ii1I_Egm2f5rOMOfjdQTIP_Ppjtx7IeHUpITFzor0acVkL
+Wed Aug 21 20:56:55 CST 2024
+添加yeosi1004 ?aid=null
+Wed Aug 21 20:58:57 CST 2024
+Wed Aug 21 20:59:11 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除ad0res https://edge13-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-767217dcd122e23ac01fb618ecd562dd110dbeda5dc398e8cb281a2251e491f1_trns_h264/playlist.m3u8
