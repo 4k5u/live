@@ -465,3 +465,10 @@ Wed Aug 21 15:51:39 CST 2024
 Wed Aug 21 15:51:53 CST 2024
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 添加Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+Wed Aug 21 15:59:40 CST 2024
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMDYyNzlDMi1BQTEyLTRBMjYtQUU4Ny01NUI0QURERkUwQzgiLCJ2aWV3ZXItaWQiOiIyMzg4Mjc0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyMjcxODMsImV4cCI6MTcyNDIyNzc4M30.-dkfFZTGn_BSt-nfMK6OGXJldYNZ7NMgK0nkjSNj_f0rjws3Wo5kxPMXHfXRWUQ8ta21ZTGdLUstmES0Y7Avdv9yE2K_0QPPekWQ1ewbHq_2vCiXEz-hbYz4i4P33K3x
+Wed Aug 21 15:59:53 CST 2024
+Wed Aug 21 16:01:47 CST 2024
+Wed Aug 21 16:02:02 CST 2024
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RTE0MjE3NS00QjgwLTREMUEtQjI2MC1GOUU1NkZGNzI0RkYiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyMDczMzcsImV4cCI6MTcyNDIwNzkzN30.zvxrpgFJoEvJk2-a3PlqK6qmPf6Kisimup6HvTKOpcavHarmshLtgEzof7vX9Ku_pQuvFt5Pa5nP-API1gFAGUeQhPFF-6SNDKMcC5rgiAcOCWCbntsIq-ax7MKoGmyz
