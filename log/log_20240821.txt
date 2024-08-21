@@ -377,3 +377,8 @@ Wed Aug 21 12:43:19 CST 2024
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加foxylovesyou https://edge16-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-627a5c70ae5927b7cbff0015272f7133f6de44966a886b345bcf32ae0370fb08_trns_h264/playlist.m3u8
+Wed Aug 21 12:51:17 CST 2024
+Wed Aug 21 12:51:27 CST 2024
+Wed Aug 21 12:53:10 CST 2024
+Wed Aug 21 12:53:22 CST 2024
