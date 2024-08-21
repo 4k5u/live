@@ -597,3 +597,11 @@ Wed Aug 21 19:42:26 CST 2024
 Wed Aug 21 19:42:41 CST 2024
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除love0098 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.jDT120ST8MXi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2pEVDEyMFNUOE1YaSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDODdCRkI5NS1GNTMwLTQ1MzEtOUE0OS1BMDY5MzA5N0YwMTgiLCJ2aWV3ZXItaWQiOiIyNDk3ODEwMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyMjg5NTMsImV4cCI6MTcyNDIyOTU1M30.lBYRjq82IQlaAhSSExaaCISNP17dDTqAjMrld3oY87-mhS7M81gek7EJk3eFlHpWkARDQ6nQhK5UsdITJJZMnpjlQdHdiBqPXmq6ErM0YgIoWt4Mz0USGN-TavPzxr_O
+添加ad0res https://edge13-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-767217dcd122e23ac01fb618ecd562dd110dbeda5dc398e8cb281a2251e491f1_trns_h264/playlist.m3u8
+Wed Aug 21 19:49:36 CST 2024
+添加chuing77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.eFD9AIvLFCaB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VGRDlBSXZMRkNhQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RUQyOTFDOC1FMDQwLTQ0MjgtODY5OS0zNTFGQ0IzNkJBODciLCJ2aWV3ZXItaWQiOiIxODI5NDE3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyNDEwMTEsImV4cCI6MTcyNDI0MTYxMX0.5w4CqIwW2lGMnoVqzCvmUvlfqo2iFL4e3xMZnNX1mn0ErgSp3WRZ9jOQJX1INKEmZMy38lR00M91ORgbv8SOjLE6HZUy599c-KHNxTzX1o6F-cCEwoP1T1260QWBcWyU
+Wed Aug 21 19:50:25 CST 2024
+添加yeosi1004 ?aid=null
+Wed Aug 21 19:52:33 CST 2024
+Wed Aug 21 19:52:47 CST 2024
+删除y1026 https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=null
