@@ -564,3 +564,9 @@ Wed Aug 21 18:47:39 CST 2024
 添加y1026 https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=null
 Wed Aug 21 18:49:32 CST 2024
 Wed Aug 21 18:49:45 CST 2024
+Wed Aug 21 18:57:06 CST 2024
+Wed Aug 21 18:57:36 CST 2024
+Wed Aug 21 18:59:22 CST 2024
+Wed Aug 21 18:59:35 CST 2024
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除yeosi1004 ?aid=null
