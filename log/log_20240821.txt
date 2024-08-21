@@ -487,3 +487,10 @@ Wed Aug 21 16:31:37 CST 2024
 删除MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
 删除ake_mi https://edge26-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f5e9f56363b464c7c40c275a0caa5f2b94bd62d7a5ed2d0f1d973fbafe3bd60a_trns_h264/playlist.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Wed Aug 21 16:42:50 CST 2024
+Wed Aug 21 16:43:08 CST 2024
+添加yeosi1004 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Wed Aug 21 16:45:05 CST 2024
+添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MjQyNzI1NTk2NjQsImlhdCI6MTcyNDIyOTM1OX0.5u7ks0bSj7Vqopx5RRv1MLLncV3dh-Vh5oGPCkG8zJhyx_pyxBbDUhWdqNiAl_-nUcBfW4BmmKBnGS-nnmUxrPttOQ_ehfbbwePAeYQQtWvnjykqH4UMHG3P4k2u8wW_
+Wed Aug 21 16:45:21 CST 2024
+删除y1026 https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=null
