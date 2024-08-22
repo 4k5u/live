@@ -669,3 +669,15 @@ Thu Aug 22 21:05:10 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除ad0res https://edge12-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-8f39486c2fa650713be58e6720000860bc77855cf95575caf40b42ca7903e3f2_trns_h264/playlist.m3u8
 删除your_desssert https://edge13-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-f70805f0a0cb8c306b064ae851f09dac95c77d6c57a1d763ef734f8194e6ee2c_trns_h264/playlist.m3u8
+添加your_desssert https://edge20-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-f70805f0a0cb8c306b064ae851f09dac95c77d6c57a1d763ef734f8194e6ee2c_trns_h264/playlist.m3u8
+Thu Aug 22 21:27:53 CST 2024
+Thu Aug 22 21:28:31 CST 2024
+Thu Aug 22 21:30:43 CST 2024
+Thu Aug 22 21:30:58 CST 2024
+删除yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3MjQzNTg1MTk1MjgsImlhdCI6MTcyNDMxNTMxOX0.RwDeuPHwPQVtC4EXQPcpkF0ugBXI-mEaLH9rxwca5KKCCG-ZNw5L6qChQIskdala04la9E4nZ24N68MbIGXrvtSCRNC4oX_WcO1jSBkVQ67hXH2eosURFnF4jOFZ2cxq
+删除gremmy https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-Joa3iVdWUQP5P5mMFtrHBbIDpZX9Aljfo97cdUTfG4CjSQJt4wRhJ1dsV8n6-UVUfIXgNEtdsLRHoezYiH2FA
+删除my_eyes_higher https://edge15-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f7b8196b85235d536ec9ca27cf88db13a877b9828c0d9ec07f02b0c9edb1ed99_trns_h264/playlist.m3u8
+删除soraa3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.EU8LO9vDCOAJ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0VVOExPOXZEQ09BSiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2Qzc2N0Y3OC1FQjZBLTQ3QzMtQTNBRS04NDJBQjcwREZBOUUiLCJ2aWV3ZXItaWQiOiIyNTE3NzQyMyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQzMjUyNzksImV4cCI6MTcyNDMyNTg3OX0.4xD5NL-O0-f8LBb0mwxSmd7q9wgyvF6vMNK8pDtKQ494zfhh1AMpalkhtJnnsL3zzbFMcAaAtZTeFHNzoSt48i5w5d1E5_g3ZmnvDjsi268TTWRQamL-EvY1l-ET0BjR
+删除Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+删除iminako https://edge20-chi.live.mmcdn.com/live-hls/amlst:iminako-sd-a6952f9e5dc14c8cac9cde26e251659ca024595a988097b7a56db5dfcea3585d_trns_h264/playlist.m3u8
+删除oki_dokie https://edge18-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-19de0c835562dd33f748be1868624a21e7923b7dacdeb618d950337a28ceaa5c_trns_h264/playlist.m3u8
