@@ -540,3 +540,9 @@ Thu Aug 22 17:41:24 CST 2024
 Thu Aug 22 17:43:21 CST 2024
 Thu Aug 22 17:43:35 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Thu Aug 22 17:51:26 CST 2024
+Thu Aug 22 17:51:41 CST 2024
+Thu Aug 22 17:53:35 CST 2024
+Thu Aug 22 17:53:48 CST 2024
+删除my_eyes_higher https://edge1-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d615c93bd5d03881000802a85a0cabc3846adadd421163abc0dcd711c79fe08d_trns_h264/playlist.m3u8
+删除acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMjZERDQxNy1DQjVELTRGRkEtQTYxOC05OUUwMjJEMjU4REMiLCJ2aWV3ZXItaWQiOiIxNjI0MjUzOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQzMTE4NDQsImV4cCI6MTcyNDMxMjQ0NH0.DGFQaiv8q_QoZUPwJZOeL5OefAOMf59MK-iUa5fhbFv_4T0lnf9KI586O-xB24KgAUpD0FENSyqx-vKfEkbCjXHLa3A2-3e1SEQvXi4vZvdIu_VmoyoenjfOQ6f0BULD
