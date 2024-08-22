@@ -454,3 +454,12 @@ Thu Aug 22 14:59:27 CST 2024
 Thu Aug 22 14:59:41 CST 2024
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除your_desssert https://edge20-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-2d19f9abefed206109c766e8f724a67a121e785a114f1b94deddd1ddc7a3f982_trns_h264/playlist.m3u8
+添加your_desssert https://edge20-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-2d19f9abefed206109c766e8f724a67a121e785a114f1b94deddd1ddc7a3f982_trns_h264/playlist.m3u8
+Thu Aug 22 15:17:11 CST 2024
+Thu Aug 22 15:17:17 CST 2024
+Thu Aug 22 15:19:18 CST 2024
+添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MjQzNTM0Nzg5MzcsImlhdCI6MTcyNDMxMDI3OH0.tv1HpuGW6o1sKMgouFAiw9tEuH0w9GT3vyr1uCdTcP4gUaeZhc_gTXdhNzUEIePUbB4AC6Wdxh3KaqJ6w4Lqo2ipUDkieLqC3q-Zd4G6LgEhVHHDEmw-zWmWvA6GQlii
+Thu Aug 22 15:19:37 CST 2024
+删除oda_assuri https://edge4-lax.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-a9d0b2999c43da4ad99817d892c767720f5532de065208b2e35e71848e300734_trns_h264/playlist.m3u8
+删除_marydel_ https://edge12-lax.live.mmcdn.com/live-hls/amlst:_marydel_-sd-12f770721037808bee6fe4b354df8fa4438d312afd22ecae341c7f83c19d449a_trns_h264/playlist.m3u8
+删除sexygamesx https://edge28-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-63a92ce98477e071afbe6f53befe4bd961a36da6c7a11b10b93878c0d8b584fa_trns_h264/playlist.m3u8
