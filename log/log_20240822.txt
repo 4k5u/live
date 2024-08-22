@@ -681,3 +681,10 @@ Thu Aug 22 21:30:58 CST 2024
 删除Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
 删除iminako https://edge20-chi.live.mmcdn.com/live-hls/amlst:iminako-sd-a6952f9e5dc14c8cac9cde26e251659ca024595a988097b7a56db5dfcea3585d_trns_h264/playlist.m3u8
 删除oki_dokie https://edge18-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-19de0c835562dd33f748be1868624a21e7923b7dacdeb618d950337a28ceaa5c_trns_h264/playlist.m3u8
+Thu Aug 22 21:38:17 CST 2024
+添加soraa3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.EU8LO9vDCOAJ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0VVOExPOXZEQ09BSiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MzFBMTU2Qi1BNkNFLTQ4ODMtQkRFMi03Q0NEOERBNjI1NEYiLCJ2aWV3ZXItaWQiOiIyNTE3NzQyMyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQzMzM5MDYsImV4cCI6MTcyNDMzNDUwNn0.YOUcRaaW5dwPvy4aq6WcLesu3ZTFlBKRl2hTj7xOFqIdSnamhXjgMqxq6GGKJKlzCEnsVtGK9QgytK0q1wberQrieW1JSuwLlljEtDOxJ9Pvid3L-tsOgW4oGZVZXpMc
+Thu Aug 22 21:38:59 CST 2024
+添加big541 https://live-global-cdn-v02.afreecatv.com/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.hh0zY9QBynJumdFRpQ1UVMVeO6gv5AvevVmGMYXkskzo7qWiGm7aCyPGfaXsDcEau_OApkRpX1NfpVtRnqQ8cA
+Thu Aug 22 21:40:56 CST 2024
+Thu Aug 22 21:41:09 CST 2024
+添加regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
