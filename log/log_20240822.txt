@@ -381,3 +381,14 @@ Thu Aug 22 12:02:08 CST 2024
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加joysuniverse https://edge16-atl.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-805db2b0c7c68cc8c26e083cb750de77422c63c56e99f252cc3749c604898d58_trns_h264/playlist.m3u8
+添加oki_dokie https://edge27-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-490b16a31fcde0c8fabe829a9b030596ff3f93148c0d3ad35ef8d310cd2dcea5_trns_h264/playlist.m3u8
+Thu Aug 22 12:26:19 CST 2024
+Thu Aug 22 12:26:25 CST 2024
+Thu Aug 22 12:28:18 CST 2024
+Thu Aug 22 12:28:32 CST 2024
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwM0JDOUQ5NC02MjkzLTQxQjUtOERFNi05MkZCMzI1ODFENEEiLCJ2aWV3ZXItaWQiOiIyMzQ1OTE5NSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyOTQ5NDMsImV4cCI6MTcyNDI5NTU0M30.MsGSPP0zAUeWOvku3d1sPTFcDJITiSLf95BBNDEq_hWEGb73U7oss2wdqcTFeIo-LemfkeGGWFesmLF5GLwQfM3FbNcADvXxOl5Tzr7z3UxcCw1wGRROYd4ao_YtjOg-
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除sexygamesx https://edge8-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-f9ca887b1a778bea3fbaa6c9809a6d1c1feed3d03127555b0c189c3f18b5ef4c_trns_h264/playlist.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
