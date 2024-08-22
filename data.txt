@@ -22,3 +22,4 @@ na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 oki_dokie https://edge28-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-490b16a31fcde0c8fabe829a9b030596ff3f93148c0d3ad35ef8d310cd2dcea5_trns_h264/playlist.m3u8
+San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
