@@ -315,3 +315,17 @@ Thu Aug 22 09:14:15 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.n0ELnojWNmmxNUTSRhPaZzUsXUAAUFAcuEe2BavLHvme-cfMmj9HOtSd4Nc2u9zQ880f2VZW0q444DT9Tb_GCg
 删除168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
+Thu Aug 22 10:16:49 CST 2024
+添加love0098 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.jDT120ST8MXi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2pEVDEyMFNUOE1YaSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MTE4RDk3Ni1FQzZDLTQ3Q0QtOEY2OC01NUY3OTY2RThCNTYiLCJ2aWV3ZXItaWQiOiIyNDk3ODEwMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyOTMwMDksImV4cCI6MTcyNDI5MzYwOX0.eLH1ieYVI4CHbNpPit-WnqdzYYKa9JZGJjMY08OaQsgP3Xx17vO0ah18xZFuHO1xSFsXVoacsctX5onevl49BbWKBrAWQYKPWWR5iQI4VTKnGR-ji0f1iZZ6uBy3KrJt
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMTJBNTU2Ni0zNkM3LTQyRUYtODBCMi01NTJFMzU5MzFEM0EiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyOTMwMTgsImV4cCI6MTcyNDI5MzYxOH0.PLB4zkAtOUC_HzHHa1Cmpz8Zj5Z0W3nb3JXzi_ixn9N0Zqxf5GgVa1MME-3l970xPqhVyi-M1iw4tDZ7qX9DFlPpwIBZNbkx5e0L1igTEqWWtYbHwdBrqnM4esJnsqg5
+Thu Aug 22 10:17:03 CST 2024
+添加y1026 https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Thu Aug 22 10:18:51 CST 2024
+Thu Aug 22 10:19:03 CST 2024
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除rmrm1313 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.kehc5nb0j5tY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tlaGM1bmIwajV0WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5Qjc4QjY5Qi0yNzQ1LTQ2NUEtQjA3Ni1CMUE5RDg2MEM3NTMiLCJ2aWV3ZXItaWQiOiI3NTYyNDc5Iiwidmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTcyNDI3Mzk1OCwiZXhwIjoxNzI0Mjc0NTU4fQ.7rSOKCC5WAnAxyROMKw3KXyLW2tMxYroLd5pn_6wb_HPrIL59GyBqptRoAUt_lKlZD1jBOoTC06o7tb5mPUk5p9XfuX4MbsHBoiZW-Ijy_5P_kIHBiJytA6v30zLkn9N
+删除_PunPun18 https://edge-hls.doppiocdn.live/hls/149392038/master/149392038_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
