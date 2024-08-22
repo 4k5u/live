@@ -202,3 +202,10 @@ Fri Aug 23 06:37:24 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+添加my_eyes_higher https://edge4-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1cce18fe97fa853ff8015658b5e4353c6034677837ebdf73b650d701651eacea_trns_h264/playlist.m3u8
+Fri Aug 23 06:47:08 CST 2024
+Fri Aug 23 06:47:10 CST 2024
+Fri Aug 23 06:49:07 CST 2024
+Fri Aug 23 06:49:22 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
