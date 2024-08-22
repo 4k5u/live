@@ -372,3 +372,12 @@ Thu Aug 22 11:49:41 CST 2024
 Thu Aug 22 11:51:34 CST 2024
 Thu Aug 22 11:51:49 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加amilia4u https://edge18-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-ae9d37b8c46e330c382394874c36d52622a08ec04e426a229940a53ff3bf8838_trns_h264/playlist.m3u8
+Thu Aug 22 11:59:52 CST 2024
+Thu Aug 22 12:00:00 CST 2024
+Thu Aug 22 12:01:54 CST 2024
+Thu Aug 22 12:02:08 CST 2024
+删除y1026 https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=null
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
