@@ -519,3 +519,13 @@ Thu Aug 22 16:59:04 CST 2024
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 删除Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+Thu Aug 22 17:17:30 CST 2024
+添加youvely22 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Kt94QKqK4xov.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0t0OTRRS3FLNHhvdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQzRCQTAyMC0zM0JELTQzRDgtQThDNC01OTYyMzkxRjYyRjkiLCJ2aWV3ZXItaWQiOiIyNDgxNDIxNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQzMTgyNTEsImV4cCI6MTcyNDMxODg1MX0.dD7EpAQjeDy6GFPT34j3Nvy9oFtAAyW8WSMVUGqqyKmpk_yiF5nyfaBqYQsUFTtIFve3LOQ8XZA6RC7go4E2OFe4iTiYV8fHFKGbOIv7kxJ58Nn4fPm9v5vHFV1AQAmd
+添加na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KMLbAVmLZGOm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tNTGJBVm1MWkdPbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMjVCOUZCMy0wREM4LTQxNEYtOUNCNi04QzExQjc0QzRFNDEiLCJ2aWV3ZXItaWQiOiIyNDEzODQ3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQzMTgyNjUsImV4cCI6MTcyNDMxODg2NX0.32J9nRthOYcDG7xBFqaTvMX2by1UlgFO5v6rZB5yEgFHUaHvVvLwfIkpnWz9SA4xg6vdgoPTb3KDxsUJF4c6gyzaH0XyIDhAcotMr7wWA5rooDmsAj7R-1hMdakEv1HD
+Thu Aug 22 17:17:53 CST 2024
+Thu Aug 22 17:19:50 CST 2024
+Thu Aug 22 17:20:04 CST 2024
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+删除oki_dokie https://edge27-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-490b16a31fcde0c8fabe829a9b030596ff3f93148c0d3ad35ef8d310cd2dcea5_trns_h264/playlist.m3u8
+删除1004ysus https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KWxNmEZCHLmwzG9HJMpsHad-wNU_Kl-qUoMD9OFjGEw2kZfkWODIONkd5mHBZBGeXJ7m2Wg6LZBI81paTaRRmA
