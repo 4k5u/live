@@ -737,3 +737,9 @@ Thu Aug 22 22:49:48 CST 2024
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+Thu Aug 22 22:57:19 CST 2024
+Thu Aug 22 22:58:09 CST 2024
+Thu Aug 22 23:00:02 CST 2024
+Thu Aug 22 23:00:17 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除oki_dokie https://edge16-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-19de0c835562dd33f748be1868624a21e7923b7dacdeb618d950337a28ceaa5c_trns_h264/playlist.m3u8
