@@ -463,3 +463,11 @@ Thu Aug 22 15:19:37 CST 2024
 删除oda_assuri https://edge4-lax.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-a9d0b2999c43da4ad99817d892c767720f5532de065208b2e35e71848e300734_trns_h264/playlist.m3u8
 删除_marydel_ https://edge12-lax.live.mmcdn.com/live-hls/amlst:_marydel_-sd-12f770721037808bee6fe4b354df8fa4438d312afd22ecae341c7f83c19d449a_trns_h264/playlist.m3u8
 删除sexygamesx https://edge28-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-63a92ce98477e071afbe6f53befe4bd961a36da6c7a11b10b93878c0d8b584fa_trns_h264/playlist.m3u8
+Thu Aug 22 15:30:38 CST 2024
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMjZERDQxNy1DQjVELTRGRkEtQTYxOC05OUUwMjJEMjU4REMiLCJ2aWV3ZXItaWQiOiIxNjI0MjUzOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQzMTE4NDQsImV4cCI6MTcyNDMxMjQ0NH0.DGFQaiv8q_QoZUPwJZOeL5OefAOMf59MK-iUa5fhbFv_4T0lnf9KI586O-xB24KgAUpD0FENSyqx-vKfEkbCjXHLa3A2-3e1SEQvXi4vZvdIu_VmoyoenjfOQ6f0BULD
+Thu Aug 22 15:30:48 CST 2024
+Thu Aug 22 15:32:36 CST 2024
+Thu Aug 22 15:32:49 CST 2024
+添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
