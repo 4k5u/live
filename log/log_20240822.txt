@@ -357,3 +357,13 @@ Thu Aug 22 11:24:46 CST 2024
 删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1N0Y2NjYyRC00NDlELTREODAtODM2Ri0xRDIwOEUxMjQwNzgiLCJ2aWV3ZXItaWQiOiIyNTAzNjk0NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyNzcwOTAsImV4cCI6MTcyNDI3NzY5MH0.df7IUdLDyQrL177OqPUkGwVFYH4uvpEwIo0CCy_Vqv3gVC2_laZs1hi3Z1RU2Du0ItnaXeLIHjvb5y_0S0bSr_JRpo3Cg6oUg6jOaoELZXLslIgNo9yPJxuhrfZD1TlR
 删除amilia4u https://edge2-sea.live.mmcdn.com/live-hls/amlst:amilia4u-sd-134e11bdde72656bdc9a45811d816da4090138600028bc069fcb300199c44797_trns_h264/playlist.m3u8
 删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加sexygamesx https://edge8-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-f9ca887b1a778bea3fbaa6c9809a6d1c1feed3d03127555b0c189c3f18b5ef4c_trns_h264/playlist.m3u8
+Thu Aug 22 11:38:56 CST 2024
+添加won110 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.fYJ3Ue8cRoOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ZZSjNVZThjUm9PbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2QzA4QTIxMC05REE0LTQ0MTQtOTY3My1BNTY0MTc5NjFFMUEiLCJ2aWV3ZXItaWQiOiIyNDQ0NjY1OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyOTc5MzksImV4cCI6MTcyNDI5ODUzOX0.r6pYkStg_ZEN31BXi3wpEV6yVa0-QZi9g6B6Ic4FclWbRjHVCcLKPXgFX8BQ7peGqkOnbLig9HAyWa1XkfNCE_WT1E1mpwJlrn50McniYeKyZbUFRktZ8GehZeIp9UI-
+Thu Aug 22 11:39:06 CST 2024
+Thu Aug 22 11:40:58 CST 2024
+Thu Aug 22 11:41:12 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
