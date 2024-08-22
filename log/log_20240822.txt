@@ -505,3 +505,9 @@ Thu Aug 22 16:30:53 CST 2024
 删除joysuniverse https://edge16-atl.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-805db2b0c7c68cc8c26e083cb750de77422c63c56e99f252cc3749c604898d58_trns_h264/playlist.m3u8
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Thu Aug 22 16:42:08 CST 2024
+Thu Aug 22 16:42:23 CST 2024
+Thu Aug 22 16:44:23 CST 2024
+Thu Aug 22 16:44:40 CST 2024
+添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
