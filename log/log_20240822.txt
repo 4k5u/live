@@ -481,3 +481,10 @@ Thu Aug 22 15:43:13 CST 2024
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 删除your_desssert https://edge20-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-2d19f9abefed206109c766e8f724a67a121e785a114f1b94deddd1ddc7a3f982_trns_h264/playlist.m3u8
+Thu Aug 22 15:52:17 CST 2024
+Thu Aug 22 15:52:25 CST 2024
+Thu Aug 22 15:54:09 CST 2024
+Thu Aug 22 15:56:36 CST 2024
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMTJBNTU2Ni0zNkM3LTQyRUYtODBCMi01NTJFMzU5MzFEM0EiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyOTMwMTgsImV4cCI6MTcyNDI5MzYxOH0.PLB4zkAtOUC_HzHHa1Cmpz8Zj5Z0W3nb3JXzi_ixn9N0Zqxf5GgVa1MME-3l970xPqhVyi-M1iw4tDZ7qX9DFlPpwIBZNbkx5e0L1igTEqWWtYbHwdBrqnM4esJnsqg5
