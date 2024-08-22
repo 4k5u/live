@@ -392,3 +392,11 @@ Thu Aug 22 12:28:32 CST 2024
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除sexygamesx https://edge8-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-f9ca887b1a778bea3fbaa6c9809a6d1c1feed3d03127555b0c189c3f18b5ef4c_trns_h264/playlist.m3u8
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加sexygamesx https://edge28-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-63a92ce98477e071afbe6f53befe4bd961a36da6c7a11b10b93878c0d8b584fa_trns_h264/playlist.m3u8
+Thu Aug 22 12:40:04 CST 2024
+Thu Aug 22 12:40:10 CST 2024
+Thu Aug 22 12:41:53 CST 2024
+Thu Aug 22 12:42:05 CST 2024
+添加qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
