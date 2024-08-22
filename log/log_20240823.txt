@@ -137,3 +137,10 @@ Fri Aug 23 04:01:29 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._1JIFKxcAsxV8-HqkxKgHMllJ2i2vLYM9U3iqsOdH-TmQehiGi_wPLA35GelgsgG19tO4pJD7kwlO9-QPJfaug
+Fri Aug 23 04:23:25 CST 2024
+Fri Aug 23 04:23:25 CST 2024
+Fri Aug 23 04:25:15 CST 2024
+Fri Aug 23 04:25:28 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除lolsos https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.uJwiD8aLzeKtf5Z3ARv75r_kS-47dx8braRXl3CVh8vZz1ieIH_-0OMKkNJgAk9eAxk657abQhPN6I46ztxldQ
