@@ -349,3 +349,11 @@ Thu Aug 22 11:00:22 CST 2024
 Thu Aug 22 11:00:36 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+Thu Aug 22 11:22:31 CST 2024
+Thu Aug 22 11:22:37 CST 2024
+Thu Aug 22 11:24:32 CST 2024
+Thu Aug 22 11:24:46 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1N0Y2NjYyRC00NDlELTREODAtODM2Ri0xRDIwOEUxMjQwNzgiLCJ2aWV3ZXItaWQiOiIyNTAzNjk0NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQyNzcwOTAsImV4cCI6MTcyNDI3NzY5MH0.df7IUdLDyQrL177OqPUkGwVFYH4uvpEwIo0CCy_Vqv3gVC2_laZs1hi3Z1RU2Du0ItnaXeLIHjvb5y_0S0bSr_JRpo3Cg6oUg6jOaoELZXLslIgNo9yPJxuhrfZD1TlR
+删除amilia4u https://edge2-sea.live.mmcdn.com/live-hls/amlst:amilia4u-sd-134e11bdde72656bdc9a45811d816da4090138600028bc069fcb300199c44797_trns_h264/playlist.m3u8
+删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
