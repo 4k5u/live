@@ -29,3 +29,4 @@ chuing77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bve2VGU61bIx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2J2ZTJWR1U2MWJJeCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzREUyMUQ3OC02NUI1LTQ4NzgtOEY0RC1DQjI2Njc2N0ZBQzEiLCJ2aWV3ZXItaWQiOiIxNjA2NTg0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ0MTI1ODksImV4cCI6MTcyNDQxMzE4OX0.DcSt8UFAUIT5esrXw6BJV-Dya6HCVUCYyA4uAZWWCh2VaIeXrmnVkpGpZZ4pD7kbo8VshQycxk4Zmh7N4M4LnWnb6-3Yjlwhr-aiV7fEMDsF7Pt6NFgxm0TcbFpbE8bk
 y1026 https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=null
 Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+JessicaRewan https://edge-hls.doppiocdn.live/hls/142493768/master/142493768_auto.m3u8
