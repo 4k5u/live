@@ -330,3 +330,9 @@ Fri Aug 23 10:32:00 CST 2024
 删除kiyoko_rin https://edge28-atl.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-fade7de6013a9cfb7d992734c9b877462694270d942a0f82e3dd80313b213b9d_trns_h264/playlist.m3u8
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除sexygamesx https://edge1-mia.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-1397f6d1ef98842810fe584d83bae3862c7e598e78e0ce883c00979b04ed1491_trns_h264/playlist.m3u8
+Fri Aug 23 10:52:25 CST 2024
+Fri Aug 23 10:52:29 CST 2024
+添加kmj87990 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yyEwQfnGtNBut9ZZwyvZhNw1ixYnRFh6_s7XY-nGHpvEoF6Rdj7TCiVZHfdkkvfAnD1FR1ZGUYeJ96aoHjg8XA
+Fri Aug 23 10:54:29 CST 2024
+Fri Aug 23 10:54:43 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
