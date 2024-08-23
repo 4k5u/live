@@ -443,3 +443,8 @@ Fri Aug 23 14:27:29 CST 2024
 添加qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
 删除joysuniverse https://edge2-lax.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-d2b48bf35704ee78f50747c332495fc762799b9be571304553aa28c9af930dcf_trns_h264/playlist.m3u8
 删除ake_mi https://edge5-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-70b2810be2cf39591266c5ec5a6e998f57b3f5f0e73c77dfc0b61797b014df51_trns_h264/playlist.m3u8
+Fri Aug 23 14:42:44 CST 2024
+Fri Aug 23 14:42:56 CST 2024
+Fri Aug 23 14:44:48 CST 2024
+Fri Aug 23 14:45:02 CST 2024
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
