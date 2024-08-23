@@ -548,3 +548,10 @@ Fri Aug 23 17:51:14 CST 2024
 Fri Aug 23 17:51:28 CST 2024
 Fri Aug 23 17:53:21 CST 2024
 Fri Aug 23 17:53:35 CST 2024
+Fri Aug 23 18:01:42 CST 2024
+添加acron5 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.c0gT34HJRNpP.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2MwZ1QzNEhKUk5wUCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGRkE5NkE4QS1BMTlCLTRGRTgtOEZFQi0yOUU4NzI3QTZERUYiLCJ2aWV3ZXItaWQiOiIyNDcyMzk3MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ0MDczMDYsImV4cCI6MTcyNDQwNzkwNn0.8vBFecILtgphJ9LMShFjdPQzVhnz0QjGhekdubJVpWKQNf3FRhrFSItgZIcPCwtoEksSgPQVQ9_gNxgnKTQbuZQBm91kXuoF3Us9WlwSc6a7s54e5Be_6ymW8hGnYWvt
+Fri Aug 23 18:02:01 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gUXVhToJ-KvtZaUbVias8O-149wjnDC50jgYzmQBMVTl3b77aF5Md25AF-YVnE9pgGsIHpVgOl4cxi-tJRiN5Q
+Fri Aug 23 18:03:50 CST 2024
+Fri Aug 23 18:04:02 CST 2024
+删除your_desssert https://edge3-slc.live.mmcdn.com/live-hls/amlst:your_desssert-sd-0495f54bbd89d25af9dae878db5b2eff249d48bac0008208f0a985ede9853a29_trns_h264/playlist.m3u8
