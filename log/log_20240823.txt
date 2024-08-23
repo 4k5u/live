@@ -391,3 +391,9 @@ Fri Aug 23 12:47:05 CST 2024
 Fri Aug 23 12:48:58 CST 2024
 Fri Aug 23 12:49:12 CST 2024
 删除amilia4u https://edge2-slc.live.mmcdn.com/live-hls/amlst:amilia4u-sd-9f69f73b73bd58848dad25da5c07551863ba05c7b4527cb57d6c48aca67accd7_trns_h264/playlist.m3u8
+Fri Aug 23 12:58:08 CST 2024
+Fri Aug 23 12:58:16 CST 2024
+Fri Aug 23 12:59:59 CST 2024
+Fri Aug 23 13:00:11 CST 2024
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
