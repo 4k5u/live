@@ -272,3 +272,9 @@ Sat Aug 24 07:19:15 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除gina_gracia https://edge19-atl.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-9ab467f572b8bb97d36d4614049eba0e16c213563628c70bca7195016e4bb5e0_trns_h264/playlist.m3u8
 删除mazzanti_ https://edge11-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-f6fa4aed8efcd7d1abf64f8db50bdfc10b448a4d8fbd1466c2b47b76ce901779_trns_h264/playlist.m3u8
+Sat Aug 24 07:28:27 CST 2024
+Sat Aug 24 07:28:31 CST 2024
+Sat Aug 24 07:30:22 CST 2024
+Sat Aug 24 07:30:36 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
