@@ -40,3 +40,13 @@ Sat Aug 24 00:53:56 CST 2024
 删除galantini https://edge11-lax.live.mmcdn.com/live-hls/amlst:galantini-sd-63f945b5884fb14592e05ee8b8f2565ab3b6f32c056510835485dad42a491177_trns_h264/playlist.m3u8
 删除dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.2MUvMyqyuQFW.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8yTVV2TXlxeXVRRlciLCJleHAiOjE3MjQ0NjMxNjYwMjYsImlhdCI6MTcyNDQxOTk2Nn0.WEnTXlIyFx1efx1Y3cIWhFMIYPgn7VAUkA2GRDrzp-yewdEYI8PfUILGVKS6BnRriUf_xpuVpGBIWry35ljXWBlLFLCaLCFvQVr0fTT8IE5tSA_fbUmcvXSg0--PxfwM
 删除JessicaRewan https://edge-hls.doppiocdn.live/hls/142493768/master/142493768_auto.m3u8
+Sat Aug 24 01:01:10 CST 2024
+Sat Aug 24 01:01:32 CST 2024
+Sat Aug 24 01:03:26 CST 2024
+Sat Aug 24 01:03:40 CST 2024
+添加bps1016 https://usher.ttvnw.net/api/channel/hls/bps1016.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22bps1016%22%2C%22channel_id%22%3A752742297%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1724433829%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.210.136%22%2C%22version%22%3A2%7D&sig=dc757a7dc20e928d020884b6331b2fe686ea4181&allow_source=true&allow_audio_only=true
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
