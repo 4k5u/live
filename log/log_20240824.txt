@@ -129,3 +129,12 @@ Sat Aug 24 03:04:44 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
 删除168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
+Sat Aug 24 03:20:17 CST 2024
+Sat Aug 24 03:20:23 CST 2024
+Sat Aug 24 03:22:15 CST 2024
+Sat Aug 24 03:22:30 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-20/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.j1gLdXGmeNrFuiWzjsG82FzCubwm2Sahd7rY2dFBKwRu5g-pLUGQdVoZ5bdzWsebJnR9MOKucv-GZK73VdhLnw
+删除ee5844 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sqZhpatfnW7L.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NxWmhwYXRmblc3TCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNUFCQ0FFNi1GODZFLTRGOUQtQjU1QS1DRjg1MkU5NTIwMTAiLCJ2aWV3ZXItaWQiOiIyNTEyMzAzOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ0MjY0NzksImV4cCI6MTcyNDQyNzA3OX0.2SZHJjxRymFtVWPmm_NI1yIGQH-nGeSq3HgRWdyWPDvkxxaCsxZMtqSKSJI8cXgZXkVQvMF-53aD69UIDjcbyUYc3Uhhr4XgPqFsMVpJlp-9SfDfhTUPFauXD7nXgBCX
+删除100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwQkE2QjU1OS00Mzc5LTQ1NkUtQThDNC01NDkwNEM5REZGNjYiLCJ2aWV3ZXItaWQiOiIyNDIzNzE5MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ0MjgwMzksImV4cCI6MTcyNDQyODYzOX0.9mEVHPMsuMv6fxS0CTNcZv_UYJIxYR2kos5wg-meFerHqzPupFAKqw2F3UAlJgnczYjxkXqmwY9h71eHFUMi3Pe9qz2-bgUBhT2KvWeS6poFFI4Uix9-pW_U1gzc9Ef8
