@@ -609,3 +609,10 @@ Fri Aug 23 19:29:55 CST 2024
 Fri Aug 23 19:31:52 CST 2024
 Fri Aug 23 19:32:06 CST 2024
 删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+Fri Aug 23 19:40:07 CST 2024
+Fri Aug 23 19:40:35 CST 2024
+Fri Aug 23 19:42:23 CST 2024
+Fri Aug 23 19:42:37 CST 2024
+添加Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+删除joysuniverse https://edge15-lax.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-667cea2fc289e56ba53fad3f2fdf3456ada706d190e6787a9c1e93fb23b616a7_trns_h264/playlist.m3u8
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
