@@ -72,3 +72,10 @@ Sat Aug 24 01:36:29 CST 2024
 删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQUI2NTNFMy02OUY3LTQ4MTMtQUFGRC00RjgzRUJBNjkwNDYiLCJ2aWV3ZXItaWQiOiIxOTU4ODgzNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ0MjUwNjMsImV4cCI6MTcyNDQyNTY2M30.5DP5eQo4FfWgsDPaz3A3pH4eLrsbwcVqdPYmhUn61gY2OfZZEp3XiC4fh5eteGHpT5lx_fJx9DeylnAcVWQ_qiKDtf6sZfw0a9Eu5G3ozWT-Iw3f9c_hpzFA7p5CAOTU
 删除Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+Sat Aug 24 01:47:13 CST 2024
+Sat Aug 24 01:47:31 CST 2024
+Sat Aug 24 01:49:21 CST 2024
+Sat Aug 24 01:49:34 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
