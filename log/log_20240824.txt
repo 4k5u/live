@@ -168,3 +168,10 @@ Sat Aug 24 04:03:29 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Sat Aug 24 04:25:03 CST 2024
+Sat Aug 24 04:25:05 CST 2024
+Sat Aug 24 04:26:56 CST 2024
+Sat Aug 24 04:27:08 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
