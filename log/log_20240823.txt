@@ -336,3 +336,12 @@ Fri Aug 23 10:52:29 CST 2024
 Fri Aug 23 10:54:29 CST 2024
 Fri Aug 23 10:54:43 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加amilia4u https://edge24-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-9f69f73b73bd58848dad25da5c07551863ba05c7b4527cb57d6c48aca67accd7_trns_h264/playlist.m3u8
+Fri Aug 23 11:18:31 CST 2024
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMUNDNDJDRi1BNUY3LTQzMzItOUFGMi1BRDI5QzcwQ0NGRjgiLCJ2aWV3ZXItaWQiOiIyMTk4OTAwMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQzODMxMTMsImV4cCI6MTcyNDM4MzcxM30.Q4X2ejnXyWoVLEvJCeO6_HGCkRGWQzK_dpc7-6noda08Mi0WzXjWhmECFyPe1PkaIQCM9rIEmWJz92cd6ApWaC2ceN7_bOurSj2ZFyfXUqK1XqdeGfnsLCr_PXzbrF6E
+Fri Aug 23 11:18:36 CST 2024
+Fri Aug 23 11:20:27 CST 2024
+Fri Aug 23 11:20:41 CST 2024
+删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MjkwMTdFRi01ODdGLTQ2RkYtQTI1OC0wRTA3MzNBMEZBMTAiLCJ2aWV3ZXItaWQiOiIyNTAzNjk0NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQzNjM4MzMsImV4cCI6MTcyNDM2NDQzM30.LnM7UIxiWPzz_NxLHuNR9AhZEXNAtCJNCvLtYaH0Eg4rH-h3GDUdLj8fMzXwlU4mZ53yQHQYozq8nSsttzwkqpnSOLUHwu9GeEHleg86jMCfkAaozF2i0k9zDfyCfS_j
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
