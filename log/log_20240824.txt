@@ -624,3 +624,8 @@ Sat Aug 24 18:49:01 CST 2024
 Sat Aug 24 18:49:16 CST 2024
 添加MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Sat Aug 24 18:56:49 CST 2024
+Sat Aug 24 18:57:05 CST 2024
+添加alswl2208 https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7NSboEYqxzpGeWehFcqmw9zT8IOVDIe04uVXVToMpGZkRe6ufg0gvIIlnzLuJ46TL424cw_oFXy-La_DtVX_ng
+Sat Aug 24 18:59:04 CST 2024
+Sat Aug 24 18:59:18 CST 2024
