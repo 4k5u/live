@@ -397,3 +397,10 @@ Sat Aug 24 10:31:20 CST 2024
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除lovemeimscared https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.MstaoY27metS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL01zdGFvWTI3bWV0UyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NTBGNDcyNi05NkFBLTRCMTMtQkM3Mi02MDAwODBGMzM5MjgiLCJ2aWV3ZXItaWQiOiIyNDI5NDY3OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ0NjM1MDAsImV4cCI6MTcyNDQ2NDEwMH0.hAa73KqS8z_fahvjP9Tb2TKc9p_8W-oIlq6RYF9-33LpczgQ32wUBOOmp6UzfrjYLkjGVPvALTrHr_26jIrDd3ruDLAqhpDPB2GprmJ0vxImggvuvzFKAmWcYY-FydAe
+添加amilia4u https://edge16-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-249755d784f74ab6ebdfe624c53145038e232858fe24c93d99c99c84c7811bd8_trns_h264/playlist.m3u8
+添加joysuniverse https://edge9-aus.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-71cca98847d9608397addf3c7b0e17154b9b98da8591b9a14a13385e8cc8ccd5_trns_h264/playlist.m3u8
+Sat Aug 24 10:51:39 CST 2024
+Sat Aug 24 10:51:47 CST 2024
+Sat Aug 24 10:53:35 CST 2024
+Sat Aug 24 10:53:48 CST 2024
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
