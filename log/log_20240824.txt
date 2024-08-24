@@ -454,3 +454,9 @@ Sat Aug 24 12:49:52 CST 2024
 Sat Aug 24 12:51:45 CST 2024
 Sat Aug 24 12:51:59 CST 2024
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加amilia4u https://edge4-mia.live.mmcdn.com/live-hls/amlst:amilia4u-sd-249755d784f74ab6ebdfe624c53145038e232858fe24c93d99c99c84c7811bd8_trns_h264/playlist.m3u8
+Sat Aug 24 12:59:37 CST 2024
+Sat Aug 24 12:59:49 CST 2024
+Sat Aug 24 13:01:43 CST 2024
+Sat Aug 24 13:01:57 CST 2024
+删除joysuniverse https://edge9-aus.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-71cca98847d9608397addf3c7b0e17154b9b98da8591b9a14a13385e8cc8ccd5_trns_h264/playlist.m3u8
