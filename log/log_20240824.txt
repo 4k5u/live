@@ -385,3 +385,15 @@ Sat Aug 24 09:40:22 CST 2024
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+Sat Aug 24 10:28:57 CST 2024
+Sat Aug 24 10:29:05 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.P4QaPpnoRSO50Mmr2hYPzfPeQHM6AgAFcGZ8E51OZpBHLamn_bdVKYHdWM_Y8EqCJaEu2aeElW-uL_3s5u7GEQ
+Sat Aug 24 10:31:05 CST 2024
+Sat Aug 24 10:31:20 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除kiyoko_rin https://edge11-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-b785f820098e01fbbef084fc9c6dc7f28cfa3bae1f1c7465294a25e8e70677de_trns_h264/playlist.m3u8
+删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除lovemeimscared https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.MstaoY27metS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL01zdGFvWTI3bWV0UyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NTBGNDcyNi05NkFBLTRCMTMtQkM3Mi02MDAwODBGMzM5MjgiLCJ2aWV3ZXItaWQiOiIyNDI5NDY3OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ0NjM1MDAsImV4cCI6MTcyNDQ2NDEwMH0.hAa73KqS8z_fahvjP9Tb2TKc9p_8W-oIlq6RYF9-33LpczgQ32wUBOOmp6UzfrjYLkjGVPvALTrHr_26jIrDd3ruDLAqhpDPB2GprmJ0vxImggvuvzFKAmWcYY-FydAe
