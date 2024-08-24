@@ -92,3 +92,13 @@ Sun Aug 25 02:52:18 CST 2024
 Sun Aug 25 02:52:32 CST 2024
 删除168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Sun Aug 25 03:00:24 CST 2024
+Sun Aug 25 03:00:29 CST 2024
+Sun Aug 25 03:02:21 CST 2024
+Sun Aug 25 03:02:35 CST 2024
+添加badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+添加ciara-yiyi https://edge-hls.doppiocdn.live/hls/150755261/master/150755261_auto.m3u8
+删除smmms2002 https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0daDsmno2JbbaFqTMHV2UR2ZV0Xlq-jJy-uWTyr71m82DGLeAmAhUsDWOkaz5VBEunQQDI8NjzZLJ1VgukkDOg
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HHDE9CL36phGXqS7TmKxxF0_qDlRryyMbhfdKMaBxgO6XTnMqtRrw8NfE2cbxdImU7PXyGqJyTeYFgwuw7lXuw
+删除minion998 https://edge-hls.doppiocdn.live/hls/131654942/master/131654942_auto.m3u8
