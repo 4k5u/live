@@ -785,3 +785,9 @@ Sat Aug 24 23:32:49 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.d4skZmXRChaD.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2Q0c2tabVhSQ2hhRCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNjIwMTU5QS00N0IzLTQxQjAtODYwOS1BNjY3RTY3NkY1MkEiLCJ2aWV3ZXItaWQiOiIyNDU2Mzc4MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ0OTM0NzQsImV4cCI6MTcyNDQ5NDA3NH0.xFhba40NQfrB8lUt0kFrrKafIVMyDw-seWm4BgbBqCt078c2KXM76advA_0N1ZPTDpu6oj29ty_DFhE80459AiOqYpZhrZBbmK1B3nLF1ZFjdRpx1PcGnQ5V4v_YoBv7
 删除lolsos https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.oa1L8F71ibuKy7HjV-A8hgPXmt3u-eSUoXtiecm9AWc0Wd15R-po9lUTMEgdQ3525WdKyyQWZcnIxwzjo609Eg
+Sat Aug 24 23:40:42 CST 2024
+Sat Aug 24 23:41:14 CST 2024
+Sat Aug 24 23:43:07 CST 2024
+Sat Aug 24 23:43:21 CST 2024
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
