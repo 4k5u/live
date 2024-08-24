@@ -33,3 +33,4 @@ JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u
 Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
