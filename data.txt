@@ -9,3 +9,4 @@ gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-36/auth_master_pla
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 mazzanti_ https://edge9-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-1d59c6224b7e3a8b279b40f60a917cc5b0b2b8965abcd2c4e6ac3488f31170af_trns_h264/playlist.m3u8
 Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+sexygamesx https://edge2-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-fbd40c448aa4cf8cce04c43f2a8e1974faeab3c759b6e519e95b537abf6a7b91_trns_h264/playlist.m3u8
