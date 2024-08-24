@@ -26,3 +26,4 @@ Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m
 MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
 ehdbs0105 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OC5AksAoFbb6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09DNUFrc0FvRmJiNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NjE4MUREMy01ODVBLTQzNDAtOEUzNS1BMUY3M0ZFQjhEQzUiLCJ2aWV3ZXItaWQiOiIyNTIyMzUxNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ0NzQzNTQsImV4cCI6MTcyNDQ3NDk1NH0.IjAqerruvFeFojuYyGJwqf8YR34mxC7rViLR5qCKarM69IXEnzGESD3VgTRRVHgxBCc9K7TAYGLvzvDmvNgGSdM9KvmvXwr1pR4AiAKCz1m9B3Pa1IP1ayMobf2Ig2CT
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
