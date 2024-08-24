@@ -25,3 +25,4 @@ joysuniverse https://edge9-aus.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-71c
 miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDN0Q4ODZFOC0xMkQ5LTQzQUEtQjAyNS1GRTVDNjdFMjYzMTIiLCJ2aWV3ZXItaWQiOiIyMTk4OTAwMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ0Njg1MTcsImV4cCI6MTcyNDQ2OTExN30.KeO--H29RK5jaTLy-0TW_CmY0X08ACz2Y8dAJxjbpS5awZiJAIEdz7pB9yKt7S3T-YRAfUtHBpQ8OO2XYEXmwscOrbE7YWxANMCcwl4iQNt_mqynLTjk9Ltl8glED2Uo
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
