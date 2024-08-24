@@ -4,10 +4,10 @@ bps1016 https://usher.ttvnw.net/api/channel/hls/bps1016.m3u8?client_id=kimne78kx
 kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.P4QaPpnoRSO50Mmr2hYPzfPeQHM6AgAFcGZ8E51OZpBHLamn_bdVKYHdWM_Y8EqCJaEu2aeElW-uL_3s5u7GEQ
 acron5 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.c0gT34HJRNpP.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2MwZ1QzNEhKUk5wUCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MzU5QUMwRC05RDY1LTREQTAtQjQ4Ny1EQzE2MDMxOEQ3MEYiLCJ2aWV3ZXItaWQiOiIyNDcyMzk3MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ0NzMzOTYsImV4cCI6MTcyNDQ3Mzk5Nn0.hqvqtkVxicZ3VeNZwH7ZxxCAoXmgVvvz5tb2dCstqBilwxortV1TF5_0pMzF9Dvk_uUNwmzwWZj4bArmCTLnPXW6BksrnfNlICNsc3R7SFy05OG93W-CXym2RpIz_moS
 yeonyumilk https://live-global-cdn-v02.afreecatv.com/live-stm-20/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dYm8sxi-I6pCfqmUKmM03KJkyApmTn8znXTTh4bNoYOqZ44d2MfGDYYEYOfMzoQdWL0IWN69XFkuLwH_sWB2hw
-glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MH48TnXFJWwwcy9X1VUCYhf60mHsULp-5y8qS_JNUV6EgO2eL7iQAl7TtzTLvFcluVlq2ae9yFgU9LwQoscJVQ
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 kiyoko_rin https://edge6-chi.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-7a19f22799c658bba0a6a9469be8fe29156d67f4bd1f1a80102cb22312aac2de_trns_h264/playlist.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.QQNAIYRxkAEGWgdWrCH9qyeQbjgTmWKJvncEqfWpE5We4t5ycjptG6iwnu9ggwbywsrMhXvKahjZzSnRnDyZGQ
 badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 ciara-yiyi https://edge-hls.doppiocdn.live/hls/150755261/master/150755261_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
