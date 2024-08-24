@@ -195,3 +195,10 @@ Sun Aug 25 06:59:05 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+Sun Aug 25 07:16:49 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzRDc1MzFCRS0yODhBLTRBQjYtQTE0MC02OTUyRTBENTIwMkYiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1NDE0MTIsImV4cCI6MTcyNDU0MjAxMn0.8IaaU8q1isF4rlxatHxBaMZu214sgixtP2AymlAXfeBIjXFJTNH1xSC4q6nS2rrSjkzViHUpG1ZLIxp53ljHFiInd_EQdjdQFEXz7fPwtvINnzpw3mOtuL6WFlgWkTvj
+Sun Aug 25 07:16:55 CST 2024
+Sun Aug 25 07:18:47 CST 2024
+Sun Aug 25 07:19:01 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
