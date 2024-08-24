@@ -751,3 +751,10 @@ Sat Aug 24 22:35:28 CST 2024
 Sat Aug 24 22:35:40 CST 2024
 添加ciara-yiyi https://edge-hls.doppiocdn.live/hls/150755261/master/150755261_auto.m3u8
 删除NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
+Sat Aug 24 22:46:52 CST 2024
+Sat Aug 24 22:47:34 CST 2024
+Sat Aug 24 22:49:26 CST 2024
+Sat Aug 24 22:49:40 CST 2024
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除dana9282 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.f3h98P9qXjHb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2YzaDk4UDlxWGpIYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNkQ5NkMxNi04RDQ0LTRFMEQtQTA0OS1FMjgyRUEwOUY2RDEiLCJ2aWV3ZXItaWQiOiIxOTA4NDIwNiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1MDU3OTcsImV4cCI6MTcyNDUwNjM5N30.Zt3IAbtf_E-jGuB95nufDsiVc7e5FWkaNAhUBlGGNvQSVygPy61w_Z7lVgaL-SJujio9rddZxt0kYQln8OXzkOFXSgSfD1acnSrk6b_TXs4Zeei8w5uecaiG43zPSKfk
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
