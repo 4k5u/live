@@ -728,3 +728,10 @@ Sat Aug 24 21:49:48 CST 2024
 Sat Aug 24 21:51:43 CST 2024
 Sat Aug 24 21:51:57 CST 2024
 删除Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
+Sat Aug 24 21:59:23 CST 2024
+Sat Aug 24 22:00:03 CST 2024
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HHDE9CL36phGXqS7TmKxxF0_qDlRryyMbhfdKMaBxgO6XTnMqtRrw8NfE2cbxdImU7PXyGqJyTeYFgwuw7lXuw
+Sat Aug 24 22:02:06 CST 2024
+Sat Aug 24 22:02:21 CST 2024
+删除MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
+删除alswl2208 https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7NSboEYqxzpGeWehFcqmw9zT8IOVDIe04uVXVToMpGZkRe6ufg0gvIIlnzLuJ46TL424cw_oFXy-La_DtVX_ng
