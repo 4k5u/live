@@ -356,3 +356,10 @@ Sun Aug 25 14:44:18 CST 2024
 删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 删除amilia4u https://edge4-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-16337f03bee05fa68a706017ea5f3255d274239212bf13db667cf5b64cbb7af2_trns_h264/playlist.m3u8
 删除intim_mate https://edge23-chi.live.mmcdn.com/live-hls/amlst:intim_mate-sd-310f70037f18805a0248489d1b804274e1c1abb930eef9f1340825176f9392f9_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge2-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-229bfb135398af7bf0aa1184b6c2e7715710d66bec47af7b891ab3ee029a3e69_trns_h264/playlist.m3u8
+Sun Aug 25 14:51:34 CST 2024
+Sun Aug 25 14:51:40 CST 2024
+Sun Aug 25 14:53:32 CST 2024
+添加yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3MjQ2MTE3NDg2NDUsImlhdCI6MTcyNDU2ODU0OH0.QYqV-Z0Xmsy7yEGlAbfJq2-ChOsnoM4GtDi346Ywbxs0UM_m7imoetE5t6rw5DDJyKFfdJdnzoLrDPu8EKdBawoN5p_1-MrT5y7fxMzffT7wky8RV9DYP0KPip1_fTT0
+Sun Aug 25 14:53:50 CST 2024
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
