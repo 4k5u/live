@@ -58,3 +58,12 @@ Mon Aug 26 01:26:03 CST 2024
 删除Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
 删除qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Mon Aug 26 01:39:00 CST 2024
+Mon Aug 26 01:39:08 CST 2024
+Mon Aug 26 01:40:52 CST 2024
+Mon Aug 26 01:41:04 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
