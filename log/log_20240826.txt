@@ -263,3 +263,9 @@ Mon Aug 26 06:59:08 CST 2024
 Mon Aug 26 07:01:00 CST 2024
 Mon Aug 26 07:01:14 CST 2024
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Mon Aug 26 07:20:40 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5QjMzMTIzMS00NTg2LTQwQjEtOEUwQy0zM0YzQzFCQjlFNDkiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2MjgwNDMsImV4cCI6MTcyNDYyODY0M30.Cb2lI183wzl88fMJPAIVFhEpNiyASzPwvygB5HYihRMyMLoRsg4fk1KsLdSzjBde4qiJkRTOd5OTPN3OiH0iep5SlQud7h45YlwbMHRuUZxBlB2HBJfMuic1iBxGhvav
+Mon Aug 26 07:20:46 CST 2024
+Mon Aug 26 07:22:37 CST 2024
+Mon Aug 26 07:22:51 CST 2024
+删除1004ysus https://live-global-cdn-v02.afreecatv.com/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TgPNjfvQBHA0fBWFbOCEvGNYwgqILXy_Xph4dVzH0S0TnzpdurGyz_hFkVCleEOGSVxCQ_RVwaQPd66ycuar_g
