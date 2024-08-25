@@ -302,3 +302,14 @@ Sun Aug 25 12:57:29 CST 2024
 Sun Aug 25 12:59:19 CST 2024
 Sun Aug 25 12:59:31 CST 2024
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+添加ake_mi https://edge20-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-09f5f585792ad7ac3984b8841a3d3ddaea6e14894cd1ac4faf984c920ea6c251_trns_h264/playlist.m3u8
+添加mode_bad https://edge23-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-8370bc8e576f24ea9502ddf3df8cd1f1cfceeaa6603755b7cfe0b7b5c2e4d03e_trns_h264/playlist.m3u8
+Sun Aug 25 13:18:41 CST 2024
+Sun Aug 25 13:18:47 CST 2024
+Sun Aug 25 13:20:40 CST 2024
+Sun Aug 25 13:20:55 CST 2024
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzRDc1MzFCRS0yODhBLTRBQjYtQTE0MC02OTUyRTBENTIwMkYiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1NDE0MTIsImV4cCI6MTcyNDU0MjAxMn0.8IaaU8q1isF4rlxatHxBaMZu214sgixtP2AymlAXfeBIjXFJTNH1xSC4q6nS2rrSjkzViHUpG1ZLIxp53ljHFiInd_EQdjdQFEXz7fPwtvINnzpw3mOtuL6WFlgWkTvj
+删除muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCRThDN0EwRC0yNkUyLTQ0OEYtQTZEMy1FMTU4MjBFMjEwNEYiLCJ2aWV3ZXItaWQiOiIyMzk2NDExMyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1NTMzNDUsImV4cCI6MTcyNDU1Mzk0NX0.43VIfF67nH7S6t5PKNCyXoamk3FnvoMSsVaaorKxm8aft9c3GwkQ4pekWG5oeaSevGK7NyG_EyUfQoZm62HF2OG6bs4Ik6PZpdHkLzpdiVzcujDrXPpXgo7N7zfkz0J1
