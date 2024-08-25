@@ -268,3 +268,9 @@ Sun Aug 25 11:47:15 CST 2024
 Sun Aug 25 11:48:59 CST 2024
 Sun Aug 25 11:49:11 CST 2024
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Sun Aug 25 11:57:20 CST 2024
+Sun Aug 25 11:57:30 CST 2024
+Sun Aug 25 11:59:23 CST 2024
+Sun Aug 25 11:59:38 CST 2024
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
