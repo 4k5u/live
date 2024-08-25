@@ -10,7 +10,6 @@ yeonyumilk https://live-global-cdn-v02.afreecatv.com/live-stmc-31/auth_master_pl
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
-Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
 galantini https://edge16-sea.live.mmcdn.com/live-hls/amlst:galantini-sd-ea4cf219a3937cea18f876ddbe7a168606230fd9e9c1d5ac43da8a7374cdac02_trns_h264/playlist.m3u8
 dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NDlBMzRBRS0xRjUyLTRGOUQtQTZFNS0zNEQ5RDk3M0U1MjIiLCJ2aWV3ZXItaWQiOiIyMzg4Mjc0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1NjgxNDEsImV4cCI6MTcyNDU2ODc0MX0.L57gYtcSi7jzsY64Y3tNmKwXCYdFeJFq43ZRt-gEk-3aiBmgm135ACnCrSnHF0ig5WQG9uKALmA9Jge9yiQtyRXhvdniWQh9K0-QPIDUuE70vb-5uVcfyn12Ld2IxL9Z
 my_eyes_higher https://edge2-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-229bfb135398af7bf0aa1184b6c2e7715710d66bec47af7b891ab3ee029a3e69_trns_h264/playlist.m3u8
@@ -26,3 +25,4 @@ navi04 https://live-global-cdn-v02.afreecatv.com/live-stmc-30/auth_master_playli
 qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
 miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
