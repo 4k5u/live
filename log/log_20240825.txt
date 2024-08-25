@@ -455,3 +455,8 @@ Sun Aug 25 18:21:19 CST 2024
 删除joysuniverse https://edge19-ash.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-d23a81489a4a41f32f315b40eae4a3b777da366887c15df4cb125c4a29fb053e_trns_h264/playlist.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+Sun Aug 25 18:34:38 CST 2024
+Sun Aug 25 18:34:52 CST 2024
+Sun Aug 25 18:36:43 CST 2024
+Sun Aug 25 18:36:57 CST 2024
+删除amilia4u https://edge7-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-16337f03bee05fa68a706017ea5f3255d274239212bf13db667cf5b64cbb7af2_trns_h264/playlist.m3u8
