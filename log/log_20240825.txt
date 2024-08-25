@@ -345,3 +345,14 @@ Sun Aug 25 14:24:25 CST 2024
 删除2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEMDBFMzlDMS02QjZFLTQ2RjAtQTgyRS03NDY4MDI4OTNGQzciLCJ2aWV3ZXItaWQiOiIyMTk4OTAwMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1NTU5MDAsImV4cCI6MTcyNDU1NjUwMH0.CvibxRePyfe1K0cB-fCICV_KMnrhiTSConqqxwTEqBUw_P1yowQXi9eOWq_G3MDil9-d8snXnRXLKtyn8lHpS8Y5MIs8p4rAgoUYDMxEW_ZVTN1YbrqkJHRpRmR4T0cb
 删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除ake_mi https://edge20-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-09f5f585792ad7ac3984b8841a3d3ddaea6e14894cd1ac4faf984c920ea6c251_trns_h264/playlist.m3u8
+添加galantini https://edge16-sea.live.mmcdn.com/live-hls/amlst:galantini-sd-ea4cf219a3937cea18f876ddbe7a168606230fd9e9c1d5ac43da8a7374cdac02_trns_h264/playlist.m3u8
+Sun Aug 25 14:42:16 CST 2024
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NDlBMzRBRS0xRjUyLTRGOUQtQTZFNS0zNEQ5RDk3M0U1MjIiLCJ2aWV3ZXItaWQiOiIyMzg4Mjc0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1NjgxNDEsImV4cCI6MTcyNDU2ODc0MX0.L57gYtcSi7jzsY64Y3tNmKwXCYdFeJFq43ZRt-gEk-3aiBmgm135ACnCrSnHF0ig5WQG9uKALmA9Jge9yiQtyRXhvdniWQh9K0-QPIDUuE70vb-5uVcfyn12Ld2IxL9Z
+Sun Aug 25 14:42:24 CST 2024
+Sun Aug 25 14:44:06 CST 2024
+Sun Aug 25 14:44:18 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+删除amilia4u https://edge4-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-16337f03bee05fa68a706017ea5f3255d274239212bf13db667cf5b64cbb7af2_trns_h264/playlist.m3u8
+删除intim_mate https://edge23-chi.live.mmcdn.com/live-hls/amlst:intim_mate-sd-310f70037f18805a0248489d1b804274e1c1abb930eef9f1340825176f9392f9_trns_h264/playlist.m3u8
