@@ -472,3 +472,11 @@ Sun Aug 25 18:57:53 CST 2024
 Sun Aug 25 18:59:41 CST 2024
 Sun Aug 25 18:59:54 CST 2024
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+Sun Aug 25 19:16:05 CST 2024
+添加soraa3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.EU8LO9vDCOAJ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0VVOExPOXZEQ09BSiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQjk3NTAxNy00RTkxLTRGNjktODAzRS0xNzM2MjdBMUNBREIiLCJ2aWV3ZXItaWQiOiIyNTE3NzQyMyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1ODQ1NjgsImV4cCI6MTcyNDU4NTE2OH0.H62_Smn0U8VwpfdroKiQFyL_u8Rrl66euLZfbRS9t3Y1e0RpJsMsB5K6ePrmkhLiYSichC_yoy5TPph3sUf4ieYo3QQQ-MkDo6ZLDZSWvkfRQsbbOIGo9m1uQDUSTrau
+Sun Aug 25 19:16:27 CST 2024
+Sun Aug 25 19:18:19 CST 2024
+Sun Aug 25 19:18:33 CST 2024
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3MjQ2MTE3NDg2NDUsImlhdCI6MTcyNDU2ODU0OH0.QYqV-Z0Xmsy7yEGlAbfJq2-ChOsnoM4GtDi346Ywbxs0UM_m7imoetE5t6rw5DDJyKFfdJdnzoLrDPu8EKdBawoN5p_1-MrT5y7fxMzffT7wky8RV9DYP0KPip1_fTT0
+删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
