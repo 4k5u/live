@@ -384,3 +384,10 @@ Sun Aug 25 15:48:32 CST 2024
 Sun Aug 25 15:50:21 CST 2024
 Sun Aug 25 15:50:33 CST 2024
 删除gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.QQNAIYRxkAEGWgdWrCH9qyeQbjgTmWKJvncEqfWpE5We4t5ycjptG6iwnu9ggwbywsrMhXvKahjZzSnRnDyZGQ
+添加joysuniverse https://edge19-ash.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-d23a81489a4a41f32f315b40eae4a3b777da366887c15df4cb125c4a29fb053e_trns_h264/playlist.m3u8
+Sun Aug 25 15:58:31 CST 2024
+Sun Aug 25 15:58:40 CST 2024
+Sun Aug 25 16:00:33 CST 2024
+Sun Aug 25 16:00:47 CST 2024
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
