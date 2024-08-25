@@ -249,3 +249,11 @@ Sun Aug 25 10:56:49 CST 2024
 Sun Aug 25 10:58:40 CST 2024
 Sun Aug 25 10:58:53 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加joysuniverse https://edge4-mia.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-e87d133eddf53dfe19431db464e03de447d08b42c7b0020670cd68b7cad1028c_trns_h264/playlist.m3u8
+Sun Aug 25 11:18:13 CST 2024
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEMDBFMzlDMS02QjZFLTQ2RjAtQTgyRS03NDY4MDI4OTNGQzciLCJ2aWV3ZXItaWQiOiIyMTk4OTAwMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1NTU5MDAsImV4cCI6MTcyNDU1NjUwMH0.CvibxRePyfe1K0cB-fCICV_KMnrhiTSConqqxwTEqBUw_P1yowQXi9eOWq_G3MDil9-d8snXnRXLKtyn8lHpS8Y5MIs8p4rAgoUYDMxEW_ZVTN1YbrqkJHRpRmR4T0cb
+Sun Aug 25 11:18:22 CST 2024
+Sun Aug 25 11:20:15 CST 2024
+Sun Aug 25 11:20:29 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
