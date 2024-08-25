@@ -320,3 +320,12 @@ Sun Aug 25 13:36:37 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除joysuniverse https://edge4-mia.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-e87d133eddf53dfe19431db464e03de447d08b42c7b0020670cd68b7cad1028c_trns_h264/playlist.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+添加intim_mate https://edge23-chi.live.mmcdn.com/live-hls/amlst:intim_mate-sd-310f70037f18805a0248489d1b804274e1c1abb930eef9f1340825176f9392f9_trns_h264/playlist.m3u8
+Sun Aug 25 13:46:44 CST 2024
+Sun Aug 25 13:46:50 CST 2024
+Sun Aug 25 13:48:40 CST 2024
+Sun Aug 25 13:48:53 CST 2024
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除my_eyes_higher https://edge3-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-5fd8f8861c5219f408d00a3b79ff04f6aadbab41e86cee8ee8b47a02d6ecd5c4_trns_h264/playlist.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除mode_bad https://edge23-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-8370bc8e576f24ea9502ddf3df8cd1f1cfceeaa6603755b7cfe0b7b5c2e4d03e_trns_h264/playlist.m3u8
