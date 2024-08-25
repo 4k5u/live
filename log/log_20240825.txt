@@ -291,3 +291,8 @@ Sun Aug 25 12:39:21 CST 2024
 Sun Aug 25 12:39:35 CST 2024
 删除intim_mate https://edge24-ash.live.mmcdn.com/live-hls/amlst:intim_mate-sd-310f70037f18805a0248489d1b804274e1c1abb930eef9f1340825176f9392f9_trns_h264/playlist.m3u8
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+Sun Aug 25 12:47:09 CST 2024
+Sun Aug 25 12:47:19 CST 2024
+Sun Aug 25 12:49:12 CST 2024
+Sun Aug 25 12:49:25 CST 2024
+删除yeonyumilk https://live-global-cdn-v02.afreecatv.com/live-stm-20/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dYm8sxi-I6pCfqmUKmM03KJkyApmTn8znXTTh4bNoYOqZ44d2MfGDYYEYOfMzoQdWL0IWN69XFkuLwH_sWB2hw
