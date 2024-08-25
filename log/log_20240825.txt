@@ -519,3 +519,10 @@ Sun Aug 25 20:41:41 CST 2024
 添加NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bve2VGU61bIx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2J2ZTJWR1U2MWJJeCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGOTNCRjg5Ni1EMDRELTQwNUEtOEEwQy04OTc1QUI4QjU1OTUiLCJ2aWV3ZXItaWQiOiIxNjA2NTg0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1NzA1NzEsImV4cCI6MTcyNDU3MTE3MX0.rHWeupJYB29naJshYoBY1rbZsNKQO7h_HK0ek8NF2WyBFIBIPl0E67M_0ke8-gdMC4BlJ18MRfmWyQt-8Ieh79oK-hFLeD5aea_v6x92xCmxMP-TuArTTf9sjfKiBgcN
+添加cuddles_me https://edge6-atl.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-8cf7ce9a3d3e79fbd758afbe2c1b501cf18d8db041770bd20ec2d4d7c8480069_trns_h264/playlist.m3u8
+Sun Aug 25 20:58:04 CST 2024
+Sun Aug 25 20:58:32 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.poYtdFvDtCrxMExUXle8rRyhT-Gw9Gc3Fcn7VsExNQwk6tMifp2L4dP2CswwxStgQDIufJlXzMOhivHMU4lV7Q
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nlvOTU32ykOv_iLKvl7Q51FI4uHWDzkBGLRqxSkwOqPaTvb_DAGFA5BmeYAfB2QAeZkH3RIOr3DzG-AkPaA1ag
+Sun Aug 25 21:00:35 CST 2024
+Sun Aug 25 21:00:50 CST 2024

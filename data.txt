@@ -29,3 +29,6 @@ kmj87990 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playl
 y1026 https://live-global-cdn-v02.afreecatv.com/live-stmc-29/auth_master_playlist.m3u8?aid=null
 NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
 cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+cuddles_me https://edge6-atl.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-8cf7ce9a3d3e79fbd758afbe2c1b501cf18d8db041770bd20ec2d4d7c8480069_trns_h264/playlist.m3u8
+kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.poYtdFvDtCrxMExUXle8rRyhT-Gw9Gc3Fcn7VsExNQwk6tMifp2L4dP2CswwxStgQDIufJlXzMOhivHMU4lV7Q
+eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nlvOTU32ykOv_iLKvl7Q51FI4uHWDzkBGLRqxSkwOqPaTvb_DAGFA5BmeYAfB2QAeZkH3RIOr3DzG-AkPaA1ag
