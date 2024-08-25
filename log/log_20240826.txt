@@ -132,3 +132,11 @@ Mon Aug 26 03:03:28 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNDU5NTg1Ny0yNUIyLTQ0RjYtQjMyNS0wODA3N0M2MkE3RkMiLCJ2aWV3ZXItaWQiOiIyNDg1MTIzOCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1ODk1MzQsImV4cCI6MTcyNDU5MDEzNH0.Vhb0XLn6gETnJkiBadX53CaXsSvmnBraLaI4mCSuOs3lHf92DAKgK0YVaq8a6xTLHF-2ni-r-LANq5hzyVXsH00QPO2FVAOCMAp9hEo8c1uSthqiu_EHJPsbGpNiB7BG
 删除168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
+Mon Aug 26 03:18:29 CST 2024
+Mon Aug 26 03:18:37 CST 2024
+Mon Aug 26 03:20:29 CST 2024
+Mon Aug 26 03:20:43 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除sol3712 https://live-global-cdn-v02.afreecatv.com/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.49MRSP8xMCuuVSuGHEc6pXJzozT-IjbjYnc6r4YxRsiOSc_Dp7_IwRph_Wy5piFf0_u57PhoOPPP7CKVgQ6kcQ
+删除glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.YBgQS9nfsISi2_55pK_eFPeZxikHrhnMSVDlbZMfNglB-xju2RAaN7N2uqiT3FkVK_tciWKdu6r8-WTJfNWPjQ
