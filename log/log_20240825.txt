@@ -480,3 +480,9 @@ Sun Aug 25 19:18:33 CST 2024
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3MjQ2MTE3NDg2NDUsImlhdCI6MTcyNDU2ODU0OH0.QYqV-Z0Xmsy7yEGlAbfJq2-ChOsnoM4GtDi346Ywbxs0UM_m7imoetE5t6rw5DDJyKFfdJdnzoLrDPu8EKdBawoN5p_1-MrT5y7fxMzffT7wky8RV9DYP0KPip1_fTT0
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+Sun Aug 25 19:28:21 CST 2024
+Sun Aug 25 19:28:39 CST 2024
+Sun Aug 25 19:30:30 CST 2024
+Sun Aug 25 19:30:44 CST 2024
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3OUY3NjNCOC0wQkI2LTQzMDItODlEMy0wOTYyMEVENzVBRTUiLCJ2aWV3ZXItaWQiOiIyMjg1NzUzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1NzQyMDksImV4cCI6MTcyNDU3NDgwOX0.K696xbUODqG9lRBAm6EmP9d2El0TPIftN394bw7QHWO9zj3vbH7tybbHjR2ba4-Hp30llc3SoPMpy3ZLEfui6y54lNLPRmN9csCScOUAepP9KU90KBqi3lzBa6PVpovu
