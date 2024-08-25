@@ -460,3 +460,9 @@ Sun Aug 25 18:34:52 CST 2024
 Sun Aug 25 18:36:43 CST 2024
 Sun Aug 25 18:36:57 CST 2024
 删除amilia4u https://edge7-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-16337f03bee05fa68a706017ea5f3255d274239212bf13db667cf5b64cbb7af2_trns_h264/playlist.m3u8
+Sun Aug 25 18:47:02 CST 2024
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNTdBRTA2NS02ODlDLTRDNTctQTJDRC04NUQ3MTExQjUxMUYiLCJ2aWV3ZXItaWQiOiIyMjg0MDkyNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1ODI4MzYsImV4cCI6MTcyNDU4MzQzNn0.gTnkffRLfDDHD63O6dm7cLUsySCEnRT6ddjkaKNwk-DVeyfB0rBhfv2kRoN9oTZP5HTdkzBLR0u-5vOhUOWop_iz6DN00ptjEjR1RuJruM-TtyI2Xvl23f2GIkvPShLE
+Sun Aug 25 18:47:20 CST 2024
+Sun Aug 25 18:49:10 CST 2024
+Sun Aug 25 18:49:23 CST 2024
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
