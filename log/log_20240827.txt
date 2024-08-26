@@ -42,3 +42,12 @@ Tue Aug 27 01:18:25 CST 2024
 Tue Aug 27 01:18:38 CST 2024
 删除ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwNzc3OTIwOC02QjEyLTQ0NTAtQjA3Ny0yQjlCOUE3ODJCNjYiLCJ2aWV3ZXItaWQiOiIyMjQ3Mjk0OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2NzM1MzksImV4cCI6MTcyNDY3NDEzOX0.L6s9MOxDwPO7mYey1iHIEo5G5gZPv18HIb6N9AtHQQuEYvdGXGHkUvVl2j5ACYOEOlkF-oMMtnZ3CDe7uUJTdSMQba--e0ULs3y3HtfG3JNsQ0Fy9AmhyDnzI4d57et0
 删除dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.2MUvMyqyuQFW.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8yTVV2TXlxeXVRRlciLCJleHAiOjE3MjQ3MTk2NTUzODQsImlhdCI6MTcyNDY3NjQ1NX0.A5tWYeXmJP1UMkDiwLwoYcRd_k6ib6ZCBH8TUtt5cvM48o6xpgPS3BpEgMeVnVZQJqzmbnsRXp06NtZuYmS2ZlcGQ5kvia0MSWQVPJqjny5NuCWJuOU_xB_Um2FSxSEH
+Tue Aug 27 01:31:57 CST 2024
+Tue Aug 27 01:32:09 CST 2024
+Tue Aug 27 01:34:02 CST 2024
+Tue Aug 27 01:34:16 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除ciara-yiyi https://edge-hls.doppiocdn.live/hls/150755261/master/150755261_auto.m3u8
+删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+删除ad0res https://edge16-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-3212aa5ce4cce3bb1be6ec9bfd9601622f4d267868cde98f3ced973148cdc7cc_trns_h264/playlist.m3u8

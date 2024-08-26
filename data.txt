@@ -13,13 +13,12 @@ starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 sol3712 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ITWqIL7SY99c6n4KWpxebZOWNmhsAKofhFeHa7Q63PyzQILlgQH_6Qz2jNc0TpPkHEo9NaqNjc_YNDu9Q0Jmow
 regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
-ciara-yiyi https://edge-hls.doppiocdn.live/hls/150755261/master/150755261_auto.m3u8
 glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VNPAmIBwYvHHNx4QMmm6Gq7ZOOMiJlsoB_QMHe_dUuKDgXyVX8FerOHQyao9iagzNddfk2ds2m56Xxkk-coP6A
 naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RDdCRkNCMC05QjQ4LTQwRjQtOEY3Ny1CMEMwMzNDMTQzODAiLCJ2aWV3ZXItaWQiOiIyNTA2MTk4MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2ODMxNjAsImV4cCI6MTcyNDY4Mzc2MH0.yaVhpFlK3ma2-es7X6HeQQOxAvITWU1e_YDg5sZr2h1mrX8WqAliymcb-332byxGjVgQ73j3bOlotDhubflPAE4BDI7KdEQfCGd1xQxvfGRz_7ovZyY_pHS_-3tiqhgu
 JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 bmg4262 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YOm5Vocg958e.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lPbTVWb2NnOTU4ZSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMkNFMDUzQS01MTQ2LTQ1ODMtQkExQy0zMTZFQTVBNTlGOEYiLCJ2aWV3ZXItaWQiOiIyNDg3NzY0MCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2ODc4ODMsImV4cCI6MTcyNDY4ODQ4M30.QTkixgSZ1FcmQOWlM_H2Z0OtjjaHK2Uhg_ONFc4xBgrsCpNvag-CYUVZG9LRbXeowmE84i8o3pupnR017Lq46l--jpO-etiR0hu_KaobK2PEZvCrk_2n5V3oUZ2x8Nbt
 Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
-N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
-ad0res https://edge16-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-3212aa5ce4cce3bb1be6ec9bfd9601622f4d267868cde98f3ced973148cdc7cc_trns_h264/playlist.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
