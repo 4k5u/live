@@ -454,3 +454,10 @@ Mon Aug 26 16:32:20 CST 2024
 删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+Mon Aug 26 16:44:33 CST 2024
+Mon Aug 26 16:44:41 CST 2024
+Mon Aug 26 16:46:30 CST 2024
+Mon Aug 26 16:46:43 CST 2024
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
