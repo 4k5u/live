@@ -6,3 +6,5 @@ ciara-yiyi https://edge-hls.doppiocdn.live/hls/150755261/master/150755261_auto.m
 kiyoko_rin https://edge8-mia.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-2dca5218e716894fc94d95509f659f99c9f096a6dc6d3dc1097f9f534e004ee0_trns_h264/playlist.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.mLlCO3LLjkb-au5JRqAFPkDBpxyQ-IfIMwjcUEQ82tgzFX45f3eGxhMF81TH-E88ZaBh98TNo8KWSVEaT8ywFw
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
