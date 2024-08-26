@@ -90,3 +90,9 @@ Tue Aug 27 02:44:09 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除bmg4262 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YOm5Vocg958e.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lPbTVWb2NnOTU4ZSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMkNFMDUzQS01MTQ2LTQ1ODMtQkExQy0zMTZFQTVBNTlGOEYiLCJ2aWV3ZXItaWQiOiIyNDg3NzY0MCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2ODc4ODMsImV4cCI6MTcyNDY4ODQ4M30.QTkixgSZ1FcmQOWlM_H2Z0OtjjaHK2Uhg_ONFc4xBgrsCpNvag-CYUVZG9LRbXeowmE84i8o3pupnR017Lq46l--jpO-etiR0hu_KaobK2PEZvCrk_2n5V3oUZ2x8Nbt
 删除ad0res https://edge10-slc.live.mmcdn.com/live-hls/amlst:ad0res-sd-3212aa5ce4cce3bb1be6ec9bfd9601622f4d267868cde98f3ced973148cdc7cc_trns_h264/playlist.m3u8
+Tue Aug 27 02:57:53 CST 2024
+Tue Aug 27 02:57:57 CST 2024
+Tue Aug 27 02:59:41 CST 2024
+Tue Aug 27 02:59:54 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
