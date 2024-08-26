@@ -317,3 +317,8 @@ Mon Aug 26 10:50:28 CST 2024
 添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除gina_gracia https://edge7-lax.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-de6b51a458c0ad35452b605a08dc13522fd1c5fef6d3d8dc561c1d45a7f8e3f8_trns_h264/playlist.m3u8
+添加amilia4u https://edge13-mia.live.mmcdn.com/live-hls/amlst:amilia4u-sd-1a48b79ee814d0586b6cf50c75a7c0ed7072bbc26ffeac10fde8c8d84ed02f9d_trns_h264/playlist.m3u8
+Mon Aug 26 11:02:28 CST 2024
+Mon Aug 26 11:02:38 CST 2024
+Mon Aug 26 11:04:32 CST 2024
+Mon Aug 26 11:04:46 CST 2024
