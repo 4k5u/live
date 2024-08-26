@@ -63,3 +63,10 @@ Tue Aug 27 01:50:22 CST 2024
 删除regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
 删除naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RDdCRkNCMC05QjQ4LTQwRjQtOEY3Ny1CMEMwMzNDMTQzODAiLCJ2aWV3ZXItaWQiOiIyNTA2MTk4MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2ODMxNjAsImV4cCI6MTcyNDY4Mzc2MH0.yaVhpFlK3ma2-es7X6HeQQOxAvITWU1e_YDg5sZr2h1mrX8WqAliymcb-332byxGjVgQ73j3bOlotDhubflPAE4BDI7KdEQfCGd1xQxvfGRz_7ovZyY_pHS_-3tiqhgu
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+Tue Aug 27 01:57:27 CST 2024
+Tue Aug 27 01:57:35 CST 2024
+Tue Aug 27 01:59:24 CST 2024
+Tue Aug 27 01:59:37 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加ciara-yiyi https://edge-hls.doppiocdn.live/hls/150755261/master/150755261_auto.m3u8

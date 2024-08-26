@@ -20,3 +20,6 @@ mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 ad0res https://edge10-slc.live.mmcdn.com/live-hls/amlst:ad0res-sd-3212aa5ce4cce3bb1be6ec9bfd9601622f4d267868cde98f3ced973148cdc7cc_trns_h264/playlist.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+ciara-yiyi https://edge-hls.doppiocdn.live/hls/150755261/master/150755261_auto.m3u8
