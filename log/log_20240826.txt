@@ -392,3 +392,12 @@ Mon Aug 26 13:59:08 CST 2024
 Mon Aug 26 13:59:20 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+添加mode_bad https://edge17-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-0ee8c491845c1fea7e8e99390a6ac7a8365369cbf74e0c2fe30a82782254778d_trns_h264/playlist.m3u8
+Mon Aug 26 14:25:05 CST 2024
+Mon Aug 26 14:25:11 CST 2024
+Mon Aug 26 14:27:04 CST 2024
+Mon Aug 26 14:27:18 CST 2024
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENDUzQjA4NC0xRDU3LTQ2MjgtQTdEMy0yOTUzNTU1NjIzNzYiLCJ2aWV3ZXItaWQiOiIyMzQ1OTE5NSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2MzQ4MDcsImV4cCI6MTcyNDYzNTQwN30.DHDLexjMFMLQlx9KxM8OuG3Xs5Y2TBD4hy30RpUOlbxAlaRJl5ogomlFgXatUi7FkIi8BdGbLZQtaCAX30fjkxnX4p1kALDQHSmNKfk8u3jAWO-XypmzzQsvDA-6Vmui
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
