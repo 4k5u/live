@@ -200,3 +200,10 @@ Tue Aug 27 06:25:47 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除ciara-yiyi https://edge-hls.doppiocdn.live/hls/150755261/master/150755261_auto.m3u8
+添加my_eyes_higher https://edge5-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-4b0f119fd781c8783ea5f46c6d3f0a2c0451ce35e5460103640134dfc0aa42d0_trns_h264/playlist.m3u8
+Tue Aug 27 06:39:27 CST 2024
+Tue Aug 27 06:39:32 CST 2024
+Tue Aug 27 06:41:33 CST 2024
+Tue Aug 27 06:41:47 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
