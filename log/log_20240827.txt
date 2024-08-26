@@ -193,3 +193,10 @@ Tue Aug 27 06:02:47 CST 2024
 Tue Aug 27 06:03:01 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+Tue Aug 27 06:23:37 CST 2024
+Tue Aug 27 06:23:39 CST 2024
+Tue Aug 27 06:25:33 CST 2024
+Tue Aug 27 06:25:47 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除ciara-yiyi https://edge-hls.doppiocdn.live/hls/150755261/master/150755261_auto.m3u8
