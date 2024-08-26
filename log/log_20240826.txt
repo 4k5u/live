@@ -366,3 +366,9 @@ Mon Aug 26 12:58:54 CST 2024
 Mon Aug 26 12:59:08 CST 2024
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+Mon Aug 26 13:17:16 CST 2024
+Mon Aug 26 13:17:22 CST 2024
+Mon Aug 26 13:19:05 CST 2024
+Mon Aug 26 13:19:17 CST 2024
+删除jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5QjMzMTIzMS00NTg2LTQwQjEtOEUwQy0zM0YzQzFCQjlFNDkiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2MjgwNDMsImV4cCI6MTcyNDYyODY0M30.Cb2lI183wzl88fMJPAIVFhEpNiyASzPwvygB5HYihRMyMLoRsg4fk1KsLdSzjBde4qiJkRTOd5OTPN3OiH0iep5SlQud7h45YlwbMHRuUZxBlB2HBJfMuic1iBxGhvav
+删除intim_mate https://edge3-mia.live.mmcdn.com/live-hls/amlst:intim_mate-sd-f205472afc32f92a24e2262a7b2159c69a8b0a82f0bd5e2c438f93fffdccd88f_trns_h264/playlist.m3u8
