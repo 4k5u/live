@@ -157,3 +157,9 @@ Tue Aug 27 04:50:10 CST 2024
 Tue Aug 27 04:50:25 CST 2024
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 删除Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+Tue Aug 27 04:58:15 CST 2024
+Tue Aug 27 04:58:15 CST 2024
+Tue Aug 27 05:00:09 CST 2024
+Tue Aug 27 05:00:23 CST 2024
+删除JessicaRewan https://edge-hls.doppiocdn.live/hls/142493768/master/142493768_auto.m3u8
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
