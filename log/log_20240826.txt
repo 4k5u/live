@@ -515,3 +515,8 @@ Mon Aug 26 18:33:41 CST 2024
 删除dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1QjA1NzVGRi0wRTlELTQzREMtQkFDMy00N0VFNzNDQzZENDIiLCJ2aWV3ZXItaWQiOiIxOTIyMjg1NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ0MTQ0NTMsImV4cCI6MTcyNDQxNTA1M30.nxIYTeJmDnJvmCkdMdMCfYo2RCjitLQ3tiZKf7O7B4or6crksgMdjy2x6QJd_gnpgy_ieeCdxXMuiM5AMdXSriLHEBumYr2oWCB-cz-lV38HKcWO4RVWrhes1l-qBYCb
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除amilia4u https://edge17-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-1a48b79ee814d0586b6cf50c75a7c0ed7072bbc26ffeac10fde8c8d84ed02f9d_trns_h264/playlist.m3u8
+Mon Aug 26 18:45:02 CST 2024
+Mon Aug 26 18:45:22 CST 2024
+Mon Aug 26 18:47:15 CST 2024
+Mon Aug 26 18:47:30 CST 2024
+删除ad0res https://edge13-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-adf967b1b4d9cde15b6becf7b838c9242b03743f3d10283f96f85f35e5555993_trns_h264/playlist.m3u8
