@@ -309,3 +309,11 @@ Mon Aug 26 10:18:27 CST 2024
 删除kiyoko_rin https://edge11-sea.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-a100d2f76c6730d3d86a5d85d6f5248b823d63c6ee55a777222b40670b89628d_trns_h264/playlist.m3u8
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Mon Aug 26 10:48:21 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RkM5MkREMi1FNjU0LTQzOUQtQUVBOS0wMjgwNkU1OTk2M0IiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2NDA1MDksImV4cCI6MTcyNDY0MTEwOX0.2TiGidU40NFwAdKv_FcuoAF26-Xeooe5k8DuI8lC93uhAW_Uc3wdrScoKJutVEWXObWjYAgEaSkRXGYS33nL8Bt96IxWNw6rd0kdprN1PDfCC5nGW1NcmQ8_Ap-8Cw9V
+Mon Aug 26 10:48:32 CST 2024
+Mon Aug 26 10:50:15 CST 2024
+Mon Aug 26 10:50:28 CST 2024
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除gina_gracia https://edge7-lax.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-de6b51a458c0ad35452b605a08dc13522fd1c5fef6d3d8dc561c1d45a7f8e3f8_trns_h264/playlist.m3u8
