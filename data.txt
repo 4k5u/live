@@ -6,11 +6,9 @@ dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 JessicaRewan https://edge-hls.doppiocdn.live/hls/142493768/master/142493768_auto.m3u8
 starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxREI3RkMxNi1DRkRELTRBMUUtQjhEMS04MjI4MDc1M0VFODAiLCJ2aWV3ZXItaWQiOiIxOTU4ODgzNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2NzkwNjEsImV4cCI6MTcyNDY3OTY2MX0.igOLq7Gsk_VK_o5WdqlK5E0m5iw8vPqQnb-ZaTgiXaqQLxpORSFakjSP_pJ0fBMPQeeRNSlijWcX4oI8OAKsESEZAKo-Y_ArCf9No9_DVaUAHbBVMtXkubxdaNH5jxjq
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
-glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VNPAmIBwYvHHNx4QMmm6Gq7ZOOMiJlsoB_QMHe_dUuKDgXyVX8FerOHQyao9iagzNddfk2ds2m56Xxkk-coP6A
 JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 ciara-yiyi https://edge-hls.doppiocdn.live/hls/150755261/master/150755261_auto.m3u8
 kiyoko_rin https://edge8-mia.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-2dca5218e716894fc94d95509f659f99c9f096a6dc6d3dc1097f9f534e004ee0_trns_h264/playlist.m3u8
-jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRUVBN0NCMy00N0I1LTRDRjMtQjYxOS05OEJEQzA4ODg4REQiLCJ2aWV3ZXItaWQiOiIyMjg1NzUzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2OTY2NTIsImV4cCI6MTcyNDY5NzI1Mn0.gmQWGRP9bHslg5LmwpX--bP-kAeSnE5uszbQ3x8SbURaW87SXznLuw_ARQljGqB9nJJmBwQLadfBtHuMWZb7VdjgDU6rp6_lcwq0skujjnP5_SAH972nMD63d-jtTOgo
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.mLlCO3LLjkb-au5JRqAFPkDBpxyQ-IfIMwjcUEQ82tgzFX45f3eGxhMF81TH-E88ZaBh98TNo8KWSVEaT8ywFw
 Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
