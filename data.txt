@@ -8,7 +8,6 @@ Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RkM5MkREMi1FNjU0LTQzOUQtQUVBOS0wMjgwNkU1OTk2M0IiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2NDA1MDksImV4cCI6MTcyNDY0MTEwOX0.2TiGidU40NFwAdKv_FcuoAF26-Xeooe5k8DuI8lC93uhAW_Uc3wdrScoKJutVEWXObWjYAgEaSkRXGYS33nL8Bt96IxWNw6rd0kdprN1PDfCC5nGW1NcmQ8_Ap-8Cw9V
 mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
-amilia4u https://edge21-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-1a48b79ee814d0586b6cf50c75a7c0ed7072bbc26ffeac10fde8c8d84ed02f9d_trns_h264/playlist.m3u8
 oki_dokie https://edge27-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f8152c0aa539802690e7831c66afdb28975ff6bd31ca41200846b612a9f8ff6f_trns_h264/playlist.m3u8
 won110 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.fYJ3Ue8cRoOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ZZSjNVZThjUm9PbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRDIyOEQwNS1FQzZBLTQyMUQtOTZBRC1EQkNEMkIwOENFNzUiLCJ2aWV3ZXItaWQiOiIyNDQ0NjY1OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2NDY0ODEsImV4cCI6MTcyNDY0NzA4MX0.O3LqmYdkX6B3drqQum02kMVJCj9qGzKFzPYQ7c_IDZlcdiVf6q4SQ9kd19ZLz0tbu2B_iU-fTQAdQjSXMR7yvEHbQtNfwYcj5EPZWaOcK5Y5DuS-GGfwBJdkj9nl_w67
 foxylovesyou https://edge2-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-5363bce63ee37ed855da406d74b7dd205b3bd7aff0a42ddf4cd77330cb0dc444_trns_h264/playlist.m3u8
@@ -18,3 +17,4 @@ IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3
 mode_bad https://edge17-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-0ee8c491845c1fea7e8e99390a6ac7a8365369cbf74e0c2fe30a82782254778d_trns_h264/playlist.m3u8
 miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
