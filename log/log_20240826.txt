@@ -359,3 +359,10 @@ Mon Aug 26 12:44:59 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NjFDQzQ3Qy1DRkU5LTRCRkEtODYzNS0xMzlDNjlCQUJBMkQiLCJ2aWV3ZXItaWQiOiIyNTA2MTk4MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2MzQ3NDAsImV4cCI6MTcyNDYzNTM0MH0.fjnzKXFUQ9jgEejZoJ4MjPT1OKQiZNjcjIA6lGtuLX3oDpuIxp0jN8vq--zHhY2ILZqW_DuMk0NE35A939KadXbcBq2pwukXV_9FPSrrZFrNMTiNJX2ZNO5znS2D6kz_
+添加foxylovesyou https://edge2-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-5363bce63ee37ed855da406d74b7dd205b3bd7aff0a42ddf4cd77330cb0dc444_trns_h264/playlist.m3u8
+Mon Aug 26 12:56:58 CST 2024
+Mon Aug 26 12:57:06 CST 2024
+Mon Aug 26 12:58:54 CST 2024
+Mon Aug 26 12:59:08 CST 2024
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
