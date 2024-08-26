@@ -5,7 +5,6 @@ bps1016 https://usher.ttvnw.net/api/channel/hls/bps1016.m3u8?client_id=kimne78kx
 oki_dokie https://edge27-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f8152c0aa539802690e7831c66afdb28975ff6bd31ca41200846b612a9f8ff6f_trns_h264/playlist.m3u8
 foxylovesyou https://edge2-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-5363bce63ee37ed855da406d74b7dd205b3bd7aff0a42ddf4cd77330cb0dc444_trns_h264/playlist.m3u8
 pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RjBFQkJCMi02QTM3LTRCRDktODM4My00QzI4MUYzRkNGQzEiLCJ2aWV3ZXItaWQiOiIyNDQzMTI4MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2NTEyMzEsImV4cCI6MTcyNDY1MTgzMX0.uSlkNOvXQz43VVHtOjiIk6QnIwEAmULil_IfsIVArayDrt1VysXlKLE_HPcbjSuxDaBI-Y7_1FTULWFcA5enQno-goBSbFa4QE6bNL7C1CHbA644Gg2_ovruZh0USxK3
-IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 mode_bad https://edge17-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-0ee8c491845c1fea7e8e99390a6ac7a8365369cbf74e0c2fe30a82782254778d_trns_h264/playlist.m3u8
 EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 amilia4u https://edge17-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-1a48b79ee814d0586b6cf50c75a7c0ed7072bbc26ffeac10fde8c8d84ed02f9d_trns_h264/playlist.m3u8
