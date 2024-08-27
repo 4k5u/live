@@ -207,3 +207,12 @@ Wed Aug 28 06:58:42 CST 2024
 Wed Aug 28 06:58:55 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+Wed Aug 28 07:17:15 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQUJERjg4RC0xNzg0LTQxQzAtOUVGRi05NDNDQkEyMTc2QUYiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ4MDA2MzgsImV4cCI6MTcyNDgwMTIzOH0.J0vk1Z_p6qFrQtsXMTq8Eipa8Z3kZ0Q-W1C0uouw3LcWIkOpolZl1JRKBv78QaPUMRG0eICpU9LwBZnNcY8vCgTKkVfv5TwrbFTA1B23m8tjJaA6iqlt-Z17mWkSR-Ue
+Wed Aug 28 07:17:21 CST 2024
+Wed Aug 28 07:19:09 CST 2024
+Wed Aug 28 07:19:22 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除hotse777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TBnyiDhI4HhL.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1RCbnlpRGhJNEhoTCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1RkZGQjU2OC1GOTNCLTQ0MDYtQUMzQS03NDI1ODU0QTM3MDIiLCJ2aWV3ZXItaWQiOiIyNDkwMzI2NSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ3MjE4NjYsImV4cCI6MTcyNDcyMjQ2Nn0.vJqdtdG2Xpmvkmth-aog51Ys4fCXMApI32_v8udzxS_QHjdnCqk09Yj8ebxbmhpg8Nit-8evGXXKdh7WBCpWvfZRdNpVbNsD9D_i3PTmvGyoajTy23hr4PVflMS9wZYk
