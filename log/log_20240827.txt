@@ -301,3 +301,9 @@ Tue Aug 27 11:35:14 CST 2024
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Tue Aug 27 11:46:42 CST 2024
+Tue Aug 27 11:46:50 CST 2024
+Tue Aug 27 11:48:40 CST 2024
+Tue Aug 27 11:48:53 CST 2024
+删除intim_mate https://edge13-ash.live.mmcdn.com/live-hls/amlst:intim_mate-sd-8521807c2c609c9bb8880fe70b47ea3f9cbcc649ab9b2ce177472f72f6d9040f_trns_h264/playlist.m3u8
+删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
