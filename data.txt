@@ -20,3 +20,4 @@ EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3
 kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
