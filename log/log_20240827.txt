@@ -280,3 +280,9 @@ Tue Aug 27 10:30:34 CST 2024
 删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除dana9282 https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Tue Aug 27 10:51:40 CST 2024
+Tue Aug 27 10:51:50 CST 2024
+Tue Aug 27 10:53:47 CST 2024
+Tue Aug 27 10:54:01 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
