@@ -46,3 +46,7 @@ jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+hotse777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TBnyiDhI4HhL.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1RCbnlpRGhJNEhoTCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNDdBNkZGRS0xODU0LTRGOEQtQUZDMi1DRDJFQTE1QTEyMjYiLCJ2aWV3ZXItaWQiOiIyNDkwMzI2NSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ4MDEzODYsImV4cCI6MTcyNDgwMTk4Nn0.M6EELvu19sik3DrFGjpcc17-SIOs2xYNxbZ96CVkKrG66LixcGWdVnMWFfYXJAYvCvEXty0fO6NoHNsJss7z1NL7Tsq2Hp-fa6ywzzldLavsO10sKUxrUQlHiEgd4LMr
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
