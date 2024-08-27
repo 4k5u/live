@@ -8,3 +8,6 @@ slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 my_eyes_higher https://edge5-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-4b0f119fd781c8783ea5f46c6d3f0a2c0451ce35e5460103640134dfc0aa42d0_trns_h264/playlist.m3u8
 jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDOTMzMDc5MS0zRjM1LTQ0QjQtOTQ4My0zMjNDQURCMkI1ODciLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ3MTQ2MzQsImV4cCI6MTcyNDcxNTIzNH0._e_6s6HQcJAFgyHErk8hywv9SVbE3ElNmYEZZqRPjkSgl8QF7wgHdbY49eVQt0hHeJdnGa8zHHYQXJZl1wuTVC4a4hy3Bi4RInc9kczSCB93yW9wCfLKbLG7Ed7WGB25
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+intim_mate https://edge13-ash.live.mmcdn.com/live-hls/amlst:intim_mate-sd-8521807c2c609c9bb8880fe70b47ea3f9cbcc649ab9b2ce177472f72f6d9040f_trns_h264/playlist.m3u8
+asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
