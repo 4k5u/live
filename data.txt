@@ -41,3 +41,5 @@ sexygamesx https://edge2-mia.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-3f114c1
 my_eyes_higher https://edge29-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ee02f787ac9a406f09f68f627deb31f7bbd1e035fc4e949c53d636326b65e6ff_trns_h264/playlist.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
