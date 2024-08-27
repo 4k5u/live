@@ -4,7 +4,6 @@ bps1016 https://usher.ttvnw.net/api/channel/hls/bps1016.m3u8?client_id=kimne78kx
 dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMTRGOTAwQi1DQjQ5LTQ5QTMtODVDMy0xQTY3QTY0NUE5RDkiLCJ2aWV3ZXItaWQiOiIxOTIyMjg1NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ3NjI1NDEsImV4cCI6MTcyNDc2MzE0MX0.1oxi6UZ3P95TkDhVvI8Q5HqqWRCd4GPle2z_aQeIqy9--TNxw8PmFJU5GhIa8cz3BBeVphRFbJ1FAm5Q-ysQ3Fnt71Ysdp4_R8QckfdgMOigQUPa1B_vpSQAHyiq_UvF
 cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
-ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGRTk3RUU3Qy1FRTdGLTQyQTEtOEM5Ni05MzlFNUZCMEFGMTMiLCJ2aWV3ZXItaWQiOiIyMjQ3Mjk0OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ3NzAyNDcsImV4cCI6MTcyNDc3MDg0N30.g2iWq5uZ9qk2nOcbHHYQ8HRh4KG6oJQSXR70pWhqtKfxZ7yeIgHllMsdZcecXLyjkNblDUezHiX-bAnt0KmxuKEjXSvKUPuOjQrJwcsOZZJviTdDgQ4JlCB5PP-WBVXx
 JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
@@ -14,3 +13,5 @@ Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 JessicaRewan https://edge-hls.doppiocdn.live/hls/142493768/master/142493768_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
