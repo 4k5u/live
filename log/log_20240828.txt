@@ -29,3 +29,12 @@ Wed Aug 28 00:45:05 CST 2024
 删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
 删除ake_mi https://edge17-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-8b82b8aabb8aba6d2d18f038b6c1647f94f6a770839f57c7967a5b332ef8ccbb_trns_h264/playlist.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Wed Aug 28 00:57:25 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3N0JCNUIxMi1DN0U0LTQyMTEtOEQ4QS04MjAwOTM3RDhCMkMiLCJ2aWV3ZXItaWQiOiIxOTU4ODgzNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ3Nzc4NTUsImV4cCI6MTcyNDc3ODQ1NX0.FookBG_pryYiHVNXe8AGwZANUqOCyNi7Y9dJ2na7jI0njz41CySNoWxIlXfgge_381aAz6NhYERy-midAj9SF1ugmZxxLxxJtfZxL2qW7cE3efcFTLN2FNHoDzp0UthM
+Wed Aug 28 00:57:51 CST 2024
+Wed Aug 28 00:59:35 CST 2024
+Wed Aug 28 00:59:47 CST 2024
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMDUxNUEzQS0wQzRELTQyQjYtQkM2NS1BMUU2M0U1N0U0RTgiLCJ2aWV3ZXItaWQiOiIyMjU5NDUzMSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ3NTYyNjIsImV4cCI6MTcyNDc1Njg2Mn0.k_wZICebELwvmYeABpos1Oy7ToUMYWHjzyxDqjvoHJk9PhDQmp-TGsZQ9FjIMLVF3EUTTmxOFXPp3wyBTFk7W5b_ZmTM80IeYbeIi77w-zi1YTVnKF6z35Qd5ON0KqHt
+删除purelove2 https://live-global-cdn-v02.afreecatv.com/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.f8lcfZhdrI3hH_T633L5erPNwO7kryYFmr6Lxkf1Negre-8mcfq4sWNo4D0JjMReSMYZy8nTflSLDP_cvVDQUA
+删除qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
