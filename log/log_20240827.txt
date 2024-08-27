@@ -351,3 +351,8 @@ Tue Aug 27 13:35:38 CST 2024
 Tue Aug 27 13:35:51 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除my_eyes_higher https://edge5-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-4b0f119fd781c8783ea5f46c6d3f0a2c0451ce35e5460103640134dfc0aa42d0_trns_h264/playlist.m3u8
+Tue Aug 27 13:47:00 CST 2024
+Tue Aug 27 13:47:12 CST 2024
+Tue Aug 27 13:49:05 CST 2024
+Tue Aug 27 13:49:18 CST 2024
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
