@@ -450,3 +450,10 @@ Tue Aug 27 17:20:51 CST 2024
 删除mode_bad https://edge4-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-3682465d06ade6280d5e476269ec581575716338dddb665ddeeb25e746c1b616_trns_h264/playlist.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+Tue Aug 27 17:31:33 CST 2024
+Tue Aug 27 17:31:43 CST 2024
+Tue Aug 27 17:33:37 CST 2024
+Tue Aug 27 17:33:52 CST 2024
+添加peichen6699 https://edge-hls.doppiocdn.live/hls/160752369/master/160752369_auto.m3u8
+删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除won110 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.fYJ3Ue8cRoOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ZZSjNVZThjUm9PbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNTAyQ0QxQS0yREFELTQ4ODgtQUE4Ri03RjY2MjM0NUQwNDEiLCJ2aWV3ZXItaWQiOiIyNDQ0NjY1OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ3MzI1MzMsImV4cCI6MTcyNDczMzEzM30.GqPLQMmlJhhomgc31KSKmN32jmCmhKmHGHT4-MJJ6rUrN1SrUM7osteNLMI7qm6xFvCoqykHlTzLvXSNI0X-esXq9ZQybx7uk1kZW1axVatWbeJhMSoh-GXYCWUHuEtM
