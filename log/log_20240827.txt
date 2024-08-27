@@ -381,3 +381,14 @@ Tue Aug 27 14:57:24 CST 2024
 Tue Aug 27 14:59:12 CST 2024
 Tue Aug 27 14:59:24 CST 2024
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Tue Aug 27 15:16:25 CST 2024
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MzcyMzk4RS1GNjM5LTRBQjAtODI0My1CREJDQzVDNzQxMkYiLCJ2aWV3ZXItaWQiOiIyMzk2NDExMyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ3NDI5OTMsImV4cCI6MTcyNDc0MzU5M30.hXNJOo8tUbj8U4s-myZiTTTTMHhPVwJ_Lrmp-L2dakQsLA0JHtjBGh9xigNh_c1nO6VI8LrmAhcRo2qP3plIgvydW75_VUQ_PA7Si0f3anCC96iODj9h1gr0gc0mB1vV
+Tue Aug 27 15:16:39 CST 2024
+Tue Aug 27 15:18:31 CST 2024
+Tue Aug 27 15:18:45 CST 2024
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=null
+删除ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ddooyaa%22%2C%22channel_id%22%3A442709328%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1724735048%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.242.135%22%2C%22version%22%3A2%7D&sig=d927701c6773dde217cc78b153f0492cb5ece2dd&allow_source=true&allow_audio_only=true
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除ake_mi https://edge8-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-212a1d290f6386c2a5876593b5f5c5c9809a28c568cbb5c05cdd3290b4e0fbac_trns_h264/playlist.m3u8
