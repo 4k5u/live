@@ -286,3 +286,11 @@ Tue Aug 27 10:53:47 CST 2024
 Tue Aug 27 10:54:01 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Tue Aug 27 11:18:22 CST 2024
+Tue Aug 27 11:18:30 CST 2024
+Tue Aug 27 11:20:23 CST 2024
+Tue Aug 27 11:20:37 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQzhFOTVFRi04NkU2LTQyOTUtQTIwMC0zRDc1RDQzRjcyNkIiLCJ2aWV3ZXItaWQiOiIyNTAzNjk0NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ3MDkwNTEsImV4cCI6MTcyNDcwOTY1MX0.f4LZExJZsX7pXYLlBn-eIP8qawUiQ4fhwAHtLeVWjCIFIov-qbxGtdg0aMmeK2sOwEttEsGsclg9uquJWspaYbognU-YrrR_H-P4cHLy6WjDRcaOtA3v7ANB2-dfGQE4
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
