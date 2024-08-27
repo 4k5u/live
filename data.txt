@@ -32,3 +32,6 @@ gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-35/auth_master_pla
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5Q0VBNUMzNi1DRkEwLTRDMDktQTAwOC05M0I0MDFBNjlEQjEiLCJ2aWV3ZXItaWQiOiIyNTAzNjk0NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ3OTYwMjgsImV4cCI6MTcyNDc5NjYyOH0.l7C53jJPLGIWBu2NncHp-TEtlvGim0kQCe2u5IhJmuOLuhzTr9KM-8__4lYiqBIsNLS4ulTMY5hdvuDTg0rlbQ0g-_FJAZTEUOwe5kxcehfh4pr5FSIF0cjM1-UwoMlQ
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
