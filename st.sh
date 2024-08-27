@@ -33,7 +33,7 @@ for userId in ${userIds}; do
             echo "The UID $userId exists in data.txt"
         else
             echo "$userId 推送到TG"
-            text="<b>@kbjba 提醒你！！！！</b>\n\n#Stripchat 主播 #${userId} 在线\n\n<a href='${m3u8site}?url=${hls}'>让我康康！直播源地址</a>\n\n<a href='https://zh.stripchat.com/${userId}'>直播间链接</a>\n\n_"
+            text="<b>@kbjba 提醒你！！！！</b>\n\n#Stripchat 主播 #${userId} 在线\n\n<a href='${m3u8site}?url=${hls}'>让我康康！直播源地址</a>\n\n<a href='https://zh.stripol.com//${userId}'>直播间链接</a>\n\n_"
             #text=$(echo "${text}" | sed 's/-/\\\\-/g')
             #text=$(echo "${text}" | sed 's/_/\\\\_/g')
             curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@kbjol\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=HTML"
