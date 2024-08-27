@@ -129,3 +129,8 @@ Wed Aug 28 03:51:06 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 删除Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+Wed Aug 28 03:59:30 CST 2024
+Wed Aug 28 03:59:30 CST 2024
+Wed Aug 28 04:01:13 CST 2024
+Wed Aug 28 04:01:25 CST 2024
+添加JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
