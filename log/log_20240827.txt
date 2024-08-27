@@ -496,3 +496,13 @@ Tue Aug 27 18:45:13 CST 2024
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除peichen6699 https://edge-hls.doppiocdn.live/hls/160752369/master/160752369_auto.m3u8
 删除172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+Tue Aug 27 18:57:25 CST 2024
+添加soraa3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.EU8LO9vDCOAJ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0VVOExPOXZEQ09BSiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5OTkxMThBNS02N0ExLTQ2QTYtODBFNy0wOTRFQkZGNDQ5NzIiLCJ2aWV3ZXItaWQiOiIyNTE3NzQyMyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ3NTYyNTAsImV4cCI6MTcyNDc1Njg1MH0.LLlGwMfSeBTJ1eajp9mq-zqH0BAO3933VvV8Hz59r1vEWd2ziGO043E1vBZE_eLyyHd-HQ1HSAIt0pRmiKlw_gb3OsfG9szydHodoY5PZLQ_eiuzXR0BFF5VXjGz4hhy
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMDUxNUEzQS0wQzRELTQyQjYtQkM2NS1BMUU2M0U1N0U0RTgiLCJ2aWV3ZXItaWQiOiIyMjU5NDUzMSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ3NTYyNjIsImV4cCI6MTcyNDc1Njg2Mn0.k_wZICebELwvmYeABpos1Oy7ToUMYWHjzyxDqjvoHJk9PhDQmp-TGsZQ9FjIMLVF3EUTTmxOFXPp3wyBTFk7W5b_ZmTM80IeYbeIi77w-zi1YTVnKF6z35Qd5ON0KqHt
+Tue Aug 27 18:57:51 CST 2024
+Tue Aug 27 18:59:38 CST 2024
+Tue Aug 27 18:59:52 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除joysuniverse https://edge16-lax.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-67e07d4bb9a7217f6060016f0f907c5ab69b889f3ef5e544ea8454a6317683f8_trns_h264/playlist.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
