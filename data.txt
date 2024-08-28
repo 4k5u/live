@@ -19,6 +19,7 @@ gina_gracia https://edge14-chi.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-cb2a
 _marydel_ https://edge2-ash.live.mmcdn.com/live-hls/amlst:_marydel_-sd-c4348ac618b7a03f1eb755852b94f8f1bebad0ef9a84c6cbbe5712a4273a6422_trns_h264/playlist.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
-JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
