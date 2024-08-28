@@ -423,3 +423,10 @@ Wed Aug 28 15:28:04 CST 2024
 Wed Aug 28 15:29:49 CST 2024
 Wed Aug 28 15:30:01 CST 2024
 删除ake_mi https://edge3-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-9aba21f2dbede8e742922c17df20a0ac251edf073271bbe2c9251d9a0718469e_trns_h264/playlist.m3u8
+Wed Aug 28 15:39:16 CST 2024
+Wed Aug 28 15:39:30 CST 2024
+Wed Aug 28 15:41:22 CST 2024
+添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MjQ4NzM4NDE4NDcsImlhdCI6MTcyNDgzMDY0MX0.0U6Bsv1-J8VckDCXQmSQLaovk4fyMhP7dSp0L-YeU-JjOAHut7v9jELsZ8bsOL8xkH2Z8qR68jlRpu1IpU5zBib23HLQIktXYkVbhvgh4d8HBlh3gmOOuVbN_Dov3coL
+Wed Aug 28 15:41:38 CST 2024
+删除galantini https://edge18-ash.live.mmcdn.com/live-hls/amlst:galantini-sd-be529c1aea21f1b406d6e65b4f64beacef0a6ab1a8ef6cc970c4303360f7a906_trns_h264/playlist.m3u8
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
