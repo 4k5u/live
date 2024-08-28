@@ -368,3 +368,12 @@ Wed Aug 28 13:24:45 CST 2024
 Wed Aug 28 13:24:58 CST 2024
 Wed Aug 28 13:26:55 CST 2024
 Wed Aug 28 13:27:10 CST 2024
+添加galantini https://edge18-ash.live.mmcdn.com/live-hls/amlst:galantini-sd-be529c1aea21f1b406d6e65b4f64beacef0a6ab1a8ef6cc970c4303360f7a906_trns_h264/playlist.m3u8
+Wed Aug 28 13:39:29 CST 2024
+Wed Aug 28 13:39:39 CST 2024
+Wed Aug 28 13:41:38 CST 2024
+Wed Aug 28 13:41:53 CST 2024
+添加Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
