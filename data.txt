@@ -15,9 +15,10 @@ starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQUM4NkJCNi1FNzlCLTQxQ0QtQkRFRS04ODcxQjJFQzY5MUMiLCJ2aWV3ZXItaWQiOiIyNTA2MTk4MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ4NzI2MTMsImV4cCI6MTcyNDg3MzIxM30.GFs_8mMm2rxIt_tEwq1gG0xfce50xAP4xkTiw3lbu-LWTI6h3HsivXxV6pizG4Ei8lOj9YqZS8ZDNXkjROCvntBAjzaBk5PDfOe9n2NZXYLNkSWzziShjsSb8Fj8JYNv
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
-Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 gina_gracia https://edge14-chi.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-cb2a8c3db08172fd4bc83da32e7b657295f6a2de62341d8dbb8681b3021302e7_trns_h264/playlist.m3u8
 _marydel_ https://edge2-ash.live.mmcdn.com/live-hls/amlst:_marydel_-sd-c4348ac618b7a03f1eb755852b94f8f1bebad0ef9a84c6cbbe5712a4273a6422_trns_h264/playlist.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
