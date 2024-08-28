@@ -430,3 +430,9 @@ Wed Aug 28 15:41:22 CST 2024
 Wed Aug 28 15:41:38 CST 2024
 删除galantini https://edge18-ash.live.mmcdn.com/live-hls/amlst:galantini-sd-be529c1aea21f1b406d6e65b4f64beacef0a6ab1a8ef6cc970c4303360f7a906_trns_h264/playlist.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Wed Aug 28 15:49:40 CST 2024
+Wed Aug 28 15:49:54 CST 2024
+Wed Aug 28 15:51:42 CST 2024
+Wed Aug 28 15:51:54 CST 2024
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
