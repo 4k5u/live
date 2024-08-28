@@ -5,7 +5,6 @@ aesoon96 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v
 Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.X3ZuOtO1hyjS2FgoZUiP8cIF-RfMUVGm1-Xk2ZIwfKUgiL-4TFhNN1nJjh0oMERqaWmvjf-0b-u7B4XkhkpISg
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
-JessicaRewan https://edge-hls.doppiocdn.live/hls/142493768/master/142493768_auto.m3u8
 starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NjkxOUE1RS01ODBGLTQyREEtQTg3MC1EQjk4NDI4NEIyRjIiLCJ2aWV3ZXItaWQiOiIxOTU4ODgzNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ4NjUzMTQsImV4cCI6MTcyNDg2NTkxNH0.H1kW5eiuFFzVTeNJBBtVG5DCSBAdbbl2A3CWfIKWC3soicsvvasok-m7DfFYSkTkdLQU1lVJamlvKKAdDAKMA0S7zjiZ5lObSF_b7yMHs1ssu-hJgH0nEBMZ6dnPl_kt
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
@@ -17,3 +16,8 @@ naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+gina_gracia https://edge14-chi.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-cb2a8c3db08172fd4bc83da32e7b657295f6a2de62341d8dbb8681b3021302e7_trns_h264/playlist.m3u8
+_marydel_ https://edge2-ash.live.mmcdn.com/live-hls/amlst:_marydel_-sd-c4348ac618b7a03f1eb755852b94f8f1bebad0ef9a84c6cbbe5712a4273a6422_trns_h264/playlist.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8

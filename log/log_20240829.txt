@@ -118,3 +118,13 @@ Thu Aug 29 03:19:21 CST 2024
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 删除Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+添加gina_gracia https://edge14-chi.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-cb2a8c3db08172fd4bc83da32e7b657295f6a2de62341d8dbb8681b3021302e7_trns_h264/playlist.m3u8
+添加_marydel_ https://edge2-ash.live.mmcdn.com/live-hls/amlst:_marydel_-sd-c4348ac618b7a03f1eb755852b94f8f1bebad0ef9a84c6cbbe5712a4273a6422_trns_h264/playlist.m3u8
+Thu Aug 29 03:27:16 CST 2024
+Thu Aug 29 03:27:20 CST 2024
+Thu Aug 29 03:29:13 CST 2024
+Thu Aug 29 03:29:27 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+删除JessicaRewan https://edge-hls.doppiocdn.live/hls/142493768/master/142493768_auto.m3u8
