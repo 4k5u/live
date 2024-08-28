@@ -16,3 +16,5 @@ getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+joysuniverse https://edge24-sea.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-03b8468667dc98cc1f9e1b2ae2eac697747627fd9109d15f3517ba58d91f6c74_trns_h264/playlist.m3u8
+May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
