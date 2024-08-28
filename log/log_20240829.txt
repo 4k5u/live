@@ -97,3 +97,9 @@ Thu Aug 29 02:44:12 CST 2024
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除kiyoko_rin https://edge11-mia.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-cd4effaca3eaebf94ed1803a21dd8c1f1df5b1707f4c94e6dda9002eda78bc0b_trns_h264/playlist.m3u8
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+Thu Aug 29 02:57:08 CST 2024
+Thu Aug 29 02:57:12 CST 2024
+Thu Aug 29 02:59:05 CST 2024
+Thu Aug 29 02:59:20 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
