@@ -469,3 +469,13 @@ Wed Aug 28 16:59:10 CST 2024
 Wed Aug 28 16:59:26 CST 2024
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Wed Aug 28 17:19:01 CST 2024
+Wed Aug 28 17:19:13 CST 2024
+添加h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.pSUaX7_HU7ogsZry8CRYp8LUlM2dwBtvjLUcj18yklrQaUdjKC-qeHGzzMotHFT0GQuTsFAwM1K1bjLQZ-6mNQ
+Wed Aug 28 17:21:14 CST 2024
+Wed Aug 28 17:21:28 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+添加MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
+删除won110 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.fYJ3Ue8cRoOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ZZSjNVZThjUm9PbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2NkQwOERDOS0yMTlBLTRDMkEtOTJEMi1EN0I3NTdFQjk2Q0MiLCJ2aWV3ZXItaWQiOiIyNDQ0NjY1OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ4MTg5MjEsImV4cCI6MTcyNDgxOTUyMX0.P-GrRT5884SBMG0ze1-5j12Fhr4N6o4a77K2AAlQXl3xGbaTQqCpEZy3Oad3XV_vzs7apP0KbBVNdpAPwW2YSxRXo8JzM8EdbnmCXJS-S_HW-wVAUVZtQBrk2a7xNm5m
+删除grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+删除honey_pinkgreen https://edge16-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-1c82eb13054b490c9812f3af5f0ae47e5ae918e4a8582183f5f56114ea528887_trns_h264/playlist.m3u8
