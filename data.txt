@@ -20,3 +20,7 @@ dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video
 y1026 https://live-global-cdn-v02.afreecatv.com/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vZ9Tn81N7FRh0PeZYW6MMnT1BFxoZdzhPfPBlyu7J3n6Va4pEXawdffkz-Qm9MiWgCkPYkm_RI25bo5kF6maIA
 kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.P2UesHPAQ2KLpC2-MPZMimPnI17oNeaAKhmQhayjUQSmeLMNFVPIsxkZwVhwtmWvkgIxScvGZz-hYH_rZ7psKg
 qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+joysuniverse https://edge4-chi.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-e77f8eac175342b998f5883cae05029042a12803d188d23a8deb43c79d509229_trns_h264/playlist.m3u8
+kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-06/auth_master_playlist.m3u8?aid=null
+TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
