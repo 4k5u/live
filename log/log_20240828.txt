@@ -403,3 +403,9 @@ Wed Aug 28 14:47:29 CST 2024
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 删除ake_mi https://edge20-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-9aba21f2dbede8e742922c17df20a0ac251edf073271bbe2c9251d9a0718469e_trns_h264/playlist.m3u8
+添加ake_mi https://edge3-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-9aba21f2dbede8e742922c17df20a0ac251edf073271bbe2c9251d9a0718469e_trns_h264/playlist.m3u8
+Wed Aug 28 14:57:18 CST 2024
+Wed Aug 28 14:57:26 CST 2024
+Wed Aug 28 14:59:27 CST 2024
+Wed Aug 28 14:59:41 CST 2024
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
