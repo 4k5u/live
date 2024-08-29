@@ -438,3 +438,11 @@ Thu Aug 29 16:46:25 CST 2024
 添加JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 删除galantini https://edge18-chi.live.mmcdn.com/live-hls/amlst:galantini-sd-099a7d6a9ba2d2b058fe26bdc6c6f13774f1716f88341afd5d1da85a925fc37e_trns_h264/playlist.m3u8
 删除joysuniverse https://edge19-ash.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-17114b6c1bc2001c9858a668c4c00b92ebda6413685c53e0b4e919f04290ff8a_trns_h264/playlist.m3u8
+Thu Aug 29 16:56:56 CST 2024
+Thu Aug 29 16:57:08 CST 2024
+Thu Aug 29 16:59:01 CST 2024
+Thu Aug 29 16:59:16 CST 2024
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+删除mode_bad https://edge4-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-7da0365befcf2995981a2d41a52b54542bb8a4f498dee435f25b4b61a61d70d9_trns_h264/playlist.m3u8
+删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
