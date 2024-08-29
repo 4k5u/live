@@ -65,3 +65,10 @@ Fri Aug 30 01:40:25 CST 2024
 删除Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
 删除big541 https://live-global-cdn-v02.afreecatv.com/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.l6SCRwG1lToQKjpJuOnzXfp93pQv8JXpsMK9fKcfUTfGo11s21NdDIJ7oCPPgfpuF46opcx3K-YnTb8xT3HXjg
 删除iminako https://edge21-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-f6ba8b0835c289700522f7dd1d0c176ae05614ced40363212d9577e0ad0cb780_trns_h264/playlist.m3u8
+Fri Aug 30 01:48:30 CST 2024
+Fri Aug 30 01:48:51 CST 2024
+Fri Aug 30 01:50:42 CST 2024
+Fri Aug 30 01:50:56 CST 2024
+删除yeonyumilk https://live-global-cdn-v02.afreecatv.com/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.JrBViLW1nA3qQJkXD7wACY8UMz6MpyfUMELMP_S268xV6XIR1PInyAKvk3N__4vaZ2ogxXJ-8vevxQidWTcKLw
+删除day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3pZnsx6Jcwvl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNwWm5zeDZKY3d2bCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MDM1QTQ3NC04QzM1LTQ2MzktODMzMS1GNjM0QTIwQ0FGRTIiLCJ2aWV3ZXItaWQiOiIyMTA1ODEzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5MzkyNjAsImV4cCI6MTcyNDkzOTg2MH0.iVD9DTv2AvO73mXZegfQYBCgGTwatVUiHidvvmKwZmsDSJxcV7xrjS9PaYrjGbWxovS1WOe4V6631RMUtxIz2zubbyVITSGtxUDDHZMcffl89tWLuZFEUmVfLY_v5N7s
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
