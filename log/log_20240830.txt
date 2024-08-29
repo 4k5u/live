@@ -103,3 +103,11 @@ Fri Aug 30 02:45:58 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除wintersnowwin https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Lo1VOk9jVU8j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xvMVZPazlqVlU4aiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMzFBN0M2QS0wODkxLTRENzMtQTVBRC01QjhGNzJDREU4OEEiLCJ2aWV3ZXItaWQiOiIyNDQ5NTQ3NCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5MzcxMTMsImV4cCI6MTcyNDkzNzcxM30.MIEiQnhypSWJieMvk9FHAGle6w-l1wl9ZjfN8UR5MIIdWWxv4Ovd5BqBC_3Jy2SrZFs9C7eVdpIobdnzph6cICdQ2UxgP4fpOlEyars_LWCRlAKK6GJwENUqxXGiDpJ3
 删除glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xAZn07PG7SP6rTUxxGxxKfar6jaz-fUUv9ABgOEt4WEq0vvX08u9hDhT4xlVFNhAqwSxnfQfu-18rHOUm0ReJg
+Fri Aug 30 02:57:15 CST 2024
+Fri Aug 30 02:57:23 CST 2024
+Fri Aug 30 02:59:12 CST 2024
+Fri Aug 30 02:59:25 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.d4skZmXRChaD.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2Q0c2tabVhSQ2hhRCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNDdFRDk3RS1FNTAzLTQzNkUtQTY0RC0zMkIxRjJBNTQ3NkUiLCJ2aWV3ZXItaWQiOiIyNDU2Mzc4MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5MzU0NDcsImV4cCI6MTcyNDkzNjA0N30.wPqH2L6Z0sNxY_awpmvl9NcgUSOnwNUk0lrupa_UdZyNh_u2jqSfxgBxsF_ksy-sP8UcS0R_aiqqp5XFyDqllrmp6exHHV8XAnomdSC9NV5fwQ_UdsL5jQDttt0gqeO0
+删除sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.LcZ6PQx-q0yeQx6z6wx937K1l-zouo9bFJFuaT7v2y2MJeOl62myiZjzzAa7jTvtkWvGdHz57h0sKom757yBMw
