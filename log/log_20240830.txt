@@ -247,3 +247,8 @@ Fri Aug 30 07:25:11 CST 2024
 Fri Aug 30 07:25:23 CST 2024
 删除gina_gracia https://edge8-mia.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-a02a048fa3b384517cef701a73059d00b2250d1b6e856c2cc3af7fa02b8456e3_trns_h264/playlist.m3u8
 删除sexygamesx https://edge6-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-25503c73b62ccfd9582deebada2931c1c56757c97d9572bd15061ccfe0add033_trns_h264/playlist.m3u8
+Fri Aug 30 07:38:28 CST 2024
+Fri Aug 30 07:38:32 CST 2024
+Fri Aug 30 07:40:18 CST 2024
+Fri Aug 30 07:40:31 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
