@@ -20,3 +20,5 @@ leelate https://live-global-cdn-v02.afreecatv.com/live-stm-05/auth_master_playli
 Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
 grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+galantini https://edge18-chi.live.mmcdn.com/live-hls/amlst:galantini-sd-099a7d6a9ba2d2b058fe26bdc6c6f13774f1716f88341afd5d1da85a925fc37e_trns_h264/playlist.m3u8
+mode_bad https://edge4-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-7da0365befcf2995981a2d41a52b54542bb8a4f498dee435f25b4b61a61d70d9_trns_h264/playlist.m3u8
