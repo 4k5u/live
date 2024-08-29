@@ -8,9 +8,9 @@ ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 amilia4u https://edge9-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-b7bd74535709a5b4fce0f69fbb22219ecbfeb3046ca694da4a458e28f2fafa13_trns_h264/playlist.m3u8
 joysuniverse https://edge9-lax.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-2ac38d9d0f780bd8e25e6e37474508f5e19c3143b3c20a7f6e46dd92cd4a1c30_trns_h264/playlist.m3u8
-sexygamesx https://edge13-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-adfe24fd12d81d085d451bdf8106fda7e95f45870b234131a0b2c589c8c0f2c9_trns_h264/playlist.m3u8
 getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRDlERUYyMC1GRkYyLTQxM0MtOTEwMC0yN0UyMjM0MUI5QzYiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ4OTg3NTAsImV4cCI6MTcyNDg5OTM1MH0.EXYgulObS6TpaQpSWlNNUg9xqJmftvpJyEpLJikjWZAgsHsDGAa8CQmNRaFkSMJJmzJc_GsJjQyIqxDl3FqqiKxFg2MN8TDIkbWjAnCj_989Wq-efZ6ij501UxSkdxpB
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
