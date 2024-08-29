@@ -505,3 +505,9 @@ Thu Aug 29 18:51:04 CST 2024
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除cuddles_me https://edge7-lax.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-145e3116b166300fdb9849232b11dbb7b2aa694da3929598bcfccf6c1f709421_trns_h264/playlist.m3u8
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+Thu Aug 29 18:58:37 CST 2024
+Thu Aug 29 18:58:59 CST 2024
+Thu Aug 29 19:00:43 CST 2024
+添加danhana https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.WskmuSNNRNQk.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9Xc2ttdVNOTlJOUWsiLCJleHAiOjE3MjQ5NzI0MzQ1NTgsImlhdCI6MTcyNDkyOTIzNH0.BO9ggdYfxzAK9tODgBo8W_TJWY_hlMJKdrR68yfEUtWt1WttRoH9R4I9Pnt-C7h-qsHKM5XR0Ezb7hFhtjjHEpwCVbsRKjT_OCg9VWbXh-LJcQuH0tx4vbxeIvL_ht3o
+Thu Aug 29 19:00:57 CST 2024
+删除amilia4u https://edge9-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-b7bd74535709a5b4fce0f69fbb22219ecbfeb3046ca694da4a458e28f2fafa13_trns_h264/playlist.m3u8
