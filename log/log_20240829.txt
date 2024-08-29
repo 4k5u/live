@@ -534,3 +534,9 @@ Thu Aug 29 19:31:31 CST 2024
 删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除foxylovesyou https://edge5-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-dabc280ec366323e1c8af29f0044f32b82738caa3e8469793eb29b403a590ffc_trns_h264/playlist.m3u8
+添加oki_dokie https://edge3-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2e63e18fcf829a1764fea6e7d3aa7c07e3305304ee5a436312a9b37f451a8729_trns_h264/playlist.m3u8
+Thu Aug 29 19:40:14 CST 2024
+Thu Aug 29 19:40:52 CST 2024
+Thu Aug 29 19:42:39 CST 2024
+Thu Aug 29 19:42:52 CST 2024
+添加Daji__-Baby_ https://edge-hls.doppiocdn.live/hls/144340014/master/144340014_auto.m3u8
