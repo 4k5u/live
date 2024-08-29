@@ -384,3 +384,10 @@ Thu Aug 29 14:59:13 CST 2024
 添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+Thu Aug 29 15:17:01 CST 2024
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MzE1NzFDMC03NEQ0LTRDNjItQjdBOC0wNUI3Q0M1MDM2ODkiLCJ2aWV3ZXItaWQiOiIyMzk2NDExMyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5MTU4MzAsImV4cCI6MTcyNDkxNjQzMH0.uHN727Z0YFlFiGLWxF010JogLUnw9mwMqG-BfybzIt3l_vpeVDHUk55rbtfMfykbkCXEdeUt0OYl7aNFhzur6zVhswTgMn1j2nbWZljQTa-SItuismeAiohSUqvAGerb
+Thu Aug 29 15:17:14 CST 2024
+Thu Aug 29 15:19:06 CST 2024
+添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MjQ5NTgyMjM4MTQsImlhdCI6MTcyNDkxNTAyM30.3w1nmm2r5inCCfUvuw5myNTPNdgajrYGDB68jd8fYDqUXZtRpChGNyrBUKpjC6svVOG2SG8yFFjavkH338InqNA8a3fKCy3rizgg-cxa0XTbR7fdIbqCRuT5tTAPaXRU
+Thu Aug 29 15:19:21 CST 2024
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
