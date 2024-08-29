@@ -15,3 +15,4 @@ AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQ0RGQjUxOC1EQ0YzLTRGRjctQkFFQS05QzFEMDczNEUyQkMiLCJ2aWV3ZXItaWQiOiIxNjI0MjUzOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5MDI1MzYsImV4cCI6MTcyNDkwMzEzNn0.qN8nenI7kRf4voU7ybmY2-FZzf6gzR85GBc7lj9NQZzVnWtL92_o0C3ie308S58nDpT7JtYffwc8a19xVk9BcvsR3b29A2h9dm6Xsb0rkUmUPOwuv7eSjIaxDfNBkVZv
 Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
