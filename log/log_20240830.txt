@@ -220,3 +220,8 @@ Fri Aug 30 06:01:08 CST 2024
 Fri Aug 30 06:02:52 CST 2024
 Fri Aug 30 06:03:04 CST 2024
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+添加sexygamesx https://edge6-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-25503c73b62ccfd9582deebada2931c1c56757c97d9572bd15061ccfe0add033_trns_h264/playlist.m3u8
+Fri Aug 30 06:24:15 CST 2024
+Fri Aug 30 06:24:19 CST 2024
+Fri Aug 30 06:26:12 CST 2024
+Fri Aug 30 06:26:26 CST 2024
