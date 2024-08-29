@@ -525,3 +525,12 @@ Thu Aug 29 19:21:26 CST 2024
 Thu Aug 29 19:21:40 CST 2024
 删除oki_dokie https://edge5-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-81cd452605fa769b1d0db23753eab5aa04ded8429cd0ab145325cb42a5a9485b_trns_h264/playlist.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加_marydel_ https://edge3-aus.live.mmcdn.com/live-hls/amlst:_marydel_-sd-5ad77a0460921694400daf06bb754d12234daa8551a37b2d96719b71aaf538cf_trns_h264/playlist.m3u8
+Thu Aug 29 19:28:56 CST 2024
+Thu Aug 29 19:29:34 CST 2024
+Thu Aug 29 19:31:18 CST 2024
+Thu Aug 29 19:31:31 CST 2024
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除foxylovesyou https://edge5-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-dabc280ec366323e1c8af29f0044f32b82738caa3e8469793eb29b403a590ffc_trns_h264/playlist.m3u8
