@@ -395,3 +395,10 @@ Thu Aug 29 15:28:49 CST 2024
 Thu Aug 29 15:28:59 CST 2024
 Thu Aug 29 15:30:52 CST 2024
 Thu Aug 29 15:31:05 CST 2024
+添加joysuniverse https://edge19-ash.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-17114b6c1bc2001c9858a668c4c00b92ebda6413685c53e0b4e919f04290ff8a_trns_h264/playlist.m3u8
+Thu Aug 29 15:39:46 CST 2024
+Thu Aug 29 15:39:54 CST 2024
+Thu Aug 29 15:41:49 CST 2024
+Thu Aug 29 15:42:03 CST 2024
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+删除getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRDlERUYyMC1GRkYyLTQxM0MtOTEwMC0yN0UyMjM0MUI5QzYiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ4OTg3NTAsImV4cCI6MTcyNDg5OTM1MH0.EXYgulObS6TpaQpSWlNNUg9xqJmftvpJyEpLJikjWZAgsHsDGAa8CQmNRaFkSMJJmzJc_GsJjQyIqxDl3FqqiKxFg2MN8TDIkbWjAnCj_989Wq-efZ6ij501UxSkdxpB
