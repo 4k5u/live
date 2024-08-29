@@ -474,3 +474,12 @@ Thu Aug 29 17:57:36 CST 2024
 Thu Aug 29 17:57:57 CST 2024
 Thu Aug 29 17:59:40 CST 2024
 Thu Aug 29 17:59:52 CST 2024
+添加ad0res https://edge17-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-a2f198b7249ae79cb0e0ffdff24172bda1e030bc6f90a6ad62a30174fc490309_trns_h264/playlist.m3u8
+Thu Aug 29 18:20:08 CST 2024
+添加icubi69 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.GUsiHfsr4rWj.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0dVc2lIZnNyNHJXaiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzRTFGRDYxMS0xNUNELTQxODQtQjIxQy0wNkMzQURBQ0ZCODAiLCJ2aWV3ZXItaWQiOiIyNTE5OTAwNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5MjY4MDksImV4cCI6MTcyNDkyNzQwOX0.SBUKY4U8NNFFuMZE46UNSuaB9c2it5SzoOhwuK8bIh_bJ7ZHVPQnbc83UDDJPDUP0zfRrsMLLQ4al71Nf8pTbVYQBkSuM5wRNc0oAIOs0ItNJvhitmw8PkgiHr7KVjcf
+Thu Aug 29 18:20:31 CST 2024
+Thu Aug 29 18:22:28 CST 2024
+Thu Aug 29 18:22:43 CST 2024
+删除foxylovesyou https://edge1-atl.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-36ed3059fcc78d872e14c1f82449c305c998b5037558eab9f5a7040e47e004d2_trns_h264/playlist.m3u8
+删除grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+删除peichen6699 https://edge-hls.doppiocdn.live/hls/160752369/master/160752369_auto.m3u8
