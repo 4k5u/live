@@ -631,3 +631,10 @@ Thu Aug 29 22:49:47 CST 2024
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3MjQ5NjM4NDIxNjMsImlhdCI6MTcyNDkyMDY0Mn0.cnCBgeKeRLDrixz4cFdv6Tu1F2Rp_ZlPkYPiQdPbD2czuyZVdNGLnuyYYG5ebJZZevIt9oS--6yRyXuaTcbO8dlQebGs1b3RFIdEW8q-pX-58G3lpLMCk31F0kllslzE
 删除_marydel_ https://edge3-aus.live.mmcdn.com/live-hls/amlst:_marydel_-sd-5ad77a0460921694400daf06bb754d12234daa8551a37b2d96719b71aaf538cf_trns_h264/playlist.m3u8
+添加iminako https://edge21-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-f6ba8b0835c289700522f7dd1d0c176ae05614ced40363212d9577e0ad0cb780_trns_h264/playlist.m3u8
+Thu Aug 29 22:57:13 CST 2024
+Thu Aug 29 22:57:57 CST 2024
+Thu Aug 29 22:59:53 CST 2024
+Thu Aug 29 23:00:07 CST 2024
+添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+删除aesoon96 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.4NaAcTktGqxD.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC80TmFBY1RrdEdxeEQiLCJleHAiOjE3MjQ5NzA0MTIxMjIsImlhdCI6MTcyNDkyNzIxMn0.ALB90J7zGa-hOZ5866Gs0oVggJYvC9X4sHbrDxulM-xMcFUsaUzYOf1dD93ohjgGBGrjEhZitI-329TmtFjWYe12HhOFQW2_HQ4JYsyW9r4HDxwy8qqNoxGgmTaaeMw2
