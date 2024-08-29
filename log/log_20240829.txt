@@ -255,3 +255,9 @@ Thu Aug 29 07:50:30 CST 2024
 Thu Aug 29 07:50:43 CST 2024
 添加168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
 删除_marydel_ https://edge2-ash.live.mmcdn.com/live-hls/amlst:_marydel_-sd-c4348ac618b7a03f1eb755852b94f8f1bebad0ef9a84c6cbbe5712a4273a6422_trns_h264/playlist.m3u8
+添加gina_gracia https://edge11-lax.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-52056760a77bceef5362f4688f881d86b521a210e30623333b9860e62b3e2f51_trns_h264/playlist.m3u8
+Thu Aug 29 07:59:07 CST 2024
+Thu Aug 29 07:59:11 CST 2024
+Thu Aug 29 08:00:55 CST 2024
+Thu Aug 29 08:01:07 CST 2024
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
