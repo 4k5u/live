@@ -240,3 +240,10 @@ Fri Aug 30 07:00:41 CST 2024
 Fri Aug 30 07:02:33 CST 2024
 Fri Aug 30 07:02:48 CST 2024
 添加168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
+添加my_eyes_higher https://edge29-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-cc360ad711cdbd20faee5f973e3a52cfa11b030dce92b62691d540d34f96a214_trns_h264/playlist.m3u8
+Fri Aug 30 07:23:24 CST 2024
+Fri Aug 30 07:23:28 CST 2024
+Fri Aug 30 07:25:11 CST 2024
+Fri Aug 30 07:25:23 CST 2024
+删除gina_gracia https://edge8-mia.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-a02a048fa3b384517cef701a73059d00b2250d1b6e856c2cc3af7fa02b8456e3_trns_h264/playlist.m3u8
+删除sexygamesx https://edge6-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-25503c73b62ccfd9582deebada2931c1c56757c97d9572bd15061ccfe0add033_trns_h264/playlist.m3u8
