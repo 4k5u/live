@@ -521,3 +521,9 @@ Fri Aug 30 17:49:01 CST 2024
 Fri Aug 30 17:49:14 CST 2024
 删除amilia4u https://edge5-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-e874b80a578455fcda9149ffaab904258c25bbadaba03ae6cadbf00e8d9864ef_trns_h264/playlist.m3u8
 删除galantini https://edge18-chi.live.mmcdn.com/live-hls/amlst:galantini-sd-6f1f7845e33e8016c78b5bd1ef186b0535bd34ce7a3d03f182292257cb4da1e5_trns_h264/playlist.m3u8
+Fri Aug 30 17:57:23 CST 2024
+Fri Aug 30 17:57:35 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-12/auth_master_playlist.m3u8?aid=null
+Fri Aug 30 17:59:29 CST 2024
+Fri Aug 30 17:59:42 CST 2024
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
