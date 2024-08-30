@@ -20,3 +20,6 @@ Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m
 LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+amilia4u https://edge2-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-e874b80a578455fcda9149ffaab904258c25bbadaba03ae6cadbf00e8d9864ef_trns_h264/playlist.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
