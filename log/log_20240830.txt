@@ -515,3 +515,9 @@ Fri Aug 30 17:34:46 CST 2024
 Fri Aug 30 17:35:00 CST 2024
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+Fri Aug 30 17:46:56 CST 2024
+Fri Aug 30 17:47:09 CST 2024
+Fri Aug 30 17:49:01 CST 2024
+Fri Aug 30 17:49:14 CST 2024
+删除amilia4u https://edge5-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-e874b80a578455fcda9149ffaab904258c25bbadaba03ae6cadbf00e8d9864ef_trns_h264/playlist.m3u8
+删除galantini https://edge18-chi.live.mmcdn.com/live-hls/amlst:galantini-sd-6f1f7845e33e8016c78b5bd1ef186b0535bd34ce7a3d03f182292257cb4da1e5_trns_h264/playlist.m3u8
