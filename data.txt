@@ -1,6 +1,5 @@
 dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBQUNCRDdEMC1DOTI2LTQwMjUtQjczNS01Mzg5NzE2NzAxMDciLCJ2aWV3ZXItaWQiOiIxOTIyMjg1NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5MzU0ODAsImV4cCI6MTcyNDkzNjA4MH0.YtPNa0Z6msufkvM7VENlS0qruFgtQasC4hzda6yCIEZdmROLH0V4JhCNTlp6Hl4wgpGqxN6AjsDlaqP2Vz2jVcjIvdbCHU7pE0AEcGnhpU2WfQaWLEPnO5Py668x3pIn
 my_eyes_higher https://edge29-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-cc360ad711cdbd20faee5f973e3a52cfa11b030dce92b62691d540d34f96a214_trns_h264/playlist.m3u8
-IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 gina_gracia https://edge8-aus.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-5bc1d6fb70a4a7515d5877c4c7228b9a4cc5210dff135f942844aa363f2fd986_trns_h264/playlist.m3u8
 intim_mate https://edge18-chi.live.mmcdn.com/live-hls/amlst:intim_mate-sd-e036a8f9c77ffd312a9230ab245afcb2787815ac71ea0c219c3a8ca352589199_trns_h264/playlist.m3u8
@@ -30,3 +29,5 @@ won110 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+foxylovesyou https://edge5-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-5e6facfaa48fb2bda03182ae364529408b802eedbe8be81fed7520397d971c54_trns_h264/playlist.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
