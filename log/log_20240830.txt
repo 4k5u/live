@@ -540,3 +540,11 @@ Fri Aug 30 18:21:31 CST 2024
 删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
 删除joysuniverse https://edge13-atl.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-6e01699a5cabc52568bf8f5dddf5b416d78fb76a107b9f42e088cf0165477ac9_trns_h264/playlist.m3u8
 删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加cuddles_me https://edge15-ash.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-b07511e155b9af673792f926e403ed6f68bd2a264048a277d41762ff3572ae04_trns_h264/playlist.m3u8
+Fri Aug 30 18:37:29 CST 2024
+Fri Aug 30 18:37:47 CST 2024
+Fri Aug 30 18:39:39 CST 2024
+Fri Aug 30 18:39:53 CST 2024
+添加Daji__-Baby_ https://edge-hls.doppiocdn.live/hls/144340014/master/144340014_auto.m3u8
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
