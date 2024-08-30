@@ -400,3 +400,23 @@ Fri Aug 30 14:04:05 CST 2024
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除my_eyes_higher https://edge29-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-cc360ad711cdbd20faee5f973e3a52cfa11b030dce92b62691d540d34f96a214_trns_h264/playlist.m3u8
+添加mode_bad https://edge3-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-6196eabb3824a7cda4bc0e457520f62631e754aabe01b40e15b0586f19b7402f_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge16-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7301c3db6224b10e05dc2fa2cfce9e0672133474e9f0249a4b85c94b064f6c03_trns_h264/playlist.m3u8
+Fri Aug 30 14:34:35 CST 2024
+Fri Aug 30 14:34:45 CST 2024
+Fri Aug 30 14:36:32 CST 2024
+Fri Aug 30 14:36:45 CST 2024
+删除4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQjU0ODFDMS00RjM5LTQ0MEMtOTEyNy1FNDNDQUUzQkY2NzkiLCJ2aWV3ZXItaWQiOiIyMzQ1OTE5NSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5ODE5NDAsImV4cCI6MTcyNDk4MjU0MH0.aJgsUWjwqIqifyJuHJ2IzXPPeyaiMJoYJkPUzeJi5RVWNS1csMXf_jJKUo27HiJz9fWEnd4NOu3fjeNXL235cTdWfYBYZC1Jo0xkonr3fug0hjnr2dcYPUookN3Omtqq
+删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
