@@ -360,3 +360,13 @@ Fri Aug 30 13:04:01 CST 2024
 删除intim_mate https://edge18-chi.live.mmcdn.com/live-hls/amlst:intim_mate-sd-e036a8f9c77ffd312a9230ab245afcb2787815ac71ea0c219c3a8ca352589199_trns_h264/playlist.m3u8
 删除joysuniverse https://edge4-chi.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-fb5c9beb89c766fca7db0a68994b839cb4348d1680a330d4e4ce2088e3d28fc6_trns_h264/playlist.m3u8
 删除2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMkVBRTZBQi1BMUM3LTRERTQtODI2RS05OTlBODU1MEVFOEUiLCJ2aWV3ZXItaWQiOiIyMTk4OTAwMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5ODgwNjksImV4cCI6MTcyNDk4ODY2OX0.m60qlTFnOFaBS2xPk2euvlGyk5YgVaGs9xIXMA0GtwgaG8aP159r6R8h_Hvz_hkEjU_A7NrVpKcv5Ki70g7B2vQfmoQ_bRRF2K9yujqoWgBovAD0p8S6OLMrIlyo1PoF
+添加ake_mi https://edge1-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-ad0b0f0aa903c810988c98cdee3fbea0e55222140ff02dcdc74786ab3db4d1b6_trns_h264/playlist.m3u8
+Fri Aug 30 13:29:17 CST 2024
+Fri Aug 30 13:29:27 CST 2024
+Fri Aug 30 13:31:20 CST 2024
+Fri Aug 30 13:31:34 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1VYB5txL3o3dDb0J3C5EcVT62IflUD6eqlIgl4LgY2uSVXVqlh6UuuvPpH2QCmaFjoDlm48456DfVCih_kkFVQ
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
