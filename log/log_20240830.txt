@@ -641,3 +641,11 @@ Fri Aug 30 21:34:01 CST 2024
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 删除leelate https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.r7xydW1ECHAoDk9lBZoaGgZ0kI6sQSZ7JnET93cmdNqY0UNopSUUKRA9inlm1p_ZYCq49ZJr87EVLVMZwjPv7g
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加cuddles_me https://edge7-aus.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-550f07927d3ab6d880a94be495e1634beced1cf2e36c15afe85976beb41eef87_trns_h264/playlist.m3u8
+Fri Aug 30 21:41:43 CST 2024
+Fri Aug 30 21:42:27 CST 2024
+Fri Aug 30 21:44:19 CST 2024
+Fri Aug 30 21:44:33 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+删除hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-12/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IBlI0_wys3fwFdaLH9X4jxozDl9KavSyKKsqupTFZ8-rgInyqbnCxov8NvGxT52qBzzdhmL9UkpeqofO1fLijQ
