@@ -328,3 +328,13 @@ Fri Aug 30 11:57:23 CST 2024
 Fri Aug 30 11:59:13 CST 2024
 Fri Aug 30 11:59:26 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加oki_dokie https://edge28-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-12be8ec81816b734db1a9cac78db964df3d3a51323710a468e3642f9ddb61e82_trns_h264/playlist.m3u8
+Fri Aug 30 12:21:45 CST 2024
+添加won110 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.fYJ3Ue8cRoOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ZZSjNVZThjUm9PbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwRjU3QjFENi01RUFCLTQyODQtOThEQS02M0YwMkJERTk0MzUiLCJ2aWV3ZXItaWQiOiIyNDQ0NjY1OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5OTE3MDYsImV4cCI6MTcyNDk5MjMwNn0.NPgg4XGiUGz0mEwauco1VZu1hiqXSFk83Z6xUvO_4lb-Tt_e_RdHw04ipCiNDfvgXGobanlMd3uO7cwhGbbToo_iwtaTqTL-ddjjF5uQicfpXOxzdhOvxZJU3c9Iiwu-
+Fri Aug 30 12:21:58 CST 2024
+Fri Aug 30 12:23:52 CST 2024
+Fri Aug 30 12:24:06 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除sexygamesx https://edge23-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-1700873fe3a3f9ea6babd7925b420c2ed4a33c5a02ad456991da926609f00a6f_trns_h264/playlist.m3u8
