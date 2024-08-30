@@ -13,7 +13,6 @@ Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 joysuniverse https://edge4-chi.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-fb5c9beb89c766fca7db0a68994b839cb4348d1680a330d4e4ce2088e3d28fc6_trns_h264/playlist.m3u8
 getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNDQzQkIwNS1ERTAzLTQzRTYtOEU1NS00NkNCRjNGMUU1NEMiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5ODUyODYsImV4cCI6MTcyNDk4NTg4Nn0.LbIsb7bBLE5XkLMshT3Rq-UoIYBT-qPHR0RkjkwAdIrEBzPY5RkU2ZcBikvhGN3Ps-l2qz4ooLuF6XiMNPHk-eTWljXMGtNkn1aNCCVqW0Y3IYPdR_rWMXcZADMT_6SH
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
-Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
@@ -23,3 +22,5 @@ Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMkVBRTZBQi1BMUM3LTRERTQtODI2RS05OTlBODU1MEVFOEUiLCJ2aWV3ZXItaWQiOiIyMTk4OTAwMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5ODgwNjksImV4cCI6MTcyNDk4ODY2OX0.m60qlTFnOFaBS2xPk2euvlGyk5YgVaGs9xIXMA0GtwgaG8aP159r6R8h_Hvz_hkEjU_A7NrVpKcv5Ki70g7B2vQfmoQ_bRRF2K9yujqoWgBovAD0p8S6OLMrIlyo1PoF
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
