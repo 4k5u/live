@@ -316,3 +316,10 @@ Fri Aug 30 11:37:20 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Fri Aug 30 11:47:16 CST 2024
+添加mozzzi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.P58zKdyrmINu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1A1OHpLZHlybUlOdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNTJDNTAyQS1FOTZCLTRENEYtQkEwMC04MTJERTZBRUY3NzUiLCJ2aWV3ZXItaWQiOiIyNDk3ODE2MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5ODk2MzcsImV4cCI6MTcyNDk5MDIzN30.AikbvevzMLkFuylDDTnJZXrTPFqNryHHNqH7bdEWXHaJHKfdpfFSUY9vCJ96JjoJuK0X6fi6kM5HdLLXpaowFk95amFLDXQJfJI7XG1vywsFKbWiDZu-lgXIVIu1XawF
+Fri Aug 30 11:47:28 CST 2024
+Fri Aug 30 11:49:12 CST 2024
+Fri Aug 30 11:49:24 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
