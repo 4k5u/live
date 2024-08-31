@@ -19,3 +19,4 @@ leelate https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playl
 Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 gina_gracia https://edge5-mia.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-a1c3a1278ff21d829a1c3a0c196f11dee99979a80f31f8ce99c7e759466e53af_trns_h264/playlist.m3u8
 kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-27/auth_master_playlist.m3u8?aid=null
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
