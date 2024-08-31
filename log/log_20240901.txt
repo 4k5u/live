@@ -156,3 +156,9 @@ Sun Sep 1 04:59:18 CST 2024
 Sun Sep 1 05:01:12 CST 2024
 Sun Sep 1 05:01:25 CST 2024
 删除Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+添加mazzanti_ https://edge23-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-70aa4778dab160fc1e9dd4357e6a02f44be305b9e7ce7965fa6f0fcda4117e10_trns_h264/playlist.m3u8
+Sun Sep 1 05:20:30 CST 2024
+Sun Sep 1 05:20:32 CST 2024
+Sun Sep 1 05:22:24 CST 2024
+Sun Sep 1 05:22:38 CST 2024
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
