@@ -574,3 +574,9 @@ Sat Aug 31 21:48:39 CST 2024
 添加big541 https://live-global-cdn-v02.afreecatv.com/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zuly22jnMKA5eWmP3aNy2sscvicp7s0tIvBQBYHk-AIbFdHCVJoDCAOcwvpQl1Gy9fsrDZMeZIe9i5KIZRB8pg
 Sat Aug 31 21:50:33 CST 2024
 Sat Aug 31 21:50:46 CST 2024
+Sat Aug 31 21:58:12 CST 2024
+Sat Aug 31 21:58:56 CST 2024
+添加jeehyeoun https://live-global-cdn-v02.afreecatv.com/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HNQhiTnuv1lBZl8h5uyYfhEbkB3R7-xFUrDHpprdQjlGJX0YYHgCzPKVt7nPMiILP-Qdct-u_8wmRwjDyIGkcg
+Sat Aug 31 22:00:54 CST 2024
+Sat Aug 31 22:01:08 CST 2024
+添加Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
