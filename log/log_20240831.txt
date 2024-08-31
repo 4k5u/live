@@ -327,3 +327,8 @@ Sat Aug 31 13:34:37 CST 2024
 Sat Aug 31 13:34:51 CST 2024
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 删除my_eyes_higher https://edge1-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2ffaac7ecf29ea2a7acd22d8f7a2c9e15237a7ae4fea2cfa8a8fb348454f9c43_trns_h264/playlist.m3u8
+Sat Aug 31 13:47:16 CST 2024
+Sat Aug 31 13:47:22 CST 2024
+Sat Aug 31 13:49:09 CST 2024
+Sat Aug 31 13:49:22 CST 2024
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
