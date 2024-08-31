@@ -382,3 +382,12 @@ Sat Aug 31 15:17:33 CST 2024
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 删除h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OxqvPY0HHw1D9sbnR0CfRvYJkhwEi1toRJK1Falr3Un74yzTW83k2H35vDU2DwKKokWR2MzuExGhQmDnYNFFww
+Sat Aug 31 15:27:13 CST 2024
+Sat Aug 31 15:27:23 CST 2024
+Sat Aug 31 15:29:15 CST 2024
+添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MjUxMzI0MjEyMjAsImlhdCI6MTcyNTA4OTIyMX0.G_mZgehwb3b0Y3KufIuFEj3bB2xdCBePWFO1XWrOndviQyhLjKdRR9IMrv0_YN0su266C2nBEpTOAttfEh5a52zW74ZvOre1LiDy0rHktDr_ej1FzpTDbHqfYTpw_Xek
+Sat Aug 31 15:29:33 CST 2024
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-14/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3e2GkNwTBN3C___qKT0m5XFqeWU5dNKYXw_VGiH5e1efRiwsdriOP1CmuX_APU8USMm1CS8b2animxiI8-RS7Q
+删除amilia4u https://edge30-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-9e75e8dbcbe7a6af6444c99a02b534bf3b4879009004d6a998491f0224b1b015_trns_h264/playlist.m3u8
+删除galantini https://edge24-ash.live.mmcdn.com/live-hls/amlst:galantini-sd-7ca7dbcd442df710b976fc96b9ce560b5f9913eaea77b8c519c1a5000ac22d50_trns_h264/playlist.m3u8
