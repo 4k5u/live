@@ -258,3 +258,12 @@ Sat Aug 31 11:04:08 CST 2024
 Sat Aug 31 11:04:20 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+Sat Aug 31 11:25:33 CST 2024
+Sat Aug 31 11:25:41 CST 2024
+Sat Aug 31 11:27:28 CST 2024
+Sat Aug 31 11:27:41 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除amilia4u https://edge16-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-9e75e8dbcbe7a6af6444c99a02b534bf3b4879009004d6a998491f0224b1b015_trns_h264/playlist.m3u8
