@@ -21,3 +21,4 @@ TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3
 kiyoko_rin https://edge13-atl.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-7e4ca0bfa7e292a5efe2f4244f326fbaa9c5b37d27afe86ddbd06d37b23fe2ac_trns_h264/playlist.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 leelate https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
