@@ -189,3 +189,9 @@ Sun Sep 1 06:26:57 CST 2024
 添加_PunPun18 https://edge-hls.doppiocdn.live/hls/149392038/master/149392038_auto.m3u8
 删除gina_gracia https://edge5-mia.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-a1c3a1278ff21d829a1c3a0c196f11dee99979a80f31f8ce99c7e759466e53af_trns_h264/playlist.m3u8
 删除Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+添加cuddles_me https://edge24-ash.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-40c1ad7ed7ef4ea02c16885d763b8666d816d5cd15ffee127a1e2562a97b8dd3_trns_h264/playlist.m3u8
+Sun Sep 1 06:39:12 CST 2024
+Sun Sep 1 06:39:14 CST 2024
+Sun Sep 1 06:41:10 CST 2024
+Sun Sep 1 06:41:24 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
