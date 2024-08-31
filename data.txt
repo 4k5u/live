@@ -30,3 +30,4 @@ grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
 Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
