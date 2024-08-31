@@ -375,3 +375,10 @@ Sat Aug 31 14:57:12 CST 2024
 Sat Aug 31 14:59:14 CST 2024
 Sat Aug 31 14:59:29 CST 2024
 删除intim_mate https://edge6-slc.live.mmcdn.com/live-hls/amlst:intim_mate-sd-6e05ef17fd120d9f1bd9f8eb130206c06e668108e18b7ac0901682f044dc0573_trns_h264/playlist.m3u8
+Sat Aug 31 15:15:19 CST 2024
+Sat Aug 31 15:15:29 CST 2024
+Sat Aug 31 15:17:17 CST 2024
+Sat Aug 31 15:17:33 CST 2024
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+删除h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OxqvPY0HHw1D9sbnR0CfRvYJkhwEi1toRJK1Falr3Un74yzTW83k2H35vDU2DwKKokWR2MzuExGhQmDnYNFFww
