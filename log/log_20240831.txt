@@ -274,3 +274,10 @@ Sat Aug 31 11:38:52 CST 2024
 Sat Aug 31 11:40:45 CST 2024
 Sat Aug 31 11:41:00 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+Sat Aug 31 11:49:13 CST 2024
+Sat Aug 31 11:49:23 CST 2024
+Sat Aug 31 11:51:07 CST 2024
+Sat Aug 31 11:51:19 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除amilia4u https://edge30-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-9e75e8dbcbe7a6af6444c99a02b534bf3b4879009004d6a998491f0224b1b015_trns_h264/playlist.m3u8
