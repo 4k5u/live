@@ -25,3 +25,4 @@ na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 Tmdgus5411 https://live-global-cdn-v02.afreecatv.com/live-stm-20/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.llIDKHKKaIvSegQp2eL7MqB_LIWfmscsmYpyyiG0S4LHnXuc05dmARqNNBK4BhxZVCKM3_q7GW52yoJCJaAWhw
 yeosi1004 https://live-global-cdn-v02.afreecatv.com/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Y_CY0NsUHYBN4SMK09Q7TXHHQVbxVb0PDmUqu0j3-x30wN_Pi59GUGjUELJxCsExTaliqR2r7_uFEweMZi7_Wg
 miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
