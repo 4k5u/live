@@ -24,3 +24,5 @@ imissy0u https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 navi04 https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.8gHvwkT7H4IPMV9SEvS8qjdq4TSJwj1o5ycip0QAA1UIbiUm-VsUO5e1jbcfaBi4mnZsxcsGR2zoLUE9zL3LCw
 Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
 miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
