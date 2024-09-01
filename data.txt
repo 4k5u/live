@@ -19,3 +19,5 @@ kiyoko_rin https://edge15-lax.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-393ee5
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
