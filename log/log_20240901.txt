@@ -375,3 +375,9 @@ Sun Sep 1 14:58:42 CST 2024
 Sun Sep 1 14:59:00 CST 2024
 Sun Sep 1 15:00:52 CST 2024
 Sun Sep 1 15:01:05 CST 2024
+Sun Sep 1 15:18:22 CST 2024
+Sun Sep 1 15:18:40 CST 2024
+Sun Sep 1 15:20:35 CST 2024
+Sun Sep 1 15:20:49 CST 2024
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
