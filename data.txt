@@ -9,3 +9,4 @@ Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.
 168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
 gina_gracia https://edge7-lax.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-5c78d734de8df3fdd15c7e99b789b2c1acf5369145458ed866cfffa912f6341b_trns_h264/playlist.m3u8
 mazzanti_ https://edge23-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-0413646aba35fb4241d0e4764e5008cec1fa25c792b62d94e530c5c4853a0d1e_trns_h264/playlist.m3u8
+sexygamesx https://edge1-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-18dd1146e10a66ab66a416aa7920a34e30ae0686c7d00f7847577affbb94aaed_trns_h264/playlist.m3u8
