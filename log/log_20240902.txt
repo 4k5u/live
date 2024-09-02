@@ -340,3 +340,13 @@ Mon Sep 2 13:59:30 CST 2024
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加galantini https://edge24-ash.live.mmcdn.com/live-hls/amlst:galantini-sd-080583b36ce5d29d473db44020715437f633998d8ca5a6612f1563487b14dd6e_trns_h264/playlist.m3u8
+添加your_desssert https://edge19-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-27af3f9cbbae4a6dcfbfc44c1827fcb4f41eda39d25028af4e1e4d8fa6e9b59a_trns_h264/playlist.m3u8
+Mon Sep 2 14:26:19 CST 2024
+Mon Sep 2 14:26:32 CST 2024
+Mon Sep 2 14:28:26 CST 2024
+Mon Sep 2 14:28:41 CST 2024
+添加LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
