@@ -26,3 +26,5 @@ amilia4u https://edge7-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-bec5bdc05b1
 joysuniverse https://edge30-ash.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-a1a4595c62f3f13f1b81940d913c7d8c3620c6ed4c622e355d405667fd7a9f3f_trns_h264/playlist.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Ih7Md6cm87Stz2TZCQHNudKKASqngljtoNz6m7axM205WdCs66YpNNBOGUavWxKY-L9AsUDSvUyVflSVH6852w
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
