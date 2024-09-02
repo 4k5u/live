@@ -23,3 +23,4 @@ sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3
 Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 ake_mi https://edge18-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-47117578d593b97d7201b7cdcc711e7b5f08ace5cc46bb183c78cf430522b518_trns_h264/playlist.m3u8
 fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
