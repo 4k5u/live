@@ -356,3 +356,9 @@ Mon Sep 2 14:47:14 CST 2024
 Mon Sep 2 14:47:27 CST 2024
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加ake_mi https://edge18-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-47117578d593b97d7201b7cdcc711e7b5f08ace5cc46bb183c78cf430522b518_trns_h264/playlist.m3u8
+Mon Sep 2 14:57:37 CST 2024
+Mon Sep 2 14:57:52 CST 2024
+Mon Sep 2 14:59:44 CST 2024
+Mon Sep 2 14:59:59 CST 2024
+添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
