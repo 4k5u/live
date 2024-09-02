@@ -350,3 +350,9 @@ Mon Sep 2 14:28:41 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+Mon Sep 2 14:45:12 CST 2024
+Mon Sep 2 14:45:25 CST 2024
+Mon Sep 2 14:47:14 CST 2024
+Mon Sep 2 14:47:27 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
