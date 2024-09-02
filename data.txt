@@ -25,3 +25,4 @@ Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m
 amilia4u https://edge7-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-bec5bdc05b1c6183f258a195ebe97ab752dca2ef0451fd0e9eacb61b7ad88abc_trns_h264/playlist.m3u8
 joysuniverse https://edge30-ash.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-a1a4595c62f3f13f1b81940d913c7d8c3620c6ed4c622e355d405667fd7a9f3f_trns_h264/playlist.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
