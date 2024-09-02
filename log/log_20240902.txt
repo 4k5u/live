@@ -434,3 +434,11 @@ Mon Sep 2 17:35:02 CST 2024
 Mon Sep 2 17:36:49 CST 2024
 Mon Sep 2 17:37:02 CST 2024
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Mon Sep 2 17:47:36 CST 2024
+Mon Sep 2 17:47:58 CST 2024
+Mon Sep 2 17:49:50 CST 2024
+Mon Sep 2 17:50:02 CST 2024
+删除h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Ih7Md6cm87Stz2TZCQHNudKKASqngljtoNz6m7axM205WdCs66YpNNBOGUavWxKY-L9AsUDSvUyVflSVH6852w
+删除won110 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.fYJ3Ue8cRoOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ZZSjNVZThjUm9PbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MEU4NjFDOS1FNTkyLTREODEtOUM0MC0yQ0VBQjM1OURGRTEiLCJ2aWV3ZXItaWQiOiIyNDQ0NjY1OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjUyNTIxOTYsImV4cCI6MTcyNTI1Mjc5NiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.kUwJKabzptLOFrz1Co6vfvzApNH4gRPEvgznX8hc9jRIsZluLu2-V-awnLvQvDqbn_1YMSlc0RmXy6jHM_gShXzr804SeblFm3gkXgpFaM4f0O9sx-JAAmKyztTLqQ-r
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
