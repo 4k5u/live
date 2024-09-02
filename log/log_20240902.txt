@@ -474,3 +474,13 @@ Mon Sep 2 18:48:57 CST 2024
 Mon Sep 2 18:49:25 CST 2024
 Mon Sep 2 18:51:14 CST 2024
 Mon Sep 2 18:51:27 CST 2024
+Mon Sep 2 18:58:49 CST 2024
+Mon Sep 2 18:59:17 CST 2024
+添加Tmdgus5411 https://live-global-cdn-v02.afreecatv.com/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Ozk6yKacRikFX3Q7enr0t-9P_ivBcpTIPJBjH3KZ5ER9fnTpzEf92Uo6hGhumcbJSZjLYYr2R5pVNOR_aGrODg
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.uYuQsZrzCxmevdQIeOFAsFc1bzUTRq0aYuPbsFOeJjGUDGrsyKFqBfsmu38ocpLam8pILuYDSFkx1XElM3ypFw
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.uYuQsZrzCxmevdQIeOFAsG0QbB_fZXVwmMZVLVp9wU33mPgXLGyWEE5S2RG616WWxmJa749OBVx0gT_eNLtZhg
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0vTFfKcLTZ5Ee-dD5LupZSMXLnPdoh8OWdoICN3tDv-T4QXQNNnuVZS9K8iMbkCHrF-FKJ7aCsSflMojtQkkjA
+Mon Sep 2 19:01:32 CST 2024
+Mon Sep 2 19:01:46 CST 2024
+删除amilia4u https://edge7-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-bec5bdc05b1c6183f258a195ebe97ab752dca2ef0451fd0e9eacb61b7ad88abc_trns_h264/playlist.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
