@@ -376,3 +376,10 @@ Tue Sep 3 15:49:43 CST 2024
 Tue Sep 3 15:51:28 CST 2024
 添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MjUzOTI2MTkwMDAsImlhdCI6MTcyNTM0OTQxOX0.h7i1w2fyd8KqZwk-8pylF7XSQTubGpc4RrhkLFOefFYcK0WyrlhO0p6Muqb0cXe6_X_l-jOenGjfDqZQowI9hVEhZZ7YJMDQ8rd1OqMHOb3hFHRhsby8Q_khisytvWGi
 Tue Sep 3 15:51:43 CST 2024
+Tue Sep 3 15:59:36 CST 2024
+Tue Sep 3 15:59:48 CST 2024
+Tue Sep 3 16:01:48 CST 2024
+Tue Sep 3 16:02:00 CST 2024
+添加4inlv https://edge-hls.doppiocdn.live/hls/111026357/master/111026357_auto.m3u8
+删除amilia4u https://edge25-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-77b2d2e178d12ce99d980d19793f106f155a3fea2f1f88337b2e8df42d8b62ad_trns_h264/playlist.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
