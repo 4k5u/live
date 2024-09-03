@@ -596,3 +596,9 @@ Tue Sep 3 22:47:57 CST 2024
 Tue Sep 3 22:49:46 CST 2024
 Tue Sep 3 22:49:59 CST 2024
 添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+Tue Sep 3 22:57:12 CST 2024
+Tue Sep 3 22:58:10 CST 2024
+Tue Sep 3 23:00:03 CST 2024
+Tue Sep 3 23:00:18 CST 2024
+添加regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
