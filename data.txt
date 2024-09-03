@@ -10,7 +10,6 @@ sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playli
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 rmrm1313 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.kehc5nb0j5tY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tlaGM1bmIwajV0WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJERjk2NkU1Qi0xRTY1LTQwQkMtOEFGRS0xODk0NDM3NUUyNkIiLCJ2aWV3ZXItaWQiOiI3NTYyNDc5Iiwidmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTcyNTM4MDY1NCwiZXhwIjoxNzI1MzgxMjU0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.uy-sYQfwL3eY-FojX6BEeleu5hbnGPQvEkpxOxdO42tJHJa9FS2HPHtTs5FaqwT1kIs_i0f1vjjSkc1WQwh029WSByO5HoSRajatlukx3b1ZYlcqUo8WyRO37_kkiItL
-JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 kiyoko_rin https://edge8-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-38c942fa1e05f19d941850f6e78ad1cb856552cb06bb1bcab8f202a4c0fa9f03_trns_h264/playlist.m3u8

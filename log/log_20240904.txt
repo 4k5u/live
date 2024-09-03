@@ -115,3 +115,8 @@ Wed Sep 4 03:29:16 CST 2024
 Wed Sep 4 03:29:30 CST 2024
 删除glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.XgHteE9CskDUlGbk_CsU4ZDMPxbGrVT1CYggxCKlxTWCDKERBu3rE3eoR1RVIuY1gocN9Xx1b_KsMCNVoPUTtA
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Wed Sep 4 03:39:13 CST 2024
+Wed Sep 4 03:39:17 CST 2024
+Wed Sep 4 03:41:12 CST 2024
+Wed Sep 4 03:41:26 CST 2024
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
