@@ -11,9 +11,10 @@ ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx
 LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
-mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 amilia4u https://edge25-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-77b2d2e178d12ce99d980d19793f106f155a3fea2f1f88337b2e8df42d8b62ad_trns_h264/playlist.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+joysuniverse https://edge18-aus.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-26daab7e31a189ce079847281d752104b829209d80a8fe22c5f1841028541d7a_trns_h264/playlist.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
