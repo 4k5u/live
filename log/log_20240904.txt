@@ -188,3 +188,10 @@ Wed Sep 4 06:46:56 CST 2024
 Wed Sep 4 06:46:58 CST 2024
 Wed Sep 4 06:48:52 CST 2024
 Wed Sep 4 06:49:07 CST 2024
+添加gina_gracia https://edge8-chi.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-de06dd7d32c415a329abe0cd787ddeccb1d8b5e28ee49e954aa9c172b1d0515b_trns_h264/playlist.m3u8
+添加_marydel_ https://edge19-ash.live.mmcdn.com/live-hls/amlst:_marydel_-sd-eb493c49346e54aa14a108041893b9569c4e07a5da893d0ff6f89896afa31df3_trns_h264/playlist.m3u8
+Wed Sep 4 06:57:19 CST 2024
+Wed Sep 4 06:57:21 CST 2024
+Wed Sep 4 06:59:15 CST 2024
+Wed Sep 4 06:59:30 CST 2024
+删除jeehyeoun https://live-global-cdn-v02.afreecatv.com/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.tWnAqZ7EmDD-7EllfHIOwztMrt6MTkuVo2rGzih7QYR0eAAAe1oDbLTATFU-hIGQkrOtncsDMAMhTeTnB8y6jQ
