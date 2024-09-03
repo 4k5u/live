@@ -297,3 +297,8 @@ Tue Sep 3 13:37:40 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TEvAl4rGSbcoDW9S5ZxycqoDR34hQ-N5uEZPj2iq8Z84JAZVe8XBREG0q25DtxlPuFNtTA-SnKjCct2rzuhXEw
+Tue Sep 3 13:47:16 CST 2024
+Tue Sep 3 13:47:28 CST 2024
+Tue Sep 3 13:49:11 CST 2024
+Tue Sep 3 13:49:23 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
