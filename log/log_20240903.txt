@@ -454,3 +454,9 @@ Tue Sep 3 18:38:36 CST 2024
 Tue Sep 3 18:40:29 CST 2024
 Tue Sep 3 18:40:43 CST 2024
 删除oki_dokie https://edge7-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d3398cf640b2a542c194b8ea6e057c2ce788a80327bac25bd71572d3fe67b49d_trns_h264/playlist.m3u8
+添加your_desssert https://edge9-lax.live.mmcdn.com/live-hls/amlst:your_desssert-sd-c6feded2bd1d8d408422d45c491780ba447f12e6bf8e071e4f5c7ff117321be7_trns_h264/playlist.m3u8
+Tue Sep 3 18:49:05 CST 2024
+Tue Sep 3 18:49:35 CST 2024
+Tue Sep 3 18:51:19 CST 2024
+Tue Sep 3 18:51:32 CST 2024
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
