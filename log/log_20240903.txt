@@ -223,3 +223,14 @@ Tue Sep 3 10:49:08 CST 2024
 删除_PunPun18 https://edge-hls.doppiocdn.live/hls/149392038/master/149392038_auto.m3u8
 删除kiyoko_rin https://edge16-lax.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-b6ae02002e0238eab4f4dd98d3b08e65733bc578e02392637aec553348b52f79_trns_h264/playlist.m3u8
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+添加amilia4u https://edge25-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-77b2d2e178d12ce99d980d19793f106f155a3fea2f1f88337b2e8df42d8b62ad_trns_h264/playlist.m3u8
+Tue Sep 3 11:26:22 CST 2024
+Tue Sep 3 11:26:30 CST 2024
+Tue Sep 3 11:28:23 CST 2024
+Tue Sep 3 11:28:37 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMDBBQUVBQS0yRDI5LTQ4QjMtOUYwNy00RDk0NkUyRDVDMjMiLCJ2aWV3ZXItaWQiOiIyNTAzNjk0NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjUzMTM4MzEsImV4cCI6MTcyNTMxNDQzMSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.XteDhoBrCslATIJOqwfBEFZZCtzKg6PhrA_twFB14Qn6XnQtwbL9cr21BM0lYOCZmL1brUlz0LhygZKRgpgej6oFdChZSpSH743B58j3wHKKbWTJvhmwoCE52H_CY_vi
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除joysuniverse https://edge6-chi.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-26daab7e31a189ce079847281d752104b829209d80a8fe22c5f1841028541d7a_trns_h264/playlist.m3u8
