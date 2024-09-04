@@ -25,3 +25,6 @@ LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m
 Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+my_eyes_higher https://edge27-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ffcfc205d65d8bc1cc24606ff85f5d70227690e15f439a5d2dba182b79ebb210_trns_h264/playlist.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
