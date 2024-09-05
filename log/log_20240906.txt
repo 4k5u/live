@@ -181,3 +181,8 @@ Fri Sep 6 05:30:55 CST 2024
 Fri Sep 6 05:32:45 CST 2024
 Fri Sep 6 05:32:58 CST 2024
 删除168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
+Fri Sep 6 05:40:50 CST 2024
+Fri Sep 6 05:40:54 CST 2024
+Fri Sep 6 05:42:53 CST 2024
+Fri Sep 6 05:43:07 CST 2024
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
