@@ -224,3 +224,9 @@ Fri Sep 6 07:26:27 CST 2024
 添加168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Fri Sep 6 07:37:49 CST 2024
+Fri Sep 6 07:37:55 CST 2024
+Fri Sep 6 07:39:48 CST 2024
+Fri Sep 6 07:40:02 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
