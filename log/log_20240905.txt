@@ -401,3 +401,10 @@ Thu Sep 5 15:32:41 CST 2024
 添加qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
 添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+Thu Sep 5 15:40:27 CST 2024
+Thu Sep 5 15:40:39 CST 2024
+Thu Sep 5 15:42:28 CST 2024
+添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MjU1NjUwNzgzODYsImlhdCI6MTcyNTUyMTg3OH0.J_VBkAJ5RYh3PTUbpe8YaWY_G6MSeNqfVUjsJLDHCdE9Yx_lv3OzWS9JdPHZyh-92TIo1NiLPPQbYIiC7H1KZZex2u6w82a_JzNNqd3_C2L-AHQ1WkdcZYyvCqbxm8Dk
+Thu Sep 5 15:42:45 CST 2024
+删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
