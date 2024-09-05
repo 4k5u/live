@@ -222,3 +222,17 @@ Thu Sep 5 09:17:49 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Sbaz_7Xh2QKZxorzNO_8b7zXgMbz_8DeK5dIBGD4iejzxjDBBy3p_HkCjOki2mMWAweDN0B2F6v4aglBcH3QVg
+添加_marydel_ https://edge16-aus.live.mmcdn.com/live-hls/amlst:_marydel_-sd-2a4561d1d6cfdad41978902ba7bf7dd4043dbae8c66bb03121df63c028178c18_trns_h264/playlist.m3u8
+添加joysuniverse https://edge16-sea.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-324b4c509ce659fade07fbd331be1379cb9dd025b047a0db4e2c3851133b284c_trns_h264/playlist.m3u8
+Thu Sep 5 10:26:43 CST 2024
+Thu Sep 5 10:26:53 CST 2024
+Thu Sep 5 10:28:37 CST 2024
+Thu Sep 5 10:28:49 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+删除danhana https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.WskmuSNNRNQk.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9Xc2ttdVNOTlJOUWsiLCJleHAiOjE3MjU0OTM3OTA0MDEsImlhdCI6MTcyNTQ1MDU5MH0.IKriBK5qy55QSdh88y0QFM3zhtlDh4YRs7BvJsbLr3xN58knKB1h_R8Uhbh5oe0zjRS5n7VVPIFM-jldY4gEKl3oXdOf8v-uvPQ3gtQ0CSntiHp2mU7LBGSTDTdp666l
+删除kiyoko_rin https://edge17-sea.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-574aa9513041a81bd35b3b2a9f8a51eada8fe4ad34d5d19a3631e80042edb115_trns_h264/playlist.m3u8
+删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
