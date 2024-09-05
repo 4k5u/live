@@ -531,3 +531,11 @@ Thu Sep 5 19:28:23 CST 2024
 Thu Sep 5 19:29:14 CST 2024
 Thu Sep 5 19:30:59 CST 2024
 Thu Sep 5 19:31:11 CST 2024
+Thu Sep 5 19:39:05 CST 2024
+Thu Sep 5 19:39:47 CST 2024
+Thu Sep 5 19:41:40 CST 2024
+Thu Sep 5 19:41:55 CST 2024
+添加168-Lucky https://edge-hls.doppiocdn.live/hls/128424601/master/128424601_auto.m3u8
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MjU1NjUwNzgzODYsImlhdCI6MTcyNTUyMTg3OH0.J_VBkAJ5RYh3PTUbpe8YaWY_G6MSeNqfVUjsJLDHCdE9Yx_lv3OzWS9JdPHZyh-92TIo1NiLPPQbYIiC7H1KZZex2u6w82a_JzNNqd3_C2L-AHQ1WkdcZYyvCqbxm8Dk
+删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
