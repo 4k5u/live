@@ -19,7 +19,6 @@ h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-33/auth_master_playl
 Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
 LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 anystar00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YQOIybCZrg9K.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lRT0l5YkNacmc5SyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFRjM4OUZBMi1CMjYwLTQ0NTctOEJFNS05QzdBQTNGOTk0QzEiLCJ2aWV3ZXItaWQiOiIyMTUyOTQxMSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjU1MTg3MTAsImV4cCI6MTcyNTUxOTMxMCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.GRlenydm9m6g5PVd1HD3TYO6eNi4QtbbWFobN30906tAOQ46qLMvUmqhtJjki6WEm0qZ5H-KOnglpvf_G0fJc6juxsKiok9ciD9Y92ayOrE2r-tvOM8WFO2EW__1Fd_X
-fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 Daji__-Baby_ https://edge-hls.doppiocdn.live/hls/144340014/master/144340014_auto.m3u8
@@ -28,3 +27,5 @@ muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 y1026 https://live-global-cdn-v02.afreecatv.com/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IDUw3iaxYXhOCW2QJWeDX68clKA9YHUixOBQcjUEkA05yvdkoGLt8gRxyXU9U5kwYwLbNek2b9pooJenHlT5xA
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
