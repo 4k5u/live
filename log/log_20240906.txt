@@ -230,3 +230,8 @@ Fri Sep 6 07:39:48 CST 2024
 Fri Sep 6 07:40:02 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加gina_gracia https://edge27-atl.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-d7e55ff32fedce85b0f5cc4863bbf62ce370ac266f143b86ba89341d3e1463e7_trns_h264/playlist.m3u8
+Fri Sep 6 07:47:44 CST 2024
+Fri Sep 6 07:47:50 CST 2024
+Fri Sep 6 07:49:42 CST 2024
+Fri Sep 6 07:49:56 CST 2024

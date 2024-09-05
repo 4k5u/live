@@ -10,3 +10,4 @@ my_eyes_higher https://edge21-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-s
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+gina_gracia https://edge27-atl.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-d7e55ff32fedce85b0f5cc4863bbf62ce370ac266f143b86ba89341d3e1463e7_trns_h264/playlist.m3u8
