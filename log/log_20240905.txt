@@ -439,3 +439,10 @@ Thu Sep 5 16:47:15 CST 2024
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+Thu Sep 5 16:57:23 CST 2024
+Thu Sep 5 16:57:41 CST 2024
+Thu Sep 5 16:59:36 CST 2024
+添加yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3MjU1Njk2NDE0MjcsImlhdCI6MTcyNTUyNjQ0MX0.NkoDrt0Zl3u4GMM2Ciw0gUIocTuPf5BUxR5QXHtdSDHmRevVveC6hl9qpfwByCQFt8VhioH2kGKjmhhm4rR6kLZfHxkcPBT2FZutThDQFudgrVPGBOcqFTwmaYNu0nC9
+Thu Sep 5 16:59:54 CST 2024
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除amilia4u https://edge2-mia.live.mmcdn.com/live-hls/amlst:amilia4u-sd-8ad2f7752e8be46dafca06d2ff28c136c48044b97e5bcc3e01beacce28c5bccf_trns_h264/playlist.m3u8
