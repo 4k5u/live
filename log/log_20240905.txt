@@ -257,3 +257,11 @@ Thu Sep 5 11:36:26 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Thu Sep 5 11:46:53 CST 2024
+添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwRkQ2MDQ3MS03MjM2LTQwNzUtQjU0Qy1ERUJDRjU0RkEzMzUiLCJ2aWV3ZXItaWQiOiIyNDQzMTI4MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjU1MDgwMTYsImV4cCI6MTcyNTUwODYxNiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.jaNjnNpLOT7HpSqsT5bfShWGrt9S4S8Fy-ERpdhqZ0gyFrcy1X22U8Hjojj0N11nSTFKUxgMSlhbwglbb6hvHiZpdjdycrGcCFILPVjARn-pjk_qDEkhtND89-5_7BeI
+Thu Sep 5 11:47:06 CST 2024
+Thu Sep 5 11:48:59 CST 2024
+Thu Sep 5 11:49:13 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除_marydel_ https://edge16-aus.live.mmcdn.com/live-hls/amlst:_marydel_-sd-2a4561d1d6cfdad41978902ba7bf7dd4043dbae8c66bb03121df63c028178c18_trns_h264/playlist.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
