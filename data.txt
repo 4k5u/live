@@ -15,4 +15,3 @@ morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3
 TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
 mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
-calliadesigner https://edge7-lax.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-005e15d4716dbd2a3b8b2b71e16fc701b6e0f6dea86379964d2176da12bcb388_trns_h264/playlist.m3u8
