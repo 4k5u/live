@@ -524,3 +524,8 @@ Fri Sep 6 18:50:32 CST 2024
 Fri Sep 6 18:50:44 CST 2024
 删除foxylovesyou https://edge14-mia.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-a23f66d692a70212c62d9126670e8ef91abf875224443847f81e804cd6d1fbe6_trns_h264/playlist.m3u8
 删除somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.X5r70TuBncAXX9We-sDLxWv4AHPwikBfNDCMX9Q8q2dwKhiiDZoZanjHyRWe9s_hHFNL8jygCGAhTqIbPsh-VQ
+Fri Sep 6 18:58:08 CST 2024
+Fri Sep 6 18:58:34 CST 2024
+Fri Sep 6 19:00:29 CST 2024
+Fri Sep 6 19:00:44 CST 2024
+添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
