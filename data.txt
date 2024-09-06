@@ -29,3 +29,6 @@ ake_mi https://edge15-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-dd52a55c1e0143
 foxylovesyou https://edge14-mia.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-a23f66d692a70212c62d9126670e8ef91abf875224443847f81e804cd6d1fbe6_trns_h264/playlist.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
