@@ -9,5 +9,4 @@ starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 calliadesigner https://edge2-mia.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-005e15d4716dbd2a3b8b2b71e16fc701b6e0f6dea86379964d2176da12bcb388_trns_h264/playlist.m3u8
 mazzanti_ https://edge21-sea.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-67cc78ae1ff1e2401a7c97d34b70550663c9a14b83358e3b5c72fa52211f1a55_trns_h264/playlist.m3u8
-MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
