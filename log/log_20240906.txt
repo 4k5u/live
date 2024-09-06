@@ -416,3 +416,9 @@ Fri Sep 6 15:28:43 CST 2024
 Fri Sep 6 15:28:55 CST 2024
 Fri Sep 6 15:30:47 CST 2024
 Fri Sep 6 15:31:01 CST 2024
+Fri Sep 6 15:40:18 CST 2024
+Fri Sep 6 15:40:30 CST 2024
+Fri Sep 6 15:42:14 CST 2024
+Fri Sep 6 15:42:26 CST 2024
+删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+删除kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-35/auth_master_playlist.m3u8?aid=null
