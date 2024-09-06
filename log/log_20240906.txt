@@ -336,3 +336,15 @@ Fri Sep 6 13:02:09 CST 2024
 Fri Sep 6 13:02:23 CST 2024
 Fri Sep 6 13:04:16 CST 2024
 Fri Sep 6 13:04:30 CST 2024
+添加your_desssert https://edge18-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-ee66b998f1727a3ca18e24935075501947d0417a72d693c6a7b19e11a293183c_trns_h264/playlist.m3u8
+Fri Sep 6 13:31:08 CST 2024
+Fri Sep 6 13:31:23 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Fri Sep 6 13:33:23 CST 2024
+Fri Sep 6 13:33:37 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除gina_gracia https://edge16-sea.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-d7e55ff32fedce85b0f5cc4863bbf62ce370ac266f143b86ba89341d3e1463e7_trns_h264/playlist.m3u8
