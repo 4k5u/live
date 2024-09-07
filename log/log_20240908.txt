@@ -165,3 +165,9 @@ Sun Sep 8 05:31:20 CST 2024
 Sun Sep 8 05:33:22 CST 2024
 Sun Sep 8 05:33:36 CST 2024
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+添加sexygamesx https://edge16-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-a3f7af0611d902c91e95a8e5e3d7f5a521c31b2e6efd687d67835c73b4c687c0_trns_h264/playlist.m3u8
+Sun Sep 8 05:41:06 CST 2024
+Sun Sep 8 05:41:06 CST 2024
+Sun Sep 8 05:42:59 CST 2024
+Sun Sep 8 05:43:14 CST 2024
+删除pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NjE1QUY5Ri1CNEUxLTQ1NUYtQTZBOS1CQTUyNDIzQjNCNjciLCJ2aWV3ZXItaWQiOiIyNDQzMTI4MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjU2ODg4NTQsImV4cCI6MTcyNTY4OTQ1NCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.aaXZLp0rLExSwljwHnUNeFGFYI4v30dV9FGiiGrQ1dbBZPVKRAZlWNVaP3HOUDc9u2_o0pRLnVpFwxGtaXH0z5BCsq8O6qT4szGPbYoDM7OZ6klSf4YLZ6rMFb1k-uem
