@@ -8,7 +8,6 @@ danhana https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1
 smmms2002 https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jNC7IUgKH5KQ6ZIMpmr980yyE1dM-ftj4kRBN5Io58k2YQQk45hjgqk-iMHhDEN7zhNKL5v_YLRW_3E1FJ2Bug
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 1004ysus https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.sS9gaI26BydeMVJdQIcyDkYQ32T0jErCGpriqvfA-Z1qgAaaIAvZyiLW5x6HaG5zoQ7Z8YYulmHLGb9HnQrtrQ
-gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GdLmJCPT2F00ZdwxAaUJpxVs2KoI-x0iksTo3Jb0HngVzHpNCOZDPML6uzPa6_xeA8gd56iROKSQjJ7k5MUWqQ
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 jeehyeoun https://live-global-cdn-v02.afreecatv.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IiOhr4sbHgY5K0nZ0yjgR_fBoiX6oST_K89HkPyuMtbSktsoN-sA7FIExIWQDSEjfbcBzK-suIpsHlQNB3d8VQ
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
