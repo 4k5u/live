@@ -554,3 +554,11 @@ Sat Sep 7 19:50:37 CST 2024
 Sat Sep 7 19:52:20 CST 2024
 Sat Sep 7 19:52:32 CST 2024
 添加jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+Sat Sep 7 20:00:24 CST 2024
+Sat Sep 7 20:00:56 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.JsPKYrZwkkEeOfzqgYAAqMx3T5p_pwxSXLvdXQyl-4cJ2gRcU_IHc1qfUedM-3deOadafbx_qLlqAnODqVFszw
+添加m0m099 https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HEXd8CVtID8gucpTfQ1QmXRkKRn-g5smFD3sKPdMWutqNdcS8pSecmij7K08MB1i9ExwgsoaGU6FEu6nsOKdRA
+Sat Sep 7 20:02:50 CST 2024
+添加danhana https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.WskmuSNNRNQk.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9Xc2ttdVNOTlJOUWsiLCJleHAiOjE3MjU3NTM2NTgwOTAsImlhdCI6MTcyNTcxMDQ1OH0.Jhas73AfVU0icZ6awVvGcS4Cs6hfSX9eAzLu35DOD6wxDFii-5bKGdSk2mGa0xeVuc-CVMnUy0bbFalvB9oUeOXTtnKPkRkMnU39Vkkp-eB3Tltthi2QH9osh5TwJkVc
+Sat Sep 7 20:03:05 CST 2024
+添加Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
