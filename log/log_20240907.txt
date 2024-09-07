@@ -514,3 +514,10 @@ Sat Sep 7 18:37:11 CST 2024
 Sat Sep 7 18:39:11 CST 2024
 添加aesoon96 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.4NaAcTktGqxD.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC80TmFBY1RrdEdxeEQiLCJleHAiOjE3MjU3NDgyMTUzMzgsImlhdCI6MTcyNTcwNTAxNX0.fornYH_CjNWW0CPup4JMH3MNqj6oE6_cwYncB1uUJbB1a4vorYrYqXqdeyaGgoMBoK66_LnmRxSR-KWoB50HU3uO8njb1M_zkCP4Ns5lDhIKmVCcW0E1pqHlOsiXRn1f
 Sat Sep 7 18:39:27 CST 2024
+Sat Sep 7 18:47:29 CST 2024
+Sat Sep 7 18:47:55 CST 2024
+Sat Sep 7 18:49:39 CST 2024
+Sat Sep 7 18:49:51 CST 2024
+删除amilia4u https://edge24-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-5f576f5974daf5d15be085ca58baa8a4bc31df2d6e4c1b3d646d9e98a52c756f_trns_h264/playlist.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除joysuniverse https://edge13-ash.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-fa9c06fdd0c6fbfc7c98ec28dc955137e282b58fcc1e717f97be2660e0fb9daa_trns_h264/playlist.m3u8
