@@ -488,3 +488,9 @@ Sat Sep 7 17:50:23 CST 2024
 Sat Sep 7 17:50:35 CST 2024
 删除Daji__-Baby_ https://edge-hls.doppiocdn.live/hls/144340014/master/144340014_auto.m3u8
 删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加oki_dokie https://edge11-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3925bbe819707db9c94f96d9a5fa2471b5a332814301959d2994077b4246ed50_trns_h264/playlist.m3u8
+Sat Sep 7 17:58:14 CST 2024
+Sat Sep 7 17:58:40 CST 2024
+Sat Sep 7 18:00:23 CST 2024
+Sat Sep 7 18:00:36 CST 2024
+删除regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
