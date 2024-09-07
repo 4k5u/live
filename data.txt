@@ -19,3 +19,4 @@ TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u
 gina_gracia https://edge28-chi.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-84c7bbb79c8b0204e04574814ceb8cc07ef705491860c7aa8f735e57dc099d44_trns_h264/playlist.m3u8
 TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+mazzanti_ https://edge12-slc.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-535bbc4479df3d1328115a5d3b3fcfa4ef067224902733d89e5c944ee1898909_trns_h264/playlist.m3u8
