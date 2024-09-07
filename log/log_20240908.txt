@@ -62,3 +62,10 @@ Sun Sep 8 01:44:09 CST 2024
 Sun Sep 8 01:44:24 CST 2024
 删除Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+Sun Sep 8 01:56:59 CST 2024
+Sun Sep 8 01:57:19 CST 2024
+Sun Sep 8 01:59:12 CST 2024
+Sun Sep 8 01:59:26 CST 2024
+添加TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
