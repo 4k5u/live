@@ -55,3 +55,5 @@ Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
 badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
