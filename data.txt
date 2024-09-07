@@ -36,3 +36,5 @@ oki_dokie https://edge11-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3925bbe8
 foxylovesyou https://edge4-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-348a214d9b89c6a139e598cb0904b8befdf0ae5f4823b90a6fe1a90d88972e3c_trns_h264/playlist.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+ake_mi https://edge11-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-72de6e6645e9e7e4e6ad9956cbb1b77efc2395c9470c822a778a91d84515c19d_trns_h264/playlist.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
