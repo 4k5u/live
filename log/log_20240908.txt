@@ -477,3 +477,9 @@ Sun Sep 8 17:37:43 CST 2024
 Sun Sep 8 17:39:34 CST 2024
 Sun Sep 8 17:39:49 CST 2024
 删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Sun Sep 8 17:48:04 CST 2024
+Sun Sep 8 17:48:26 CST 2024
+Sun Sep 8 17:50:10 CST 2024
+Sun Sep 8 17:50:22 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除mode_bad https://edge17-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-eefb2aaaa033f561c62a31aa0b7881573b84d33d86e0be6df2892ed5913fd2ae_trns_h264/playlist.m3u8
