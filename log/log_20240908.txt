@@ -447,3 +447,9 @@ Sun Sep 8 16:43:01 CST 2024
 删除_PunPun18 https://edge-hls.doppiocdn.live/hls/149392038/master/149392038_auto.m3u8
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+Sun Sep 8 16:50:49 CST 2024
+Sun Sep 8 16:51:03 CST 2024
+Sun Sep 8 16:53:04 CST 2024
+Sun Sep 8 16:53:20 CST 2024
+添加Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+删除your_desssert https://edge27-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-151b1375980fbc9bba2b0d5dbf10abe9a4733045b0d96c79d9045fc444df41f7_trns_h264/playlist.m3u8
