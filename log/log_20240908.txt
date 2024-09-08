@@ -280,3 +280,8 @@ Sun Sep 8 11:44:27 CST 2024
 删除gina_gracia https://edge25-sea.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-759b7e6410109f631403b71f6363e6dbdf7314502cf043b5fcf3ebb7add37feb_trns_h264/playlist.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+Sun Sep 8 11:57:00 CST 2024
+Sun Sep 8 11:57:12 CST 2024
+Sun Sep 8 11:59:05 CST 2024
+Sun Sep 8 11:59:20 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
