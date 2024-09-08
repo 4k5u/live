@@ -58,3 +58,21 @@ Mon Sep 9 01:39:07 CST 2024
 删除iminako https://edge28-atl.live.mmcdn.com/live-hls/amlst:iminako-sd-83ac5ce6e0288fce7b112e9c15bb4717525099c8b0d065dbb13f5dfea06f2c23_trns_h264/playlist.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+Mon Sep 9 01:47:03 CST 2024
+Mon Sep 9 01:47:15 CST 2024
+Mon Sep 9 01:49:08 CST 2024
+Mon Sep 9 01:49:22 CST 2024
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除purelove2 https://live-global-cdn-v02.afreecatv.com/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.lGEHdCx3btsdhAz7_NxcvVl7Xz8fFI_a0ihUJ02MvevpAiJx5OKaoiRR90E2LEelUGB1M2d7rceFyjbfwqSCtw
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
