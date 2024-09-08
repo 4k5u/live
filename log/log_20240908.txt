@@ -507,3 +507,11 @@ Sun Sep 8 18:47:02 CST 2024
 Sun Sep 8 18:47:26 CST 2024
 Sun Sep 8 18:49:20 CST 2024
 Sun Sep 8 18:49:34 CST 2024
+添加your_desssert https://edge17-aus.live.mmcdn.com/live-hls/amlst:your_desssert-sd-d174705c549cbbbd0d5ed3b604d692d9d7effe2270647e77a8551352f720e122_trns_h264/playlist.m3u8
+Sun Sep 8 18:57:09 CST 2024
+Sun Sep 8 18:57:33 CST 2024
+Sun Sep 8 18:59:22 CST 2024
+Sun Sep 8 18:59:35 CST 2024
+添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
