@@ -317,3 +317,8 @@ Mon Sep 9 13:39:15 CST 2024
 添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 添加Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Mon Sep 9 13:47:18 CST 2024
+Mon Sep 9 13:47:28 CST 2024
+Mon Sep 9 13:49:16 CST 2024
+Mon Sep 9 13:50:04 CST 2024
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8

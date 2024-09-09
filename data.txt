@@ -19,3 +19,4 @@ Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9VcWZYKaVi_Vn_KSI62vVm-J_3KTLtpmmZHGSxTUZcr80V_GTqoqjKTC9mtKSQNvS0Koe8g_8ODI4ydnpGWPxw
 Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
