@@ -432,3 +432,9 @@ Mon Sep 9 17:50:09 CST 2024
 Mon Sep 9 17:52:04 CST 2024
 Mon Sep 9 17:52:18 CST 2024
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加joysuniverse https://edge2-lax.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-4d6a9f3c77e2bdf1843f4c0f840e277eeda6ba8666fc8fc7402babfd74eea570_trns_h264/playlist.m3u8
+Mon Sep 9 17:59:58 CST 2024
+Mon Sep 9 18:00:26 CST 2024
+Mon Sep 9 18:02:09 CST 2024
+Mon Sep 9 18:02:22 CST 2024
+删除172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
