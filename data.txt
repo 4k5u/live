@@ -13,3 +13,4 @@ Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_au
 kiyoko_rin https://edge17-atl.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-a2ddc15671f10c65fcc18a831368b503f34a6c3e9ea144882552e6eea59e98a4_trns_h264/playlist.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 gina_gracia https://edge14-mia.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-040a900236a1514f036cc5c9d937019850f09ceb8e99e515a509b60cb5de8c8c_trns_h264/playlist.m3u8
+calliadesigner https://edge9-chi.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-28e74fb7b186cf9f41e713e156ed9c03ecc287c88a8bc21996d6ab298df9b6ab_trns_h264/playlist.m3u8
