@@ -310,3 +310,10 @@ Mon Sep 9 13:24:00 CST 2024
 删除intim_mate https://edge16-lax.live.mmcdn.com/live-hls/amlst:intim_mate-sd-19c922c1ef4818be17be73ea1b39223d57710fe4c4d326167cada9e91427b19a_trns_h264/playlist.m3u8
 删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+Mon Sep 9 13:37:08 CST 2024
+Mon Sep 9 13:37:18 CST 2024
+Mon Sep 9 13:39:03 CST 2024
+Mon Sep 9 13:39:15 CST 2024
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
