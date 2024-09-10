@@ -323,3 +323,11 @@ Tue Sep 10 13:47:14 CST 2024
 Tue Sep 10 13:49:06 CST 2024
 Tue Sep 10 13:49:20 CST 2024
 删除alswl2208 https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=null
+添加mode_bad https://edge11-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-af682f5df10705696ae14a0ea114abe830cc8285f8c28fa81ec44a8f4d421957_trns_h264/playlist.m3u8
+Tue Sep 10 13:57:34 CST 2024
+Tue Sep 10 13:57:40 CST 2024
+Tue Sep 10 13:59:22 CST 2024
+Tue Sep 10 13:59:34 CST 2024
+添加LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+删除my_eyes_higher https://edge13-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ce26c877829df3c272a5c590da3103c33a584c78c9bd85c92e75a91d016dad34_trns_h264/playlist.m3u8
+删除your_desssert https://edge6-mia.live.mmcdn.com/live-hls/amlst:your_desssert-sd-d9504eac7d1f46484347107617a80fbcd3fd59a04101ff02b1b8cd6da14cdd29_trns_h264/playlist.m3u8
