@@ -248,3 +248,14 @@ Tue Sep 10 10:31:13 CST 2024
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除sexygamesx https://edge29-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-c479ba857d03e382a6427ab45be63bab6c3a54121102a6044a1755d3f5e7c453_trns_h264/playlist.m3u8
 删除gina_gracia https://edge25-ash.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-d4c8aa8a2e0f81bfd1906cf327ef5bd36df4d6fcc5e47d06c65eb1317563d27b_trns_h264/playlist.m3u8
+添加amilia4u https://edge14-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-7fb7e1bc946eb8dfddf0490065030170d99a7830c9c88db5fddee4f1de0ff514_trns_h264/playlist.m3u8
+添加_marydel_ https://edge9-mia.live.mmcdn.com/live-hls/amlst:_marydel_-sd-c1e82b2188ecb64f9f12967ba6e255f3f3f9a45fd9dd3e4185c56403ff72a196_trns_h264/playlist.m3u8
+Tue Sep 10 10:59:14 CST 2024
+Tue Sep 10 10:59:26 CST 2024
+Tue Sep 10 11:01:26 CST 2024
+Tue Sep 10 11:01:41 CST 2024
+删除kiyoko_rin https://edge17-atl.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-a2ddc15671f10c65fcc18a831368b503f34a6c3e9ea144882552e6eea59e98a4_trns_h264/playlist.m3u8
+删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
