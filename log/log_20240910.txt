@@ -237,3 +237,14 @@ Tue Sep 10 09:22:02 CST 2024
 添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Tue Sep 10 10:28:57 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4QTQ2QTFDNi1FMUNGLTRCNTMtQTQyMy00NjY4NDI5NzJCNUIiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjU5MzUzNDQsImV4cCI6MTcyNTkzNTk0NCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.ePOCH9S550M4XFu3Z5wixJnUwy_LRtVIEQWPmuUjampr2viqy863V4Dkfo5FFimhvzfsrNU5ZJqGWGkdrbyPcaDGl516ydwH6vd2pt2kn_pq7oDi8A7sqXOLfYNiei0v
+Tue Sep 10 10:29:10 CST 2024
+Tue Sep 10 10:30:59 CST 2024
+Tue Sep 10 10:31:13 CST 2024
+添加ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ddooyaa%22%2C%22channel_id%22%3A442709328%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1725936675%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.227.106%22%2C%22version%22%3A2%7D&sig=c4fdd4f7fc50869401179ec8b6fd396dd9963b0c&allow_source=true&allow_audio_only=true
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除sexygamesx https://edge29-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-c479ba857d03e382a6427ab45be63bab6c3a54121102a6044a1755d3f5e7c453_trns_h264/playlist.m3u8
+删除gina_gracia https://edge25-ash.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-d4c8aa8a2e0f81bfd1906cf327ef5bd36df4d6fcc5e47d06c65eb1317563d27b_trns_h264/playlist.m3u8
