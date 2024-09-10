@@ -286,3 +286,9 @@ Tue Sep 10 12:01:29 CST 2024
 Tue Sep 10 12:03:13 CST 2024
 Tue Sep 10 12:03:26 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Tue Sep 10 12:28:37 CST 2024
+Tue Sep 10 12:28:47 CST 2024
+Tue Sep 10 12:30:35 CST 2024
+Tue Sep 10 12:30:48 CST 2024
+删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
