@@ -425,3 +425,8 @@ Tue Sep 10 17:22:05 CST 2024
 删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 删除qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Tue Sep 10 17:34:07 CST 2024
+Tue Sep 10 17:34:23 CST 2024
+Tue Sep 10 17:36:07 CST 2024
+Tue Sep 10 17:36:19 CST 2024
+删除mode_bad https://edge11-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-af682f5df10705696ae14a0ea114abe830cc8285f8c28fa81ec44a8f4d421957_trns_h264/playlist.m3u8
