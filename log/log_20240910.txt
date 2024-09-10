@@ -317,3 +317,9 @@ Tue Sep 10 13:34:50 CST 2024
 Tue Sep 10 13:36:54 CST 2024
 Tue Sep 10 13:37:08 CST 2024
 添加Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+添加ake_mi https://edge16-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-1768ca98a452139076ac71833f5a152cec2f646cb8c25dbaced0c645d1921ac3_trns_h264/playlist.m3u8
+Tue Sep 10 13:47:08 CST 2024
+Tue Sep 10 13:47:14 CST 2024
+Tue Sep 10 13:49:06 CST 2024
+Tue Sep 10 13:49:20 CST 2024
+删除alswl2208 https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=null

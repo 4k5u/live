@@ -14,5 +14,5 @@ _marydel_ https://edge6-lax.live.mmcdn.com/live-hls/amlst:_marydel_-sd-c1e82b218
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 your_desssert https://edge6-mia.live.mmcdn.com/live-hls/amlst:your_desssert-sd-d9504eac7d1f46484347107617a80fbcd3fd59a04101ff02b1b8cd6da14cdd29_trns_h264/playlist.m3u8
-alswl2208 https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=null
 Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+ake_mi https://edge16-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-1768ca98a452139076ac71833f5a152cec2f646cb8c25dbaced0c645d1921ac3_trns_h264/playlist.m3u8
