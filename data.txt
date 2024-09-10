@@ -4,7 +4,6 @@ getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
-SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 ake_mi https://edge16-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-1768ca98a452139076ac71833f5a152cec2f646cb8c25dbaced0c645d1921ac3_trns_h264/playlist.m3u8
 mode_bad https://edge11-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-af682f5df10705696ae14a0ea114abe830cc8285f8c28fa81ec44a8f4d421957_trns_h264/playlist.m3u8
