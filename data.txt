@@ -17,3 +17,5 @@ amilia4u https://edge14-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-7fb7e1bc94
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 hee_jeen https://edge10-mia.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-97f039cd24686400702d496a426d93c62fa09f9afa2445b6d9a5720bd1953276_trns_h264/playlist.m3u8
+_marydel_ https://edge6-lax.live.mmcdn.com/live-hls/amlst:_marydel_-sd-c1e82b2188ecb64f9f12967ba6e255f3f3f9a45fd9dd3e4185c56403ff72a196_trns_h264/playlist.m3u8
+sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
