@@ -337,3 +337,10 @@ Wed Sep 11 14:46:47 CST 2024
 Wed Sep 11 14:47:01 CST 2024
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除leelate https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=null
+Wed Sep 11 14:57:32 CST 2024
+Wed Sep 11 14:57:38 CST 2024
+Wed Sep 11 14:59:21 CST 2024
+Wed Sep 11 14:59:33 CST 2024
+添加qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除your_desssert https://edge21-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-e847fe5b840f844ea5b09c90f5937f082003426683911cbe5a0632f230ab7c02_trns_h264/playlist.m3u8
