@@ -218,3 +218,9 @@ Wed Sep 11 07:48:48 CST 2024
 Wed Sep 11 07:50:32 CST 2024
 Wed Sep 11 07:50:46 CST 2024
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+Wed Sep 11 07:59:06 CST 2024
+Wed Sep 11 07:59:12 CST 2024
+Wed Sep 11 08:00:57 CST 2024
+Wed Sep 11 08:01:08 CST 2024
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+添加LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
