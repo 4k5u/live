@@ -207,3 +207,13 @@ Thu Sep 12 07:01:46 CST 2024
 Thu Sep 12 07:03:36 CST 2024
 Thu Sep 12 07:03:50 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加my_eyes_higher https://edge11-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-199cbd6020f849928ac2b0f16ddee4ca2f0d01d40cd6c2ea0e04eb89ea8a2817_trns_h264/playlist.m3u8
+Thu Sep 12 07:24:12 CST 2024
+Thu Sep 12 07:24:14 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stm-12/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.NAfnZiUEus7yHaiGkDIWiI0gHZ7dNu_tX6p247IuIfyn-r_p1bc1XBxlALAqLSJnjlB-R3A95KICmpcooBIZNw
+Thu Sep 12 07:26:18 CST 2024
+Thu Sep 12 07:26:32 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
