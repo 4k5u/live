@@ -356,3 +356,10 @@ Wed Sep 11 15:29:13 CST 2024
 Wed Sep 11 15:31:07 CST 2024
 Wed Sep 11 15:31:21 CST 2024
 删除Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+Wed Sep 11 15:40:19 CST 2024
+Wed Sep 11 15:40:25 CST 2024
+Wed Sep 11 15:42:26 CST 2024
+Wed Sep 11 15:42:40 CST 2024
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除your_desssert https://edge11-aus.live.mmcdn.com/live-hls/amlst:your_desssert-sd-e847fe5b840f844ea5b09c90f5937f082003426683911cbe5a0632f230ab7c02_trns_h264/playlist.m3u8
