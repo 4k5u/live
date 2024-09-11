@@ -274,3 +274,10 @@ Wed Sep 11 12:00:51 CST 2024
 Wed Sep 11 12:02:44 CST 2024
 Wed Sep 11 12:02:58 CST 2024
 删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+添加hee_jeen https://edge8-aus.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-9beeb697663feb38ff581ec0b4e5ef4d556e5a93e5085c3022ef542f37583528_trns_h264/playlist.m3u8
+添加oki_dokie https://edge13-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-eae6268675f3c116069f32d705a37d2411f4644401d1022855f09ba151290429_trns_h264/playlist.m3u8
+Wed Sep 11 12:30:47 CST 2024
+Wed Sep 11 12:30:59 CST 2024
+Wed Sep 11 12:32:42 CST 2024
+Wed Sep 11 12:32:54 CST 2024
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
