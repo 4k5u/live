@@ -115,3 +115,9 @@ Thu Sep 12 03:15:20 CST 2024
 删除3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNTJCRjA4Ni01QUM4LTQ3NTQtQjdCRS05NjE1M0FGMjk3NzgiLCJ2aWV3ZXItaWQiOiIxNDkwNDE0NCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjYwNjIxOTIsImV4cCI6MTcyNjA2Mjc5MiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.m4bFJ-46vTEdXDwCjwKNYb5m7-KZwPegWgYQdBx2z-3saWTyA1us_jRa_OFgGDi9fC9yNKydg3HkUrICczSf6c-EeZYSLsE4NhlImFSpc0syRdJh6nf6iQ1XFj8rKh2u
 删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 删除honey_pinkgreen https://edge16-chi.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-38614e8589f70d6cb10175076eeea0efde498caac36730f06bf6c0869b94f52d_trns_h264/playlist.m3u8
+Thu Sep 12 03:27:24 CST 2024
+Thu Sep 12 03:27:26 CST 2024
+Thu Sep 12 03:29:09 CST 2024
+Thu Sep 12 03:29:21 CST 2024
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.aed8ifJc2R07rMhVvj4Pm435cd0RCWRipu33zxjCplJ4dyk0YvGFtSVFF1vXTln8N8jQ7OMQiWahIahMVTvafw
