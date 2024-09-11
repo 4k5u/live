@@ -313,3 +313,9 @@ Wed Sep 11 13:47:20 CST 2024
 Wed Sep 11 13:47:28 CST 2024
 Wed Sep 11 13:49:11 CST 2024
 Wed Sep 11 13:49:23 CST 2024
+Wed Sep 11 13:57:44 CST 2024
+Wed Sep 11 13:57:52 CST 2024
+Wed Sep 11 13:59:44 CST 2024
+Wed Sep 11 13:59:59 CST 2024
+添加Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+删除my_eyes_higher https://edge17-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b708b42a0fe92344b688c174918dda8843fa3bf3e6bf7d22cb104cbd7beb9374_trns_h264/playlist.m3u8
