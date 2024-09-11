@@ -16,3 +16,6 @@ oki_dokie https://edge13-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-eae62686
 leelate https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=null
 ake_mi https://edge20-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-67659b6cc9c7fdbe9195fd829a67071cbcf8b85dfd15992a47173cfe9bff4e1d_trns_h264/playlist.m3u8
 EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+your_desssert https://edge21-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-e847fe5b840f844ea5b09c90f5937f082003426683911cbe5a0632f230ab7c02_trns_h264/playlist.m3u8
+Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
