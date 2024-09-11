@@ -281,3 +281,10 @@ Wed Sep 11 12:30:59 CST 2024
 Wed Sep 11 12:32:42 CST 2024
 Wed Sep 11 12:32:54 CST 2024
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Wed Sep 11 12:46:00 CST 2024
+Wed Sep 11 12:46:12 CST 2024
+添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=null
+Wed Sep 11 12:48:19 CST 2024
+Wed Sep 11 12:48:33 CST 2024
+删除sexygamesx https://edge10-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-eba4a4d885c1bfd812c9ade84a93807ce7072de83ea561c8893ae1802f0251a6_trns_h264/playlist.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
