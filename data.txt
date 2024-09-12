@@ -52,3 +52,5 @@ leeaeae123 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 big541 https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gP54IKEvv_a3xyoA9Syaa6_4EnzQXJAdWjiqerFoFrsdlW3yRAmSeeb86x-o0aT-5CcPBUxkEKuB8c5j1_FUJQ
 sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.oXrq9i94OuCzK-pUdbDfwXwZYXW_wEmRaauauKP8hfMygOP1l8_YuG6kB3hvPfU8GjNk7n6U50GxvgMXhfZtaQ
 Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
