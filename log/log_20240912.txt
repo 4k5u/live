@@ -455,3 +455,11 @@ Thu Sep 12 17:21:31 CST 2024
 删除leelate https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ccFZtAzkT4BOnYpHom00CQLYOjFvSw5oRizINRYCjh6DatcTaDA4KV5gFGFSUUAZ-J0jDVf6qmY3fOFCpgUU3w
 删除kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.699pFdZ_bTgTpVcgtNmE2J2V4p5FOFbcshyrC1GgsqRIsT-FhRLUmXPqLn_rBxutW0dM0Dt7UR5AMzspdAgrxg
 删除kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7D-npSrT0UOOaCrfhxUOZTG6efuYpEn1Ju89wV-EdCrF6VFIw8SI28gXofv9_c51uJOiBU0esOBloum5SAjm9g
+Thu Sep 12 17:32:44 CST 2024
+添加zzeongi2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KYtf6OZfojoq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tZdGY2T1pmb2pvcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MThBRDM2NC05MEUzLTQxRTAtOTlBNS0xNjE2MjY5OEMwRjYiLCJ2aWV3ZXItaWQiOiIyNDAwNDIxNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjYxMzM1ODMsImV4cCI6MTcyNjEzNDE4MywiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.xkSt6vB1-lL00Ydvfma1ZJ_KVUcKTmi9h3owEj7D_bYbZJvw9zHT5nlOEgxxQgINESCVD-psT5EHTNlFn0NTYWr6gQvMjOuMxevNhLM9UVBOdBej6pBEIY5XvkXw6zDp
+Thu Sep 12 17:33:08 CST 2024
+添加gremmy https://live-global-cdn-v02.afreecatv.com/live-stm-14/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.mYkDeR9YPb3yqgG2QQLz7i_GIriTxmcfLIpWQqK6JGEDj7c2mG-TOykAQmDv3Sirkh3MJ7u-K8OUYvV3qPuWQA
+Thu Sep 12 17:35:08 CST 2024
+Thu Sep 12 17:35:22 CST 2024
+添加Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
+删除h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.kFytfxky5uWG1PdONaaHKYqPznqVDbHPGeKH4g7hijjCGu3mM3FnrMmrruekZ5JN108EbxPbN2tYaUdJdJvjjw
