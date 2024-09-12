@@ -261,3 +261,10 @@ Thu Sep 12 10:35:09 CST 2024
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 删除cuddles_me https://edge14-chi.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-a16aef34cae7a4dfde761593289324a9ba93221932d5d096caed858d5eb9f448_trns_h264/playlist.m3u8
+添加_marydel_ https://edge10-atl.live.mmcdn.com/live-hls/amlst:_marydel_-sd-7f4b76f214e597e975b9c883ac762fbbc47235c70728140fe6a22fc032b3a11e_trns_h264/playlist.m3u8
+Thu Sep 12 10:59:03 CST 2024
+Thu Sep 12 10:59:13 CST 2024
+Thu Sep 12 11:01:12 CST 2024
+Thu Sep 12 11:01:27 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
