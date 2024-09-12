@@ -393,3 +393,11 @@ Thu Sep 12 15:42:07 CST 2024
 Thu Sep 12 15:42:19 CST 2024
 添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 删除ake_mi https://edge5-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-1bd3d03aedaa49d4bbb20fddeb71d229090ad5647cace520aeb63522ebc3301b_trns_h264/playlist.m3u8
+Thu Sep 12 15:50:21 CST 2024
+Thu Sep 12 15:50:25 CST 2024
+Thu Sep 12 15:52:40 CST 2024
+Thu Sep 12 15:52:56 CST 2024
+删除getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1OEZEOUQxRS1DNTNELTQ4NzUtOTQ4QS0wOTdEOEFBRkQxRUYiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjYxMDgzNzMsImV4cCI6MTcyNjEwODk3MywiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.5r2fJg4GonnsDFwahs7IpFLgf1r33jaSnTLor2xBbbob4zYAY3SPZmNa1hGU1Yl8OdwmrDlBLRRXnXEeygVb5B_1mrm-pVcNb1brMKTn86rV_3I9ktghCg-A1GUW7HjA
+删除qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
