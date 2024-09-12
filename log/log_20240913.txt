@@ -22,3 +22,14 @@ Fri Sep 13 00:31:31 CST 2024
 删除-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
 删除-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
 删除-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+添加ad0res https://edge4-ash.live.mmcdn.com/live-hls/amlst:ad0res-sd-2b12027e13ee40a6b51290cab4a921347c4fc97f8204999af0a4eb0b58237c61_trns_h264/playlist.m3u8
+Fri Sep 13 00:46:41 CST 2024
+Fri Sep 13 00:47:15 CST 2024
+Fri Sep 13 00:49:03 CST 2024
+Fri Sep 13 00:49:17 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WkEwAaFZW5tFxX2zhXE_fSs8IVhJuZPD65J2V-3ay-M8JFd1erVUq4L5y1ThaC5yQHce7k8N-USIaraLgTaAmQ
+删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+删除m0m099 https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.J_nAPn_VXE3EWvdO71zzq5DruCiv7QWrN6S1i2R79lSzr1f1YY8onRpmKZMgiTOv0tmfsCJqK0ro1_dI68-DfA
+删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
