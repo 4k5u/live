@@ -15,7 +15,6 @@ asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u
 getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1OEZEOUQxRS1DNTNELTQ4NzUtOTQ4QS0wOTdEOEFBRkQxRUYiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjYxMDgzNzMsImV4cCI6MTcyNjEwODk3MywiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.5r2fJg4GonnsDFwahs7IpFLgf1r33jaSnTLor2xBbbob4zYAY3SPZmNa1hGU1Yl8OdwmrDlBLRRXnXEeygVb5B_1mrm-pVcNb1brMKTn86rV_3I9ktghCg-A1GUW7HjA
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
-miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 _marydel_ https://edge10-atl.live.mmcdn.com/live-hls/amlst:_marydel_-sd-7f4b76f214e597e975b9c883ac762fbbc47235c70728140fe6a22fc032b3a11e_trns_h264/playlist.m3u8
 Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
