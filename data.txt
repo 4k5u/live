@@ -25,3 +25,8 @@ tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m
 dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.N7msGYkDWPJVxTXn3n4Z6LnyXR0dhjJL-cGWM3-3eB0HsCCrjUqzwCcnQveSKrvpHKg4YezbR9j1vM0p0n_KBw
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+oki_dokie https://edge8-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-52b0cc62ccca90bb7501755b93d199602c711a995e17db6d43afdb54c463c8cf_trns_h264/playlist.m3u8
+your_desssert https://edge26-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-4be767e10ad3dde87cdfc1630ef16959fad17e223889b77ff93372f922656608_trns_h264/playlist.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
