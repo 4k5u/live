@@ -279,3 +279,10 @@ Fri Sep 13 11:26:05 CST 2024
 删除TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Fri Sep 13 11:40:20 CST 2024
+Fri Sep 13 11:40:26 CST 2024
+Fri Sep 13 11:42:15 CST 2024
+Fri Sep 13 11:42:28 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除sexygamesx https://edge24-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-9da55a7a9db67d0edf448bd8406335e27fe3b229216e2a14f36380111ef90541_trns_h264/playlist.m3u8
