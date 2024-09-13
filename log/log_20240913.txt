@@ -299,3 +299,11 @@ Fri Sep 13 12:01:04 CST 2024
 Fri Sep 13 12:03:00 CST 2024
 Fri Sep 13 12:03:15 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+Fri Sep 13 12:27:56 CST 2024
+Fri Sep 13 12:28:04 CST 2024
+Fri Sep 13 12:29:48 CST 2024
+Fri Sep 13 12:30:00 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
