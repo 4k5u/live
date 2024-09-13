@@ -508,3 +508,10 @@ Fri Sep 13 18:41:37 CST 2024
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+添加your_desssert https://edge19-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-8205ef8eb903be2a6e1898184c4f758d34d39b510feda7fddaad55f180a18c38_trns_h264/playlist.m3u8
+Fri Sep 13 18:49:19 CST 2024
+Fri Sep 13 18:49:41 CST 2024
+Fri Sep 13 18:51:30 CST 2024
+Fri Sep 13 18:51:44 CST 2024
+删除kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.syAl5RsSSkYx9wp2xIrIyd54iB_mmhN0zT2n_Z9JpcRKT5PQDHu4nRTcHYDX6asY5XY1tieV1BWJmg5pxHcXoQ
+删除leelate https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.UuHi9cFKE3iwkfFGYZ7x5UTywnnNr8uLP8N1O9u0tfY6Uv4sXy4jG5R0ZP0-5a-ZshErOYG9P6NnakVgDwMN-w
