@@ -257,3 +257,13 @@ Fri Sep 13 10:31:11 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除cuddles_me https://edge18-mia.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-ecdeb8e1a1b513b7ecdc88b9ee70b3e2cf0c143f6a9fdefbb30f543c846c3a39_trns_h264/playlist.m3u8
+Fri Sep 13 10:58:57 CST 2024
+Fri Sep 13 10:59:05 CST 2024
+Fri Sep 13 11:00:47 CST 2024
+Fri Sep 13 11:01:00 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除sexygamesx https://edge24-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-accfcbb76f689913558380cf81780927e8e84caab3deac5be1c97a4d92a7399e_trns_h264/playlist.m3u8
+删除_marydel_ https://edge10-lax.live.mmcdn.com/live-hls/amlst:_marydel_-sd-7acfdd203fe5592ff8e02a727d351d174d269ea237a9a78af41fd8f2c4884cec_trns_h264/playlist.m3u8
