@@ -687,3 +687,9 @@ Fri Sep 13 23:39:42 CST 2024
 删除dks2003 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ejL6YF0BUhNG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VqTDZZRjBCVWhORyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNzhDMENGNi01M0U1LTQ5NTUtQTE2Qy00NzBEMkU3NERDMUIiLCJ2aWV3ZXItaWQiOiIyNTQzMTI0OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjYyMjY0MDEsImV4cCI6MTcyNjIyNzAwMSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.aLkIWjTZTZv-PiVwmzgcLfL95EycuhX0imHXOeq-9lOQHjee50SKGwIOw0nOizhHmeQueJmzOdM0UrG4lY8r_26I3d4O43KRnZyn-MjP0uD0s6mXfAKvFTcYXT63u0zi
 删除honey_pinkgreen https://edge9-chi.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-73e5f9cde7ecf6ed8ac37c19e86d2fc52932fae74cfb2015a1c00212d6ecae5e_trns_h264/playlist.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Fri Sep 13 23:46:53 CST 2024
+Fri Sep 13 23:47:39 CST 2024
+Fri Sep 13 23:49:33 CST 2024
+Fri Sep 13 23:49:47 CST 2024
+添加_PunPun18 https://edge-hls.doppiocdn.live/hls/149392038/master/149392038_auto.m3u8
+删除oki_dokie https://edge17-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-52b0cc62ccca90bb7501755b93d199602c711a995e17db6d43afdb54c463c8cf_trns_h264/playlist.m3u8
