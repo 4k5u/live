@@ -145,3 +145,7 @@ Sat Sep 14 04:41:12 CST 2024
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.CaoGSVNWgSEs51FwhYPva1h5-bxqDBvLAeFxuPpTbgZTj7Qo7meEvdaajHqJECPKPQLNS80QIfES1Km58fxF9g
 删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+Sat Sep 14 04:49:24 CST 2024
+Sat Sep 14 04:49:34 CST 2024
+Sat Sep 14 04:51:28 CST 2024
+Sat Sep 14 04:51:43 CST 2024
