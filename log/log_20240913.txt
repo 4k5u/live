@@ -479,3 +479,11 @@ Fri Sep 13 17:49:22 CST 2024
 Fri Sep 13 17:49:34 CST 2024
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+添加ad0res https://edge18-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-7d6d2093253be3ae2aec966640118b45c565205657940980f81ade39ee17a766_trns_h264/playlist.m3u8
+Fri Sep 13 17:57:50 CST 2024
+Fri Sep 13 17:58:06 CST 2024
+Fri Sep 13 17:59:54 CST 2024
+Fri Sep 13 18:00:15 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除lucky-uu https://edge-hls.doppiocdn.live/hls/127882835/master/127882835_auto.m3u8
