@@ -643,3 +643,9 @@ Fri Sep 13 22:20:23 CST 2024
 删除JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
 删除cuddles_me https://edge4-mia.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-8044790eae5eaed81e8c4dbf1c3790c79fd28d08f5c0dc52ce9ab4b2667f4091_trns_h264/playlist.m3u8
 删除TAOZI-BAOBei https://edge-hls.doppiocdn.live/hls/164676457/master/164676457_auto.m3u8
+Fri Sep 13 22:34:04 CST 2024
+Fri Sep 13 22:35:01 CST 2024
+Fri Sep 13 22:37:00 CST 2024
+Fri Sep 13 22:37:13 CST 2024
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
