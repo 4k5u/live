@@ -64,3 +64,10 @@ Sun Sep 15 01:49:37 CST 2024
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Sun Sep 15 01:57:21 CST 2024
+Sun Sep 15 01:57:39 CST 2024
+Sun Sep 15 01:59:31 CST 2024
+Sun Sep 15 01:59:46 CST 2024
+添加badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+删除day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3pZnsx6Jcwvl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNwWm5zeDZKY3d2bCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMTgxQzhDMS1CRjQxLTQxOTAtQUNDRC05MURDRjMxMzg4MUYiLCJ2aWV3ZXItaWQiOiIyMTA1ODEzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjYzMjE3NTQsImV4cCI6MTcyNjMyMjM1NCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.rUi-QaEgTZ-nd5Gi1mdsIDOZj0d_oMT4oeILewElsblw4CGeQRePNysNJ9CTKD7oQbwJbKJwxZt0atOyenjJP6zsvjpiypc4dnSdCMMtWuZyoUQamuqMlqgtSzXOPPid
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
