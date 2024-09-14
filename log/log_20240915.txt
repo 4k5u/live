@@ -160,3 +160,8 @@ Sun Sep 15 05:31:10 CST 2024
 Sun Sep 15 05:32:54 CST 2024
 Sun Sep 15 05:33:06 CST 2024
 删除gina_gracia https://edge2-atl.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-1736751679b62cb8d0e81b4ceab7a814c2ba43b08a9be4313e02ca6d4fd18539_trns_h264/playlist.m3u8
+添加gina_gracia https://edge12-aus.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-dce69907ca6e3a8546f2713f0b85e23fd244b03e3f4a1c83eca2062d81c76067_trns_h264/playlist.m3u8
+Sun Sep 15 05:41:32 CST 2024
+Sun Sep 15 05:41:36 CST 2024
+Sun Sep 15 05:43:32 CST 2024
+Sun Sep 15 05:43:47 CST 2024
