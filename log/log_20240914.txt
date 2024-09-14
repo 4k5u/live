@@ -393,3 +393,8 @@ Sat Sep 14 14:45:54 CST 2024
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除my_eyes_higher https://edge1-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-aab71c77f00c2bb821dd76687f068e76a08924385af73073ab19cad0ba9b44dc_trns_h264/playlist.m3u8
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+Sat Sep 14 14:57:20 CST 2024
+Sat Sep 14 14:57:32 CST 2024
+Sat Sep 14 14:59:19 CST 2024
+Sat Sep 14 14:59:32 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
