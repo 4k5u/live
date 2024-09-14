@@ -155,3 +155,8 @@ Sun Sep 15 05:20:19 CST 2024
 添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.fZ9dlzUCGFHgw4UQxibCSvJvzKNHRQcICq0vpHNo76eJxNZfeEZfa-YynMkQelaBa3e7gMJSukPNifGuE3AbnQ
 Sun Sep 15 05:22:17 CST 2024
 Sun Sep 15 05:22:31 CST 2024
+Sun Sep 15 05:31:06 CST 2024
+Sun Sep 15 05:31:10 CST 2024
+Sun Sep 15 05:32:54 CST 2024
+Sun Sep 15 05:33:06 CST 2024
+删除gina_gracia https://edge2-atl.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-1736751679b62cb8d0e81b4ceab7a814c2ba43b08a9be4313e02ca6d4fd18539_trns_h264/playlist.m3u8
