@@ -193,3 +193,8 @@ Sun Sep 15 06:44:04 CST 2024
 Sun Sep 15 06:44:19 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 删除DUDU_MM https://edge-hls.doppiocdn.live/hls/169938738/master/169938738_auto.m3u8
+Sun Sep 15 06:56:56 CST 2024
+Sun Sep 15 06:56:58 CST 2024
+Sun Sep 15 06:58:49 CST 2024
+Sun Sep 15 06:59:02 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
