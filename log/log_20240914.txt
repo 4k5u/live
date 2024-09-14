@@ -706,3 +706,10 @@ Sat Sep 14 23:42:56 CST 2024
 Sat Sep 14 23:44:39 CST 2024
 Sat Sep 14 23:44:51 CST 2024
 添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+Sat Sep 14 23:51:32 CST 2024
+Sat Sep 14 23:52:06 CST 2024
+Sat Sep 14 23:54:03 CST 2024
+Sat Sep 14 23:54:17 CST 2024
+删除Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
