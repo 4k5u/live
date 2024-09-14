@@ -422,3 +422,12 @@ Sat Sep 14 15:49:55 CST 2024
 Sat Sep 14 15:50:09 CST 2024
 Sat Sep 14 15:52:53 CST 2024
 Sat Sep 14 15:53:05 CST 2024
+Sat Sep 14 16:00:08 CST 2024
+Sat Sep 14 16:00:20 CST 2024
+Sat Sep 14 16:02:14 CST 2024
+Sat Sep 14 16:02:28 CST 2024
+添加Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3ODRBOUQ1OS1DNTRGLTQwNUItQTcwMC00NDRDQjM5MDhBM0QiLCJ2aWV3ZXItaWQiOiIxNjI0MjUzOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjYyODc2NzQsImV4cCI6MTcyNjI4ODI3NCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.2k9EVcBB6RE2gFPGHI76aNqZ2HsHMMnaeMrnmUjgZc_U2KGu4JwvBd1_RSI7XaGbLwI5uzeWok6w6P367YKH8trfqyhfYIRWEUyPcj84RrzwqXfvUQqIxnAW7uU3scfd
+删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
