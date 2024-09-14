@@ -23,3 +23,8 @@ cuddles_me https://edge25-ash.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-64f026
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+amilia4u https://edge3-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-bf2ae6d6fa0f0314fa3dc9e9199a100aca372019a2948586d1edea49026bb913_trns_h264/playlist.m3u8
+sexygamesx https://edge4-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-5effcb598d124112f5dcd978315380dc3432229c27851c7015b98e339fc809b8_trns_h264/playlist.m3u8
+Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
