@@ -294,3 +294,11 @@ Sun Sep 15 12:23:23 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除_PunPun18 https://edge-hls.doppiocdn.live/hls/149392038/master/149392038_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加ake_mi https://edge11-mia.live.mmcdn.com/live-hls/amlst:ake_mi-sd-cfaad88a0f9aa9bdbc803806f95371dca67eda4ff2c2ec02dab969acea9471d2_trns_h264/playlist.m3u8
+Sun Sep 15 12:38:22 CST 2024
+Sun Sep 15 12:38:26 CST 2024
+Sun Sep 15 12:40:27 CST 2024
+Sun Sep 15 12:40:41 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
