@@ -529,3 +529,9 @@ Sun Sep 15 19:26:58 CST 2024
 Sun Sep 15 19:27:16 CST 2024
 Sun Sep 15 19:29:36 CST 2024
 Sun Sep 15 19:29:49 CST 2024
+Sun Sep 15 19:38:49 CST 2024
+Sun Sep 15 19:39:07 CST 2024
+添加Tmdgus5411 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.bJI1e-MPlOi-cwQGJfjnj8cCFKR4evIGiPhTqP4t0zsWZR8y7sTv_BwU_tvVyC9TNIHFBr74SoVo424xhWIH2Q
+Sun Sep 15 19:41:04 CST 2024
+Sun Sep 15 19:41:18 CST 2024
+删除your_desssert https://edge1-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-3c4a1f94c5941b1b86b12ccb796dcdb707536990314b961ee512e67c3b04f192_trns_h264/playlist.m3u8
