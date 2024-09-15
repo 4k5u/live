@@ -383,3 +383,10 @@ Sun Sep 15 14:45:55 CST 2024
 删除my_eyes_higher https://edge30-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-357b9e7d72697627b79675b44dcddd913b335f0ea5dd36b2ac9237aab29c5e21_trns_h264/playlist.m3u8
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Sun Sep 15 14:57:00 CST 2024
+Sun Sep 15 14:57:12 CST 2024
+添加h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1CnlqJNtANQwEuOK6MVs0iNColi4vkYH_zadVy_JxEB3_EhH8U82_IK454l3bCAHm28ex2mkRblsudQ5xDrOMw
+Sun Sep 15 14:59:13 CST 2024
+Sun Sep 15 14:59:27 CST 2024
+添加qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
