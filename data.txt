@@ -44,3 +44,5 @@ saone451 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 big541 https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Plqi7Gm52fKd8qacBER5FAmzm4zr_ooiKIl37ORVkH3vQvcKe_8on193gG6bREDpIUTXkSmIene7Vp6xmGjiiA
 kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+oki_dokie https://edge13-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-fcdf874809eb80bb4a637ca4a11d4ef1d9e75b808186f2b36f1d3318df0c57fb_trns_h264/playlist.m3u8
+sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vGAo7E7huOsV_rMmxWi95FyW8fC6jo1XkHCeceLmvv05SM0nzRQ2JolKN4IavPUCD69RZ4Wfp6wJF927tahOFQ
