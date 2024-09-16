@@ -310,3 +310,10 @@ Mon Sep 16 13:29:20 CST 2024
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 删除amilia4u https://edge19-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-5b8f704a06986e2eaa08ea4a5507eb59bb4f522ac29c11497d57f5dab6688789_trns_h264/playlist.m3u8
+Mon Sep 16 13:42:08 CST 2024
+Mon Sep 16 13:42:12 CST 2024
+Mon Sep 16 13:44:43 CST 2024
+Mon Sep 16 13:44:55 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
