@@ -16,3 +16,9 @@ Tue Sep 17 00:51:12 CST 2024
 Tue Sep 17 00:51:24 CST 2024
 添加DUDU_MM https://edge-hls.doppiocdn.live/hls/169938738/master/169938738_auto.m3u8
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+Tue Sep 17 00:59:12 CST 2024
+Tue Sep 17 00:59:32 CST 2024
+Tue Sep 17 01:01:19 CST 2024
+Tue Sep 17 01:01:32 CST 2024
+添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
