@@ -412,3 +412,11 @@ Mon Sep 16 17:44:03 CST 2024
 Mon Sep 16 17:45:55 CST 2024
 Mon Sep 16 17:46:10 CST 2024
 删除ake_mi https://edge6-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-e17c02675b15bbd0b5918ba83ac3de0fd64a00d910cc26c5ece381193d0233bc_trns_h264/playlist.m3u8
+Mon Sep 16 17:57:14 CST 2024
+添加mozzzi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.P58zKdyrmINu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1A1OHpLZHlybUlOdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5QjU2NEJBRi05RTQ4LTQ3NkUtOTZFNC1BMUVGOUY5RUIzOUQiLCJ2aWV3ZXItaWQiOiIyNDk3ODE2MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjY0ODA2NDIsImV4cCI6MTcyNjQ4MTI0MiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.AVvZ3ur03GB7bhgtE-qZtiLXmjXojpjjOCmzfQI82P5yVz_-3U4iRp9x1-xZBBwDv3Ji-CJlvnwBnQn9S1ttmMIIUm2I-V9vc-N8zkNmyxkGoxVudwfm_5hSU0KLnkVM
+Mon Sep 16 17:57:30 CST 2024
+Mon Sep 16 17:59:18 CST 2024
+添加aesoon96 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.4NaAcTktGqxD.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC80TmFBY1RrdEdxeEQiLCJleHAiOjE3MjY1MjM4MzI1MjYsImlhdCI6MTcyNjQ4MDYzMn0.fqppSpDElY4NHSZhUJKKIoxYxD5b2k9XV7QbQ0aZZ7b8UwPd8_TNa9vBDw1wN9IKyoUO3AFTGeNGgLQgLxJGXPx-rb-JMTK_4dwGEGACwJknjQcnCF3MT50sgDLYo8Fe
+Mon Sep 16 17:59:34 CST 2024
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除mode_bad https://edge3-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-6323914a2ea621b6acfa92af020e5aa78a9f9b2fd5430d1e2fde17b718f1113f_trns_h264/playlist.m3u8
