@@ -272,3 +272,11 @@ Mon Sep 16 11:52:00 CST 2024
 Mon Sep 16 11:53:51 CST 2024
 Mon Sep 16 11:54:04 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加ake_mi https://edge6-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-e17c02675b15bbd0b5918ba83ac3de0fd64a00d910cc26c5ece381193d0233bc_trns_h264/playlist.m3u8
+Mon Sep 16 12:22:22 CST 2024
+Mon Sep 16 12:22:24 CST 2024
+Mon Sep 16 12:24:10 CST 2024
+Mon Sep 16 12:24:22 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除cuddles_me https://edge1-mia.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-6b42773c6a0f1ce300543ef79cca102ed436b3ecbee3ba0989c806c23942a7f8_trns_h264/playlist.m3u8
+删除leelate https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=null
