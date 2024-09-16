@@ -286,3 +286,10 @@ Mon Sep 16 12:41:49 CST 2024
 Mon Sep 16 12:42:02 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Mon Sep 16 12:51:42 CST 2024
+Mon Sep 16 12:51:44 CST 2024
+Mon Sep 16 12:53:33 CST 2024
+Mon Sep 16 12:53:47 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除hotse777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TBnyiDhI4HhL.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1RCbnlpRGhJNEhoTCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0QTgyN0NGOS02RUUzLTRCMTktQjFEOC1CRDZFOEI3QkIwN0UiLCJ2aWV3ZXItaWQiOiIyNDkwMzI2NSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjYzODE0NjgsImV4cCI6MTcyNjM4MjA2OCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.zfXjXM5z-uM-LSSDKGwtq-NVGsfwOa2PtZj5Ku6zmsbOUs7XXAA08HVOuT8QpeOYu4LgRmZgIc2OMPUlfULd1nqb4ZAHIIIM7AKSOC16zYyVQqcGT0Ov2X_D2XOgnpRu
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
