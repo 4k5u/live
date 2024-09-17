@@ -369,3 +369,12 @@ Tue Sep 17 16:48:01 CST 2024
 Tue Sep 17 16:48:14 CST 2024
 删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
 删除qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+Tue Sep 17 16:57:27 CST 2024
+Tue Sep 17 16:57:33 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GgyzJxI5BytDDRNuU2fEKIR2b2udBD-FefrODoO0iYS9I7EVN-OFCbRmFaOOiK_V2Bw9VjOHPnK4YgK0gJFMbQ
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.pNDsmMpPLzMxOb1Q-pxoX63_iTAbLaoPWWr7Q07O9G5xw-QFtLH0tsbghC1vOGXfm5CGzTACwclICDHg1RxXPA
+Tue Sep 17 16:59:36 CST 2024
+Tue Sep 17 16:59:51 CST 2024
+添加qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除amilia4u https://edge25-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-5ffe757575af1101c07b58878d6512fc44a2ef464974926c22a254a1d89390fd_trns_h264/playlist.m3u8
