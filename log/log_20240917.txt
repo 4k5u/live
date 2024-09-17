@@ -185,3 +185,10 @@ Tue Sep 17 09:24:58 CST 2024
 添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Tue Sep 17 10:06:20 CST 2024
+Tue Sep 17 10:06:24 CST 2024
+Tue Sep 17 10:08:12 CST 2024
+Tue Sep 17 10:08:26 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除_meganmeow_ https://edge2-mia.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-1be6686c117fd50af60f51a7329176736ee2c7a6b1775aa5ffb694a56a2fdf6b_trns_h264/playlist.m3u8
