@@ -243,3 +243,11 @@ Tue Sep 17 12:02:16 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除bps1016 https://usher.ttvnw.net/api/channel/hls/bps1016.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22bps1016%22%2C%22channel_id%22%3A752742297%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1726131145%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.227.105%22%2C%22version%22%3A2%7D&sig=6ce409988698bd91e1da4b1ade6226c304627c7f&allow_source=true&allow_audio_only=true
 删除amilia4u https://edge13-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-5ffe757575af1101c07b58878d6512fc44a2ef464974926c22a254a1d89390fd_trns_h264/playlist.m3u8
+添加amilia4u https://edge25-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-5ffe757575af1101c07b58878d6512fc44a2ef464974926c22a254a1d89390fd_trns_h264/playlist.m3u8
+添加oki_dokie https://edge29-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-64f6af6cfe4a694e96319ed45ca9f4c1e69d58cd6af678c9423b8597b9e0476a_trns_h264/playlist.m3u8
+Tue Sep 17 12:26:51 CST 2024
+Tue Sep 17 12:26:55 CST 2024
+Tue Sep 17 12:28:49 CST 2024
+Tue Sep 17 12:29:04 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
