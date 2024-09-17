@@ -412,3 +412,8 @@ Tue Sep 17 18:38:49 CST 2024
 Tue Sep 17 18:40:47 CST 2024
 Tue Sep 17 18:41:01 CST 2024
 删除oki_dokie https://edge29-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-64f6af6cfe4a694e96319ed45ca9f4c1e69d58cd6af678c9423b8597b9e0476a_trns_h264/playlist.m3u8
+Tue Sep 17 18:48:40 CST 2024
+Tue Sep 17 18:48:48 CST 2024
+Tue Sep 17 18:50:39 CST 2024
+Tue Sep 17 18:50:54 CST 2024
+删除ad0res https://edge9-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-bd27b847c3f88ac7d4b27e82db7d30175a4248297f28556cc7aa6e60bbf6f70e_trns_h264/playlist.m3u8
