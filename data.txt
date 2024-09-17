@@ -8,7 +8,6 @@ asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
-TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
@@ -24,3 +23,5 @@ oki_dokie https://edge29-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-64f6af6c
 nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8

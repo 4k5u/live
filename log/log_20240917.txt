@@ -262,3 +262,10 @@ Tue Sep 17 12:50:38 CST 2024
 Tue Sep 17 12:50:51 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Tue Sep 17 12:58:56 CST 2024
+Tue Sep 17 12:59:00 CST 2024
+Tue Sep 17 13:00:57 CST 2024
+Tue Sep 17 13:01:11 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
