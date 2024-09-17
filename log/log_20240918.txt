@@ -58,3 +58,10 @@ Wed Sep 18 01:35:54 CST 2024
 删除qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Wed Sep 18 01:47:02 CST 2024
+Wed Sep 18 01:47:26 CST 2024
+Wed Sep 18 01:49:14 CST 2024
+Wed Sep 18 01:49:28 CST 2024
+添加qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+删除dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.U6VJvP7spDoWMRDvCuhdS5b729F9dF22e3gwCtdGR7KxQYxR0m0mchA4Z6JEHD7KjSM2DL6buVYcsiwp1sgvjw
+删除purelove2 https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nzaY2reucK-Q0F8k3N_ODqK-JAX4plVI2z6XDr6wS6-LDvXMLa2FN1f8SoX06zapTQMJCMe03t6YgUIVHM6tww
