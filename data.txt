@@ -23,3 +23,4 @@ amilia4u https://edge25-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-5ffe757575
 oki_dokie https://edge29-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-64f6af6cfe4a694e96319ed45ca9f4c1e69d58cd6af678c9423b8597b9e0476a_trns_h264/playlist.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
