@@ -12,6 +12,7 @@ sksnrnrp11 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 ake_mi https://edge11-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f29a791e98f18495de84da2605b15e52b871b342bb8cd3ad255201b76077d46c_trns_h264/playlist.m3u8
-Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 your_desssert https://edge7-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-40b566320fc0783403b8777833407061bbcee22fd3179ec3491394e655b369be_trns_h264/playlist.m3u8
 h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=null
+May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
