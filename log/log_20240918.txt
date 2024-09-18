@@ -231,3 +231,12 @@ Wed Sep 18 10:30:40 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+添加gina_gracia https://edge15-ash.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-0431e53df05b51ce4fea9e2b7f88198a15be8033bcfe11313d2ecf79bf5dca40_trns_h264/playlist.m3u8
+Wed Sep 18 10:58:35 CST 2024
+Wed Sep 18 10:58:41 CST 2024
+Wed Sep 18 11:00:35 CST 2024
+Wed Sep 18 11:00:49 CST 2024
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
