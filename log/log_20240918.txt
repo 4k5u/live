@@ -277,3 +277,9 @@ Wed Sep 18 12:31:47 CST 2024
 Wed Sep 18 12:32:02 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Wed Sep 18 12:44:29 CST 2024
+Wed Sep 18 12:44:39 CST 2024
+Wed Sep 18 12:46:38 CST 2024
+Wed Sep 18 12:46:53 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
