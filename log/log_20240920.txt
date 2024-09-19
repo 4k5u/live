@@ -197,3 +197,9 @@ Fri Sep 20 06:59:02 CST 2024
 Fri Sep 20 06:59:16 CST 2024
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除mazzanti_ https://edge14-mia.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e9461b051f5d5c37b79a1f0021bdd640ecc23889fa6e435977fdf7ab1d6a71cf_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge10-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-5db7d8679989e6d94d8c29780d0fc4bfa967e3c3464782a5d2af7b02841ada73_trns_h264/playlist.m3u8
+Fri Sep 20 07:18:58 CST 2024
+Fri Sep 20 07:18:58 CST 2024
+Fri Sep 20 07:20:50 CST 2024
+Fri Sep 20 07:21:04 CST 2024
+删除gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-gNv88823nynN8smwep6NQLbps9s8vCqCJM0gy6gj-bCo2KfWPNgFr8-ZlkcYy0WUpvFOZbpOImvUg_Qh_H0Cw
