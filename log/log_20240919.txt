@@ -424,3 +424,13 @@ Thu Sep 19 17:22:05 CST 2024
 Thu Sep 19 17:22:19 CST 2024
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Thu Sep 19 17:33:29 CST 2024
+Thu Sep 19 17:33:45 CST 2024
+Thu Sep 19 17:35:28 CST 2024
+Thu Sep 19 17:35:41 CST 2024
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除oda_assuri https://edge12-slc.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-1c3df8559dce99180fcb32208dae012888c142223937f241741378fdd7092dee_trns_h264/playlist.m3u8
+删除Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
