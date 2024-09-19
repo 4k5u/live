@@ -293,3 +293,10 @@ Thu Sep 19 12:52:14 CST 2024
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除intim_mate https://edge2-lax.live.mmcdn.com/live-hls/amlst:intim_mate-sd-71697aae63bc4a3046a0def7850d08953bb2f4e8a9e7c2cd2d72561bcd6d1548_trns_h264/playlist.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+Thu Sep 19 13:00:28 CST 2024
+Thu Sep 19 13:00:36 CST 2024
+Thu Sep 19 13:02:18 CST 2024
+Thu Sep 19 13:02:30 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
