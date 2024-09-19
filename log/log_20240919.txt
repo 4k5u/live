@@ -277,3 +277,12 @@ Thu Sep 19 12:23:33 CST 2024
 Thu Sep 19 12:23:47 CST 2024
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加ake_mi https://edge17-mia.live.mmcdn.com/live-hls/amlst:ake_mi-sd-8eac33c7cbf4b208381ed572c0c37f67f985fd066bebb2b12f980a8a968fc254_trns_h264/playlist.m3u8
+Thu Sep 19 12:39:40 CST 2024
+Thu Sep 19 12:39:48 CST 2024
+Thu Sep 19 12:41:40 CST 2024
+Thu Sep 19 12:41:54 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
