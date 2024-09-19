@@ -191,3 +191,9 @@ Fri Sep 20 06:48:51 CST 2024
 Fri Sep 20 06:49:03 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Fri Sep 20 06:57:08 CST 2024
+Fri Sep 20 06:57:10 CST 2024
+Fri Sep 20 06:59:02 CST 2024
+Fri Sep 20 06:59:16 CST 2024
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除mazzanti_ https://edge14-mia.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e9461b051f5d5c37b79a1f0021bdd640ecc23889fa6e435977fdf7ab1d6a71cf_trns_h264/playlist.m3u8
