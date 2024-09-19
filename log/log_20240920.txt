@@ -121,3 +121,8 @@ Fri Sep 20 03:38:29 CST 2024
 Fri Sep 20 03:40:22 CST 2024
 Fri Sep 20 03:40:36 CST 2024
 删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Fri Sep 20 03:48:43 CST 2024
+Fri Sep 20 03:48:53 CST 2024
+Fri Sep 20 03:50:41 CST 2024
+Fri Sep 20 03:50:54 CST 2024
+删除sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.AAGeUR6KPgwdbdLz_ntCzRQJLfTF6HwiEQdobBqs2c-2e53AUaCWJNiBhXbEwdM7ng4Uu6lvwI_Ypg6bL5niwQ
