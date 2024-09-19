@@ -270,3 +270,10 @@ Thu Sep 19 11:59:03 CST 2024
 Thu Sep 19 11:59:18 CST 2024
 添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加oki_dokie https://edge3-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-464fb079ac25dc34132bd583fa79186a7f36b92f7d5b7c50744f1589016dddf2_trns_h264/playlist.m3u8
+Thu Sep 19 12:21:32 CST 2024
+Thu Sep 19 12:21:40 CST 2024
+Thu Sep 19 12:23:33 CST 2024
+Thu Sep 19 12:23:47 CST 2024
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
