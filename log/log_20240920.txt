@@ -254,3 +254,10 @@ Fri Sep 20 11:03:20 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除intim_mate https://edge1-mia.live.mmcdn.com/live-hls/amlst:intim_mate-sd-3529aa314634ca6ac55da883cd8c0f8b290db37ee0ae360aafa2f86433e9b9cb_trns_h264/playlist.m3u8
 删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+Fri Sep 20 11:27:44 CST 2024
+Fri Sep 20 11:27:52 CST 2024
+Fri Sep 20 11:29:46 CST 2024
+Fri Sep 20 11:30:01 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
