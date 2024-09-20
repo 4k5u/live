@@ -488,3 +488,11 @@ Fri Sep 20 18:35:06 CST 2024
 删除h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-38/auth_master_playlist.m3u8?aid=null
 删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+Fri Sep 20 18:46:56 CST 2024
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwM0EwRTJERC1BRTg4LTQ3RjctQjREOC00NzY1REJBQTlDOEYiLCJ2aWV3ZXItaWQiOiIyMjg0MDkyNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjY4MjkyMzksImV4cCI6MTcyNjgyOTgzOSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.FlGEXdJrNP371f2TRlfRq0hKlbs0fx66axjEJnUWI3zFxhZ7hWjr8GLlDp0x05qD1pDeKIIS2S5jJO74PQInln13NZw1QLUlg4iTxdLgtnVPFZIHW6G1tVzHRVJo-Y8B
+Fri Sep 20 18:47:27 CST 2024
+添加h920823 https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_master_playlist.m3u8?aid=null
+Fri Sep 20 18:49:23 CST 2024
+Fri Sep 20 18:49:36 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除ake_mi https://edge1-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-e31785c3f6092ef26b3a9991fad658ab2c90ac72a01a3dfa308d4c5c1e6f4209_trns_h264/playlist.m3u8
