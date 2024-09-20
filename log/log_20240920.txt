@@ -296,3 +296,10 @@ Fri Sep 20 12:49:25 CST 2024
 Fri Sep 20 12:51:10 CST 2024
 Fri Sep 20 12:51:22 CST 2024
 删除h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.m16ZdINq92CcoJ8lzYYeY5UdlA_XfdRH9c1H34ZlB8_O-sxJgPK0ZtZvvitXoFojn08OZao2kurBXgpkCdj9Mw
+Fri Sep 20 12:59:38 CST 2024
+Fri Sep 20 12:59:46 CST 2024
+Fri Sep 20 13:02:18 CST 2024
+Fri Sep 20 13:02:33 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
