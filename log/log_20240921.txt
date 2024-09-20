@@ -185,3 +185,11 @@ Sat Sep 21 05:57:42 CST 2024
 Sat Sep 21 05:59:30 CST 2024
 Sat Sep 21 05:59:43 CST 2024
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加mazzanti_ https://edge19-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e4eec5a56b25dd0c04770123198770e3bad52f3c106b8e93b29638b0b7ec422c_trns_h264/playlist.m3u8
+Sat Sep 21 06:20:06 CST 2024
+Sat Sep 21 06:20:08 CST 2024
+Sat Sep 21 06:22:02 CST 2024
+Sat Sep 21 06:22:17 CST 2024
+删除100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRTczNUM3MS1BQjE3LTRCMTQtQTA5OC1CMzQxMUU2OTNDMkQiLCJ2aWV3ZXItaWQiOiIyNDIzNzE5MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjY4NjE3MjcsImV4cCI6MTcyNjg2MjMyNywiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.vueqj_kLh2naEzoG-bFP_-di4qg-asOfxOfzSRpOcy4n0nLTD09P8sZxYqem3G0_JYi4-ShxaUCpC9Lk2Noa1KRQWWK_z4fM-3XBeoYEc4RWX0cuzZqzfVMaIRDMV0Vq
+删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+删除MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
