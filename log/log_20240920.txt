@@ -464,3 +464,8 @@ Fri Sep 20 17:44:24 CST 2024
 删除oki_dokie https://edge17-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-05d5843989a0c6ca4b0381ad1bbf5065c252c0740b6fd1d484c34dd362ad8170_trns_h264/playlist.m3u8
 删除y1026 https://live-global-cdn-v02.afreecatv.com/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.DsaamziBqasVy5VIboTRn2NMg93cmpJA7hMUKshPft5GHzFtRvJ6bHTeaOiswPGItVbtKSS8-V0jINGl-eJdkg
 删除qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+Fri Sep 20 17:52:21 CST 2024
+Fri Sep 20 17:52:37 CST 2024
+Fri Sep 20 17:54:20 CST 2024
+Fri Sep 20 17:54:33 CST 2024
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
