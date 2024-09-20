@@ -8,3 +8,4 @@ TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3
 _meganmeow_ https://edge16-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-1e3d86dad2dd085b9079ddfff9b31280f6f6e2ce8ad74a750ab53e8d51c4505e_trns_h264/playlist.m3u8
 mazzanti_ https://edge19-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e4eec5a56b25dd0c04770123198770e3bad52f3c106b8e93b29638b0b7ec422c_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
