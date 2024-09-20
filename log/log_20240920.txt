@@ -276,3 +276,11 @@ Fri Sep 20 11:57:14 CST 2024
 Fri Sep 20 11:59:06 CST 2024
 Fri Sep 20 11:59:20 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加oki_dokie https://edge17-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-05d5843989a0c6ca4b0381ad1bbf5065c252c0740b6fd1d484c34dd362ad8170_trns_h264/playlist.m3u8
+Fri Sep 20 12:21:37 CST 2024
+Fri Sep 20 12:21:45 CST 2024
+Fri Sep 20 12:23:41 CST 2024
+Fri Sep 20 12:23:56 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
