@@ -29,3 +29,4 @@ h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-35/auth_master_playl
 Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8

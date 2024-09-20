@@ -271,3 +271,8 @@ Fri Sep 20 11:44:53 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除_meganmeow_ https://edge8-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-726c3292592e02a6a5b64a0a3d974c2b3bb689191cb26520a987bb515cd30437_trns_h264/playlist.m3u8
+Fri Sep 20 11:57:06 CST 2024
+Fri Sep 20 11:57:14 CST 2024
+Fri Sep 20 11:59:06 CST 2024
+Fri Sep 20 11:59:20 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
