@@ -246,3 +246,11 @@ Fri Sep 20 10:32:59 CST 2024
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Fri Sep 20 11:01:10 CST 2024
+Fri Sep 20 11:01:18 CST 2024
+Fri Sep 20 11:03:04 CST 2024
+添加yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3MjY4NDMwMDM1ODUsImlhdCI6MTcyNjc5OTgwM30.vta-sGDTT5hGnRREIItahNVxQ3KgJEdPPUMJqXfkodJBrKKQltYIxlm2_JW-Y5HS-6bu5RYOwC95WK3WgxxWh8vKvUF7poLXswK4SNQ0l8ToZMoRK3pEtPUtTeukezEo
+Fri Sep 20 11:03:20 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除intim_mate https://edge1-mia.live.mmcdn.com/live-hls/amlst:intim_mate-sd-3529aa314634ca6ac55da883cd8c0f8b290db37ee0ae360aafa2f86433e9b9cb_trns_h264/playlist.m3u8
+删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
