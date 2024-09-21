@@ -248,3 +248,13 @@ Sat Sep 21 09:50:50 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Sat Sep 21 10:38:31 CST 2024
+Sat Sep 21 10:38:35 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Z8PlCc2Haz1gtZWrLGrXXOHYRDNrnntQdBUZOmmvrxun5sWcB3TBbwDcBmiDz9TwnLR9P2yhP1Bb9Gb5dnNHnA
+Sat Sep 21 10:40:35 CST 2024
+Sat Sep 21 10:40:50 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除my_eyes_higher https://edge15-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-424a56f9b53faf6a2bf0ca2baffd032e0933cbc3eb29a846d6e912acab1fa220_trns_h264/playlist.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
