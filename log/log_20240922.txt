@@ -128,3 +128,10 @@ Sun Sep 22 04:21:53 CST 2024
 删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 删除TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
+Sun Sep 22 04:31:28 CST 2024
+Sun Sep 22 04:31:32 CST 2024
+Sun Sep 22 04:33:23 CST 2024
+Sun Sep 22 04:33:37 CST 2024
+添加TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
+删除glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0ZDf9W77Cvo6IAZMonF59u7bp9DWIExJY6UMNTyrhGVZS54mJjOLnY9BuhQCrVHaja00fqKx6gkw2Di1Bqn3Fw
+删除lucky-uu https://edge-hls.doppiocdn.live/hls/127882835/master/127882835_auto.m3u8
