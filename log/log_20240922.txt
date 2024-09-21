@@ -72,3 +72,9 @@ Sun Sep 22 01:59:31 CST 2024
 删除purelove2 https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Q_cTWHi1ppGkXVeEyRG0KSx5n8uZ-dTWcFquc8sdfiQLz7tBcbgXTVYjQqqyv6IeQtZP09jbzmzp6028vn3fQg
 删除eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.EPeP_lbtNZpclNFUTpJSOAbs1xRGalpWDKfvtxHfXK5k1m4Tu2Nj8dGs5myi-S3J-UxN9eHEJ6OYnUoAXrM_TA
 删除niunew https://edge-hls.doppiocdn.live/hls/106158883/master/106158883_auto.m3u8
+Sun Sep 22 02:22:56 CST 2024
+Sun Sep 22 02:23:06 CST 2024
+Sun Sep 22 02:24:59 CST 2024
+Sun Sep 22 02:25:14 CST 2024
+删除imsocutesexy https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Jo7ZAl7lqyiK.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pvN1pBbDdscXlpSyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzRkMxMDIxOS00RENFLTRDOEItOUIyRi03MkQxRTkzOEJEODQiLCJ2aWV3ZXItaWQiOiIyNTEyOTUyMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjY5MzAwNDgsImV4cCI6MTcyNjkzMDY0OCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.wrTMXeZ7dfcAZon6hH5aAtfcVwAj28HfMGI_KdQ98BYgPWnitprGVlb1lnpjFbxq5I3ou-Pi9UmRiSHlRHIHaNH-gWKc83vfJR5Mhr881SMk1uqm1V4y-k7ZEutu-uR3
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
