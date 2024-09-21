@@ -535,3 +535,9 @@ Sat Sep 21 19:18:23 CST 2024
 添加aesoon96 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.4NaAcTktGqxD.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC80TmFBY1RrdEdxeEQiLCJleHAiOjE3MjY5NTk3NDA4NzYsImlhdCI6MTcyNjkxNjU0MH0.l9A9e0rtPaY4aHW-Av6rA1wX4S1ot6looeFCBeunJhkAzhxfnPQIQqEt32GFo_j0TshlPCxdi1LcaExoaZJyWWPum8Nyc2mbW1l3osmbIL2PPBiL5y8xJcBgGNZPTYll
 Sat Sep 21 19:18:38 CST 2024
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Sat Sep 21 19:27:08 CST 2024
+Sat Sep 21 19:27:38 CST 2024
+Sat Sep 21 19:29:32 CST 2024
+Sat Sep 21 19:29:46 CST 2024
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
