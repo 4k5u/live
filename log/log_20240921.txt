@@ -690,3 +690,7 @@ Sat Sep 21 23:47:50 CST 2024
 添加dign1461 ?aid=null
 Sat Sep 21 23:49:47 CST 2024
 Sat Sep 21 23:50:02 CST 2024
+Sat Sep 21 23:57:11 CST 2024
+Sat Sep 21 23:57:49 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Sat Sep 21 23:59:50 CST 2024
