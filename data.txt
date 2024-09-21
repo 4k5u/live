@@ -20,3 +20,5 @@ bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+my_eyes_higher https://edge7-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1fd6f23223ba271b0bafbdb29c4557d6603d1885b4836c8f0063723f8a8077fb_trns_h264/playlist.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8

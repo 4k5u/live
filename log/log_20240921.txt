@@ -278,3 +278,9 @@ Sat Sep 21 11:41:59 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+添加my_eyes_higher https://edge7-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1fd6f23223ba271b0bafbdb29c4557d6603d1885b4836c8f0063723f8a8077fb_trns_h264/playlist.m3u8
+Sat Sep 21 11:50:12 CST 2024
+Sat Sep 21 11:50:16 CST 2024
+Sat Sep 21 11:52:10 CST 2024
+Sat Sep 21 11:52:24 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
