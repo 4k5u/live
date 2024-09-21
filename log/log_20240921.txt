@@ -517,3 +517,10 @@ Sat Sep 21 18:47:46 CST 2024
 Sat Sep 21 18:49:34 CST 2024
 Sat Sep 21 18:49:47 CST 2024
 删除dign1461 ?aid=null
+Sat Sep 21 18:57:33 CST 2024
+Sat Sep 21 18:57:57 CST 2024
+Sat Sep 21 18:59:45 CST 2024
+Sat Sep 21 18:59:59 CST 2024
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
