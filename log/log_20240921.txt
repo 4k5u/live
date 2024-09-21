@@ -306,3 +306,12 @@ Sat Sep 21 12:45:25 CST 2024
 Sat Sep 21 12:45:38 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加ake_mi https://edge1-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c3365c85d67b0355bdfc6d5da877acf8b7414c64b355ab79e3d90fa5faa8406b_trns_h264/playlist.m3u8
+Sat Sep 21 12:56:49 CST 2024
+Sat Sep 21 12:56:57 CST 2024
+Sat Sep 21 12:58:49 CST 2024
+Sat Sep 21 12:59:02 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
