@@ -340,3 +340,12 @@ Sun Sep 22 14:27:34 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除kmj87990 https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TRP8fsv7nskV0QqcFKLDEP-ADqoePe4hGCaSCPupqyeHam7L2vW0mKu_9f9jZL9gIj5Lb2uXMy8drjlQPyo4Lw
 删除oki_dokie https://edge8-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-83a97d9001be17242a954c6277a38814c3df31e9c4dcb146c0f12f18385c21e3_trns_h264/playlist.m3u8
+添加oki_dokie https://edge8-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-83a97d9001be17242a954c6277a38814c3df31e9c4dcb146c0f12f18385c21e3_trns_h264/playlist.m3u8
+Sun Sep 22 14:43:50 CST 2024
+Sun Sep 22 14:44:00 CST 2024
+Sun Sep 22 14:45:51 CST 2024
+Sun Sep 22 14:46:05 CST 2024
+添加niunew https://edge-hls.doppiocdn.live/hls/106158883/master/106158883_auto.m3u8
+添加Daji__-Baby_ https://edge-hls.doppiocdn.live/hls/144340014/master/144340014_auto.m3u8
+删除gina_gracia https://edge10-mia.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-c2fdeef131141330963c0f1619fbed0e159654a208811d1482f0494d77fcb7f6_trns_h264/playlist.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
