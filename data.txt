@@ -12,3 +12,4 @@ TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u
 mazzanti_ https://edge10-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e5d71080284dcff4d857318c0459f43d123ef4a802e5e9b47b1075f74ce29f1f_trns_h264/playlist.m3u8
 TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
 YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
