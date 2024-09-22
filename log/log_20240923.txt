@@ -130,3 +130,8 @@ Mon Sep 23 04:22:14 CST 2024
 Mon Sep 23 04:24:03 CST 2024
 Mon Sep 23 04:24:18 CST 2024
 添加Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+Mon Sep 23 04:38:21 CST 2024
+Mon Sep 23 04:38:23 CST 2024
+Mon Sep 23 04:40:06 CST 2024
+Mon Sep 23 04:40:18 CST 2024
+删除1004ysus https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yZODFIgVHDPtGc8aDBfLbkrUQAfQHVx55OBkynXM0EDRcHLb9a8oFfxryz33znpgu8q8Ci3Ghlmb3D116VhsFw
