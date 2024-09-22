@@ -317,3 +317,10 @@ Sun Sep 22 13:50:28 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sun Sep 22 13:57:31 CST 2024
+Sun Sep 22 13:57:33 CST 2024
+Sun Sep 22 13:59:23 CST 2024
+Sun Sep 22 13:59:38 CST 2024
+删除my_eyes_higher https://edge16-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-60c5c86cb8c0641a1a275756494477364c11a9f7bf08c1d0d17d2e3d2b6b88e2_trns_h264/playlist.m3u8
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
