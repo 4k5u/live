@@ -271,3 +271,12 @@ Sun Sep 22 12:01:27 CST 2024
 Sun Sep 22 12:01:40 CST 2024
 添加YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加oki_dokie https://edge8-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-83a97d9001be17242a954c6277a38814c3df31e9c4dcb146c0f12f18385c21e3_trns_h264/playlist.m3u8
+添加ake_mi https://edge5-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-93c99bccfd40ab909d94a4a9a4d7bbab760f1913dacc6536c4863193beae9e2e_trns_h264/playlist.m3u8
+Sun Sep 22 12:29:05 CST 2024
+Sun Sep 22 12:29:09 CST 2024
+Sun Sep 22 12:31:00 CST 2024
+Sun Sep 22 12:31:14 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
