@@ -280,3 +280,10 @@ Mon Sep 23 12:46:01 CST 2024
 Mon Sep 23 12:46:16 CST 2024
 删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+添加hee_jeen https://edge2-aus.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-3859057c1b41167d2bae8e1d92aa29de5bcd302ba1ee976c274f9a5901d163d6_trns_h264/playlist.m3u8
+Mon Sep 23 12:57:08 CST 2024
+Mon Sep 23 12:57:12 CST 2024
+Mon Sep 23 12:59:04 CST 2024
+Mon Sep 23 12:59:18 CST 2024
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
