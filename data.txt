@@ -10,7 +10,6 @@ banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 oda_assuri https://edge23-ash.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-d95c055b21f651254100b2d8e3f2513bb74bb4abb4b66e2f4834a8022876559b_trns_h264/playlist.m3u8
 intim_mate https://edge18-aus.live.mmcdn.com/live-hls/amlst:intim_mate-sd-1e3ca50e962b91ebefe2f09439e395f94cf43190d98baa6e04872539b41f0d71_trns_h264/playlist.m3u8
-sexygamesx https://edge8-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-ffdb9e50f0bf8091c43323b7bba438d067b1bc7de4a4aadc76b05407f6b1330c_trns_h264/playlist.m3u8
 l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
@@ -23,3 +22,4 @@ mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+amilia4u https://edge3-slc.live.mmcdn.com/live-hls/amlst:amilia4u-sd-fa17c26921c197add21b057d1e1118651b9aa69adc4d8473d6df9c0285c37539_trns_h264/playlist.m3u8
