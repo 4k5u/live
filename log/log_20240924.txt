@@ -216,3 +216,10 @@ Tue Sep 24 06:38:28 CST 2024
 Tue Sep 24 06:40:21 CST 2024
 Tue Sep 24 06:40:34 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Tue Sep 24 06:48:46 CST 2024
+Tue Sep 24 06:48:54 CST 2024
+Tue Sep 24 06:50:48 CST 2024
+Tue Sep 24 06:51:02 CST 2024
+删除DUDU_MM https://edge-hls.doppiocdn.live/hls/169938738/master/169938738_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
