@@ -51,3 +51,5 @@ kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
 -M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
 Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
