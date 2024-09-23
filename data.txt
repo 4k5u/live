@@ -23,3 +23,5 @@ AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 amilia4u https://edge3-slc.live.mmcdn.com/live-hls/amlst:amilia4u-sd-fa17c26921c197add21b057d1e1118651b9aa69adc4d8473d6df9c0285c37539_trns_h264/playlist.m3u8
+sexygamesx https://edge8-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-28d03c393aef34a7e7e625f66c71e259b29d08de510396a8bbe9a964afb9e052_trns_h264/playlist.m3u8
+Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8

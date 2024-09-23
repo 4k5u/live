@@ -256,3 +256,9 @@ Mon Sep 23 11:38:45 CST 2024
 Mon Sep 23 11:40:29 CST 2024
 Mon Sep 23 11:40:41 CST 2024
 删除sexygamesx https://edge8-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-ffdb9e50f0bf8091c43323b7bba438d067b1bc7de4a4aadc76b05407f6b1330c_trns_h264/playlist.m3u8
+添加sexygamesx https://edge8-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-28d03c393aef34a7e7e625f66c71e259b29d08de510396a8bbe9a964afb9e052_trns_h264/playlist.m3u8
+Mon Sep 23 11:49:20 CST 2024
+Mon Sep 23 11:49:26 CST 2024
+Mon Sep 23 11:51:22 CST 2024
+Mon Sep 23 11:51:37 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
