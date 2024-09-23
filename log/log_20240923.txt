@@ -297,3 +297,11 @@ Mon Sep 23 13:20:53 CST 2024
 删除intim_mate https://edge18-aus.live.mmcdn.com/live-hls/amlst:intim_mate-sd-1e3ca50e962b91ebefe2f09439e395f94cf43190d98baa6e04872539b41f0d71_trns_h264/playlist.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+添加ake_mi https://edge10-mia.live.mmcdn.com/live-hls/amlst:ake_mi-sd-5b3dc54499dc172fe8b64a999a9beff74f0e32b99f2748aeb93cdda0a5b9c1de_trns_h264/playlist.m3u8
+Mon Sep 23 13:36:46 CST 2024
+Mon Sep 23 13:36:50 CST 2024
+Mon Sep 23 13:38:49 CST 2024
+Mon Sep 23 13:39:05 CST 2024
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
