@@ -347,3 +347,10 @@ Tue Sep 24 13:47:07 CST 2024
 Tue Sep 24 13:49:00 CST 2024
 Tue Sep 24 13:49:14 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Tue Sep 24 13:57:01 CST 2024
+Tue Sep 24 13:57:10 CST 2024
+Tue Sep 24 13:59:08 CST 2024
+Tue Sep 24 13:59:24 CST 2024
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
