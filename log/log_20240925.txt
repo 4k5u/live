@@ -126,3 +126,10 @@ Wed Sep 25 03:41:43 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+Wed Sep 25 03:49:45 CST 2024
+Wed Sep 25 03:49:47 CST 2024
+Wed Sep 25 03:51:45 CST 2024
+Wed Sep 25 03:52:01 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.cVrv01sHGj8kXk5IF58UZapcnYZof_ElQva7Khmvc6y0z0j-snjOmzRB27j4L6sLYjAz1Xd8nk5SqIU5lkM2HA
