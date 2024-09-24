@@ -302,3 +302,7 @@ Tue Sep 24 11:51:36 CST 2024
 Tue Sep 24 11:51:50 CST 2024
 添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 删除sexygamesx https://edge12-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-451f7e6b1f2b554fcbb22049c6cfd1f40845055a0aeca4577688490a15885a84_trns_h264/playlist.m3u8
+Tue Sep 24 11:59:52 CST 2024
+Tue Sep 24 12:00:02 CST 2024
+Tue Sep 24 12:02:02 CST 2024
+Tue Sep 24 12:02:17 CST 2024
