@@ -337,3 +337,8 @@ Tue Sep 24 13:20:34 CST 2024
 删除intim_mate https://edge18-lax.live.mmcdn.com/live-hls/amlst:intim_mate-sd-4461a524965aa2ede07b4b96999316ab8dbf4ee77570001a211608f2bbf027b7_trns_h264/playlist.m3u8
 删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加your_desssert https://edge8-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-0aeb82ae817dd88d7ac065c41c264ffd7e9f8a0bcccd782d2d11bdc59c2b0396_trns_h264/playlist.m3u8
+Tue Sep 24 13:36:11 CST 2024
+Tue Sep 24 13:36:19 CST 2024
+Tue Sep 24 13:38:13 CST 2024
+Tue Sep 24 13:38:27 CST 2024
