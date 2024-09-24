@@ -23,3 +23,4 @@ A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto
 Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
 your_desssert https://edge8-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-0aeb82ae817dd88d7ac065c41c264ffd7e9f8a0bcccd782d2d11bdc59c2b0396_trns_h264/playlist.m3u8
+sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
