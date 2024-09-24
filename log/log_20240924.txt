@@ -482,3 +482,11 @@ Tue Sep 24 18:45:21 CST 2024
 Tue Sep 24 18:47:14 CST 2024
 Tue Sep 24 18:47:28 CST 2024
 添加Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
+Tue Sep 24 18:57:07 CST 2024
+Tue Sep 24 18:57:31 CST 2024
+Tue Sep 24 18:59:17 CST 2024
+Tue Sep 24 18:59:30 CST 2024
+删除ehdbs0105 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OC5AksAoFbb6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09DNUFrc0FvRmJiNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MkE3NTk1QS03MzUxLTQ2OTYtOEIzMC0wMkQ1MzhDRUYxNEQiLCJ2aWV3ZXItaWQiOiIyNTIyMzUxNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjcwODE0OTYsImV4cCI6MTcyNzA4MjA5NiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.5NWxSimhdOMkHqOrqf0yncWTdHTPL7_P2uPYKlGUPGtOb78mXrPOl245oWtJyaEXfV1t3YWyYr5aMo_7TnGi_r5DsHCqIJVI7jToN-DtkDkQmVP4jI1vEOhrTuvBvekQ
+删除iminako https://edge14-chi.live.mmcdn.com/live-hls/amlst:iminako-sd-be5f3396cd3f9c2caf34f20c512d039b5c785c56326a88ba1e16bcaa25b3347f_trns_h264/playlist.m3u8
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
