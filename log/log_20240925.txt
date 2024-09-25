@@ -415,3 +415,9 @@ Wed Sep 25 16:27:14 CST 2024
 删除getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENjUwMUI1MS1BNThBLTQzRkYtQTY5NS03QzlEQUM4RTgyQjAiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjcyMzIzMTksImV4cCI6MTcyNzIzMjkxOSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.w9C048NonTiPr30DuyskQ02xGU_gBaiRCGBWHBk_Mw46LdQDCvjZ1sjh1CzH2MNAMYhV4uG34oQegpsfOO3sirHvxfWlHLl4zdREOeRFjzrMr-LbwNw5Gg3vNEeFlGPb
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Wed Sep 25 16:46:02 CST 2024
+Wed Sep 25 16:46:10 CST 2024
+Wed Sep 25 16:48:04 CST 2024
+Wed Sep 25 16:48:19 CST 2024
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
