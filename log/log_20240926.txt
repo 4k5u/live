@@ -156,3 +156,8 @@ Thu Sep 26 05:48:44 CST 2024
 Thu Sep 26 05:50:31 CST 2024
 Thu Sep 26 05:50:45 CST 2024
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Thu Sep 26 05:58:51 CST 2024
+Thu Sep 26 05:58:55 CST 2024
+Thu Sep 26 06:01:43 CST 2024
+Thu Sep 26 06:01:55 CST 2024
+删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
