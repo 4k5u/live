@@ -196,3 +196,9 @@ Thu Sep 26 07:32:02 CST 2024
 Thu Sep 26 07:32:06 CST 2024
 Thu Sep 26 07:34:00 CST 2024
 Thu Sep 26 07:34:14 CST 2024
+Thu Sep 26 07:47:11 CST 2024
+Thu Sep 26 07:47:15 CST 2024
+Thu Sep 26 07:49:20 CST 2024
+Thu Sep 26 07:49:32 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
