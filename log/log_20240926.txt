@@ -91,3 +91,9 @@ Thu Sep 26 02:59:27 CST 2024
 删除smmms2002 https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9_R_mZ8IDjrDqINPBi4LCDzBoffZkqUFMSCX2SarrIPpfof4uA18tJ0f9Q1pT1rvHZeCNKrJ7esy8XOzyJvjlA
 删除h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-28/auth_master_playlist.m3u8?aid=null
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Thu Sep 26 03:14:06 CST 2024
+Thu Sep 26 03:14:14 CST 2024
+Thu Sep 26 03:15:56 CST 2024
+Thu Sep 26 03:16:09 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
