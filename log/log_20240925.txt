@@ -387,3 +387,9 @@ Wed Sep 25 15:20:59 CST 2024
 删除_marydel_ https://edge18-ash.live.mmcdn.com/live-hls/amlst:_marydel_-sd-c31b2f7441d721d4580390950ee7152724e7a5edf9e5d6d11da15a9c2ead7ec4_trns_h264/playlist.m3u8
 删除ake_mi https://edge25-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-b7498c8c2362bf428da030542d80f88c9e70337b04bd255fc9638b72d89f5463_trns_h264/playlist.m3u8
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Wed Sep 25 15:30:47 CST 2024
+Wed Sep 25 15:30:53 CST 2024
+Wed Sep 25 15:32:46 CST 2024
+Wed Sep 25 15:33:00 CST 2024
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除1004ysus https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VXOeKQPHHUH3pUVmI04TaP08xSxCwr6WsskndHeSGUpP1nIaORiIrJXQ6MMqEiwW5nzBSEWyZhYycCxUdBVd3Q
