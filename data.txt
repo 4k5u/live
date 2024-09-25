@@ -17,3 +17,4 @@ jinricp https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 y1026 https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WaqpiXyHZQFvaOWJz3SVLzYIuyrAZvE45PC4eHQj5xw1Mp0G1ueNuZri1ICzG5FpjHdly7SkGX1z5dWx6pqrhg
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8

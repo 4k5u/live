@@ -393,3 +393,8 @@ Wed Sep 25 15:32:46 CST 2024
 Wed Sep 25 15:33:00 CST 2024
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除1004ysus https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VXOeKQPHHUH3pUVmI04TaP08xSxCwr6WsskndHeSGUpP1nIaORiIrJXQ6MMqEiwW5nzBSEWyZhYycCxUdBVd3Q
+Wed Sep 25 15:41:34 CST 2024
+Wed Sep 25 15:41:40 CST 2024
+Wed Sep 25 15:43:33 CST 2024
+Wed Sep 25 15:43:47 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
