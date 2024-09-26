@@ -150,3 +150,8 @@ Fri Sep 27 04:51:53 CST 2024
 Fri Sep 27 04:52:07 CST 2024
 删除sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IXf4fbFXyXvFl-wnB1u1J1AjirKjeSmeAK9e9P_MbD-Z023HTteSG7vqHZ8M940EGCCaB6Yc4aqIi4n8Xg-n7A
 删除Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+Fri Sep 27 04:59:47 CST 2024
+Fri Sep 27 04:59:55 CST 2024
+Fri Sep 27 05:01:42 CST 2024
+Fri Sep 27 05:01:56 CST 2024
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
