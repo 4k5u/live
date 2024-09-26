@@ -19,3 +19,4 @@ ake_mi https://edge15-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-ba014e7a4d54cb
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+foxylovesyou https://edge26-ash.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b3bc1b431ded7b785406ec28d5bde26ffc1405fea5d223ee039086cf7c8834ae_trns_h264/playlist.m3u8
