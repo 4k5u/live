@@ -456,3 +456,9 @@ Thu Sep 26 18:49:58 CST 2024
 删除oda_assuri https://edge18-mia.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-c4911bdd360694ce7c824d7a65ce612ba565166aa68620dbe11397a7ca23d96b_trns_h264/playlist.m3u8
 删除foxylovesyou https://edge15-atl.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b3bc1b431ded7b785406ec28d5bde26ffc1405fea5d223ee039086cf7c8834ae_trns_h264/playlist.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Thu Sep 26 18:57:47 CST 2024
+Thu Sep 26 18:58:07 CST 2024
+Thu Sep 26 18:59:58 CST 2024
+Thu Sep 26 19:00:12 CST 2024
+删除oki_dokie https://edge1-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d85832d14a87da0b6e96aa2ec1baf650c0b4be4d40a4170a7fb92e98344037fb_trns_h264/playlist.m3u8
+删除ake_mi https://edge15-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-ba014e7a4d54cbf7895a263f46286ab435c803d9974804d5d2a9093f6e42bf34_trns_h264/playlist.m3u8
