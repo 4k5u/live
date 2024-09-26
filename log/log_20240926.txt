@@ -264,3 +264,11 @@ Thu Sep 26 11:59:27 CST 2024
 Thu Sep 26 12:01:10 CST 2024
 Thu Sep 26 12:01:22 CST 2024
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加oki_dokie https://edge1-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d85832d14a87da0b6e96aa2ec1baf650c0b4be4d40a4170a7fb92e98344037fb_trns_h264/playlist.m3u8
+Thu Sep 26 12:27:55 CST 2024
+Thu Sep 26 12:28:01 CST 2024
+Thu Sep 26 12:29:53 CST 2024
+Thu Sep 26 12:30:08 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除_marydel_ https://edge13-aus.live.mmcdn.com/live-hls/amlst:_marydel_-sd-b2c93dfadf52f11dd150abc5c9db439c76b82fd78b829fb8e7d999371f21d5f0_trns_h264/playlist.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
