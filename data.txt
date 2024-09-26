@@ -20,3 +20,6 @@ AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+_meganmeow_ https://edge5-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-abd3c6a9d2d2bca691b4fced373d7374379db149e0e0167622c2fa6299a2e429_trns_h264/playlist.m3u8
+tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
