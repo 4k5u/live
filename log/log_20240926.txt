@@ -339,3 +339,8 @@ Thu Sep 26 14:48:52 CST 2024
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+Thu Sep 26 14:57:43 CST 2024
+Thu Sep 26 14:57:47 CST 2024
+Thu Sep 26 14:59:30 CST 2024
+Thu Sep 26 14:59:42 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
