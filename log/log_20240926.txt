@@ -420,3 +420,9 @@ Thu Sep 26 17:44:01 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除_meganmeow_ https://edge5-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-abd3c6a9d2d2bca691b4fced373d7374379db149e0e0167622c2fa6299a2e429_trns_h264/playlist.m3u8
 删除sexygamesx https://edge7-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-10f26e4e8585f05015be45fc864accb9f3c5d9b9a5855caf9875331d04b645e3_trns_h264/playlist.m3u8
+Thu Sep 26 17:51:58 CST 2024
+Thu Sep 26 17:52:14 CST 2024
+Thu Sep 26 17:54:09 CST 2024
+添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MjczODczODM2MTEsImlhdCI6MTcyNzM0NDE4M30.yppu-XWs_G5grAMTRlcyEGWwiE-owDoaA3z1O1eFUo_7iSw-uaW-IqI_7yQiZ3_UBP7eEpe0ehkc-PQEtEn0nEUkP2lOg0h9b32NP9-XIH0_5J4z8QaWhWptHGhh5hXG
+Thu Sep 26 17:54:27 CST 2024
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
