@@ -201,3 +201,10 @@ Fri Sep 27 06:20:32 CST 2024
 Fri Sep 27 06:22:22 CST 2024
 Fri Sep 27 06:22:36 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Fri Sep 27 06:36:53 CST 2024
+Fri Sep 27 06:36:59 CST 2024
+Fri Sep 27 06:38:50 CST 2024
+Fri Sep 27 06:39:04 CST 2024
+删除MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
+删除TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
+删除gina_gracia https://edge15-ash.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-1b54267255a0771c20288301a587efc1720a778928a032a45bcf38e445403f98_trns_h264/playlist.m3u8
