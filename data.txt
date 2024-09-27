@@ -22,3 +22,5 @@ Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u
 bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 your_desssert https://edge3-mia.live.mmcdn.com/live-hls/amlst:your_desssert-sd-fff39e67cb49bde57ff6bf7bb8ca1bc943c050b4a56f817554e223b0fdaa857b_trns_h264/playlist.m3u8
+foxylovesyou https://edge10-chi.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-f505ca0154d58fc23fbf63b492a54f45fc43d73bd95f5d082f1f70ef4d56f7e1_trns_h264/playlist.m3u8
+EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
