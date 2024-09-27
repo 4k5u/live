@@ -138,3 +138,9 @@ Sat Sep 28 02:59:09 CST 2024
 删除iminako https://edge4-aus.live.mmcdn.com/live-hls/amlst:iminako-sd-3130e662806c22202080f45dd719c6189b71e35a694b51fdf0b740d697876c81_trns_h264/playlist.m3u8
 删除shuiduoduo-xz https://edge-hls.doppiocdn.live/hls/138805661/master/138805661_auto.m3u8
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+Sat Sep 28 03:15:34 CST 2024
+Sat Sep 28 03:15:38 CST 2024
+Sat Sep 28 03:17:31 CST 2024
+Sat Sep 28 03:17:46 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
