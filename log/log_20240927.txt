@@ -472,3 +472,11 @@ Fri Sep 27 18:23:25 CST 2024
 删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 删除your_desssert https://edge3-mia.live.mmcdn.com/live-hls/amlst:your_desssert-sd-fff39e67cb49bde57ff6bf7bb8ca1bc943c050b4a56f817554e223b0fdaa857b_trns_h264/playlist.m3u8
 删除sexygamesx https://edge6-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-1f3a693d806f574c2d3ad791cfc66aae7661178ed4fc654f6ec5c238b8ec2b43_trns_h264/playlist.m3u8
+添加your_desssert https://edge9-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-f357d7cd80337c6301a36a97d3cbbea20526770691e7b9fb608d07954bd48f68_trns_h264/playlist.m3u8
+Fri Sep 27 18:40:22 CST 2024
+Fri Sep 27 18:40:44 CST 2024
+Fri Sep 27 18:42:38 CST 2024
+Fri Sep 27 18:42:53 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=null
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
