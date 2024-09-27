@@ -630,3 +630,10 @@ Fri Sep 27 22:49:58 CST 2024
 添加jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除DUDU_MM https://edge-hls.doppiocdn.live/hls/169938738/master/169938738_auto.m3u8
+Fri Sep 27 22:57:34 CST 2024
+Fri Sep 27 22:58:18 CST 2024
+Fri Sep 27 22:59:59 CST 2024
+Fri Sep 27 23:00:20 CST 2024
+添加DUDU_MM https://edge-hls.doppiocdn.live/hls/169938738/master/169938738_auto.m3u8
+添加JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
