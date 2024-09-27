@@ -225,3 +225,10 @@ Sat Sep 28 05:02:32 CST 2024
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+Sat Sep 28 05:23:14 CST 2024
+Sat Sep 28 05:23:18 CST 2024
+添加h920823 https://live-global-cdn-v02.afreecatv.com/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.eGatkO5okTrxn1BC1pF86UgRTO_8dG8vK2vPziO0V6-_MdPHO3L3NjUAvTtEeJYzJzevkMk9DxILIIk7ZqspxA
+Sat Sep 28 05:25:07 CST 2024
+Sat Sep 28 05:25:19 CST 2024
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除cuddles_me https://edge7-slc.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-8554b2430323d24218d9b394b3c27963500fe5f2670db124c16d760ec06a5212_trns_h264/playlist.m3u8
