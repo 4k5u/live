@@ -366,3 +366,10 @@ Fri Sep 27 14:49:49 CST 2024
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+Fri Sep 27 14:57:44 CST 2024
+Fri Sep 27 14:57:52 CST 2024
+Fri Sep 27 14:59:43 CST 2024
+Fri Sep 27 14:59:57 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除oda_assuri https://edge4-lax.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-80f0c4308f33adf5b00ea7cc8c373f5498e600514613cd9e54751cfce1888927_trns_h264/playlist.m3u8
