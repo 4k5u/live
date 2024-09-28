@@ -208,3 +208,12 @@ Sun Sep 29 05:53:11 CST 2024
 Sun Sep 29 05:53:25 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加cuddles_me https://edge1-mia.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-62eb7d80cad66966ae3d5c31438e765a4c7cb351b6cbd86134baa056e7c73ed2_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge9-mia.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-27fe23a5911e584345b803d3de11aa956fe548e146670ad346b9069204730e7f_trns_h264/playlist.m3u8
+Sun Sep 29 06:01:27 CST 2024
+Sun Sep 29 06:01:33 CST 2024
+Sun Sep 29 06:03:28 CST 2024
+Sun Sep 29 06:03:42 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
