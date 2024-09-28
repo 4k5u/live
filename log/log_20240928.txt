@@ -352,3 +352,14 @@ Sat Sep 28 11:57:45 CST 2024
 Sat Sep 28 11:59:26 CST 2024
 Sat Sep 28 11:59:38 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加oki_dokie https://edge10-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9881775854df712e8c9ff6e720f37ff503447945ab4dd6fb376f426cf9e450da_trns_h264/playlist.m3u8
+添加ake_mi https://edge10-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-ad88003fe0bb523896efb99c35811c153f98f0031e6bfe8c0ac8c6ac711b2166_trns_h264/playlist.m3u8
+Sat Sep 28 12:22:23 CST 2024
+Sat Sep 28 12:22:33 CST 2024
+Sat Sep 28 12:24:27 CST 2024
+Sat Sep 28 12:24:42 CST 2024
+添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
