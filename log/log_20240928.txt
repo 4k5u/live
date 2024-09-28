@@ -681,3 +681,13 @@ Sat Sep 28 21:32:25 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除navi04 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xB9OOq6JnT2w5refEUJt8Of5jsJK6qo55-ixoWjXpT1NVf-D4Ls5c_MQcv4cBU0tGK5tAQKh1cU01lI1Bk2Xjg
 删除172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+Sat Sep 28 21:40:31 CST 2024
+Sat Sep 28 21:41:05 CST 2024
+添加big541 https://live-global-cdn-v02.afreecatv.com/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.G8mGUEPeocXn-L_CgFdOFKbUwwGxi5KrEw846ZqxmsTSK-71ooA_gdKfOAJbpY7Vezhv14wx9gLXcQTdcwplgQ
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.G8mGUEPeocXn-L_CgFdOFN_EY_V3aFx72QYow-qSgMy_q5VRnLp4ond3F4LIJKQXhtv8wZn00LsgmVC-xN6H7A
+Sat Sep 28 21:43:00 CST 2024
+Sat Sep 28 21:43:12 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3Mjc1NTM2OTA3MzcsImlhdCI6MTcyNzUxMDQ5MH0.E61WDIpFDJTBbzEi18CijMkVI-JVt4Iuo2JMvDeUIU6PWJA6Y5vI-qk8VfBMaT0Imr0q-cobsUyTK0Cy1yToD13jozw9K7XK01RcDqwnuFLcZ7dSEFNDCHfaCH3AnnIB
