@@ -264,3 +264,7 @@ Sun Sep 29 07:25:34 CST 2024
 Sun Sep 29 07:25:48 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除mazzanti_ https://edge9-mia.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-27fe23a5911e584345b803d3de11aa956fe548e146670ad346b9069204730e7f_trns_h264/playlist.m3u8
+Sun Sep 29 07:39:29 CST 2024
+Sun Sep 29 07:39:35 CST 2024
+Sun Sep 29 07:41:30 CST 2024
+Sun Sep 29 07:41:45 CST 2024
