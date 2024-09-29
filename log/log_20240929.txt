@@ -333,3 +333,11 @@ Sun Sep 29 11:56:56 CST 2024
 Sun Sep 29 11:58:54 CST 2024
 Sun Sep 29 11:59:08 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加oki_dokie https://edge16-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3348a5d101171021ac5e8590ba68c201f3526fb8c7aafb201bd7456ec8325ebe_trns_h264/playlist.m3u8
+添加ake_mi https://edge30-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-cf7ced7475985b877b509c2475c703642f5fde6b6085bb0ca04fa422004422ed_trns_h264/playlist.m3u8
+Sun Sep 29 12:21:11 CST 2024
+Sun Sep 29 12:21:19 CST 2024
+Sun Sep 29 12:23:08 CST 2024
+Sun Sep 29 12:23:19 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除_meganmeow_ https://edge23-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-5f4473d321a949432d71593ae70302e82f40fd0db3878eb98b943ad694033a03_trns_h264/playlist.m3u8
