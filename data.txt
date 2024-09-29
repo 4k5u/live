@@ -1,4 +1,3 @@
-DUDU_MM https://edge-hls.doppiocdn.live/hls/169938738/master/169938738_auto.m3u8
 Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 mazzanti_ https://edge17-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-58f2433b0785c7fd53971baec849b04af1490eaf8b307f37c1462d9c27333716_trns_h264/playlist.m3u8
 YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
