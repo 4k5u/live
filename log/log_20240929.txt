@@ -583,3 +583,12 @@ Sun Sep 29 19:18:31 CST 2024
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 删除dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-05/auth_master_playlist.m3u8?aid=null
 删除kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Sun Sep 29 19:27:50 CST 2024
+Sun Sep 29 19:28:18 CST 2024
+Sun Sep 29 19:30:09 CST 2024
+Sun Sep 29 19:30:23 CST 2024
+添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除foxylovesyou https://edge3-mia.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-95566bf7f22bb638d82bae76f01d18e119f337774309de55b3b3dd8fa3fc1d21_trns_h264/playlist.m3u8
+删除cuddles_me https://edge12-aus.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-830bc147dfa5ac66ebd3fd7ad38dacee112fb3ee03c39e22648d3e289c6bff72_trns_h264/playlist.m3u8
