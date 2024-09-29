@@ -31,3 +31,4 @@ kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-13/auth_master_playli
 oki_dokie https://edge16-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3348a5d101171021ac5e8590ba68c201f3526fb8c7aafb201bd7456ec8325ebe_trns_h264/playlist.m3u8
 ake_mi https://edge30-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-cf7ced7475985b877b509c2475c703642f5fde6b6085bb0ca04fa422004422ed_trns_h264/playlist.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
