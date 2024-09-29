@@ -558,3 +558,15 @@ Sun Sep 29 18:50:06 CST 2024
 Sun Sep 29 18:50:20 CST 2024
 删除kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=null
 删除sexygamesx https://edge18-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-7f465c69a2fc8358b9ac3fc81f059354a812fac04425c75dbbaa2de5e2a40943_trns_h264/playlist.m3u8
+添加cuddles_me https://edge12-aus.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-830bc147dfa5ac66ebd3fd7ad38dacee112fb3ee03c39e22648d3e289c6bff72_trns_h264/playlist.m3u8
+添加your_desssert https://edge9-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-f79086df105b5bd20186edd6317e58c8e44494fa6ebad751f76789802b15e656_trns_h264/playlist.m3u8
+Sun Sep 29 18:57:23 CST 2024
+Sun Sep 29 18:57:45 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Sun Sep 29 18:59:40 CST 2024
+Sun Sep 29 18:59:54 CST 2024
+添加Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
