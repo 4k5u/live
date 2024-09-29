@@ -126,3 +126,10 @@ Mon Sep 30 03:29:08 CST 2024
 添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uGXZKPSvmRAE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VHWFpLUFN2bVJBRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MDQ1QUZFMy1EQTJFLTQ0RkMtQTQ5MC03ODNGOTE5NkUwMEIiLCJ2aWV3ZXItaWQiOiIyMjg0MzAxNSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjc2MTM2MDMsImV4cCI6MTcyNzYxNDIwMywiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ._RZnl6HSJduINvp5cE51MNmJkugpLrpNUydy50WDcLFeSYJVX_XMxlvGvOAppgWZ59Z3E3JtOMeBhCLlpRHxXVdZnlmm2xtz_JyyMbpdK6pXWp8GX0swuyZAOTzrITzF
+Mon Sep 30 03:38:30 CST 2024
+Mon Sep 30 03:38:34 CST 2024
+Mon Sep 30 03:40:21 CST 2024
+Mon Sep 30 03:40:34 CST 2024
+添加YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
