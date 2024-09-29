@@ -754,3 +754,11 @@ Sun Sep 29 23:41:28 CST 2024
 删除Daji__-Baby_ https://edge-hls.doppiocdn.live/hls/144340014/master/144340014_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除ake_mi https://edge15-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-399ff72d8cd2cbd4d570f5f86d5909ee82023f152da2cd8b4f24a498eb9d455a_trns_h264/playlist.m3u8
+Sun Sep 29 23:49:25 CST 2024
+Sun Sep 29 23:50:01 CST 2024
+添加1004ysus https://live-global-cdn-v02.afreecatv.com/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Gm0v1sKz_F_Nuu3HYKEjltAnydCP03gZeFBG9xkZshuDjiTkOBDoaOkN7L0KKVxvopDNANSaDiPUu9MYTkSM9Q
+Sun Sep 29 23:51:59 CST 2024
+Sun Sep 29 23:52:13 CST 2024
+添加lucky-uu https://edge-hls.doppiocdn.live/hls/127882835/master/127882835_auto.m3u8
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
