@@ -307,3 +307,9 @@ Mon Sep 30 11:19:44 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4ODE3MjZFNS1GMjlCLTRDQkItQUE1RC00RUU3REJCNTgzQTYiLCJ2aWV3ZXItaWQiOiIyNTAzNjk0NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjc2NDY3MjgsImV4cCI6MTcyNzY0NzMyOCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.nWFQ1Il8MMcuJ0tct77Yat0XTERHt6W0Yg_y_-f44HDwtsDubQgU19cusFtPrTVW6Ulm-tpP9cQBuSEmNGkqJfTyzlBuQKbC0pSIc0WdXDFrASrVVjg_vLgxLMCK6jiR
+Mon Sep 30 11:43:28 CST 2024
+Mon Sep 30 11:43:32 CST 2024
+Mon Sep 30 11:45:23 CST 2024
+Mon Sep 30 11:45:37 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
