@@ -391,3 +391,10 @@ Mon Sep 30 14:50:46 CST 2024
 添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 添加qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Mon Sep 30 14:58:35 CST 2024
+添加jinricp https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.v7Uq5t9Y8wqB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3Y3VXE1dDlZOHdxQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0OTdBMzBCQi0zNDlGLTQ0NTMtOUJDMi05NDRFMzkyRDEzNjciLCJ2aWV3ZXItaWQiOiIyNDUwODg2MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjc2Nzk1MjAsImV4cCI6MTcyNzY4MDEyMCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.5zZteR5dTIVzNjZSapiae77qcPh5qxiOvMfuaNVONbXKUpfaHybBgNySrzZoF5zt1iZfuDv736aCe56gpvpzKdJzloeeFKSG_cGU8aoYPrn7zKF0gyzkFgi_pQ66K6Ai
+Mon Sep 30 14:58:46 CST 2024
+Mon Sep 30 15:00:36 CST 2024
+Mon Sep 30 15:00:50 CST 2024
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
