@@ -492,3 +492,17 @@ Mon Sep 30 19:01:14 CST 2024
 Mon Sep 30 19:01:27 CST 2024
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Mon Sep 30 19:19:50 CST 2024
+添加eerttyui12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wwOh3R6TnzpH.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3d3T2gzUjZUbnpwSCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RTA5RDBCNS1EOUUyLTRFRjgtODU4My0xNDBDMTAzQjk4OTIiLCJ2aWV3ZXItaWQiOiIxNDcwMTQzOCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjc2OTUxOTEsImV4cCI6MTcyNzY5NTc5MSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.6tLcjTHBze6ne66TeHj9xmlq_HLGqnm2M-mWiBzuTaSKaMnyjC5jqrfIsDZHD7hbgy2-Aqcx0v3UU6LjYI-hEqJ33wf_08A91G2IEdkYJi2cbMudFjJa-eljCmyWqVdZ
+添加bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bve2VGU61bIx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2J2ZTJWR1U2MWJJeCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNDcyNUQ4Ni1BMjg1LTRFQzItQTdFNC0xMDlEOTVGMTE1REEiLCJ2aWV3ZXItaWQiOiIxNjA2NTg0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjc2OTUyMTEsImV4cCI6MTcyNzY5NTgxMSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.mulF2LnpYhQCh54JBCagJMOclifUGInbzU4eo_WoxdzlKLAjpzVdi_EcKB2TZc2zzknJeKreSViX21rWZ1zXUPzaqybZCdY0bLE0KkHgWytO2Q5I1p-cCm-7wzk6am1O
+Mon Sep 30 19:20:18 CST 2024
+添加smmms2002 https://live-global-cdn-v02.afreecatv.com/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1RFsrGEq0inhac1zwh2sNRnKStn6URZbuqo0NUIA7qTWvmX4WkaOEzL1q4LNrsP3ai102OvKm8PCJd0T6YTFZw
+Mon Sep 30 19:22:09 CST 2024
+Mon Sep 30 19:22:22 CST 2024
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加lucky-uu https://edge-hls.doppiocdn.live/hls/127882835/master/127882835_auto.m3u8
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除sexygamesx https://edge1-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-8452afae4b64d1fc5b8d016514b5df908943f2e0433882e0242180f9cdeafeea_trns_h264/playlist.m3u8
+删除cuddles_me https://edge16-lax.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-07b3f7d939aaf3c3bc3ac404de733244eb15e90e9d547ec33b30a9f2e87f43df_trns_h264/playlist.m3u8
+删除ake_mi https://edge10-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-13ed168c640df5ed1d28043a3d050d8835b788359ab1178b848e7debb7bbb736_trns_h264/playlist.m3u8
