@@ -398,3 +398,8 @@ Mon Sep 30 15:00:36 CST 2024
 Mon Sep 30 15:00:50 CST 2024
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+Mon Sep 30 15:22:04 CST 2024
+Mon Sep 30 15:22:12 CST 2024
+Mon Sep 30 15:24:02 CST 2024
+Mon Sep 30 15:24:17 CST 2024
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
