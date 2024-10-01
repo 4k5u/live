@@ -433,3 +433,8 @@ Tue Oct 1 18:48:25 CST 2024
 添加LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 删除regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
 删除your_desssert https://edge6-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-61c6f01b029de01c8a6cf1c9208c606a8e57c5b89d66933445d1f81cc67158a5_trns_h264/playlist.m3u8
+添加ad0res https://edge7-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-62385f6e23908a1816ee1b566a775dc01604f2c2ac12233975a36dd63665d6e4_trns_h264/playlist.m3u8
+Tue Oct 1 18:57:01 CST 2024
+Tue Oct 1 18:57:19 CST 2024
+Tue Oct 1 18:59:07 CST 2024
+Tue Oct 1 18:59:20 CST 2024
