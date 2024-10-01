@@ -461,3 +461,9 @@ Tue Oct 1 19:32:36 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除honey_pinkgreen https://edge23-ash.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-13572c45c1ce35f25ac575b9548ba009913a4c11d810dc73d8f8894223837278_trns_h264/playlist.m3u8
 删除ad0res https://edge7-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-62385f6e23908a1816ee1b566a775dc01604f2c2ac12233975a36dd63665d6e4_trns_h264/playlist.m3u8
+Tue Oct 1 19:41:29 CST 2024
+Tue Oct 1 19:41:57 CST 2024
+Tue Oct 1 19:43:47 CST 2024
+Tue Oct 1 19:44:02 CST 2024
+添加lucky-uu https://edge-hls.doppiocdn.live/hls/127882835/master/127882835_auto.m3u8
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
