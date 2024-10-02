@@ -425,3 +425,11 @@ Wed Oct 2 16:04:10 CST 2024
 添加duduluu https://edge-hls.doppiocdn.live/hls/132938058/master/132938058_auto.m3u8
 添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Wed Oct 2 16:34:03 CST 2024
+Wed Oct 2 16:34:13 CST 2024
+添加navi04 https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.hDuo8jb4NNvAGaSYZoMj5H2R-RrWkMd0aHce-yWkQVCCCjBuKJFMvY-FR7brAWGNnnztlSlexNK11rZwLzRj1g
+Wed Oct 2 16:36:14 CST 2024
+Wed Oct 2 16:36:29 CST 2024
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除lucky-uu https://edge-hls.doppiocdn.live/hls/127882835/master/127882835_auto.m3u8
