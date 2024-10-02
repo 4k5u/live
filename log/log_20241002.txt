@@ -433,3 +433,12 @@ Wed Oct 2 16:36:29 CST 2024
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 删除lucky-uu https://edge-hls.doppiocdn.live/hls/127882835/master/127882835_auto.m3u8
+Wed Oct 2 16:50:42 CST 2024
+Wed Oct 2 16:50:52 CST 2024
+Wed Oct 2 16:52:48 CST 2024
+Wed Oct 2 16:53:03 CST 2024
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+删除honey_pinkgreen https://edge2-mia.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-b6e8013fc45ab3528889d74e5cc5af9a4fcf213aeed14d04f8c773f0cc189feb_trns_h264/playlist.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
