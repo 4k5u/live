@@ -466,3 +466,9 @@ Wed Oct 2 17:40:08 CST 2024
 Wed Oct 2 17:40:22 CST 2024
 Wed Oct 2 17:42:09 CST 2024
 Wed Oct 2 17:42:23 CST 2024
+添加ad0res https://edge8-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-a9aa741910fd7597746184d928bb94058db83696d9bcb102b11c17ee615ef355_trns_h264/playlist.m3u8
+Wed Oct 2 17:50:41 CST 2024
+Wed Oct 2 17:50:55 CST 2024
+Wed Oct 2 17:52:36 CST 2024
+Wed Oct 2 17:52:48 CST 2024
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8

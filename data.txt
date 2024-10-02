@@ -24,3 +24,5 @@ akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-31/auth_master_playlist.m3u8?aid=null
 duduluu https://edge-hls.doppiocdn.live/hls/132938058/master/132938058_auto.m3u8
 __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+ad0res https://edge8-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-a9aa741910fd7597746184d928bb94058db83696d9bcb102b11c17ee615ef355_trns_h264/playlist.m3u8
+bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
