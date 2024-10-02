@@ -442,3 +442,11 @@ Wed Oct 2 16:53:03 CST 2024
 删除honey_pinkgreen https://edge2-mia.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-b6e8013fc45ab3528889d74e5cc5af9a4fcf213aeed14d04f8c773f0cc189feb_trns_h264/playlist.m3u8
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+Wed Oct 2 17:01:14 CST 2024
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwODMxRTczQi0yMjMyLTQzOEItODU1OC1BNkU4RjQ3QzRFODIiLCJ2aWV3ZXItaWQiOiIyMzg4Mjc0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjc4NTk2NzgsImV4cCI6MTcyNzg2MDI3OCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.ufCgDtSET6_Tzxcis_iR9Oz0t4LfLvaIBqMuOOZXbbomMQ2Ks-JKAJxYdPW0IHFBVicZIOEH4P4_Rgf2ZmRtj_EWzmdWszFfcf6JNyxSZxSf-kQBVIHtZm2T1-f-q3ao
+Wed Oct 2 17:01:29 CST 2024
+Wed Oct 2 17:03:12 CST 2024
+Wed Oct 2 17:03:25 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除duduluu https://edge-hls.doppiocdn.live/hls/132938058/master/132938058_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
