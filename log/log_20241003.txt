@@ -121,3 +121,9 @@ Thu Oct 3 04:00:27 CST 2024
 Thu Oct 3 04:02:17 CST 2024
 Thu Oct 3 04:02:31 CST 2024
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Thu Oct 3 04:27:27 CST 2024
+Thu Oct 3 04:27:44 CST 2024
+Thu Oct 3 04:29:40 CST 2024
+Thu Oct 3 04:29:53 CST 2024
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uGXZKPSvmRAE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VHWFpLUFN2bVJBRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MUJGQzhCQy1EQjFFLTRCREItOTUyRi0xM0UyNEQ1MkJDNEMiLCJ2aWV3ZXItaWQiOiIyMjg0MzAxNSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjc4OTE4NTAsImV4cCI6MTcyNzg5MjQ1MCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.7k28if90dJ6anQfgTuoshKOMwpGKOGWgG_uvRYzBSUspNDZLsbku85p-xvL9gvUMLpP5___-AQPI82NXWEm4YLo5IELKlb3N9aCNlBLyGGu5SrxQGhE9Bel0vsGGo1HK
