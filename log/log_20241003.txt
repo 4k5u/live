@@ -641,3 +641,10 @@ Thu Oct 3 22:40:36 CST 2024
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+Thu Oct 3 22:48:33 CST 2024
+Thu Oct 3 22:49:22 CST 2024
+Thu Oct 3 22:51:02 CST 2024
+Thu Oct 3 22:51:14 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMDI1MTRCQi1CMzMxLTRCOUMtOTUxOC02OTJDQzFBQTlGRTQiLCJ2aWV3ZXItaWQiOiIyNDg2NDU2MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjc5NTk3MzQsImV4cCI6MTcyNzk2MDMzNCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.cxwsuMTqDprSJ1WcGsy4uZpghgqGJXO8iUMmt71uqTlq_wnXHiQbbfm5i260E4fX3FoNvOiI2xiYtC0c8Jk1U_QCbOM8Qawz1Ls3mgUCbpiKjf5bcfDrsaSC-HpunHzP
+删除iminako https://edge10-mia.live.mmcdn.com/live-hls/amlst:iminako-sd-19299171fb66c2982e2aefe2327d49969ce63905b837ec9f297a07f14fb48f8c_trns_h264/playlist.m3u8
