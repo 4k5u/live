@@ -481,3 +481,13 @@ Thu Oct 3 18:23:03 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除mode_bad https://edge13-mia.live.mmcdn.com/live-hls/amlst:mode_bad-sd-1046942dad6ea507d878cf1c2d4453650b1ee80617ab0343e5e19f68a5c625f0_trns_h264/playlist.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Thu Oct 3 18:40:18 CST 2024
+Thu Oct 3 18:40:48 CST 2024
+Thu Oct 3 18:42:29 CST 2024
+添加dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.2MUvMyqyuQFW.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8yTVV2TXlxeXVRRlciLCJleHAiOjE3Mjc5OTQ1MzA1OTgsImlhdCI6MTcyNzk1MTMzMH0.NCihnkLbQ5iYkOYI5hHggoVVcFmPEkBO6cHxfNoAMsgiAwSoMzwq9sYMw236WrXl-2NiXGFrc2Gy5Vw_V9Pg1oV-CU4i2RVGgiC56j6oH9oe1k71XaMKJQ6RpCiDnkwi
+Thu Oct 3 18:42:43 CST 2024
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除ake_mi https://edge17-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-cc980e5b24ea825098919a274d55231f42be8a6e1ad7b04d348805777e60aaf3_trns_h264/playlist.m3u8
+删除yin2618 ?aid=null
