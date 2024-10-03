@@ -352,3 +352,9 @@ Thu Oct 3 14:29:59 CST 2024
 删除my_eyes_higher https://edge15-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-acb7f249dd6a21af29ff725fbada43d3b60e151e8637df2b274ef3d6e2316ac1_trns_h264/playlist.m3u8
 删除oki_dokie https://edge6-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2a99063618e6aaa2710a987dd5a36fca3a49e30fd9fdd117d8453ef2c0924262_trns_h264/playlist.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Thu Oct 3 14:46:55 CST 2024
+Thu Oct 3 14:47:09 CST 2024
+Thu Oct 3 14:49:00 CST 2024
+Thu Oct 3 14:49:14 CST 2024
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
