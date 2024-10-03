@@ -491,3 +491,9 @@ Thu Oct 3 18:42:43 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除ake_mi https://edge17-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-cc980e5b24ea825098919a274d55231f42be8a6e1ad7b04d348805777e60aaf3_trns_h264/playlist.m3u8
 删除yin2618 ?aid=null
+Thu Oct 3 18:50:23 CST 2024
+Thu Oct 3 18:50:53 CST 2024
+添加leelate https://live-global-cdn-v02.afreecatv.com/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Thu Oct 3 18:52:52 CST 2024
+Thu Oct 3 18:53:07 CST 2024
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
