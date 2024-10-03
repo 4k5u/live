@@ -274,3 +274,13 @@ Thu Oct 3 12:30:07 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加oki_dokie https://edge6-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2a99063618e6aaa2710a987dd5a36fca3a49e30fd9fdd117d8453ef2c0924262_trns_h264/playlist.m3u8
+添加ake_mi https://edge17-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-cc980e5b24ea825098919a274d55231f42be8a6e1ad7b04d348805777e60aaf3_trns_h264/playlist.m3u8
+Thu Oct 3 12:45:39 CST 2024
+Thu Oct 3 12:45:53 CST 2024
+Thu Oct 3 12:47:45 CST 2024
+Thu Oct 3 12:47:58 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
