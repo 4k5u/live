@@ -186,3 +186,10 @@ Fri Oct 4 06:22:50 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除gina_gracia https://edge2-chi.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-ab461fe9f087515f54d59d3ebc23635e15ea61b4354e5aff0f8302a124f9ec0d_trns_h264/playlist.m3u8
+Fri Oct 4 06:37:44 CST 2024
+Fri Oct 4 06:37:52 CST 2024
+Fri Oct 4 06:39:44 CST 2024
+Fri Oct 4 06:39:57 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
