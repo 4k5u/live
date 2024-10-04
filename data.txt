@@ -31,7 +31,6 @@ dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 purelove2 https://live-global-cdn-v02.afreecatv.com/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.8sCOCryzLoETdA2uxhq19lE2-lkxEaNj8qmZpG7RiHVdXLCCz9zL6TpfIobJ_qA3GmhOF8M49QxwtjZnNgutDw
 Tmdgus5411 https://live-global-cdn-v02.afreecatv.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wnZaVVa3AmXfKvROD0fJ4e1-QEpR-XaFfIe5-jtrqkrO6rsqSicbsCkmBSJK9AA4ZwZNG_6pn0ZtY-sp4opx-w
 eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Lo5P1xesONcUIRhrG_hV7ZxipSoaTLlKUfSaQFfLgv0IZ4KDUwJTjhtoSJU3k82SnI8lfZWOU4yiEGW70CR4rA
-Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 lucky-uu https://edge-hls.doppiocdn.live/hls/127882835/master/127882835_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8

@@ -645,3 +645,8 @@ Fri Oct 4 21:50:05 CST 2024
 Fri Oct 4 21:50:20 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除gremmy https://live-global-cdn-v02.afreecatv.com/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Wu_GU9KykhB3bQyzl0uuqGa5VoGEIaql0-UXZ_Sd0hHQCvsupWt0v__ZlTQNb2mY6moBp0NeYAVKq3YxHCJblA
+Fri Oct 4 21:57:22 CST 2024
+Fri Oct 4 21:58:15 CST 2024
+Fri Oct 4 22:00:05 CST 2024
+Fri Oct 4 22:00:20 CST 2024
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
