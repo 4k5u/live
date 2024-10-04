@@ -578,3 +578,9 @@ Fri Oct 4 19:51:33 CST 2024
 Fri Oct 4 19:51:46 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Fri Oct 4 19:59:27 CST 2024
+Fri Oct 4 19:59:56 CST 2024
+Fri Oct 4 20:01:44 CST 2024
+Fri Oct 4 20:01:56 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
