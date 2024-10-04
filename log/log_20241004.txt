@@ -342,3 +342,14 @@ Fri Oct 4 12:59:15 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+添加ake_mi https://edge15-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-36eb35aaf430d95684d331c93ce5d93fa93dec6a873bd497a2489a03aaac3931_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge15-ash.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-915d6f88899b5805258606d38094ea32ca12a4070650b8b7248748f9c6ee238c_trns_h264/playlist.m3u8
+Fri Oct 4 13:18:26 CST 2024
+Fri Oct 4 13:18:34 CST 2024
+Fri Oct 4 13:20:26 CST 2024
+Fri Oct 4 13:20:40 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除gina_gracia https://edge1-slc.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-4e16f4d153abf1b273ad81a6217a5953a2f55273101bb80c5f0e50988ee50d08_trns_h264/playlist.m3u8
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除flower1023 https://live-global-cdn-v02.afreecatv.com/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.G6xpodRoTbX86N9D5-prCZROeIUoqHYal9qllfPrF4NgjVX7GczxiIVBXlp9BQ3KY2WDXQIWXNVWrOJT7yHRAg
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
