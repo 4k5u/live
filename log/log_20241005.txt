@@ -202,3 +202,9 @@ Sat Oct 5 06:20:39 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gupzJsFFsMa7fbvqNeZbeqfxLFAPGubT9vIr_P0v8dgn_J96evhOblz3uIYweoIyxAsmYK463LSfdemt_FZhZA
+Sat Oct 5 06:35:23 CST 2024
+Sat Oct 5 06:35:34 CST 2024
+Sat Oct 5 06:37:26 CST 2024
+Sat Oct 5 06:37:40 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
