@@ -230,3 +230,10 @@ Sat Oct 5 07:21:04 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+Sat Oct 5 07:31:38 CST 2024
+Sat Oct 5 07:31:48 CST 2024
+Sat Oct 5 07:33:39 CST 2024
+Sat Oct 5 07:33:52 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除DUDU_MM https://edge-hls.doppiocdn.live/hls/169938738/master/169938738_auto.m3u8
