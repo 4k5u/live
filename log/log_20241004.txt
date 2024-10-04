@@ -353,3 +353,9 @@ Fri Oct 4 13:20:40 CST 2024
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除flower1023 https://live-global-cdn-v02.afreecatv.com/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.G6xpodRoTbX86N9D5-prCZROeIUoqHYal9qllfPrF4NgjVX7GczxiIVBXlp9BQ3KY2WDXQIWXNVWrOJT7yHRAg
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加your_desssert https://edge5-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-42894be1be2fe89c0e72c1c6f543e92d8e63579fbac0d901787ae3d7bcdf7eb3_trns_h264/playlist.m3u8
+Fri Oct 4 13:36:56 CST 2024
+Fri Oct 4 13:37:04 CST 2024
+Fri Oct 4 13:38:55 CST 2024
+Fri Oct 4 13:39:09 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8

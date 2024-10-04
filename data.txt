@@ -30,3 +30,5 @@ EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3
 ake_mi https://edge15-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-36eb35aaf430d95684d331c93ce5d93fa93dec6a873bd497a2489a03aaac3931_trns_h264/playlist.m3u8
 foxylovesyou https://edge15-ash.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-915d6f88899b5805258606d38094ea32ca12a4070650b8b7248748f9c6ee238c_trns_h264/playlist.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+your_desssert https://edge5-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-42894be1be2fe89c0e72c1c6f543e92d8e63579fbac0d901787ae3d7bcdf7eb3_trns_h264/playlist.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
