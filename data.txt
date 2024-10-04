@@ -22,3 +22,5 @@ somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stm-17/auth_master_pla
 Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
 Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MjgwNzc1Mzg3NDIsImlhdCI6MTcyODAzNDMzOH0.k7M2vEecyB7ycaLEBxGFwPcaEtRuBvpBaAnVpiOBEqgkK9XBcEFXD20bGrLeRJfnHTnuDzfNMeCVMc2D1lsO8ZHEUxnqKHXS8Fjsnv7_h557LlkMms3MbduYIEW9IkE-
+__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8

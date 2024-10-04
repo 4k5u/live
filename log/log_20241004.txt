@@ -491,3 +491,9 @@ Fri Oct 4 17:22:24 CST 2024
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除foxylovesyou https://edge15-ash.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-915d6f88899b5805258606d38094ea32ca12a4070650b8b7248748f9c6ee238c_trns_h264/playlist.m3u8
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+Fri Oct 4 17:36:01 CST 2024
+Fri Oct 4 17:36:11 CST 2024
+Fri Oct 4 17:38:02 CST 2024
+添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MjgwNzc1Mzg3NDIsImlhdCI6MTcyODAzNDMzOH0.k7M2vEecyB7ycaLEBxGFwPcaEtRuBvpBaAnVpiOBEqgkK9XBcEFXD20bGrLeRJfnHTnuDzfNMeCVMc2D1lsO8ZHEUxnqKHXS8Fjsnv7_h557LlkMms3MbduYIEW9IkE-
+Fri Oct 4 17:38:20 CST 2024
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
