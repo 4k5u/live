@@ -441,3 +441,11 @@ Sat Oct 5 15:20:08 CST 2024
 删除ake_mi https://edge11-mia.live.mmcdn.com/live-hls/amlst:ake_mi-sd-cd66a55d460055091a759e1f6fef3d883d841a647e59b96471c3d6b9c072eaf4_trns_h264/playlist.m3u8
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Sat Oct 5 15:31:27 CST 2024
+Sat Oct 5 15:31:46 CST 2024
+Sat Oct 5 15:33:39 CST 2024
+Sat Oct 5 15:33:53 CST 2024
+添加Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
