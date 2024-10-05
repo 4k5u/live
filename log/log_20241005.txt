@@ -540,3 +540,11 @@ Sat Oct 5 18:46:54 CST 2024
 Sat Oct 5 18:47:21 CST 2024
 Sat Oct 5 18:49:10 CST 2024
 Sat Oct 5 18:49:25 CST 2024
+Sat Oct 5 18:57:04 CST 2024
+Sat Oct 5 18:57:28 CST 2024
+Sat Oct 5 18:59:19 CST 2024
+添加aesoon96 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.4NaAcTktGqxD.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC80TmFBY1RrdEdxeEQiLCJleHAiOjE3MjgxNjg1MzY0MTksImlhdCI6MTcyODEyNTMzNn0.V-sGmoPO2S1pcQpxEkFDZbKCkeRfYc32XvybbcgcUL00WlwP242-Ae_2WnjbNAyLnxT_1M0QT_IoI8d24ndBzT9p7Tr70B9xSkUwF_MeOgkETzzDriTk90ebhvpeynFY
+Sat Oct 5 18:59:37 CST 2024
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除yamimm https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hwBiCuRsnMsw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2h3QmlDdVJzbk1zdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzRTVFQTA4QS1FRUQzLTRBRDEtQjFDOC04NUQyNkFFRkFGODYiLCJ2aWV3ZXItaWQiOiIyNTI2NTI1MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjgxMTA2NTMsImV4cCI6MTcyODExMTI1MywiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.aIt1bEhYd7gNeoakLvYS5ww_XcqDpznKpU2udG3b2mBHUbNkstGWlAiCc36gmSH37r8CxYn99FoIPt16RsCaUYj-BUoW_sDS27NTGLQDdtbbR6CFbmJfypLs-3jODp6s
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
