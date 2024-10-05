@@ -42,3 +42,7 @@ IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
+gina_gracia https://edge17-aus.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-1fbd07f2b7567dcc8f7c00c6817c97300f0b91f04ab05c0a1ef1bad81cc800d3_trns_h264/playlist.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
