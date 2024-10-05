@@ -512,3 +512,8 @@ Sat Oct 5 17:49:24 CST 2024
 Sat Oct 5 17:49:36 CST 2024
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+Sat Oct 5 17:57:23 CST 2024
+Sat Oct 5 17:57:45 CST 2024
+Sat Oct 5 17:59:31 CST 2024
+Sat Oct 5 17:59:44 CST 2024
+删除1004ysus https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HhING0JbWwGx3B4RSDSOfAUiyXtw0pEA09d508UJJlGzfVfabMFIQ01vWCgwLXb8XJDviLLtxbCQUILebc7rSg
