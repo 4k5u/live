@@ -13,3 +13,5 @@ _meganmeow_ https://edge8-mia.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-5366f
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
