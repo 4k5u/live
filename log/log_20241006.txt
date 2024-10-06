@@ -336,3 +336,10 @@ Sun Oct 6 11:54:14 CST 2024
 Sun Oct 6 11:54:27 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加ake_mi https://edge3-mia.live.mmcdn.com/live-hls/amlst:ake_mi-sd-d861ddb911589fec9f6f856ef45fc57a26825147873e31a28590ddf88e3354e7_trns_h264/playlist.m3u8
+Sun Oct 6 12:01:58 CST 2024
+Sun Oct 6 12:02:08 CST 2024
+Sun Oct 6 12:03:59 CST 2024
+Sun Oct 6 12:04:13 CST 2024
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8

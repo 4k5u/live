@@ -29,3 +29,6 @@ bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+ake_mi https://edge3-mia.live.mmcdn.com/live-hls/amlst:ake_mi-sd-d861ddb911589fec9f6f856ef45fc57a26825147873e31a28590ddf88e3354e7_trns_h264/playlist.m3u8
+__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
