@@ -121,3 +121,8 @@ Mon Oct 7 03:40:43 CST 2024
 Mon Oct 7 03:40:55 CST 2024
 添加YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Mon Oct 7 03:49:03 CST 2024
+Mon Oct 7 03:49:09 CST 2024
+Mon Oct 7 03:51:02 CST 2024
+Mon Oct 7 03:51:16 CST 2024
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
