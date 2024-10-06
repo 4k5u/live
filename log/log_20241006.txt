@@ -677,3 +677,11 @@ Sun Oct 6 21:53:33 CST 2024
 Sun Oct 6 21:53:45 CST 2024
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sun Oct 6 22:00:59 CST 2024
+Sun Oct 6 22:01:51 CST 2024
+Sun Oct 6 22:03:38 CST 2024
+Sun Oct 6 22:03:51 CST 2024
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除yamimm https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hwBiCuRsnMsw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2h3QmlDdVJzbk1zdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMEFBQTlFOS1EQkNCLTQ5MkItQkMwMi02Q0Q1RjA4MjJCNTMiLCJ2aWV3ZXItaWQiOiIyNTI2NTI1MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjgyMTExMjIsImV4cCI6MTcyODIxMTcyMiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.Fw882GRydAtXqiQMnj2RPuvRn8tZt0zpVzm8bRDiY9kQt8LbvAu3zDMTOP-M0lwFbfj5Jkg5FNp2sKCo4XTlNCPoMD8THdHMT8-5Hs6Sk7hr6aiTDOiH8p6zzs-YEbuz
