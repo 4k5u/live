@@ -352,3 +352,8 @@ Sun Oct 6 12:33:41 CST 2024
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除_meganmeow_ https://edge14-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-c9f1a4d37d24674f1ff4d7d4f95ce469603a84dcdf74416e6efc861ae50f7e74_trns_h264/playlist.m3u8
+Sun Oct 6 12:45:28 CST 2024
+Sun Oct 6 12:45:38 CST 2024
+Sun Oct 6 12:47:18 CST 2024
+Sun Oct 6 12:47:30 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8

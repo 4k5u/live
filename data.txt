@@ -35,3 +35,4 @@ Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
