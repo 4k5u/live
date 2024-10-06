@@ -522,3 +522,9 @@ Sun Oct 6 17:21:18 CST 2024
 Sun Oct 6 17:21:31 CST 2024
 添加Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
 删除dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-20/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yQZpKjKGZYG_9eEMlkH9XtE333UJyb1Z_fwqHAQ0cvWSAJfpDGcrO9T-XrH2Ecwh8J8g3dgZ0PybAQqzaVRUSg
+Sun Oct 6 17:32:02 CST 2024
+Sun Oct 6 17:32:22 CST 2024
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.fJco3GroOSO19AjkbpT6wAvWimhTe3VH15Kz3OnbpC_TUV3IRGcVtVz_ubVvOTDdbhPDNmdnrzzV-VJDjMkcKw
+Sun Oct 6 17:34:14 CST 2024
+Sun Oct 6 17:34:27 CST 2024
+删除mode_bad https://edge15-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-10cb752ebe1938c0892faa1c8b0c30355a6e5af7173c3832747c981fa4b22ecb_trns_h264/playlist.m3u8
