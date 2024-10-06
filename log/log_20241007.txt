@@ -201,3 +201,12 @@ Mon Oct 7 06:03:40 CST 2024
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+Mon Oct 7 06:24:22 CST 2024
+Mon Oct 7 06:24:28 CST 2024
+Mon Oct 7 06:26:19 CST 2024
+Mon Oct 7 06:26:32 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除gina_gracia https://edge11-lax.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-bbe5063562f4abb68ea9f25ca452e9b3c4b9bf2cfde59ea55672ed4cb983871d_trns_h264/playlist.m3u8
