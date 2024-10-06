@@ -506,3 +506,8 @@ Sun Oct 6 16:46:07 CST 2024
 删除gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.o4NVAOKjWnIz2gHuOG8yNu1GNHFNtQ1F8FRLilBV3gT_Qi-CN-dnuEUd0GYtHmulrD_C4lgXhzjV4TxrgY1BcA
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+Sun Oct 6 16:57:21 CST 2024
+Sun Oct 6 16:57:35 CST 2024
+Sun Oct 6 16:59:19 CST 2024
+Sun Oct 6 16:59:32 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
