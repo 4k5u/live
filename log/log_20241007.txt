@@ -375,3 +375,14 @@ Mon Oct 7 13:51:22 CST 2024
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加cuddles_me https://edge23-atl.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-0637767058bfa7cf99b02f01447ebf34743928aaf5d328b98347d49899f1be0b_trns_h264/playlist.m3u8
+Mon Oct 7 13:59:09 CST 2024
+Mon Oct 7 13:59:15 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dL8YKZC3XcWLOilffMsEYJiYYqgeHTBrMHjUaGfgSdYFUPb-7Nk6x4Ep3JLwak_3VoQ7w5HFYnOekGyznAAj0g
+Mon Oct 7 14:01:17 CST 2024
+Mon Oct 7 14:01:32 CST 2024
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除gina_gracia https://edge18-ash.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-cef20958d3a3f937f4da0a3fed78e4971fc56104bbf1a383935afd947e6ff2f9_trns_h264/playlist.m3u8
+删除my_eyes_higher https://edge11-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-9ef72dcc365625a719c3aa28025e74c13eee06b24526b90354469d159957e6c0_trns_h264/playlist.m3u8
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
