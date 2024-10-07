@@ -261,3 +261,8 @@ Mon Oct 7 07:52:13 CST 2024
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+Mon Oct 7 08:00:14 CST 2024
+Mon Oct 7 08:00:24 CST 2024
+Mon Oct 7 08:02:05 CST 2024
+Mon Oct 7 08:02:17 CST 2024
+删除Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
