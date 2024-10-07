@@ -405,3 +405,9 @@ Mon Oct 7 14:53:34 CST 2024
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除cuddles_me https://edge23-atl.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-0637767058bfa7cf99b02f01447ebf34743928aaf5d328b98347d49899f1be0b_trns_h264/playlist.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Mon Oct 7 15:02:22 CST 2024
+Mon Oct 7 15:02:28 CST 2024
+Mon Oct 7 15:04:08 CST 2024
+Mon Oct 7 15:04:20 CST 2024
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
