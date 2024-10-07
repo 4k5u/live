@@ -196,3 +196,9 @@ Tue Oct 8 07:31:24 CST 2024
 Tue Oct 8 07:33:11 CST 2024
 Tue Oct 8 07:33:24 CST 2024
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+Tue Oct 8 07:41:48 CST 2024
+Tue Oct 8 07:41:56 CST 2024
+Tue Oct 8 07:43:50 CST 2024
+添加yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3MjgzODc1MzgxNzksImlhdCI6MTcyODM0NDMzOH0.CxxGJZaaQ6YSkG7X2CJQapPqxRqeGBX5B-Q-XG0D3BvvXH2nhE5Ag9YUlrrnFuCQoK6R0bufop1aSJYVy8UJzQiyAHuCdZknILiO9dYAA1OL6GEnqXcoxyJszqaz9kNp
+Tue Oct 8 07:44:08 CST 2024
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
