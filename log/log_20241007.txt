@@ -303,3 +303,14 @@ Mon Oct 7 11:27:53 CST 2024
 删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 删除intim_mate https://edge16-lax.live.mmcdn.com/live-hls/amlst:intim_mate-sd-7e4f577b16bda93a5e7ab6d7a443ee55a176b9864f992cf178ef524167c90563_trns_h264/playlist.m3u8
 删除amilia4u https://edge21-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-ec95f8bd4964bc4f91857bbe4c11e67cec2d155c54d89fdda2cb3228fe5f9eae_trns_h264/playlist.m3u8
+添加amilia4u https://edge13-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-ec95f8bd4964bc4f91857bbe4c11e67cec2d155c54d89fdda2cb3228fe5f9eae_trns_h264/playlist.m3u8
+Mon Oct 7 11:45:29 CST 2024
+Mon Oct 7 11:45:39 CST 2024
+Mon Oct 7 11:47:23 CST 2024
+Mon Oct 7 11:47:36 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除_meganmeow_ https://edge8-mia.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-5366fda07cd2e0f82ed078d4207d9f14ae1184d8464f55c38c7215aed20d1ecf_trns_h264/playlist.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
