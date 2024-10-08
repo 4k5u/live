@@ -322,3 +322,16 @@ Tue Oct 8 13:59:37 CST 2024
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加foxylovesyou https://edge26-ash.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b9b5fc7aab0908e0d12bab987b14fda47a1caee00c39efc22883785cd0142609_trns_h264/playlist.m3u8
+Tue Oct 8 14:27:06 CST 2024
+Tue Oct 8 14:27:16 CST 2024
+添加h920823 https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.J16cc3cNhsz-WsjkVUErU8aLE2IsU2RmfLH9-raF3TDITHDSnTed2cSKeqffbqQ26B0Y7HWWHFUaE3f8BO4xWw
+Tue Oct 8 14:29:14 CST 2024
+Tue Oct 8 14:29:29 CST 2024
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+删除4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRjA2NDEzOS03MUVDLTQxRDQtOTdEQi00Qjc2NkJFRUE4RTIiLCJ2aWV3ZXItaWQiOiIyMzQ1OTE5NSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjgzNTAzNDUsImV4cCI6MTcyODM1MDk0NSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.it6qV_fcits6WyG7uBD5mmPHVV5A6AHqbl31nBukdJPuJCzmHhFyQkf40hsVEPBQf7ItxB9A0kLduTZlP59RdhRyTYeQFEhBtieKOGh8Ia1W2TfY_18J0LH916NakNK0
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0Q0FCNUU3RS1GRTE0LTRDNTUtQjYzMi0xOTE5QzZGMDE5RTMiLCJ2aWV3ZXItaWQiOiIyNDg2NDU2MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjgzNjM0MzIsImV4cCI6MTcyODM2NDAzMiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.yiWGaYLkVGvLoz3xLBrhmmHBvZ2Bzo40ThCyS9SkWt91Yh6oyksPU0w4Iu0Lu6FAGzVWL9XpjFCzjG7FnyVL1EIPGW6MFu_3GyLPkYZVlcK_reHv5Vj1JEx1QriyQphK
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除yeosi1004 https://live-global-cdn-v02.afreecatv.com/live-stmc-28/auth_master_playlist.m3u8?aid=null
