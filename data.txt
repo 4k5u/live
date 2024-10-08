@@ -22,3 +22,5 @@ cuddles_me https://edge17-aus.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-e88d16
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 oki_dokie https://edge11-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2ed39f02c8c88d2ad117afbbc93e76cb4dca8b299c401b4aecad8385cd12ad9b_trns_h264/playlist.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
