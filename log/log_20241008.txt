@@ -252,3 +252,9 @@ Tue Oct 8 11:49:57 CST 2024
 Tue Oct 8 11:51:39 CST 2024
 Tue Oct 8 11:51:51 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+Tue Oct 8 11:59:47 CST 2024
+Tue Oct 8 11:59:55 CST 2024
+Tue Oct 8 12:01:46 CST 2024
+Tue Oct 8 12:03:08 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3MjgzODc1MzgxNzksImlhdCI6MTcyODM0NDMzOH0.CxxGJZaaQ6YSkG7X2CJQapPqxRqeGBX5B-Q-XG0D3BvvXH2nhE5Ag9YUlrrnFuCQoK6R0bufop1aSJYVy8UJzQiyAHuCdZknILiO9dYAA1OL6GEnqXcoxyJszqaz9kNp
