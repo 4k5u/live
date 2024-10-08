@@ -366,3 +366,10 @@ Tue Oct 8 15:32:42 CST 2024
 Tue Oct 8 15:34:24 CST 2024
 Tue Oct 8 15:34:36 CST 2024
 添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+Tue Oct 8 15:46:55 CST 2024
+Tue Oct 8 15:47:09 CST 2024
+Tue Oct 8 15:48:59 CST 2024
+Tue Oct 8 15:49:13 CST 2024
+删除rmrm1313 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.kehc5nb0j5tY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tlaGM1bmIwajV0WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGRjJENjQyRi03RTMxLTRGRDctQTI3My1CNDUwOTRCQ0RFNzQiLCJ2aWV3ZXItaWQiOiI3NTYyNDc5Iiwidmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTcyODM2MzQ0MywiZXhwIjoxNzI4MzY0MDQzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.uMIu0osPkDHjjgvO9JY9Uv5V9O5c45wUwK-NIJsiY5_82rKAWiw2YiNkvpMB9aQg4OfY43fkwd0no5j_S2RyTzcgjqx2F56DhJSVY6BnRY3R2av_Y0U9Dt0sPGfF-4M9
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
