@@ -424,3 +424,9 @@ Tue Oct 8 17:36:56 CST 2024
 Tue Oct 8 17:37:10 CST 2024
 删除Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+Tue Oct 8 17:47:20 CST 2024
+Tue Oct 8 17:47:40 CST 2024
+Tue Oct 8 17:49:31 CST 2024
+Tue Oct 8 17:49:45 CST 2024
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
