@@ -73,3 +73,9 @@ Thu Oct 10 01:40:00 CST 2024
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除iminako https://edge19-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-458574fa00d2fe08784ba4ecfac57e19956eedf7594ceff47d23a76f6f950232_trns_h264/playlist.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Thu Oct 10 01:47:50 CST 2024
+Thu Oct 10 01:48:15 CST 2024
+Thu Oct 10 01:50:04 CST 2024
+Thu Oct 10 01:50:18 CST 2024
+删除ake_mi https://edge19-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-db079cb0da41683b9b8ccacf28314ad0f18c5bd7039605c248f000ab2ecdbb71_trns_h264/playlist.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
