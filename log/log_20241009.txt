@@ -355,3 +355,10 @@ Wed Oct 9 14:53:48 CST 2024
 Wed Oct 9 14:54:00 CST 2024
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Wed Oct 9 15:01:33 CST 2024
+Wed Oct 9 15:01:49 CST 2024
+Wed Oct 9 15:03:33 CST 2024
+Wed Oct 9 15:03:45 CST 2024
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除ake_mi https://edge18-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f0bcfc4ee18bbd6a9479bbda641d80087f4618676cb58f2541aeeeb1e1514048_trns_h264/playlist.m3u8
