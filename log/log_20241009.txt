@@ -282,3 +282,17 @@ Wed Oct 9 12:00:54 CST 2024
 Wed Oct 9 12:01:08 CST 2024
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加oki_dokie https://edge15-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-bb7ef1a41ad93a6654d54432f40968c8f63e7438b959b257e72d9754b3977607_trns_h264/playlist.m3u8
+添加ake_mi https://edge18-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f0bcfc4ee18bbd6a9479bbda641d80087f4618676cb58f2541aeeeb1e1514048_trns_h264/playlist.m3u8
+Wed Oct 9 12:42:46 CST 2024
+添加mozzzi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.P58zKdyrmINu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1A1OHpLZHlybUlOdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQjVFNEU2MS02QjhDLTQ5OTMtQTRDMC04MTRBOTBDQTYwOTgiLCJ2aWV3ZXItaWQiOiIyNDk3ODE2MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjg0NDg5NjcsImV4cCI6MTcyODQ0OTU2NywiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.yHT8masO6tgiqGe9HrWxqPb1BlrHZocuBmWZafBf6j_uBKaMx8QeJYQbRKjJvl5NLgm2W3UM_toXFo9tSAyAHxJpNRITVuCc3PaEMzAO9nfjLJYx5e_Wib-vCPGLhEr6
+Wed Oct 9 12:42:57 CST 2024
+Wed Oct 9 12:44:39 CST 2024
+Wed Oct 9 12:44:51 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+删除4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNTI4RTUwQi04ODZDLTRDMkUtOEZGNi01MDhFOTNCMkUxREYiLCJ2aWV3ZXItaWQiOiIyMzQ1OTE5NSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjg0NDEyMTQsImV4cCI6MTcyODQ0MTgxNCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.p3sErtQsFnDnPhJS9daDQmDM1M9Amx3WYN-jHaQ5lJtGW_OvWsZ8v-1lvobVHddskhjIPNfEIinavWwrGoO-VMcnegTkA4q9BLat1xrgrfQYnli9M2cHX7ImMpdPfwlV
+删除cuddles_me https://edge30-ash.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-08597e249c3c6473304747b70ad622b1ef15b111c1ec0f7f5b18a75dc511d02c_trns_h264/playlist.m3u8
