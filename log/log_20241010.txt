@@ -79,3 +79,10 @@ Thu Oct 10 01:50:04 CST 2024
 Thu Oct 10 01:50:18 CST 2024
 删除ake_mi https://edge19-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-db079cb0da41683b9b8ccacf28314ad0f18c5bd7039605c248f000ab2ecdbb71_trns_h264/playlist.m3u8
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Thu Oct 10 01:57:48 CST 2024
+Thu Oct 10 01:58:08 CST 2024
+Thu Oct 10 01:59:57 CST 2024
+Thu Oct 10 02:00:11 CST 2024
+添加A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
