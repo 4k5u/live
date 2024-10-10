@@ -25,3 +25,9 @@ Fri Oct 11 00:46:04 CST 2024
 删除yin2618 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3sZn9QjhaOR51Mszzo1I_eYYhwrPkAe6U2KxCendZHZ4XPtzhAWNUiFNgsndG4bQ0AElxiSscjj0DDkv-gMc_w
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 删除leelate https://live-global-cdn-v02.afreecatv.com/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.azHCQHfaVfEvT-8WqY3CEZ6dl9MMurx0KoI8y2Jai2Fm5L2pHbiiP4UPuhzvM9AdFCCNI3RkaZITuiuyQZXWmQ
+Fri Oct 11 00:57:21 CST 2024
+Fri Oct 11 00:57:45 CST 2024
+Fri Oct 11 00:59:38 CST 2024
+Fri Oct 11 00:59:53 CST 2024
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+删除iminako https://edge15-lax.live.mmcdn.com/live-hls/amlst:iminako-sd-716632d6655cbbdab9ec15e3e8166ea1b4d957a514aade4c7d5258e18d183181_trns_h264/playlist.m3u8
