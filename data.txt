@@ -1,10 +1,8 @@
 y1026 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Yxp2dNqPFFxS8fJxXa0-HIu7FZGo617RdQ84kZXoTRVM6Nf_lHhYga70jFxgG_5ZVSB3hOqb7e5RExQKVn0exA
 MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
-fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 gremmy https://live-global-cdn-v02.afreecatv.com/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.os1WpcnmtRw_l3iRV9ibmUbpdLnJvsdIxTJk3928MLEMLF6MWOPQgK2l2skGlwmPaViQZoU3uW4rVeVfF7NdPA
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
-wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
@@ -35,5 +33,9 @@ in0410 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+cuddles_me https://edge30-ash.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-cbaacf48fff3c4dc3f75e6feb71c96433a0bc062db97781af29d42ff81bf1132_trns_h264/playlist.m3u8
+sexygamesx https://edge16-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-323809712f20754b4ac8d1679f86c801fdaaf9b4881e38f144756917a5c3660a_trns_h264/playlist.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
