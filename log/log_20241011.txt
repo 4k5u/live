@@ -265,3 +265,9 @@ Fri Oct 11 07:28:08 CST 2024
 Fri Oct 11 07:28:21 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除cuddles_me https://edge30-ash.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-cbaacf48fff3c4dc3f75e6feb71c96433a0bc062db97781af29d42ff81bf1132_trns_h264/playlist.m3u8
+Fri Oct 11 07:38:04 CST 2024
+Fri Oct 11 07:38:08 CST 2024
+Fri Oct 11 07:39:59 CST 2024
+Fri Oct 11 07:40:13 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除sexygamesx https://edge16-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-29532c40a3288fd4785476d0d5c250ed45bea5d39182cbce25446e656e031ad8_trns_h264/playlist.m3u8
