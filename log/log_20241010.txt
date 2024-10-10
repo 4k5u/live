@@ -471,3 +471,8 @@ Thu Oct 10 17:29:31 CST 2024
 Thu Oct 10 17:29:45 CST 2024
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Thu Oct 10 17:40:05 CST 2024
+Thu Oct 10 17:40:23 CST 2024
+Thu Oct 10 17:42:15 CST 2024
+Thu Oct 10 17:42:29 CST 2024
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
