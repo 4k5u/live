@@ -313,3 +313,9 @@ Thu Oct 10 11:50:06 CST 2024
 Thu Oct 10 11:50:18 CST 2024
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Thu Oct 10 11:58:33 CST 2024
+Thu Oct 10 11:58:37 CST 2024
+Thu Oct 10 12:00:27 CST 2024
+Thu Oct 10 12:00:41 CST 2024
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
