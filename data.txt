@@ -15,7 +15,6 @@ TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 _meganmeow_ https://edge12-slc.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-fd129ed3280c74275dcbcb295ba3c55b74980b953ae54db212e71b1b91d72c9f_trns_h264/playlist.m3u8
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
-Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
@@ -26,3 +25,7 @@ intim_mate https://edge1-aus.live.mmcdn.com/live-hls/amlst:intim_mate-sd-3304370
 sssna777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.MGEaEDCahmRY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL01HRWFFRENhaG1SWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxREQ5Nzc4NS0yNTE4LTRDNzctODI1NS05NTdBM0Q3RDk3MDQiLCJ2aWV3ZXItaWQiOiIyMzMzMjczNiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjg1Mzc0OTYsImV4cCI6MTcyODUzODA5NiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ._twJhpPFFx5vdaw6CGMCWOObQUouJKEnURJgJurr2i768xFTB6Mw-rR-t6FmIUy_L1Xt-33ypOuHc8-l44qm0hmqbCjsXlfK8OKXApw8Vv_8oa-A6p31rLelnVhbbTnl
 l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5QzhBODZENC1DQzA3LTQzRTYtOTM2Ri03OEMyRUU1MjgwNEYiLCJ2aWV3ZXItaWQiOiIyNDQzMTI4MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjg1Mzg2NDUsImV4cCI6MTcyODUzOTI0NSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.C_aAc4IJJgYAXu43etddP2tmUQKa8qn-HXP6cG7n7ejfXwHb6V4UtHulPN2KevOnfI1Ty7eFLr3bCvpwyfFgKcBagN01r-w-6qLfuvPX2euHBqn3ZRjEN4FFIatBnmCM
+SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
