@@ -542,3 +542,9 @@ Thu Oct 10 19:40:55 CST 2024
 Thu Oct 10 19:42:53 CST 2024
 Thu Oct 10 19:43:07 CST 2024
 删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Thu Oct 10 19:50:23 CST 2024
+Thu Oct 10 19:51:14 CST 2024
+Thu Oct 10 19:53:00 CST 2024
+Thu Oct 10 19:55:30 CST 2024
+删除_meganmeow_ https://edge12-slc.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-fd129ed3280c74275dcbcb295ba3c55b74980b953ae54db212e71b1b91d72c9f_trns_h264/playlist.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
