@@ -699,3 +699,6 @@ Thu Oct 10 23:49:57 CST 2024
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除yeosi1004 https://live-global-cdn-v02.afreecatv.com/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.UKTYMaDO2Qi5lG4Gd154jjGdt7gBTvWziKXlN4Cs70eTqd2UJTg_5IAkEq6pbA7K6ImJUL9zIXYBwGlkT_OU6g
+Thu Oct 10 23:57:17 CST 2024
+Thu Oct 10 23:57:57 CST 2024
+Thu Oct 10 23:59:50 CST 2024
