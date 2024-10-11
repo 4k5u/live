@@ -211,3 +211,10 @@ Sat Oct 12 07:24:37 CST 2024
 Sat Oct 12 07:24:50 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除imgroot5 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JnHYsppNIy91.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0puSFlzcHBOSXk5MSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4OTMxQjYzMy0yOTQxLTQ5NTktQkQzQi0xMEIyNEE5NjgxMjciLCJ2aWV3ZXItaWQiOiIyMTc5ODIzNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjg2NjcwMjYsImV4cCI6MTcyODY2NzYyNiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.9uOMnQViax-SihA-EomzUcsT67N4Y6m-PIj3NScRfdI5ViAJdNzwUQ1ZmhQyfzDsmWonHwHmBDPBU1WusaFkuzxNFGRprQZcCZ7xcvNMxoyW6PGagIPyHUf5sZW3ka4p
+添加cuddles_me https://edge4-aus.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-ee914430827ea38353d458ca331995b9b72759532fd8728e4e5ff86cdba2771a_trns_h264/playlist.m3u8
+Sat Oct 12 07:38:07 CST 2024
+Sat Oct 12 07:38:13 CST 2024
+Sat Oct 12 07:40:04 CST 2024
+Sat Oct 12 07:40:16 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除gina_gracia https://edge16-aus.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-76321eadacdbd880464fa827962eb96099e034ee65386a890c37e9084984bdc8_trns_h264/playlist.m3u8
