@@ -472,3 +472,12 @@ Fri Oct 11 16:44:04 CST 2024
 Fri Oct 11 16:45:55 CST 2024
 Fri Oct 11 16:46:09 CST 2024
 添加anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
+Fri Oct 11 16:57:04 CST 2024
+Fri Oct 11 16:57:18 CST 2024
+Fri Oct 11 16:59:00 CST 2024
+Fri Oct 11 16:59:12 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
