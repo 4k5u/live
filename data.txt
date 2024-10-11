@@ -22,3 +22,4 @@ akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
 your_desssert https://edge12-aus.live.mmcdn.com/live-hls/amlst:your_desssert-sd-a0f5a537e73092096fd480d25643984375d91ae7f1ecfaaa983314ca8768fa30_trns_h264/playlist.m3u8
+anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
