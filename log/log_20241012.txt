@@ -276,3 +276,9 @@ Sat Oct 12 11:33:57 CST 2024
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 删除amilia4u https://edge18-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-7c37acc60c16c1db02b16ff3ca0831a00b61fead987b32eca25fb11084c57040_trns_h264/playlist.m3u8
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+Sat Oct 12 11:44:13 CST 2024
+Sat Oct 12 11:44:21 CST 2024
+Sat Oct 12 11:46:13 CST 2024
+Sat Oct 12 11:46:26 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
