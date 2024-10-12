@@ -225,3 +225,8 @@ Sun Oct 13 07:44:22 CST 2024
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-12/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MY1rzpHgZ17qOakGMssFxk3MRusKgDKcoj2shQCw3qypsxxoRmX1YRxOnF3GDBX3wXZwtAHVlLJH5PyOaf-5VA
+Sun Oct 13 07:51:49 CST 2024
+Sun Oct 13 07:51:55 CST 2024
+Sun Oct 13 07:53:46 CST 2024
+Sun Oct 13 07:54:00 CST 2024
+删除DUDU_MM https://edge-hls.doppiocdn.live/hls/169938738/master/169938738_auto.m3u8
