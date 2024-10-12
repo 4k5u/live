@@ -27,3 +27,4 @@ wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 ake_mi https://edge6-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-366bebe4cb3d72c6771d890ae1ee21280c600e59d8e666e15bf73dcd11aa2eef_trns_h264/playlist.m3u8
 l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
