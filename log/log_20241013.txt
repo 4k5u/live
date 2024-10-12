@@ -169,3 +169,10 @@ Sun Oct 13 04:59:06 CST 2024
 Sun Oct 13 04:59:08 CST 2024
 Sun Oct 13 05:00:59 CST 2024
 Sun Oct 13 05:01:13 CST 2024
+Sun Oct 13 05:37:54 CST 2024
+Sun Oct 13 05:37:56 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-12/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MY1rzpHgZ17qOakGMssFxk3MRusKgDKcoj2shQCw3qypsxxoRmX1YRxOnF3GDBX3wXZwtAHVlLJH5PyOaf-5VA
+添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MY1rzpHgZ17qOakGMssFxptIory634AjAx-em6amvI6FEIDAucmA218xBjYOSLHv8pSju815FjUJjNKlnHhiuQ
+Sun Oct 13 05:40:00 CST 2024
+Sun Oct 13 05:40:14 CST 2024
+删除cuddles_me https://edge17-sea.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-edab7caf8eff0ae77948495a028d11fc96fc6a391560c0745863ea7e5b4ce110_trns_h264/playlist.m3u8
