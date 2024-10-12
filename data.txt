@@ -13,3 +13,4 @@ jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 cuddles_me https://edge4-aus.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-ee914430827ea38353d458ca331995b9b72759532fd8728e4e5ff86cdba2771a_trns_h264/playlist.m3u8
 Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+gina_gracia https://edge27-chi.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-76321eadacdbd880464fa827962eb96099e034ee65386a890c37e9084984bdc8_trns_h264/playlist.m3u8
