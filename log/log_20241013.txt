@@ -598,3 +598,10 @@ Sun Oct 13 21:44:07 CST 2024
 Sun Oct 13 21:44:20 CST 2024
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+添加your_desssert https://edge23-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-759e8689173682fd458bb2ccd99246062e6de2e2a38087de043a718648a113e4_trns_h264/playlist.m3u8
+Sun Oct 13 21:51:26 CST 2024
+Sun Oct 13 21:52:18 CST 2024
+Sun Oct 13 21:54:07 CST 2024
+Sun Oct 13 21:54:20 CST 2024
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加peichen6699 https://edge-hls.doppiocdn.live/hls/160752369/master/160752369_auto.m3u8
