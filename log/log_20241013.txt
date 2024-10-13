@@ -284,3 +284,10 @@ Sun Oct 13 11:54:10 CST 2024
 Sun Oct 13 11:54:22 CST 2024
 删除Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Sun Oct 13 12:01:36 CST 2024
+Sun Oct 13 12:01:40 CST 2024
+Sun Oct 13 12:03:34 CST 2024
+Sun Oct 13 12:03:49 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除_meganmeow_ https://edge18-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-14cdba21c997662be2e56007c27d251e8a4d9270535b1337e464a6a32fe53958_trns_h264/playlist.m3u8
