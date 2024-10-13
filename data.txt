@@ -23,3 +23,4 @@ hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 your_desssert https://edge9-mia.live.mmcdn.com/live-hls/amlst:your_desssert-sd-668c065c1e7fdd7d018b384961d1b946a7dfdf4d80e63d30b4430c10fb0ed663_trns_h264/playlist.m3u8
 AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
