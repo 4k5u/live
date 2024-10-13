@@ -457,3 +457,10 @@ Sun Oct 13 17:50:27 CST 2024
 删除Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
 删除h920823 https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_master_playlist.m3u8?aid=null
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Sun Oct 13 17:58:25 CST 2024
+Sun Oct 13 17:58:41 CST 2024
+Sun Oct 13 18:00:29 CST 2024
+Sun Oct 13 18:00:43 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
