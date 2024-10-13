@@ -345,3 +345,17 @@ Sun Oct 13 13:59:19 CST 2024
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除my_eyes_higher https://edge7-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-867d52f8ca80b9e3e6745051b8d4287f08a303ac86245dd35e6232acf7724365_trns_h264/playlist.m3u8
 删除your_desssert https://edge4-lax.live.mmcdn.com/live-hls/amlst:your_desssert-sd-668c065c1e7fdd7d018b384961d1b946a7dfdf4d80e63d30b4430c10fb0ed663_trns_h264/playlist.m3u8
+添加your_desssert https://edge23-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-668c065c1e7fdd7d018b384961d1b946a7dfdf4d80e63d30b4430c10fb0ed663_trns_h264/playlist.m3u8
+Sun Oct 13 14:24:50 CST 2024
+添加tyy750ii https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VDauE8X9IuP4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZEYXVFOFg5SXVQNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQTM1NDRFRi1COUU4LTQ3RDEtOUNENy02ODAyQ0FDNTZFREMiLCJ2aWV3ZXItaWQiOiIyNTAzMzc0NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjg4MDA2OTMsImV4cCI6MTcyODgwMTI5MywiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.VS7LL4ybJ4-wWee7MlrAs0lpSKpIQ104_l100nrdLQp0RtkPbMwmKc4A3sdCWb4Zbq2W4CJEPV-XQJAvsDJLtFtLUKKlmYshmR_68NovHozRcFagaX4gBn4RPqhHSKJ1
+Sun Oct 13 14:25:02 CST 2024
+添加h920823 https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_master_playlist.m3u8?aid=null
+Sun Oct 13 14:26:57 CST 2024
+Sun Oct 13 14:27:11 CST 2024
+添加Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
