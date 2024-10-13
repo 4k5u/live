@@ -538,3 +538,11 @@ Sun Oct 13 19:49:38 CST 2024
 Sun Oct 13 19:51:33 CST 2024
 Sun Oct 13 19:51:45 CST 2024
 删除honey_pinkgreen https://edge30-chi.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-89ca9240057166611b3fcb901be780410b0c323cb467c2681dcb262957b5e24e_trns_h264/playlist.m3u8
+Sun Oct 13 19:58:44 CST 2024
+添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.7avxKItSMoG4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzdhdnhLSXRTTW9HNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRjIxNEY2OC1CODlCLTRFMzMtOTIyMi1EOUQwRDUyODI4ODgiLCJ2aWV3ZXItaWQiOiIyNDU3NjMxNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjg4MjA3NTIsImV4cCI6MTcyODgyMTM1MiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.gWK_fnGG0iMMFRK1tkNStDekoQk2GJJUpUASLQSKIdN7B3_s2bbatmeYNza0xPu3-r5lVwfelBmrV-rToBVS4luz1o-45f57dRFLw799cgRliMNPV8NImr2UXHh1EedJ
+Sun Oct 13 19:59:29 CST 2024
+添加purelove2 ?aid=.A32.7bbT56vyHM9fKZk.0P9wm39gsr81iRIIQL-9kfVXdEVu0ySfzL9H6rBC2f7EPRUsh-XgHh8uW1GMZrqypt2dMxp7hgYSKb9X80cusQ
+Sun Oct 13 20:02:25 CST 2024
+Sun Oct 13 20:02:38 CST 2024
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除iminako https://edge5-atl.live.mmcdn.com/live-hls/amlst:iminako-sd-b9b724166b9f2ebea63f1b8f03fc489617ec6048a55d36e059eeaac194ba4697_trns_h264/playlist.m3u8
