@@ -278,3 +278,9 @@ Sun Oct 13 11:43:03 CST 2024
 删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+Sun Oct 13 11:52:24 CST 2024
+Sun Oct 13 11:52:28 CST 2024
+Sun Oct 13 11:54:10 CST 2024
+Sun Oct 13 11:54:22 CST 2024
+删除Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
