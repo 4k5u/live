@@ -367,3 +367,11 @@ Sun Oct 13 14:46:42 CST 2024
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Sun Oct 13 14:57:09 CST 2024
+Sun Oct 13 14:57:19 CST 2024
+添加1004ysus https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.esBdiLM5DMSk6GUD7gy3jYC7eCncNOmugAIdAM46Re2nnG42tjhIr3Hh6UpOJgyPTuIQxMH6gj2DkDb4UXZheA
+Sun Oct 13 14:59:17 CST 2024
+Sun Oct 13 14:59:31 CST 2024
+删除intim_mate https://edge13-ash.live.mmcdn.com/live-hls/amlst:intim_mate-sd-f96aea6ed8ce34d0a3e572e3328b45ef3b5889985fd5b3e17308b78edccc9318_trns_h264/playlist.m3u8
+删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
