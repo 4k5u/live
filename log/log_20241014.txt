@@ -249,3 +249,8 @@ Mon Oct 14 11:59:02 CST 2024
 Mon Oct 14 11:59:16 CST 2024
 删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 删除cuddles_me https://edge12-mia.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-ff1908af82f361bcdcab99891d587d3337f0fa88a24d67ffff50d40a9062102e_trns_h264/playlist.m3u8
+添加ake_mi https://edge23-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-0a830e21906964d104eb90587c1e241bffa36bdf17f7861600c987d6066db6c9_trns_h264/playlist.m3u8
+Mon Oct 14 12:40:00 CST 2024
+Mon Oct 14 12:40:06 CST 2024
+Mon Oct 14 12:41:54 CST 2024
+Mon Oct 14 12:42:07 CST 2024

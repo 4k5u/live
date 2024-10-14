@@ -16,3 +16,4 @@ Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 amilia4u https://edge10-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-09adcd1f53b3bd046758d2de2fcc3260a83220a4a39bc4f79f49fb5a988eb93b_trns_h264/playlist.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+ake_mi https://edge23-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-0a830e21906964d104eb90587c1e241bffa36bdf17f7861600c987d6066db6c9_trns_h264/playlist.m3u8
