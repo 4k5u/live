@@ -7,3 +7,4 @@ YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.
 intim_mate https://edge13-lax.live.mmcdn.com/live-hls/amlst:intim_mate-sd-188b6e882526eee0b6481af6d2b3964ea26dcf895e61e0e9c89b0d23a9d650b2_trns_h264/playlist.m3u8
 asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
