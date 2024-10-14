@@ -243,3 +243,9 @@ Mon Oct 14 11:43:56 CST 2024
 Mon Oct 14 11:44:10 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Mon Oct 14 11:57:03 CST 2024
+Mon Oct 14 11:57:09 CST 2024
+Mon Oct 14 11:59:02 CST 2024
+Mon Oct 14 11:59:16 CST 2024
+删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+删除cuddles_me https://edge12-mia.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-ff1908af82f361bcdcab99891d587d3337f0fa88a24d67ffff50d40a9062102e_trns_h264/playlist.m3u8
