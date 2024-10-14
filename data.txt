@@ -6,3 +6,4 @@ slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 intim_mate https://edge13-lax.live.mmcdn.com/live-hls/amlst:intim_mate-sd-188b6e882526eee0b6481af6d2b3964ea26dcf895e61e0e9c89b0d23a9d650b2_trns_h264/playlist.m3u8
 asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
