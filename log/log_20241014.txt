@@ -439,3 +439,9 @@ Mon Oct 14 19:49:18 CST 2024
 Mon Oct 14 19:51:11 CST 2024
 Mon Oct 14 19:51:26 CST 2024
 删除lolsos https://live-global-cdn-v02.afreecatv.com/live-stm-17/auth_master_playlist.m3u8?aid=null
+Mon Oct 14 19:58:54 CST 2024
+Mon Oct 14 19:59:34 CST 2024
+添加purelove2 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yf-VYBB7GHWH7xurRMmxvflKN5CFsdwQpVXbUyYryNmObv4uad_oswzKtoCM-E5bWFI44vnqpaav3tMJWxRg6w
+Mon Oct 14 20:01:22 CST 2024
+Mon Oct 14 20:01:34 CST 2024
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
