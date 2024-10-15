@@ -113,3 +113,9 @@ Wed Oct 16 03:43:24 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.4yyiDvzlIfyVCYWn6xE8nJO2GUWon2UXJ4NJYJtjPCqJFfBxQ3F1k8YTIgwB8oz9B0-ewtAEh1X1-ttu4movkA
 删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Wed Oct 16 03:51:00 CST 2024
+Wed Oct 16 03:51:04 CST 2024
+Wed Oct 16 03:53:26 CST 2024
+Wed Oct 16 03:53:39 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
