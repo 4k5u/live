@@ -448,3 +448,11 @@ Tue Oct 15 17:53:38 CST 2024
 Tue Oct 15 17:53:52 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
+Tue Oct 15 18:01:06 CST 2024
+添加acron5 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.c0gT34HJRNpP.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2MwZ1QzNEhKUk5wUCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxRUZFNzgxRS1BRkM2LTQyRUQtODI1NC0yNUFDNDc4OTMzNUYiLCJ2aWV3ZXItaWQiOiIyNDcyMzk3MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjg5ODY0NzUsImV4cCI6MTcyODk4NzA3NSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.o8AzVLdNi3hNMta5_OR6pxJO0db1FB9irVM5QTwD_WuKhcMvhVVUfGUzWXPt7d3LzDrO-LTGJN39Wf5ETat-zeuDxg3jpHWX7J9QCx_uY3qheprGeQHD0C7AXLR0khnR
+Tue Oct 15 18:01:27 CST 2024
+Tue Oct 15 18:03:55 CST 2024
+Tue Oct 15 18:04:09 CST 2024
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
