@@ -6,3 +6,4 @@ slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 gina_gracia https://edge12-aus.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-2500d869f04bb76e19a6b621d983f6adad93111465b5f59f022b542f1494f99b_trns_h264/playlist.m3u8
 cuddles_me https://edge3-aus.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-884896a9326a833cc1bea3d2e48193d750603ec030da5f706e310622df71c172_trns_h264/playlist.m3u8
 A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
+Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
