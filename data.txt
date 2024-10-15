@@ -19,3 +19,5 @@ happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
+miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
