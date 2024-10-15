@@ -81,3 +81,10 @@ Wed Oct 16 02:48:32 CST 2024
 删除big541 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.FSKq2LTbToSkc94wWnV5JUwZoToq6-I0Le5DvwxJtkXH210ilqh4de5PIgbF3StW5I5L5nff6jECPes6kpzyIA
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除rmrm1313 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.kehc5nb0j5tY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tlaGM1bmIwajV0WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNUEyQTkwNS02MzFDLTRBMTAtODlDRC0yMjQ2QjM4QTlBM0YiLCJ2aWV3ZXItaWQiOiI3NTYyNDc5Iiwidmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTcyOTAwMzc3MiwiZXhwIjoxNzI5MDA0MzcyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.XJlOXpaDZTTGJ4ejBXWeFDX7iR5cYZhEyBQt8IAJCLnxh-Ksq5qDGriIFa_YhhA22Hbi3adTBLGlZmDPiDXf2qtYWSmcaG8cI2BXQqRSO9oQGhgeiOlOTiB9g7MCfSYP
+Wed Oct 16 02:57:07 CST 2024
+Wed Oct 16 02:57:11 CST 2024
+Wed Oct 16 02:59:46 CST 2024
+Wed Oct 16 03:00:00 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除ciara-yiyi https://edge-hls.doppiocdn.live/hls/150755261/master/150755261_auto.m3u8
