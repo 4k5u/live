@@ -272,3 +272,9 @@ Tue Oct 15 11:43:02 CST 2024
 添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Tue Oct 15 11:51:38 CST 2024
+Tue Oct 15 11:51:46 CST 2024
+Tue Oct 15 11:54:17 CST 2024
+Tue Oct 15 11:54:32 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8

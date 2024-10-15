@@ -23,3 +23,5 @@ TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
