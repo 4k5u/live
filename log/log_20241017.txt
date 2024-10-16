@@ -199,3 +199,9 @@ Thu Oct 17 04:39:51 CST 2024
 Thu Oct 17 04:42:24 CST 2024
 Thu Oct 17 04:42:38 CST 2024
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+Thu Oct 17 04:50:24 CST 2024
+Thu Oct 17 04:50:30 CST 2024
+Thu Oct 17 04:52:46 CST 2024
+Thu Oct 17 04:52:59 CST 2024
+添加JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
