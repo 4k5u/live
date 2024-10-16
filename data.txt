@@ -18,3 +18,8 @@ AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+gina_gracia https://edge26-ash.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-ff3204ca00460f69c8bd6a25ffcedd0dfc5dafe20a0435b4c86b91820f215eff_trns_h264/playlist.m3u8
+DUDU_MM https://edge-hls.doppiocdn.live/hls/169938738/master/169938738_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+520-chuchu https://edge-hls.doppiocdn.live/hls/142792849/master/142792849_auto.m3u8
