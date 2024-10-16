@@ -410,3 +410,9 @@ Wed Oct 16 16:51:18 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+Wed Oct 16 16:58:38 CST 2024
+Wed Oct 16 16:58:50 CST 2024
+Wed Oct 16 17:01:28 CST 2024
+添加yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3MjkxMTIxOTI5ODMsImlhdCI6MTcyOTA2ODk5Mn0.pRe5wLUZmKJgQ7lOBad9HeC4lH_2BsIyseTnrn0lk9BiF2dplyo4RlDOdICbGwfL3NtdjmDypnRrH6iZzezyrRMnwXVGiMwVHYGsN1n0kPule_UDQRMtppoo-Sp2N4kq
+Wed Oct 16 17:02:05 CST 2024
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
