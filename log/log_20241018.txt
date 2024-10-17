@@ -250,3 +250,8 @@ Fri Oct 18 07:24:09 CST 2024
 Fri Oct 18 07:24:22 CST 2024
 删除A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
 删除cuddles_me https://edge1-chi.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-4160f049d52d68eb9da03aa121a31d6b18104b297a4db481d46c5cebfb1b5bff_trns_h264/playlist.m3u8
+Fri Oct 18 07:38:33 CST 2024
+Fri Oct 18 07:38:42 CST 2024
+Fri Oct 18 07:40:34 CST 2024
+Fri Oct 18 07:40:47 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
