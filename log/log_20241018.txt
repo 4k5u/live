@@ -234,3 +234,8 @@ Fri Oct 18 06:40:09 CST 2024
 Fri Oct 18 06:40:23 CST 2024
 删除MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加cuddles_me https://edge1-chi.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-4160f049d52d68eb9da03aa121a31d6b18104b297a4db481d46c5cebfb1b5bff_trns_h264/playlist.m3u8
+Fri Oct 18 06:48:15 CST 2024
+Fri Oct 18 06:48:23 CST 2024
+Fri Oct 18 06:50:19 CST 2024
+Fri Oct 18 06:50:33 CST 2024
