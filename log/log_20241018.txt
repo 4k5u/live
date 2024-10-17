@@ -123,3 +123,10 @@ Fri Oct 18 02:59:14 CST 2024
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 删除Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+Fri Oct 18 03:15:54 CST 2024
+Fri Oct 18 03:16:06 CST 2024
+Fri Oct 18 03:18:02 CST 2024
+Fri Oct 18 03:18:17 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
