@@ -19,3 +19,4 @@ yamimm https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3MjkxOTg3NTg4NjksImlhdCI6MTcyOTE1NTU1OH0.nXDYk_EGb372tND4YDnN7t7fUONPPzWNZZQxwjhZkftxs2ioqbDKBfRRNUTheeTl670xIiDKRPBhUB9-7-PtOg1fYKIc4ZsOq_p3AMgEHqBjS1ANyUtnKR29ZiDtlD23
