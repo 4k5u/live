@@ -414,3 +414,9 @@ Fri Oct 18 15:32:45 CST 2024
 Fri Oct 18 15:34:49 CST 2024
 Fri Oct 18 15:35:03 CST 2024
 添加duduluu https://edge-hls.doppiocdn.live/hls/132938058/master/132938058_auto.m3u8
+Fri Oct 18 15:46:54 CST 2024
+Fri Oct 18 15:47:06 CST 2024
+Fri Oct 18 15:49:13 CST 2024
+Fri Oct 18 15:49:27 CST 2024
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
