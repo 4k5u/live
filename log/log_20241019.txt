@@ -1,0 +1,6 @@
+Sat Oct 19 00:00:25 CST 2024
+Sat Oct 19 00:00:38 CST 2024
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+添加JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+删除flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0GDmc5CqFmUhCxcfnUazEhwWlSb4u3QKcyalpk7Grc0I6ajyrpYIeNoD6mmk6PRo8xicBeka8OZuWy3zmGrlOA
+删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8

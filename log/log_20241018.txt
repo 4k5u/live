@@ -659,3 +659,7 @@ Fri Oct 18 23:48:00 CST 2024
 Fri Oct 18 23:49:58 CST 2024
 Fri Oct 18 23:50:13 CST 2024
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+添加iminako https://edge17-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-733583439749ad0c8924f1eae8c22d617ab974882b5ada25ee4e6b0d87c45b94_trns_h264/playlist.m3u8
+Fri Oct 18 23:57:31 CST 2024
+Fri Oct 18 23:58:19 CST 2024
+添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=null
