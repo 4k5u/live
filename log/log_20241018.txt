@@ -444,3 +444,10 @@ Fri Oct 18 16:44:42 CST 2024
 Fri Oct 18 16:46:33 CST 2024
 Fri Oct 18 16:46:46 CST 2024
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+Fri Oct 18 16:56:49 CST 2024
+添加green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.PuWOmhqBXWI2.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B1V09taHFCWFdJMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNjUwOTc3QS01QURELTQwQzUtODc0Ri0yMTk4QUQ2RkVENUIiLCJ2aWV3ZXItaWQiOiIyNTM4ODkyMiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjkyNDE4MTIsImV4cCI6MTcyOTI0MjQxMiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.DTgbJgJdhquttaDto5B9RPWO04X9Yya6AqC1d6n61hvGHFDeEngh8joBxgs8Hvzr8CW6VFiJxgzVCkCKBNe0jbWBAfxlYRPBnILYwXGAf9aF47UhDFv-q5Q8MWY6I4gn
+Fri Oct 18 16:57:04 CST 2024
+Fri Oct 18 16:59:02 CST 2024
+Fri Oct 18 16:59:17 CST 2024
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
