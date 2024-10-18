@@ -225,3 +225,10 @@ Sat Oct 19 06:57:26 CST 2024
 Sat Oct 19 06:57:26 CST 2024
 Sat Oct 19 06:59:24 CST 2024
 Sat Oct 19 06:59:38 CST 2024
+Sat Oct 19 07:18:37 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRkI0ODgzNy03NDJGLTQ5RjAtQUI4Ni0yNEFCQUU0ODg1MTEiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjkyOTM1MTgsImV4cCI6MTcyOTI5NDExOCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.V1fiLdlGHqYHfDxUwchAu0P27lE3Ta3r8FBoOqiXxmu9Z1Cld0Dmlgl5b6Jzf46U_uwVv-wFew-NQeRiotSCifrPDu6zJcSjA5as44PovVl82JJXPGL9FQDzC4zqPO4H
+Sat Oct 19 07:18:41 CST 2024
+Sat Oct 19 07:20:39 CST 2024
+Sat Oct 19 07:20:53 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
