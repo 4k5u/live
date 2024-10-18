@@ -37,3 +37,4 @@ sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3
 Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Nv4Z5BA-VKO29cwctaa3yWPAJX5yqIXoe-P4PzkmvYM3TN-AIvVpRner0S7J3AwmrnRrZPiELA0ORIhxH88kpg
 badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8

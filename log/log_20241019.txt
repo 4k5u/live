@@ -32,3 +32,8 @@ Sat Oct 19 00:47:59 CST 2024
 删除galantini https://edge18-mia.live.mmcdn.com/live-hls/amlst:galantini-sd-dcbcb8e72e02656721c0bd09e00176e74742c74494c30654bddf5a5796bba02f_trns_h264/playlist.m3u8
 删除grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 删除akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNjk4RUU5Qi0xMjE5LTQ5NTktQjE1RC05M0E5MTZFNTNFOUIiLCJ2aWV3ZXItaWQiOiIyNDg2NDU2MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjkyNjM0NTAsImV4cCI6MTcyOTI2NDA1MCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.-xvjALcSWFNmbeYZQjBTWRUE1oalAw53kOS2D1AfqxcuGUeYurWOV53KmwHVj9EHjI6YvZtlD6VbARt1L0UK8e4QqZ1xMUOZ-ZBq5H0qmomAlW2MpaB6Hwc00QilLlub
+Sat Oct 19 00:57:14 CST 2024
+Sat Oct 19 00:57:46 CST 2024
+Sat Oct 19 00:59:44 CST 2024
+Sat Oct 19 00:59:59 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
