@@ -688,3 +688,5 @@ Sat Oct 19 23:40:46 CST 2024
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除big541 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ZxqHJpwHcy0YwGil6viSmNnQqWk9epZPr9BLk_p2PL8GiJIs0oEwBoQ5s3HFwUYgQXcKQMERoB6h3fr_dxtcVQ
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+Sat Oct 19 23:58:32 CST 2024
+Sat Oct 19 23:59:12 CST 2024
