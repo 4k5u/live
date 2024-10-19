@@ -154,3 +154,8 @@ Sun Oct 20 06:19:34 CST 2024
 Sun Oct 20 06:21:31 CST 2024
 Sun Oct 20 06:21:45 CST 2024
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sun Oct 20 06:38:18 CST 2024
+Sun Oct 20 06:38:18 CST 2024
+Sun Oct 20 06:40:15 CST 2024
+Sun Oct 20 06:40:29 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
