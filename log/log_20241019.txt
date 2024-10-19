@@ -509,3 +509,12 @@ Sat Oct 19 18:33:54 CST 2024
 删除oki_dokie https://edge22-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0c2a07baa7ef457b9f81ae116fceaa2a46d9cc1c028c2e45e00af1e34a72cdd4_trns_h264/playlist.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 删除duduluu https://edge-hls.doppiocdn.live/hls/132938058/master/132938058_auto.m3u8
+添加honey_pinkgreen https://edge13-mia.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-b55fb96df382a7323eb87ac0593599ca66dcaeeed254e0f1114796f0443ebe8d_trns_h264/playlist.m3u8
+Sat Oct 19 18:43:41 CST 2024
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uaY2fROazwjw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VhWTJmUk9hendqdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEMzNENjBCNS04MkNDLTQ4OTQtQjU1MC0wRDhBOUI5REQ3NjMiLCJ2aWV3ZXItaWQiOiIyMjg0MDkyNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjkzMzQ2NDksImV4cCI6MTcyOTMzNTI0OSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.QabrdvKx3WmCzuSOWP-NwAM4nxbx5sP7waUUNxXn1gbYrvy0MFy6aQ7YaVKp96utOAiNqZtMq8bhlLpPPJEaxFD8_APyE5uNI7l6zGD4Fa8cY9MU2Q5_yn8zsE4NH4hg
+Sat Oct 19 18:44:14 CST 2024
+Sat Oct 19 18:46:11 CST 2024
+Sat Oct 19 18:46:25 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除your_desssert https://edge26-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-4a8d8b6870e135ff89bf3ce8efe9ec879e8cc608382b81caf518f5d67e6bbe6b_trns_h264/playlist.m3u8
