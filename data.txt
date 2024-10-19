@@ -9,3 +9,4 @@ mazzanti_ https://edge18-mia.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-2104cbf2
 _meganmeow_ https://edge26-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-c01a116e3116433144f75c3d0f8684e8355cacdd14e97a569a549daad6830e41_trns_h264/playlist.m3u8
 LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
