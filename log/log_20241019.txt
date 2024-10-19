@@ -518,3 +518,8 @@ Sat Oct 19 18:46:25 CST 2024
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除your_desssert https://edge26-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-4a8d8b6870e135ff89bf3ce8efe9ec879e8cc608382b81caf518f5d67e6bbe6b_trns_h264/playlist.m3u8
+Sat Oct 19 18:56:47 CST 2024
+Sat Oct 19 18:57:17 CST 2024
+Sat Oct 19 18:59:13 CST 2024
+Sat Oct 19 18:59:27 CST 2024
+删除sexygamesx https://edge26-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-8ace6a5ca7453cfea5da77e82ba67312923672ccc744a81497d80b7e3afa6498_trns_h264/playlist.m3u8
