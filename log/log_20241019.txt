@@ -398,3 +398,11 @@ Sat Oct 19 14:28:11 CST 2024
 删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除gina_gracia https://edge7-mia.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-062edde67fcb92912727376f39d9b803b7eed35bd6417ed802364c6e0275a359_trns_h264/playlist.m3u8
 删除Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+添加ake_mi https://edge17-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-0782b8979ac5b29a441940497707a264f0a8eb6e7c15d5352f4aca81e9666684_trns_h264/playlist.m3u8
+Sat Oct 19 14:44:11 CST 2024
+Sat Oct 19 14:44:25 CST 2024
+Sat Oct 19 14:46:17 CST 2024
+Sat Oct 19 14:46:30 CST 2024
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-20/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.93ImDLTdOLHBPPuBxtyHPVSwgMFGAn0D3j6_bBr4trrfJrV5hDI-M9KWhFv8luQBQyNBLqMQlBp6oo_L6mM_0Q
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
