@@ -354,3 +354,9 @@ Sun Oct 20 15:35:34 CST 2024
 Sun Oct 20 15:35:47 CST 2024
 添加qqisjaujwhsdshzu https://edge-hls.doppiocdn.live/hls/107261554/master/107261554_auto.m3u8
 删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+Sun Oct 20 15:47:20 CST 2024
+Sun Oct 20 15:47:32 CST 2024
+Sun Oct 20 15:49:19 CST 2024
+Sun Oct 20 15:49:31 CST 2024
+删除intim_mate https://edge16-chi.live.mmcdn.com/live-hls/amlst:intim_mate-sd-4ac1de9fc8bf194a592e44f7cbb5ce3fc0146350696e943cf6e3d395fee3d226_trns_h264/playlist.m3u8
+删除sexygamesx https://edge13-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-11c5d346aa45d2183617fc238cf1f38284a4a97469a4f3c0be95725b9f6f284c_trns_h264/playlist.m3u8
