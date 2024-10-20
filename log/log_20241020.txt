@@ -381,3 +381,8 @@ Sun Oct 20 16:46:08 CST 2024
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 添加DUDU_MM https://edge-hls.doppiocdn.live/hls/169938738/master/169938738_auto.m3u8
 删除yoda111 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qdI9ZgHCP8rr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xZEk5WmdIQ1A4cnIiLCJleHAiOjE3Mjk0NDMzMzQ2NjMsImlhdCI6MTcyOTQwMDEzNH0.xjvMBz8XH00sdl9YV42v-j0brfusxzHuOXSDaVglZBXdG_PJS7yoSE8W-1C1pmKgJ4iX3p47zepXb6pn15TdfUizi2EaYovOW4E3xfBuvn2PPBZwJMuRE8Waxmgb3nEh
+Sun Oct 20 16:57:07 CST 2024
+Sun Oct 20 16:57:17 CST 2024
+Sun Oct 20 16:59:12 CST 2024
+Sun Oct 20 16:59:25 CST 2024
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
