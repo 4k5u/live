@@ -26,3 +26,5 @@ imissy0u https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
