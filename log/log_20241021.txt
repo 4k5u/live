@@ -384,3 +384,11 @@ Mon Oct 21 18:45:43 CST 2024
 删除oki_dokie https://edge28-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f1e0aee1bdf4d8170860b0f9cebe8c6848bddaae4cf047e899c4c90f703876ca_trns_h264/playlist.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
+Mon Oct 21 18:56:59 CST 2024
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uaY2fROazwjw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VhWTJmUk9hendqdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MjdCODM2MC05RUY3LTQ3NTEtODc2RC04MjFCQzYyOUJGMDgiLCJ2aWV3ZXItaWQiOiIyMjg0MDkyNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjk1MDgyNTAsImV4cCI6MTcyOTUwODg1MCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.Zg_AyC-UBlPV35LFq_gfnzafBLLLwliA4LyQudG3uQL6GApO-1OIIvJjM9KURueACykoqlMyuIS2_nBc2MfAWiy87W4OYPnOlsn6KKbnttdOE3kiwoVVygNK4sIb2pGi
+Mon Oct 21 18:57:36 CST 2024
+Mon Oct 21 18:59:23 CST 2024
+添加dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.2MUvMyqyuQFW.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8yTVV2TXlxeXVRRlciLCJleHAiOjE3Mjk1NTA5ODkzMzAsImlhdCI6MTcyOTUwNzc4OX0.Xz1hvsRug1ARWwWDGr4olMnmWD6MRR_WPQmFmeCrdMHCOxiP9UZ1-eQjLqkbVeLPnSbrYqvGo_k6oW0sWRWivyAifd8cwJ7LeG2_RUP5gBH_zToZGScGHmuuAaJ2kEIn
+Mon Oct 21 18:59:38 CST 2024
+添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
