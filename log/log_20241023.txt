@@ -220,3 +220,8 @@ Wed Oct 23 06:48:26 CST 2024
 Wed Oct 23 06:50:12 CST 2024
 Wed Oct 23 06:50:23 CST 2024
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+Wed Oct 23 06:58:27 CST 2024
+Wed Oct 23 06:58:31 CST 2024
+Wed Oct 23 07:00:29 CST 2024
+Wed Oct 23 07:00:44 CST 2024
+删除gina_gracia https://edge9-lax.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-d974143ddc3bb7ee47aa663eb17fdc2d5bdda5054f5fe4ff2a092b5269fcd4a4_trns_h264/playlist.m3u8
