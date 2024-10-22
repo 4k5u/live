@@ -215,3 +215,8 @@ Wed Oct 23 06:38:16 CST 2024
 Wed Oct 23 06:40:03 CST 2024
 Wed Oct 23 06:40:15 CST 2024
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Wed Oct 23 06:48:22 CST 2024
+Wed Oct 23 06:48:26 CST 2024
+Wed Oct 23 06:50:12 CST 2024
+Wed Oct 23 06:50:23 CST 2024
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
