@@ -9,3 +9,5 @@ gina_gracia https://edge9-lax.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-d9741
 my_eyes_higher https://edge8-slc.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3c593ecccf3864e2119ef9510877ca1e300d07997550d1c0e7a471878e52faf7_trns_h264/playlist.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xDgD-PKFpcfiOToS4O0-GYCaqTHVADkDi-NkxCfmVBPFPKyA8xaBAMDuBP2SQ4izDcxyClu1qJ2Ftv1sylLTfg
+San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
