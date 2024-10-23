@@ -17,3 +17,5 @@ tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+ake_mi https://edge3-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-6673561358f7060d2f294d24e38239caa440365275934861580ccfb16cd7d6c5_trns_h264/playlist.m3u8
+Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
