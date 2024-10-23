@@ -272,3 +272,9 @@ Wed Oct 23 11:16:50 CST 2024
 添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除my_eyes_higher https://edge3-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-333399c666de32b4cb0881c745b0f8726f460740086a9d2462d044b18a1a7238_trns_h264/playlist.m3u8
+Wed Oct 23 11:38:57 CST 2024
+Wed Oct 23 11:39:07 CST 2024
+Wed Oct 23 11:41:03 CST 2024
+Wed Oct 23 11:41:17 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
