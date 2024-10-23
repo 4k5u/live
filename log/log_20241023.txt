@@ -329,3 +329,11 @@ Wed Oct 23 13:50:13 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除gina_gracia https://edge23-ash.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-7eef0426704a35dd65511365661f5f06128ff73de5a41e18260c6144889fc4a3_trns_h264/playlist.m3u8
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+Wed Oct 23 13:57:56 CST 2024
+添加rmrm1313 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.kehc5nb0j5tY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tlaGM1bmIwajV0WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMzI1MTg3RS1FN0Q4LTQwMzQtODFBOC01NDQ2M0JEOTU1NzUiLCJ2aWV3ZXItaWQiOiI3NTYyNDc5Iiwidmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTcyOTY2MzA5MSwiZXhwIjoxNzI5NjYzNjkxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-k-rCHSFLwENK7q4c1PI_v22NG9mvbM_OqLCu5K19gzI_w1g6vjLts1UX1sPuzyjhgsjML7xaRNF2obQDy36wy-cj21cZHY3B6G7-BtsMgfKtVMUxaYhYH0MV9Ld4yDa
+Wed Oct 23 13:58:15 CST 2024
+Wed Oct 23 14:00:10 CST 2024
+Wed Oct 23 14:00:23 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
