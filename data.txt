@@ -20,3 +20,4 @@ twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_p
 l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3Mjk3MTI0OTI5NDEsImlhdCI6MTcyOTY2OTI5Mn0.BZZ-YGN3pPrjW3mlcHbWpcAEs1aajFbRqzuAxezRb4T6PY_-rFtZYguMPnDMxwlZlaWImAV9vwNrI4IzJUcKvfvqCvQeAnjylDSRQZ0w3V6fmEs-akJ2dO3pjojq4zpa
