@@ -450,3 +450,12 @@ Thu Oct 24 18:42:40 CST 2024
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除ad0res https://edge15-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-49f4687cbd6d4b5e0f37763a06c9bd161ab0bc5e0921923a619cfe308aeec931_trns_h264/playlist.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Thu Oct 24 18:50:16 CST 2024
+Thu Oct 24 18:50:36 CST 2024
+Thu Oct 24 18:52:34 CST 2024
+Thu Oct 24 18:52:48 CST 2024
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
