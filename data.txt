@@ -1,4 +1,3 @@
-Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
