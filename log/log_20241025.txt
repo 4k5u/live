@@ -70,3 +70,8 @@ Fri Oct 25 03:39:59 CST 2024
 Fri Oct 25 03:41:47 CST 2024
 Fri Oct 25 03:41:59 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Fri Oct 25 03:49:56 CST 2024
+Fri Oct 25 03:50:08 CST 2024
+Fri Oct 25 03:51:54 CST 2024
+Fri Oct 25 03:52:06 CST 2024
+删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
