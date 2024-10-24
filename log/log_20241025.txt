@@ -127,3 +127,8 @@ Fri Oct 25 06:42:42 CST 2024
 Fri Oct 25 06:42:53 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Fri Oct 25 06:51:08 CST 2024
+Fri Oct 25 06:51:12 CST 2024
+Fri Oct 25 06:53:07 CST 2024
+Fri Oct 25 06:53:21 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
