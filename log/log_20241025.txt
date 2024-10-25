@@ -351,3 +351,10 @@ Fri Oct 25 18:50:06 CST 2024
 Fri Oct 25 18:50:28 CST 2024
 Fri Oct 25 18:52:15 CST 2024
 Fri Oct 25 18:52:27 CST 2024
+Fri Oct 25 19:00:07 CST 2024
+Fri Oct 25 19:00:29 CST 2024
+Fri Oct 25 19:02:16 CST 2024
+添加dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.2MUvMyqyuQFW.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8yTVV2TXlxeXVRRlciLCJleHAiOjE3Mjk4OTcwOTc1MDUsImlhdCI6MTcyOTg1Mzg5N30.1wCRwcA1qeGn-eWYHpzthb8VOfoL0KhWgNjVkrl8K3oWyW6q5CTvCKmV0OAB2QYTbUra-IEnG2nPLUXNXEoi5UXjTtqvhiDyodqPzatIXcJCNsJgl3amc1kQErnOt71R
+Fri Oct 25 19:02:32 CST 2024
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
