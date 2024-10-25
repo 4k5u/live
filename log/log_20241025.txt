@@ -247,3 +247,11 @@ Fri Oct 25 14:35:23 CST 2024
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+Fri Oct 25 14:50:58 CST 2024
+Fri Oct 25 14:51:16 CST 2024
+Fri Oct 25 14:53:16 CST 2024
+Fri Oct 25 14:53:30 CST 2024
+添加Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+删除intim_mate https://edge13-ash.live.mmcdn.com/live-hls/amlst:intim_mate-sd-fb7b06ea14a25b32c8f0b793ead9bf1c8e50981bc71f217f8bd1807e045d800b_trns_h264/playlist.m3u8
+删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
