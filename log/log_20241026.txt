@@ -130,3 +130,10 @@ Sat Oct 26 03:50:37 CST 2024
 添加Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加my_eyes_higher https://edge7-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7e47ffc666e0934f26b07445a9b3578f492cccc51bc769be5ea5e5138d94bf53_trns_h264/playlist.m3u8
+Sat Oct 26 04:24:45 CST 2024
+Sat Oct 26 04:24:51 CST 2024
+Sat Oct 26 04:26:45 CST 2024
+Sat Oct 26 04:26:59 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
