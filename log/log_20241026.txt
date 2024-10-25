@@ -187,3 +187,8 @@ Sat Oct 26 06:01:58 CST 2024
 Sat Oct 26 06:02:11 CST 2024
 添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sat Oct 26 06:23:20 CST 2024
+Sat Oct 26 06:23:24 CST 2024
+Sat Oct 26 06:25:17 CST 2024
+Sat Oct 26 06:25:30 CST 2024
+删除3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQkVGMzJCQy02QjNCLTREMUItOTYwMS02QzlGOUQ2MkQ2QjkiLCJ2aWV3ZXItaWQiOiIxNDkwNDE0NCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjk4NjQwODUsImV4cCI6MTcyOTg2NDY4NSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.ImYStKiMGF6imxDtLETOCBZTMllO4Wt4hDfG-pQ_sh9c2TsG7RL8QwsTxvVZvcdHwkUZ0wl5fXdQzN1WrOj01rEbKj7SduDh6rWHV76zpLHvJLytIkY7em4ZOZRzXfCO
