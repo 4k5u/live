@@ -204,3 +204,8 @@ Sat Oct 26 07:40:34 CST 2024
 Sat Oct 26 07:40:47 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Sat Oct 26 07:48:42 CST 2024
+Sat Oct 26 07:48:46 CST 2024
+Sat Oct 26 07:50:44 CST 2024
+Sat Oct 26 07:50:58 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
