@@ -85,3 +85,14 @@ Sun Oct 27 02:59:12 CST 2024
 Sun Oct 27 02:59:26 CST 2024
 删除qwer00725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sWVcbUkr9eEM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NXVmNiVWtyOWVFTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxREU2M0M2NC00M0FGLTRBNDctQTc1Ny1BMjE5M0FCNEU5QTMiLCJ2aWV3ZXItaWQiOiIyNTM3MjE2NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjk5NTc3NDQsImV4cCI6MTcyOTk1ODM0NCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.6dxxrrUjs4x-ZyMS4Be641_7ulfKmQNS2sO2nTbudanF5zMih-WEDL1sKsnWo-_QNoclS_YG4YOfDrk56UFaQGGu37VFyxPF6RDFbNF7zfcME-kqcoKISeb9dHBKlbeV
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+添加gina_gracia https://edge6-sea.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-9594737084a6faae9c31fc9965c8a7922d47c614f29428fed568abce6973ff9f_trns_h264/playlist.m3u8
+Sun Oct 27 03:40:03 CST 2024
+Sun Oct 27 03:40:05 CST 2024
+Sun Oct 27 03:41:52 CST 2024
+Sun Oct 27 03:42:05 CST 2024
+添加Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除big541 https://live-global-cdn-v02.sooplive.co.kr/live-stm-14/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Tw3tQojslwLAf7q2jYxuBxeWGnvGMpayMdU5TWMBA2gQgwmdQpqWqFwCTjb8t_5FxANI-NNal2I13g46AWX8Mg
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
