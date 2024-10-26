@@ -198,3 +198,8 @@ Sun Oct 27 07:18:39 CST 2024
 Sun Oct 27 07:20:35 CST 2024
 Sun Oct 27 07:20:48 CST 2024
 删除Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+添加my_eyes_higher https://edge12-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3549c9c63e925db63eff5f90c0eb4429181f1be3c3a7c28f807d8ca0ca8a3f36_trns_h264/playlist.m3u8
+Sun Oct 27 07:31:08 CST 2024
+Sun Oct 27 07:31:12 CST 2024
+Sun Oct 27 07:33:00 CST 2024
+Sun Oct 27 07:33:12 CST 2024
