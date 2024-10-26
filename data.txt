@@ -22,3 +22,5 @@ TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u
 _meganmeow_ https://edge9-mia.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-84cf3cbb7830fbba456c7a0fa0a7eb81662abd5be445ee352a8782611cae5a40_trns_h264/playlist.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
