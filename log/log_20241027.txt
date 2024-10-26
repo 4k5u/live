@@ -208,3 +208,8 @@ Sun Oct 27 07:41:29 CST 2024
 Sun Oct 27 07:43:25 CST 2024
 Sun Oct 27 07:43:39 CST 2024
 删除mazzanti_ https://edge7-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-f61f23accc8d7f073475cd0608ac0d8f0a98bb18ac605fadb0776e86c95b3672_trns_h264/playlist.m3u8
+Sun Oct 27 07:52:17 CST 2024
+Sun Oct 27 07:52:21 CST 2024
+Sun Oct 27 07:54:07 CST 2024
+Sun Oct 27 07:54:20 CST 2024
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
