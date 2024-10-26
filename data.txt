@@ -14,7 +14,6 @@ Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 my_eyes_higher https://edge2-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f4a84b621ae1540a00a34a0b4a8ab1ba6e8b9af25ae3d56e4ebb6b6b64210565_trns_h264/playlist.m3u8
-TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
@@ -24,3 +23,6 @@ _meganmeow_ https://edge9-mia.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-84cf3
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
