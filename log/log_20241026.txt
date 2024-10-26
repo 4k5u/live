@@ -329,3 +329,11 @@ Sat Oct 26 14:59:06 CST 2024
 删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加iminako https://edge13-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-171c02b4bbe07074a0f788965ef39aea931d3635f6205506b9c8dc45737a1cae_trns_h264/playlist.m3u8
+Sat Oct 26 15:30:30 CST 2024
+Sat Oct 26 15:30:42 CST 2024
+Sat Oct 26 15:32:39 CST 2024
+Sat Oct 26 15:32:54 CST 2024
+添加anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
+删除Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
