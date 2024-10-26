@@ -1,6 +1,5 @@
 dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.35EnPApLRdoeAdrQg4-PARxRzqnr2VFGGkCtP6FgSBFN9FnVW3moUVia7tg4FdmV4nYNByi4vGF2LdBJC1a43Q
 leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jT4jv6--YYCCei2okHw6BGhcmWH-ouEZhRdi2Z9jRHy7bl0LDcTv-TbwHLOds87hKqD4p3opKj9OWgeWAAwC_g
-wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
@@ -16,3 +15,5 @@ Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_au
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+my_eyes_higher https://edge2-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f4a84b621ae1540a00a34a0b4a8ab1ba6e8b9af25ae3d56e4ebb6b6b64210565_trns_h264/playlist.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
