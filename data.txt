@@ -28,3 +28,5 @@ dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+your_desssert https://edge12-lax.live.mmcdn.com/live-hls/amlst:your_desssert-sd-d98c7e4da2accfd90559c31584a0cba58b426bffc76021c8c1e220c38893ae51_trns_h264/playlist.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
