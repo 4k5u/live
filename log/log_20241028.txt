@@ -217,3 +217,9 @@ Mon Oct 28 06:59:18 CST 2024
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+Mon Oct 28 07:31:57 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQkVEMDMzRS05RDgyLTQ3NDktODE5My1GRUY0NEU1RTQwNDgiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzAwNzE5MjAsImV4cCI6MTczMDA3MjUyMCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.FEiSkWZLpyvR6MgOQs2jepiQ7Wn1r_QdjtWz1L1h08KOvh50VuedN5wHkystvbPNxYaledcF1U57qBEny503TMiS_CUAfdVvz4He5hY7_yQsUi7SxWXb5RmT5MDpPL2N
+Mon Oct 28 07:32:02 CST 2024
+Mon Oct 28 07:34:01 CST 2024
+Mon Oct 28 07:34:15 CST 2024
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
