@@ -554,3 +554,8 @@ Sun Oct 27 22:53:47 CST 2024
 添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNDNFNjhGNi0yMDNFLTQ0QTctQUY2Ni1FMDNGMDE0MDZBMTQiLCJ2aWV3ZXItaWQiOiIyNDg2NDU2MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzAwMzc3MjAsImV4cCI6MTczMDAzODMyMCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.ReHhzAxbep67k3IT0EYXywPmX_CreNlBIalJXpjvyMx3Vf98rTE89vNuJv-i5MTF5mHO7GQXs68EQ5812wQUlY5kXdfytLfSFRBne_nAUuIIGIgBQP8791ybkgCM-oIX
+Sun Oct 27 23:00:52 CST 2024
+Sun Oct 27 23:01:26 CST 2024
+Sun Oct 27 23:03:24 CST 2024
+Sun Oct 27 23:03:38 CST 2024
+删除iminako https://edge21-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-26ebb2e6918643149a3da0c6406606f9aac407d8a8a4f0a9184da0d56dde390b_trns_h264/playlist.m3u8
