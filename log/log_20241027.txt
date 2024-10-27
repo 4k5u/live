@@ -505,3 +505,13 @@ Sun Oct 27 21:32:19 CST 2024
 删除4inlv https://edge-hls.doppiocdn.live/hls/111026357/master/111026357_auto.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 删除ad0res https://edge27-atl.live.mmcdn.com/live-hls/amlst:ad0res-sd-a9f69667bb1ac4be10b66945271b9c147daf2b0ce9c0ec0ad4db7c3054141aa4_trns_h264/playlist.m3u8
+Sun Oct 27 21:51:13 CST 2024
+Sun Oct 27 21:51:45 CST 2024
+Sun Oct 27 21:53:43 CST 2024
+Sun Oct 27 21:53:57 CST 2024
+添加jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+删除green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.PuWOmhqBXWI2.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B1V09taHFCWFdJMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NEVBQ0EyNy02REYzLTQ3RUYtQjdDOC01NUQ3NDFEQTk0QTAiLCJ2aWV3ZXItaWQiOiIyNTM4ODkyMiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzAwMTk0NDUsImV4cCI6MTczMDAyMDA0NSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.9V5m6b2pZTKkxc9YEXS-P4vlUOWVrHYUUI26VVj1CuSDR3arIJvVTi2QzFHia9bTnc1ZG2BSaF1fekweTW5_gUpzoi73zORAyEIVTZnLaFm_0972MTAo7WFCFczvCDtI
+删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
