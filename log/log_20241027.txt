@@ -237,3 +237,13 @@ Sun Oct 27 10:46:41 CST 2024
 删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 删除_meganmeow_ https://edge9-mia.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-84cf3cbb7830fbba456c7a0fa0a7eb81662abd5be445ee352a8782611cae5a40_trns_h264/playlist.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Sun Oct 27 11:18:19 CST 2024
+Sun Oct 27 11:18:27 CST 2024
+Sun Oct 27 11:20:25 CST 2024
+Sun Oct 27 11:20:40 CST 2024
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除my_eyes_higher https://edge12-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3549c9c63e925db63eff5f90c0eb4429181f1be3c3a7c28f807d8ca0ca8a3f36_trns_h264/playlist.m3u8
