@@ -38,6 +38,7 @@ jobs:
           sleep 1
           echo "IPv4: $(sudo curl -s4m8 --retry 3 -A Mozilla https://api.ip.sb/geoip)"
           echo "IPv6: $(sudo curl -s6m8 --retry 3 -A Mozilla https://api.ip.sb/geoip)"
+        shell: bash
       - name: Run a one-line script
         run: |
           bash cb.sh
