@@ -278,3 +278,8 @@ Mon Oct 28 11:46:30 CST 2024
 添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Mon Oct 28 11:57:15 CST 2024
+Mon Oct 28 11:57:27 CST 2024
+Mon Oct 28 11:59:21 CST 2024
+Mon Oct 28 11:59:34 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
