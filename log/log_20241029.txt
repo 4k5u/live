@@ -80,3 +80,10 @@ Tue Oct 29 03:33:01 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+Tue Oct 29 03:40:57 CST 2024
+Tue Oct 29 03:41:10 CST 2024
+Tue Oct 29 03:43:00 CST 2024
+Tue Oct 29 03:43:15 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.60MD203M-fXauMBKZBeDFmmyH0lxPGAB83lhm8jNYEZn2iNZwm0AyjUxnE1okYWvnjPwTQE-Zsh7k9wtXhxr4Q
