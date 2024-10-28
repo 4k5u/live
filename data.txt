@@ -21,3 +21,5 @@ imgroot5 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
