@@ -1,0 +1,113 @@
+# This is a basic workflow to help you get started with Actions
+
+name: new
+
+# Controls when the workflow will run
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/10 * * * *'
+  
+env:
+  TZ: Asia/Shanghai
+  
+jobs:
+  setup-warp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Cache WARP Installation
+        uses: actions/cache@v3
+        with:
+          path: /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
+          key: ${{ runner.os }}-warp-${{ hashFiles('**/cloudflare-warp-install.yml') }}
+      - name: Install WARP
+        run: |
+          echo "WARP mode: client warp+doh."
+          sudo apt-get -y update
+          curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor --output /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
+          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
+          sudo apt-get update
+          sudo apt-get install -y cloudflare-warp
+          echo "registration new"
+          sudo warp-cli --accept-tos registration new
+          echo "mode warp+doh"
+          sudo warp-cli --accept-tos mode warp+doh
+          echo "WARP installation and setup complete."
+
+  connect-warp:
+    runs-on: ubuntu-latest
+    needs: setup-warp
+    steps:
+      - uses: actions/checkout@v3
+      - name: Connect to WARP
+        run: |
+          echo "Connecting to WARP..."
+          sudo warp-cli --accept-tos connect
+
+          sleep 1
+          echo "IPv4: $(sudo curl -s4m8 --retry 3 -A Mozilla https://api.ip.sb/geoip)"
+          echo "IPv6: $(sudo curl -s6m8 --retry 3 -A Mozilla https://api.ip.sb/geoip)"
+      - name: Run a one-line script
+        run: |
+          bash cb.sh
+          sleep 10
+          bash pd.sh
+          bash af.sh
+          bash flex.sh
+          bash tw.sh
+          bash st.sh
+        env:
+          AUTHORIZATION: ${{ secrets.AUTHORIZATION }}
+          BOTTOKEN: ${{ secrets.BOTTOKEN }}
+          SYNCTV: ${{ secrets.SYNCTV }}
+          COOKIE: ${{ secrets.COOKIE }}
+          USERTOKEN: ${{ secrets.USERTOKEN }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+          M3U8SITE: ${{ secrets.M3U8SITE }}
+          AFCOOKIE: ${{ secrets.AFCOOKIE }}
+          PDAPI: ${{ secrets.PDAPI }}
+
+  commit:
+    runs-on: ubuntu-latest
+    needs: connect-warp
+    steps:
+      - name: Commit changes
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git add .
+          git commit -m "update" -a
+
+      - name: Push changes
+        id: push
+        run: git push || echo "git push failed" > push_failed.txt
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+
+      - name: Check if push failed
+        id: check_push_failed
+        run: |
+          if [ -f push_failed.txt ]; then
+            echo "Push failed"
+            echo "push_failed=true" >> $GITHUB_ENV
+          else
+            echo "Push succeeded"
+            echo "push_failed=false" >> $GITHUB_ENV
+          fi
+
+      - name: Retry Push on Failure
+        if: env.push_failed == 'true'
+        run: |
+          n=0
+          until [ $n -ge 3 ]
+          do
+            git pull --rebase
+            git push && break
+            n=$((n+1))
+            sleep 10
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
