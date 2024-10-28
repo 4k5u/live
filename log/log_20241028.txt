@@ -419,3 +419,9 @@ Mon Oct 28 17:53:24 CST 2024
 Mon Oct 28 17:53:36 CST 2024
 删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Mon Oct 28 18:01:05 CST 2024
+Mon Oct 28 18:01:27 CST 2024
+Mon Oct 28 18:03:24 CST 2024
+Mon Oct 28 18:03:38 CST 2024
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
