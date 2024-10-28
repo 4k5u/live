@@ -469,3 +469,10 @@ Mon Oct 28 19:30:04 CST 2024
 Mon Oct 28 19:31:50 CST 2024
 Mon Oct 28 19:32:03 CST 2024
 添加4inlv https://edge-hls.doppiocdn.live/hls/111026357/master/111026357_auto.m3u8
+Mon Oct 28 19:51:51 CST 2024
+Mon Oct 28 19:52:23 CST 2024
+Mon Oct 28 19:54:21 CST 2024
+添加dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.2MUvMyqyuQFW.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8yTVV2TXlxeXVRRlciLCJleHAiOjE3MzAxNTgzNTEwNDUsImlhdCI6MTczMDExNTE1MX0.vUPheVYFdGJxTMBlxlXOchT5ZQVoImpsyDkdRBfv-6L__NVW2Fo01cA-vq7wLShWcxBjM6vl--08MkBWCVHAwX9B5x4CxQ8QbF_PhPtNsWyz_vhwCnIOZZmA7iQrrb18
+Mon Oct 28 19:54:37 CST 2024
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除4inlv https://edge-hls.doppiocdn.live/hls/111026357/master/111026357_auto.m3u8
