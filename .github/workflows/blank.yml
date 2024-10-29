@@ -74,7 +74,7 @@ jobs:
           echo "connect"
           sudo warp-cli --accept-tos connect
 
-          sleep 1
+          sleep 5
         shell: bash
       - name: check WARP
         run: |
@@ -87,9 +87,10 @@ jobs:
             sudo warp-cli --accept-tos mode warp+doh
             # 尝试连接
             sudo warp-cli --accept-tos connect
-  
+            sleep 5
             # 检查连接是否成功
             new_status=$(warp-cli --accept-tos status | grep -i "Status update" | awk '{print $3}')
+            echo "$new_status"
             if [ "$new_status" == "Connected" ]; then
                 echo "WARP connected successfully."
             else
