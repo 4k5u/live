@@ -31,3 +31,6 @@ gina_gracia https://edge24-sea.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-fa1e
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 -Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+my_eyes_higher https://edge13-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7a76d93e529d7ca4535796081afea765b4dea9028dbf2101de601e59b852c097_trns_h264/playlist.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
