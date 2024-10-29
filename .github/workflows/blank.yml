@@ -79,11 +79,10 @@ jobs:
       - name: check WARP
         run: |
           status=$(warp-cli --accept-tos status | grep -i "Status update" | awk '{print $3}')
+          echo "$status"
           if [ "$status" != "Connected" ]; then
             echo "WARP is not connected. Reconnecting..."
             sudo warp-cli --accept-tos disconnect
-            # 注册新的会话
-            sudo warp-cli --accept-tos registration new
             # 设置 WARP 模式为 warp+doh
             sudo warp-cli --accept-tos mode warp+doh
             # 尝试连接
