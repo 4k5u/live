@@ -403,3 +403,11 @@ Tue Oct 29 19:32:09 CST 2024
 Tue Oct 29 19:34:11 CST 2024
 Tue Oct 29 19:34:28 CST 2024
 删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-20/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._oDQVOBQUhWl-Y6GxZnMyhFWChddv-HGeaMBGoRJ5nZ-pnDDefX-cVpVhVGDwp_ZG_iiba6lvI9mi9UpJ5QAsQ
+Tue Oct 29 19:42:42 CST 2024
+Tue Oct 29 19:43:17 CST 2024
+添加leelate ?aid=null
+Tue Oct 29 19:45:24 CST 2024
+Tue Oct 29 19:45:41 CST 2024
+删除oki_dokie https://edge20-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2437ffbd1ef1e166a1153e8f21d0a270ec4504daf931d43f772f75ac2287971c_trns_h264/playlist.m3u8
+删除mode_bad https://edge11-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-c9dbcc0b14c14a31ea27436f173e4e6006f4a6adbdc823b640b253ea78669da8_trns_h264/playlist.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
