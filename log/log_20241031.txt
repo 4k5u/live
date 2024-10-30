@@ -56,3 +56,10 @@ Thu Oct 31 01:27:53 CST 2024
 删除regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
 删除Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
 删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBQkI0MzNGOS0wNDY5LTRDN0MtODM4QS0yNEMyNEFCMUJDNTMiLCJ2aWV3ZXItaWQiOiIxOTU4ODgzNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzAzMDI5NTUsImV4cCI6MTczMDMwMzU1NSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.s_O1HIbnr7Fx1Mrr4V9WHAMcW2Fpw_u4pShUkVFna3cP-YMeVbcgZyCIuCGW0uRd5I0E5LuWw3qGNnznrOnmjfUAcodO_WMtcTDdF8u6suzo-Q6eNz03yVaPtnLqjyIi
+Thu Oct 31 01:40:53 CST 2024
+Thu Oct 31 01:41:36 CST 2024
+Thu Oct 31 01:43:37 CST 2024
+Thu Oct 31 01:43:54 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
