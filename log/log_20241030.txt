@@ -477,3 +477,9 @@ Wed Oct 30 21:41:38 CST 2024
 添加regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
 删除lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMjlFNTA5Qi1EODY2LTQwREYtQjIyNS02MENBRkVDNEUwMUYiLCJ2aWV3ZXItaWQiOiIyNDI0NDQ0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzAyODg1MjcsImV4cCI6MTczMDI4OTEyNywiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.T8RX_vQzXTAGrkKSUVncyPeMJLrsQ8iS_rzZ36nWTo0dDbrLBkq9lud6NuJJt5-50S5-xXmB_snD-QJ82zhgUnS_iXadybvmHx60wmrS_tsN6NzBWEYOAVltjlmI3t6p
 删除tw_Sutew https://edge-hls.doppiocdn.live/hls/104933496/master/104933496_auto.m3u8
+Wed Oct 30 21:49:41 CST 2024
+Wed Oct 30 21:50:54 CST 2024
+Wed Oct 30 21:52:53 CST 2024
+Wed Oct 30 21:53:10 CST 2024
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8

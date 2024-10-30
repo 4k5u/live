@@ -54,3 +54,5 @@ imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.2MUvMyqyuQFW.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8yTVV2TXlxeXVRRlciLCJleHAiOjE3MzAzMzg1MjY2NzEsImlhdCI6MTczMDI5NTMyNn0.4bh3MNv-RQDY1y1JXGPN0UrcFJCqyiPB81DWaUI7LMLp9TAL47QcN9Q5T_Xspz1aUEzek9j8wyH-pyC85RuY800jHBxSUxgys5RoBPxt9C3iWjRcY1id2bv8STRYWz5B
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
