@@ -10,6 +10,5 @@ hotse777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.m65N7NVq_GD_I6-Q9BDvSg3cfrYI9MTDZX3_YOXkPgCbAvzDh3g-HYZesyM2maNn-14A1dZM-rzyzCbKVo9yGw
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
-JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 gina_gracia https://edge9-chi.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-f110f6d99c5b3ee89712087bce25cf47d8bf8b389d2e2e25e5d4475d8c694325_trns_h264/playlist.m3u8
 my_eyes_higher https://edge14-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1ac637da5f891fc46106869c0bc31e91952b159bd47ab5a78824598a28d4731e_trns_h264/playlist.m3u8

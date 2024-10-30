@@ -193,3 +193,8 @@ Thu Oct 31 05:32:13 CST 2024
 Thu Oct 31 05:34:02 CST 2024
 Thu Oct 31 05:34:17 CST 2024
 删除sexygamesx https://edge4-slc.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-e05840aabcb2e4a1678f0ee9bb24e3ce56ac092e945a1e171b60fb1c325a58fa_trns_h264/playlist.m3u8
+Thu Oct 31 05:48:07 CST 2024
+Thu Oct 31 05:48:16 CST 2024
+Thu Oct 31 05:50:18 CST 2024
+Thu Oct 31 05:50:35 CST 2024
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
