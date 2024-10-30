@@ -125,3 +125,10 @@ Thu Oct 31 03:34:05 CST 2024
 添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
 添加JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Thu Oct 31 03:43:04 CST 2024
+Thu Oct 31 03:43:17 CST 2024
+Thu Oct 31 03:45:13 CST 2024
+Thu Oct 31 03:45:30 CST 2024
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+添加-Xiaoxue https://edge-hls.doppiocdn.live/hls/149374626/master/149374626_auto.m3u8
+删除100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQzA4RTFDMS1FQjMxLTQwMTEtODRERi1BNEE3NUQ4NjdGNDYiLCJ2aWV3ZXItaWQiOiIyNDIzNzE5MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzAyOTQyMDYsImV4cCI6MTczMDI5NDgwNiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.NiWeo1UQva8BlOrkthgKWSbIrVYx2LNNtN9Wz99_9MCMQCIuiW9JxK_tA9lI6gg6XZFwnYEQC9_bIVYHSkB8UW4SexraOmamthP-HLam06bNE-_Vv9nJvXHWK0hsknpn
