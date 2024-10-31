@@ -128,3 +128,11 @@ Fri Nov 1 04:44:18 CST 2024
 Fri Nov 1 04:46:08 CST 2024
 Fri Nov 1 04:46:23 CST 2024
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+添加cuddles_me https://edge14-mia.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-0f8b2989a57e9adc28ed1b00188172406f0c5731df3541b451fd1adc77c29461_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge6-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8fa6ca6b380f44e51665c766276a49df0a24f908011d39de8ef11fa6c7764e33_trns_h264/playlist.m3u8
+Fri Nov 1 04:58:15 CST 2024
+Fri Nov 1 04:58:22 CST 2024
+Fri Nov 1 05:00:23 CST 2024
+Fri Nov 1 05:00:41 CST 2024
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.48tv-DwCCEnjG6DSwvOKQ8lNTy0C5Yhjxi4S1X5k9ecJWC3I_phua_zITbaDL9koCCii78PQf0Eg9EPOgGVQHA
