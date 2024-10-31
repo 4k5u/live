@@ -554,3 +554,9 @@ Thu Oct 31 19:33:22 CST 2024
 添加Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
 添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+添加oki_dokie https://edge10-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1503de9929bbf8ede7d7bd6f93ffbccc21c2bb1989e072baa324c11141434960_trns_h264/playlist.m3u8
+Thu Oct 31 19:41:21 CST 2024
+Thu Oct 31 19:42:05 CST 2024
+Thu Oct 31 19:44:02 CST 2024
+Thu Oct 31 19:44:19 CST 2024
+删除172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
