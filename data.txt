@@ -30,3 +30,4 @@ oki_dokie https://edge6-gru.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6f070a9b5
 cuddles_me https://edge1-atl.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-b6fd8b81143ec8b0a8c025338349b096b1697a9db5b872593f2eda2057aa7da8_trns_h264/playlist.m3u8
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
