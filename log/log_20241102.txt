@@ -168,3 +168,8 @@ Sat Nov 2 06:03:37 CST 2024
 Sat Nov 2 06:03:53 CST 2024
 添加LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加mazzanti_ https://edge17-gru.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-acdf5f743112358882b1a4c390b6bc9a885725c85f5a5b279400ff4244a00271_trns_h264/playlist.m3u8
+Sat Nov 2 06:26:02 CST 2024
+Sat Nov 2 06:26:11 CST 2024
+Sat Nov 2 06:28:12 CST 2024
+Sat Nov 2 06:28:29 CST 2024
