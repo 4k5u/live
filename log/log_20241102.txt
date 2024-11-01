@@ -191,3 +191,9 @@ Sat Nov 2 07:21:42 CST 2024
 Sat Nov 2 07:21:59 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除sexygamesx https://edge12-mia.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-752624a2034112cb6aab6342095cf78a31693096cf07b6276bc9ed69674fe95c_trns_h264/playlist.m3u8
+Sat Nov 2 07:32:05 CST 2024
+添加hotse777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FBhIsB0nqufl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZCaElzQjBucXVmbCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzODFGMkZDNS1BQzEyLTRCMTEtQjNFMy0zODlGRTFFMDFDNDciLCJ2aWV3ZXItaWQiOiIyNDkwMzI2NSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzA1MDM5MjksImV4cCI6MTczMDUwNDUyOSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.kmT0LP-5ikMQMcLKfQx0IcP92BNyBbOEnvUtrC0nG2wXF2FoMgSX7TQmLRABis8BATcKOxzBz1v0Oygs5jixgpaY69JIaPvdoK_YUi685Tw2xY0ZoXmHwuPwp1d_NKqJ
+Sat Nov 2 07:32:17 CST 2024
+Sat Nov 2 07:34:07 CST 2024
+Sat Nov 2 07:34:22 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
