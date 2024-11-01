@@ -130,3 +130,9 @@ Sat Nov 2 04:12:09 CST 2024
 删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Mx92ItH2tVkGda2PVnf9mC9c6w5ayc6SdhWJdYfKQURS9Rf3zluU6OP6fuLR0UgZoquI_0dbPSqD6KUEK1shUw
 删除soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MDQzRjFDQy03ODVDLTRFQUItQTlGRC1BMzExRDkxREM2MEYiLCJ2aWV3ZXItaWQiOiIyNDM2ODM4NSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzA0NzExNTUsImV4cCI6MTczMDQ3MTc1NSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.B1XIBZMZE4S3jKSUFY6ciD5LUnfWsK_akhzAJODSxtfVy0XPKozwJHxao8mJoZ9PIQcidWGK2UTfzr1dZmRK7UP-7fuf1WCvx8qcN30LgUSQhTJTQN0SG2H8N7VWohgs
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Sat Nov 2 04:30:13 CST 2024
+Sat Nov 2 04:30:20 CST 2024
+Sat Nov 2 04:32:18 CST 2024
+Sat Nov 2 04:32:35 CST 2024
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
