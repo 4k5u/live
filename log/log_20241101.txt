@@ -254,3 +254,12 @@ Fri Nov 1 12:29:55 CST 2024
 添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+添加oki_dokie https://edge6-gru.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6f070a9b5e99d2ed199ea723c6a70d55bd7dd9520899de85254e5fa3e50335a5_trns_h264/playlist.m3u8
+添加cuddles_me https://edge1-atl.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-b6fd8b81143ec8b0a8c025338349b096b1697a9db5b872593f2eda2057aa7da8_trns_h264/playlist.m3u8
+Fri Nov 1 12:44:37 CST 2024
+Fri Nov 1 12:44:52 CST 2024
+Fri Nov 1 12:46:53 CST 2024
+Fri Nov 1 12:47:10 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
