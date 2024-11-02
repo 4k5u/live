@@ -155,3 +155,9 @@ Sun Nov 3 05:40:12 CST 2024
 Sun Nov 3 05:40:28 CST 2024
 删除sexygamesx https://edge11-ams.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-25aad9d27f33dd1976a706a265838c3ef6e0aa2069b2430c138b94b144cef222_trns_h264/playlist.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sun Nov 3 05:49:27 CST 2024
+Sun Nov 3 05:49:30 CST 2024
+Sun Nov 3 05:51:32 CST 2024
+Sun Nov 3 05:51:49 CST 2024
+删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TMKKgY0qbLqy1fTJGGWv3MEXyO-IdS1B77XPCSLNLWOav3yWBU_OvAe7OYokyAiRvGHxtOZylBwwZAtfRSKX3w
+删除A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
