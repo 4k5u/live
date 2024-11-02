@@ -172,3 +172,10 @@ Sun Nov 3 06:25:31 CST 2024
 Sun Nov 3 06:27:21 CST 2024
 Sun Nov 3 06:27:36 CST 2024
 删除gina_gracia https://edge7-chi.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-b4f00adfb90127cf1a4c7d5148ae413d4c493d8c40efc7a4e7774a481ea31ba2_trns_h264/playlist.m3u8
+Sun Nov 3 06:41:01 CST 2024
+Sun Nov 3 06:41:06 CST 2024
+Sun Nov 3 06:43:09 CST 2024
+Sun Nov 3 06:43:26 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
