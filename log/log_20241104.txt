@@ -92,3 +92,11 @@ Mon Nov 4 03:20:21 CST 2024
 Mon Nov 4 03:20:38 CST 2024
 添加YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+添加sexygamesx https://edge6-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-26d48bc2e566cdc4334ce8529c10d9ee4bb912d3d7e8d2b1f3fb060758dd1025_trns_h264/playlist.m3u8
+Mon Nov 4 03:29:53 CST 2024
+Mon Nov 4 03:30:00 CST 2024
+Mon Nov 4 03:32:02 CST 2024
+Mon Nov 4 03:32:19 CST 2024
+删除Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
