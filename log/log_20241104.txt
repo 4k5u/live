@@ -141,3 +141,8 @@ Mon Nov 4 05:25:14 CST 2024
 Mon Nov 4 05:25:30 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Mon Nov 4 05:38:56 CST 2024
+Mon Nov 4 05:39:05 CST 2024
+Mon Nov 4 05:41:06 CST 2024
+Mon Nov 4 05:41:23 CST 2024
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
