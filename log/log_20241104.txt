@@ -40,3 +40,10 @@ Mon Nov 4 01:23:45 CST 2024
 删除big541 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.U2mBoSsT9RkVcgRKK70jNjk3zRObe48qaCT9ty4XuqnhCtz-Cvoh-nJR38um2V8RrJO7y2-b7er5XG5niXL3Mw
 删除ake_mi https://edge16-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-7a5a05fc049ab9141ed230de4220fde438533351fb71d0b1ed4e7f91e5c98c06_trns_h264/playlist.m3u8
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+Mon Nov 4 01:34:18 CST 2024
+Mon Nov 4 01:34:37 CST 2024
+Mon Nov 4 01:36:36 CST 2024
+Mon Nov 4 01:36:53 CST 2024
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
