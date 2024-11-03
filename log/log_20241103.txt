@@ -344,3 +344,12 @@ Sun Nov 3 14:44:51 CST 2024
 删除intim_mate https://edge13-lax.live.mmcdn.com/live-hls/amlst:intim_mate-sd-c835793629400b798340da0c1bb5964b17611a9a6247603c484ade89bc005d22_trns_h264/playlist.m3u8
 删除oki_dokie https://edge18-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7b4cca87442de6339927a8bb1f0f108eca8d0a0e3b7ee43599cebc8fb0bc1aa7_trns_h264/playlist.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+添加oki_dokie https://edge9-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7b4cca87442de6339927a8bb1f0f108eca8d0a0e3b7ee43599cebc8fb0bc1aa7_trns_h264/playlist.m3u8
+Sun Nov 3 14:58:11 CST 2024
+Sun Nov 3 14:58:25 CST 2024
+Sun Nov 3 15:00:14 CST 2024
+Sun Nov 3 15:00:30 CST 2024
+添加Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
