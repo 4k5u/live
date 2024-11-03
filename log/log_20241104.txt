@@ -188,3 +188,8 @@ Mon Nov 4 07:41:38 CST 2024
 Mon Nov 4 07:41:55 CST 2024
 添加LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加my_eyes_higher https://edge14-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-72ac70a01af01cfd7c936484d36de5291b2ccd2d90ba317380fb3e5c97eb239d_trns_h264/playlist.m3u8
+Mon Nov 4 07:50:52 CST 2024
+Mon Nov 4 07:51:01 CST 2024
+Mon Nov 4 07:53:00 CST 2024
+Mon Nov 4 07:53:17 CST 2024

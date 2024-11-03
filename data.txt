@@ -11,3 +11,4 @@ jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+my_eyes_higher https://edge14-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-72ac70a01af01cfd7c936484d36de5291b2ccd2d90ba317380fb3e5c97eb239d_trns_h264/playlist.m3u8
