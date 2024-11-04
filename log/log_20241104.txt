@@ -427,3 +427,10 @@ Mon Nov 4 18:47:18 CST 2024
 删除oki_dokie https://edge9-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4f794d957bfe4043d157a23a77e0e03c5b536c10dd1e06ebe4eef6a682d5c886_trns_h264/playlist.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+Mon Nov 4 18:58:10 CST 2024
+添加na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KMLbAVmLZGOm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tNTGJBVm1MWkdPbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMkJBOTY2OC1CNkIwLTRBRTItOThGMy1EODQ1OUZFNEZERDAiLCJ2aWV3ZXItaWQiOiIyNDEzODQ3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzA3MTc5MDQsImV4cCI6MTczMDcxODUwNCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.WBd35gX3geNNtTCTi8iYGMiAO82pByVr7MbVwtmuoU9EQ0Ytgy1ygaVLW0wux0VTT6_UIrO4Uu96DJOqUACw_M60klnXpw0z238FfnVeqOL2F7NJJBr8M7ODBzk97mBj
+Mon Nov 4 18:58:35 CST 2024
+Mon Nov 4 19:00:28 CST 2024
+Mon Nov 4 19:00:43 CST 2024
+添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
+删除sexygamesx https://edge26-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-b61348c22431e8a8cbaadbd728308dfa91e6f5fb5d7106432418467aa053dad5_trns_h264/playlist.m3u8
