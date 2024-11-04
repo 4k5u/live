@@ -193,3 +193,12 @@ Mon Nov 4 07:50:52 CST 2024
 Mon Nov 4 07:51:01 CST 2024
 Mon Nov 4 07:53:00 CST 2024
 Mon Nov 4 07:53:17 CST 2024
+添加gina_gracia https://edge24-atl.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-aad6afbac97c2767f1a1782f38c86fb22a9ffdf5c1b5a553f8f5037e30219989_trns_h264/playlist.m3u8
+Mon Nov 4 08:39:41 CST 2024
+添加nemu00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2PAhGvVvczmJ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJQQWhHdlZ2Y3ptSiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1ODY4QjgxQy03MDVCLTRFQjYtOTAxQS01N0Y1Mjg1QzE5NjciLCJ2aWV3ZXItaWQiOiIyMTEyNTgwMyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzA2ODA3ODgsImV4cCI6MTczMDY4MTM4OCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.wLpfBmu0Lrpg8w_TfYFiXijJH1CL2zd593VRydeaaY7pCoO6QeLwo2AI0CN9UqiyAYhKPe_uKD8UfCgqCSqSwAMhwScz6QiYRTERoWR49Co9kcDVcn-UGMcGaeJ8zQev
+Mon Nov 4 08:39:54 CST 2024
+Mon Nov 4 08:41:43 CST 2024
+Mon Nov 4 08:41:58 CST 2024
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+删除Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
