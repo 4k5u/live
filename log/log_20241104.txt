@@ -459,3 +459,9 @@ Mon Nov 4 19:50:42 CST 2024
 添加dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.2MUvMyqyuQFW.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8yTVV2TXlxeXVRRlciLCJleHAiOjE3MzA3NjM2MDY1MTEsImlhdCI6MTczMDcyMDQwNn0.mqkQs8UglA0cOw5cW24TOncwNne28mLAuIxuJ1vmDIP8FCF25HC3_R7jJPIVrdnHudKEqa26xuE5wC3C2V9MmEgwetpiNHON3V9l_cKg84r5UTuMjLVqhcNLdFYOoSnw
 Mon Nov 4 19:51:00 CST 2024
 添加kyul365 https://usher.ttvnw.net/api/channel/hls/kyul365.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22kyul365%22%2C%22channel_id%22%3A759214227%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1730722260%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.157.104%22%2C%22version%22%3A2%7D&sig=dd9f1c69b8d6366b4945a5571e12ac5692c38a0e&allow_source=true&allow_audio_only=true
+Mon Nov 4 19:59:35 CST 2024
+Mon Nov 4 20:00:11 CST 2024
+Mon Nov 4 20:02:10 CST 2024
+Mon Nov 4 20:02:27 CST 2024
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
