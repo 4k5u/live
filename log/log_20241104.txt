@@ -374,3 +374,10 @@ Mon Nov 4 16:51:03 CST 2024
 Mon Nov 4 16:51:25 CST 2024
 添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+Mon Nov 4 16:59:38 CST 2024
+Mon Nov 4 16:59:53 CST 2024
+添加yeosi1004 ?aid=.A32.7bbT56vyHM9fKZk.rrGeAV-O7fv9qrzxb4vEFEEhMHx1O6AQt3H5MzP33hqfXaMJtjXiIneMfQNKlXOxd0E3dWmtJGFXcwfG3ZgRvg
+Mon Nov 4 17:01:51 CST 2024
+Mon Nov 4 17:02:07 CST 2024
+删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
