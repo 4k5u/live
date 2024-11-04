@@ -4,3 +4,4 @@ starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
 YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+oki_dokie https://edge14-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4424c47bd40b0da8b4a689764269bec506d10b1fb93aa624f6a6b5bc01d5dbe3_trns_h264/playlist.m3u8
