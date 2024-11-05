@@ -133,3 +133,8 @@ Wed Nov 6 05:09:36 CST 2024
 Wed Nov 6 05:11:34 CST 2024
 Wed Nov 6 05:11:50 CST 2024
 删除A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
+Wed Nov 6 05:27:33 CST 2024
+Wed Nov 6 05:27:36 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7Z8tTACuqDoByy2I8qgFUKW9rcvmj-fGe_Yn5Vi3ARFgt5iPD-CLd0ZpDrPIrY7U1_pGFDfxwZBzoiLovTfewQ
+Wed Nov 6 05:29:33 CST 2024
+Wed Nov 6 05:29:48 CST 2024
