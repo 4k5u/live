@@ -157,3 +157,7 @@ Wed Nov 6 06:34:22 CST 2024
 Wed Nov 6 06:34:38 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除oki_dokie https://edge13-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-70486229ea15981ac51baeae52596f82b5c8bc86eb4c7338cec469349a35dba7_trns_h264/playlist.m3u8
+Wed Nov 6 06:47:46 CST 2024
+Wed Nov 6 06:47:51 CST 2024
+Wed Nov 6 06:49:53 CST 2024
+Wed Nov 6 06:50:11 CST 2024
