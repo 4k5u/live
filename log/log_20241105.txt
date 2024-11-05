@@ -378,3 +378,10 @@ Tue Nov 5 16:49:09 CST 2024
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+Tue Nov 5 16:58:06 CST 2024
+Tue Nov 5 16:58:24 CST 2024
+Tue Nov 5 17:00:29 CST 2024
+Tue Nov 5 17:00:46 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除your_desssert https://edge6-lax.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b40aaac1a2a9de6254d2b5b1961f80c846ae9ee3d2ba2a643456cb998f09e061_trns_h264/playlist.m3u8
