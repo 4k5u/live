@@ -5,8 +5,6 @@ muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 oki_dokie https://edge13-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-70486229ea15981ac51baeae52596f82b5c8bc86eb4c7338cec469349a35dba7_trns_h264/playlist.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 kiyoko_rin https://edge10-slc.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-5b7f0a7d389f378aa590c652eff51f79cdbc4ed1257bb32ba478b62c91c44456_trns_h264/playlist.m3u8
-cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
-LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
