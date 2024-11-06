@@ -182,3 +182,10 @@ Wed Nov 6 07:52:43 CST 2024
 Wed Nov 6 07:53:00 CST 2024
 添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+添加oda_assuri https://edge16-aus.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-a2a488ff89cd581cdbb22609aac69aead62c6aa810c0e0333a218df8c73a8053_trns_h264/playlist.m3u8
+Wed Nov 6 08:34:45 CST 2024
+Wed Nov 6 08:34:52 CST 2024
+Wed Nov 6 08:36:48 CST 2024
+Wed Nov 6 08:37:04 CST 2024
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
