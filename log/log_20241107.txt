@@ -179,3 +179,9 @@ Thu Nov 7 06:59:36 CST 2024
 Thu Nov 7 07:01:38 CST 2024
 Thu Nov 7 07:01:56 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Thu Nov 7 07:23:00 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQTFEMUE0Ny03NTk1LTQxOTctOUIwRC00QUE4NjM2Qjg0NDUiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzA5MzUzODQsImV4cCI6MTczMDkzNTk4NCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.Lp2tURNTCk76z5UY9vDSxw8yLz5mUah_A2WX1BpcF65jRKPeq5kwV1QujjdOsguLT8-CyQqIor_fvyndUscq6BEQ5rbOg-6X5gGkwUxoUgJKTt6WYZ2RByULtP_XQS3P
+Thu Nov 7 07:23:14 CST 2024
+Thu Nov 7 07:25:06 CST 2024
+Thu Nov 7 07:25:22 CST 2024
+删除sexygamesx https://edge8-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d57192cd27cb3a5604902e8cdf8fc0e0df45fbdaaf3cf4092faaf182d9a9a629_trns_h264/playlist.m3u8
