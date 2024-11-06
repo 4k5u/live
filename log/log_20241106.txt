@@ -316,3 +316,8 @@ Wed Nov 6 14:30:48 CST 2024
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+Wed Nov 6 14:46:36 CST 2024
+Wed Nov 6 14:46:55 CST 2024
+Wed Nov 6 14:48:51 CST 2024
+Wed Nov 6 14:49:08 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
