@@ -176,3 +176,9 @@ Fri Nov 8 06:53:13 CST 2024
 Fri Nov 8 06:55:15 CST 2024
 Fri Nov 8 06:55:32 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Fri Nov 8 07:19:00 CST 2024
+Fri Nov 8 07:19:05 CST 2024
+Fri Nov 8 07:21:02 CST 2024
+Fri Nov 8 07:21:19 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
