@@ -323,3 +323,9 @@ Thu Nov 7 13:43:10 CST 2024
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 删除-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加your_desssert https://edge7-mia.live.mmcdn.com/live-hls/amlst:your_desssert-sd-7b523e930b4334ce98dcf803f8628e5443907b4172e5c9fab82ec7deb82863d9_trns_h264/playlist.m3u8
+Thu Nov 7 13:52:19 CST 2024
+Thu Nov 7 13:52:26 CST 2024
+Thu Nov 7 13:54:28 CST 2024
+Thu Nov 7 13:54:44 CST 2024
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
