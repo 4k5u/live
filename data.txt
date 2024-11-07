@@ -3,7 +3,6 @@ Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 oda_assuri https://edge7-sea.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-07a68a5e1d7683431f6033f9faee25fbebdd55cc8647b51dd152965fa74845df_trns_h264/playlist.m3u8
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
-alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 oki_dokie https://edge7-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e44252991fdf80379d3483cf5142f6c76db508f17aaaafce43cb607410e81552_trns_h264/playlist.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
