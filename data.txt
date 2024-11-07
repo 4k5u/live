@@ -26,3 +26,5 @@ oki_dokie https://edge7-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e44252991
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 -o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
 Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
