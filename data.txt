@@ -9,3 +9,4 @@ big541 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playli
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
