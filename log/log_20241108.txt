@@ -52,3 +52,8 @@ Fri Nov 8 01:24:03 CST 2024
 删除Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
 删除na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KMLbAVmLZGOm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tNTGJBVm1MWkdPbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2QzU3QjA1Ni1GMzU3LTQ0Q0MtQjQ3Qy00NjU1RDNENzA1MTQiLCJ2aWV3ZXItaWQiOiIyNDEzODQ3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzA5OTI4ODMsImV4cCI6MTczMDk5MzQ4MywiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.rVfNCgJfMRa6huz3Ro-2WCyIDwY7wF-5XxyW-kpnuCFkH22QPC0gONSb4aOZKI7qFSw-xS87-Ohh0LpI6OqGy5SImRmBxnDOC0-_iiObEIh-sOId48UsKc9uKNxGfqp_
 删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
+Fri Nov 8 01:34:46 CST 2024
+Fri Nov 8 01:35:14 CST 2024
+Fri Nov 8 01:37:15 CST 2024
+Fri Nov 8 01:37:32 CST 2024
+删除1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gl5lxAG9itk230meL1GEqV85i806Q3lROo1Ik5Tg7F8pe9K27OcT5-6c9pzlfw_-XiS-8-4Z3QHuzZKh6KyQXQ
