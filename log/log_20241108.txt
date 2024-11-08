@@ -481,3 +481,10 @@ Fri Nov 8 19:31:40 CST 2024
 Fri Nov 8 19:33:31 CST 2024
 Fri Nov 8 19:33:47 CST 2024
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+添加oki_dokie https://edge26-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ca7682869d5dd336119987e9d6f90992e6e6b8c9a9e1a6e9768f1e5d835c5727_trns_h264/playlist.m3u8
+Fri Nov 8 19:42:13 CST 2024
+添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NEQzQjcwRi05MjVBLTQ3NTktQjk5RS0wNDk1RkVGMzE0NEIiLCJ2aWV3ZXItaWQiOiIyMjg1NzUzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzEwNjYxNTMsImV4cCI6MTczMTA2Njc1MywiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.hCAO-K97scW5Y3KRlrXayvuLHEfBamzwUhCSgYmY9VQCR27JnFqKH6n1nNsjr2E7quSLywMdlmr-idSqkJvkYxyhpzIIUfcsMsDTOZihxeVPZnthP_67Omi3ugA05FUk
+Fri Nov 8 19:42:48 CST 2024
+添加yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.mOVZ-F-t_AhxXgDNM7lAm-CtA8MlBcq06ySEXREREpNUOjr9HuLPveVQ-sdWhuJeu0PvuyTMZb1fFkBH4UWFUg
+Fri Nov 8 19:44:52 CST 2024
+Fri Nov 8 19:45:08 CST 2024
