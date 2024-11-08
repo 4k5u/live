@@ -14,3 +14,4 @@ gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_pl
 gina_gracia https://edge13-aus.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-09e4d55942e7981af120431cecf70a4a18a5e64c9d356ccd7eaf23ed99afbe9c_trns_h264/playlist.m3u8
 mazzanti_ https://edge28-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-8a78e2f4f97b32017f62db2b9821727e3241c1a5248ff8e96daaaa898c3fa806_trns_h264/playlist.m3u8
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+my_eyes_higher https://edge16-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8ba47022958600e68a4182b7a3c7904613f63f71b60ae157afade1cd0b57a6c4_trns_h264/playlist.m3u8
