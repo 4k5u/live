@@ -96,3 +96,8 @@ Sat Nov 9 03:19:52 CST 2024
 Sat Nov 9 03:21:48 CST 2024
 Sat Nov 9 03:22:04 CST 2024
 添加YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+Sat Nov 9 03:30:14 CST 2024
+Sat Nov 9 03:30:29 CST 2024
+Sat Nov 9 03:32:20 CST 2024
+Sat Nov 9 03:32:35 CST 2024
+删除sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.m9dOZX0bihwkcIKsR-tyiNOBwlBU4-8W30sgOAHANDLAFQeejCUVTSQNctX6IINGgdTwW51APSdmE5JNNufzyg
