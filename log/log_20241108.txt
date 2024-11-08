@@ -249,3 +249,9 @@ Fri Nov 8 11:39:39 CST 2024
 添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Fri Nov 8 11:48:50 CST 2024
+Fri Nov 8 11:48:59 CST 2024
+Fri Nov 8 11:50:49 CST 2024
+Fri Nov 8 11:51:04 CST 2024
+添加-o-Sundae https://edge-hls.doppiocdn.live/hls/97037868/master/97037868_auto.m3u8
+添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
