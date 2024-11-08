@@ -411,3 +411,18 @@ Fri Nov 8 17:00:04 CST 2024
 Fri Nov 8 17:00:22 CST 2024
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+Fri Nov 8 17:22:56 CST 2024
+添加dana9282 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.f3h98P9qXjHb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2YzaDk4UDlxWGpIYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMkIxMEQ3OS02Qzk1LTQ0RkEtQjFGNi0wQTQ1NEVGMjVDOTYiLCJ2aWV3ZXItaWQiOiIxOTA4NDIwNiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzEwNTc3ODEsImV4cCI6MTczMTA1ODM4MSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.lK5EKsR50poVUosqM2KSgHxtFLE-G3H8CkLeRNtoipurHZ-AbWmzSrX8VhjgqqcsCKCENuhI3aMmUuGVJy6WF5jrhCoea7YJGLQmpwt_d9rAS7Goe8ugRiltRicmpLxJ
+Fri Nov 8 17:23:16 CST 2024
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.W9y6c8xSfhPaOKHL9VLCvmZ-3RaWSfP4a3BEyEaGtG3FjkmAmFI-Av_7Fc13WEyQOnHKVRHoTdTImolsovXJVA
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.FI0ccrAGkjlmMojWzpr_JAf-6VKiazaPXc8xDFqS6MqrUC6B71P618MJbMtKUbjQargkiDepqf1EqA1uRVOyaw
+Fri Nov 8 17:25:37 CST 2024
+Fri Nov 8 17:25:54 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除honey_pinkgreen https://edge3-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-0a23ee9d51a6a41570bf8fa620c48cd3419e0c3d9604adc773a2fd8469ed0e77_trns_h264/playlist.m3u8
+删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
