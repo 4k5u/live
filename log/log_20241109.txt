@@ -478,3 +478,9 @@ Sat Nov 9 18:42:49 CST 2024
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除oki_dokie https://edge2-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0e22481e2901a8d0a216fc03a8944838a53c2c2005c636a2a0e3c58ad9d7047c_trns_h264/playlist.m3u8
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+Sat Nov 9 18:51:46 CST 2024
+Sat Nov 9 18:52:03 CST 2024
+Sat Nov 9 18:53:59 CST 2024
+Sat Nov 9 18:54:15 CST 2024
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
