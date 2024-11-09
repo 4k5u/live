@@ -643,3 +643,9 @@ Sat Nov 9 23:42:55 CST 2024
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Sat Nov 9 23:51:20 CST 2024
+Sat Nov 9 23:51:51 CST 2024
+Sat Nov 9 23:53:50 CST 2024
+Sat Nov 9 23:54:07 CST 2024
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除oki_dokie https://edge8-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-df200b48c593fdb85dff56e76ca869d18316c7eea9a5948817db753837671af9_trns_h264/playlist.m3u8
