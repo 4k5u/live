@@ -192,3 +192,9 @@ Sat Nov 9 07:42:40 CST 2024
 Sat Nov 9 07:42:49 CST 2024
 Sat Nov 9 07:44:49 CST 2024
 Sat Nov 9 07:45:06 CST 2024
+Sat Nov 9 07:58:45 CST 2024
+Sat Nov 9 07:58:54 CST 2024
+Sat Nov 9 08:00:44 CST 2024
+Sat Nov 9 08:01:00 CST 2024
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
