@@ -183,3 +183,8 @@ Mon Nov 11 06:42:09 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除my_eyes_higher https://edge15-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-04133c4b0b1f2af51460bf712cd7174f0bebce1fd14a5b5a4d941530b3d592cd_trns_h264/playlist.m3u8
+添加oki_dokie https://edge5-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0174e89875424f19bd468af77231aca466759625634665f3f63bda0eea9d762c_trns_h264/playlist.m3u8
+Mon Nov 11 06:51:18 CST 2024
+Mon Nov 11 06:51:27 CST 2024
+Mon Nov 11 06:53:28 CST 2024
+Mon Nov 11 06:53:46 CST 2024
