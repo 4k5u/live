@@ -466,3 +466,8 @@ Sun Nov 10 19:21:24 CST 2024
 删除honey_pinkgreen https://edge2-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-28e2de40fb239b2180299780373e667a9d31377c53de7464a295a8a81998298b_trns_h264/playlist.m3u8
 删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Sun Nov 10 19:29:48 CST 2024
+Sun Nov 10 19:30:11 CST 2024
+Sun Nov 10 19:32:07 CST 2024
+Sun Nov 10 19:32:24 CST 2024
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
