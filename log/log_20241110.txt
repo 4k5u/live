@@ -219,3 +219,13 @@ Sun Nov 10 10:56:39 CST 2024
 删除kiyoko_rin https://edge14-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-ed9769d5a8d9cc522629d3ebcf8b384b11ccd8bb9a5d08d3966bcc867f753bb8_trns_h264/playlist.m3u8
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sun Nov 10 11:24:34 CST 2024
+Sun Nov 10 11:24:41 CST 2024
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+Sun Nov 10 11:26:43 CST 2024
+Sun Nov 10 11:26:59 CST 2024
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除oki_dokie https://edge16-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-19bdb527658858e3d798495e9076feea8e281f704f78167c78f4915f60dd4c03_trns_h264/playlist.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
