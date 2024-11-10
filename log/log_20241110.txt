@@ -354,3 +354,10 @@ Sun Nov 10 15:44:47 CST 2024
 删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 删除your_desssert https://edge14-aus.live.mmcdn.com/live-hls/amlst:your_desssert-sd-68c775e3de5c5e795fd76d22b8ab4ab7b5e3a89d5c5ffca37e9d85c7ee4ea344_trns_h264/playlist.m3u8
+Sun Nov 10 15:57:45 CST 2024
+添加dana9282 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.f3h98P9qXjHb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2YzaDk4UDlxWGpIYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3QzE0QzZCQy1CMTI0LTQxMjYtQTlBMS1FRjA0OTM3RENFNUYiLCJ2aWV3ZXItaWQiOiIxOTA4NDIwNiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzEyMjU0NzIsImV4cCI6MTczMTIyNjA3MiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.yes-kxkAfPfOwg5N01RYR3Unpvca33-1YZRACW80HaahtTqfaeM31nO4Ky2HvLlD6bjhQUzGqMxg8QTxFZweO-0y0M9iYdsOd67gBIDNcqk8QSpa-sXUxHKb5NaKIpyu
+Sun Nov 10 15:58:05 CST 2024
+Sun Nov 10 16:00:07 CST 2024
+Sun Nov 10 16:00:24 CST 2024
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
