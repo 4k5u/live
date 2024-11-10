@@ -313,3 +313,8 @@ Sun Nov 10 14:34:04 CST 2024
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Sun Nov 10 14:45:51 CST 2024
+Sun Nov 10 14:46:06 CST 2024
+Sun Nov 10 14:48:07 CST 2024
+Sun Nov 10 14:48:24 CST 2024
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
