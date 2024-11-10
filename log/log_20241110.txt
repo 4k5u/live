@@ -252,3 +252,8 @@ Sun Nov 10 12:27:10 CST 2024
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Sun Nov 10 12:42:13 CST 2024
+Sun Nov 10 12:42:23 CST 2024
+Sun Nov 10 12:44:14 CST 2024
+Sun Nov 10 12:44:29 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
