@@ -477,3 +477,11 @@ Sun Nov 10 19:41:29 CST 2024
 Sun Nov 10 19:43:27 CST 2024
 Sun Nov 10 19:43:44 CST 2024
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加oki_dokie https://edge2-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-eeb2b9bf823c01e01cec3093fd52efaa6d1d0b757dbf8b90642eb663e6652833_trns_h264/playlist.m3u8
+Sun Nov 10 19:52:21 CST 2024
+Sun Nov 10 19:52:44 CST 2024
+Sun Nov 10 19:54:44 CST 2024
+Sun Nov 10 19:55:01 CST 2024
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
+删除akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCRUIzRUE2MS1EREIyLTQ5RTEtOEUzOS1BMTQ3MUU4Qjc5RjIiLCJ2aWV3ZXItaWQiOiIyNDg2NDU2MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzEyMzQwNzksImV4cCI6MTczMTIzNDY3OSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.mcXcHNrWrdVYPga8FBsJ-BuhzfcqDj9jJwcnEtBz1w-yZ-ATx30Rjwomy6wmWb4clqkSEoBCU6_RBDS3l11NsupXfFumd0Y-cH5mlt6BHNsgNYY6WgKZX5_1p81xcdvy
