@@ -258,3 +258,10 @@ Mon Nov 11 11:00:01 CST 2024
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除intim_mate https://edge7-aus.live.mmcdn.com/live-hls/amlst:intim_mate-sd-e9e325629ab43d546d47c7a1fe2b99cf84fb18e3b2806a72b55e07d7e3feac6f_trns_h264/playlist.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Mon Nov 11 11:26:57 CST 2024
+Mon Nov 11 11:27:10 CST 2024
+Mon Nov 11 11:29:07 CST 2024
+Mon Nov 11 11:29:23 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除oki_dokie https://edge5-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0174e89875424f19bd468af77231aca466759625634665f3f63bda0eea9d762c_trns_h264/playlist.m3u8
+删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
