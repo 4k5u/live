@@ -273,3 +273,9 @@ Mon Nov 11 11:46:42 CST 2024
 Mon Nov 11 11:46:57 CST 2024
 删除my_eyes_higher https://edge3-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7c38312a6634829a774302757100364345c1a0a433475cc4057df1f31267b0f0_trns_h264/playlist.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加gina_gracia https://edge5-chi.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-b88c65fbdb84977fd80123e87c7dba35f399bd30c44d0cfe4c6851d4ccda4baa_trns_h264/playlist.m3u8
+Mon Nov 11 11:57:49 CST 2024
+Mon Nov 11 11:58:04 CST 2024
+Mon Nov 11 12:00:01 CST 2024
+Mon Nov 11 12:00:17 CST 2024
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
