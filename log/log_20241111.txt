@@ -291,3 +291,9 @@ Mon Nov 11 12:29:33 CST 2024
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除hee_jeen https://edge6-lax.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-fe63675f7e0d361c8e2bef1d3c93d473a914138983829cf152a54ea0d297da4f_trns_h264/playlist.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Mon Nov 11 12:43:00 CST 2024
+Mon Nov 11 12:43:13 CST 2024
+Mon Nov 11 12:45:09 CST 2024
+Mon Nov 11 12:45:25 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
