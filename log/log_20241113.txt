@@ -66,3 +66,8 @@ Wed Nov 13 02:34:49 CST 2024
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Qm1qrodk7epGp4bh94AZV3JMQbRGuAonaS182NihSnYwQ3Lr6Cw_EjBvpGUV0948FUhEiJONFbKGVplJboGGdQ
 删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+Wed Nov 13 02:49:15 CST 2024
+Wed Nov 13 02:49:29 CST 2024
+Wed Nov 13 02:51:28 CST 2024
+Wed Nov 13 02:51:46 CST 2024
+删除Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
