@@ -140,3 +140,8 @@ Wed Nov 13 06:30:22 CST 2024
 Wed Nov 13 06:32:19 CST 2024
 Wed Nov 13 06:32:36 CST 2024
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Wed Nov 13 06:43:17 CST 2024
+Wed Nov 13 06:43:26 CST 2024
+Wed Nov 13 06:45:27 CST 2024
+Wed Nov 13 06:45:44 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
