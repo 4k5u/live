@@ -352,3 +352,8 @@ Tue Nov 12 15:35:06 CST 2024
 删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Tue Nov 12 15:47:45 CST 2024
+Tue Nov 12 15:47:52 CST 2024
+Tue Nov 12 15:49:49 CST 2024
+Tue Nov 12 15:50:05 CST 2024
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
