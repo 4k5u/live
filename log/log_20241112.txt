@@ -357,3 +357,11 @@ Tue Nov 12 15:47:52 CST 2024
 Tue Nov 12 15:49:49 CST 2024
 Tue Nov 12 15:50:05 CST 2024
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Tue Nov 12 15:59:05 CST 2024
+添加maby33 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ROEQ3JbhTQeQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1JPRVEzSmJoVFFlUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwQzc5NUQ4NS1DQ0YwLTRFQ0UtOEVGNy1CMzNFNDk1RkY3RDYiLCJ2aWV3ZXItaWQiOiIxODAwMDY2NiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzEzOTgzNDYsImV4cCI6MTczMTM5ODk0NiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.5nACQdT8s-BRoBulcZYe7xYXBUCTs_FhBpsr46yyQJELX8IWgn2tdZD6aAg_p119xJ_Ia26reh38kIXfgeIzrR28-23YFA9eZCigRBL_-4Kt12xgjMcHxPaMq7_E-d3u
+Tue Nov 12 15:59:19 CST 2024
+Tue Nov 12 16:01:18 CST 2024
+Tue Nov 12 16:01:35 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
