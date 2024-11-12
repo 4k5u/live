@@ -12,3 +12,4 @@ jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 oki_dokie https://edge6-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1665cb7f0dd4a2149d31c3d6668ae82e61d265628c1c67aadce05f5456fac482_trns_h264/playlist.m3u8
 Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
