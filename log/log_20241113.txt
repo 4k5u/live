@@ -160,3 +160,9 @@ Wed Nov 13 07:33:49 CST 2024
 Wed Nov 13 07:34:00 CST 2024
 Wed Nov 13 07:36:01 CST 2024
 Wed Nov 13 07:36:18 CST 2024
+Wed Nov 13 07:48:22 CST 2024
+Wed Nov 13 07:48:33 CST 2024
+Wed Nov 13 07:50:23 CST 2024
+Wed Nov 13 07:50:38 CST 2024
+添加Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
