@@ -22,3 +22,4 @@ axcvdbs23 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yjF1eVLDdB_dM2YDIFJqj2UotmWu1PgtZ8WFYUEzUEDZvTxFlL9-Jvw1WRw3yGQoo1nNEDWTeHWVluSZO9a8CFDlDYXFlSoE1fkUJuB2uU4
 danhana https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.WskmuSNNRNQk.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9Xc2ttdVNOTlJOUWsiLCJleHAiOjE3MzE1MzE2NTY0MTUsImlhdCI6MTczMTQ4ODQ1Nn0.S-mbWJ_OcXvbQKIeOOtYxAYLzQVSFahO8PX1HuIYZgxAzPRCnR2O9p313Px1QaEOOvhUqOF4zyOSEt44jgI1Ja6bZH7XDSJnjBo9qXAYGOJJ9LU98SReTjevHXS5hzT8
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8

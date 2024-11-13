@@ -352,3 +352,8 @@ Wed Nov 13 17:11:52 CST 2024
 删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 删除AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+Wed Nov 13 17:29:56 CST 2024
+Wed Nov 13 17:30:15 CST 2024
+Wed Nov 13 17:32:18 CST 2024
+Wed Nov 13 17:32:35 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
