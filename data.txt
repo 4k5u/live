@@ -3,10 +3,8 @@ oda_assuri https://edge17-ash.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-201228
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
-alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
-ake_mi https://edge16-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-4c17e0e1045e8cf7b17371c1df5bd07d8b35197d2ac1103bce1c4a731a64e626_trns_h264/playlist.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 foxylovesyou https://edge19-sea.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-f8f2741f6ee758048c99ec054f0b3754a4aef992c33a71ab017dd4c6c9bdacd4_trns_h264/playlist.m3u8
@@ -18,3 +16,4 @@ twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_
 gina_gracia https://edge16-ash.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-c17b8b144ae6ef3ae956f4f7167cafeed1d7355787b80ef4afc367bf54c71593_trns_h264/playlist.m3u8
 LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vTXw33LFxeDE2p2KvPisY4KJG2FFHXeTcnUoBtvtvY92XXTvBF20Cu90oavwdJPMGGK0A3s8jV4f2RZKHWgAuTu24c38nnLKW1xerUdlFTw
+Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
