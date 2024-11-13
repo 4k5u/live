@@ -220,3 +220,9 @@ Wed Nov 13 11:49:45 CST 2024
 Wed Nov 13 11:51:47 CST 2024
 Wed Nov 13 11:52:04 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Wed Nov 13 12:00:37 CST 2024
+Wed Nov 13 12:00:50 CST 2024
+Wed Nov 13 12:02:52 CST 2024
+Wed Nov 13 12:03:09 CST 2024
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
