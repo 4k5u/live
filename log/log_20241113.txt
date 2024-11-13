@@ -311,3 +311,9 @@ Wed Nov 13 15:23:39 CST 2024
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+添加gina_gracia https://edge16-ash.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-c17b8b144ae6ef3ae956f4f7167cafeed1d7355787b80ef4afc367bf54c71593_trns_h264/playlist.m3u8
+Wed Nov 13 15:33:23 CST 2024
+Wed Nov 13 15:33:36 CST 2024
+Wed Nov 13 15:35:33 CST 2024
+Wed Nov 13 15:35:50 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
