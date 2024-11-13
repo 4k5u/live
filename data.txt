@@ -20,3 +20,5 @@ AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 iminako https://edge20-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-57a8bcdbce48f09b80b15cf5378b08841ff3e40986e0b1baac477adb5a2ec659_trns_h264/playlist.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.EhbZ9dOE_iE8vlUjlyA4sbdKQz31QVAXWOml77ltbBdEC0iaCOp9LF48uLs-lj3u-g9Q9jj5SbtP39Yec14u8Q
+SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
