@@ -358,3 +358,11 @@ Thu Nov 14 15:50:40 CST 2024
 删除getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNjIzOTY1MC1BOTgyLTRBMzktQUQyNi0yNUE4QzA3Qzk5MUYiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzE1NTIyMjcsImV4cCI6MTczMTU1MjgyNywiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.1x6VX214_v5EwMATX4PxMTOlisZA2RLIXPTA2oZEdUGEKGOUtQSFhBPkOiHdkTOaXZqsxyCa9amMyRGnxJa4R0ypEiSBlvnT3HgGRIIneFn5TuUC8PhkBDKWzI8HToH6
 删除Asian2021 https://edge-hls.doppiocdn.live/hls/46540334/master/46540334_auto.m3u8
 删除ake_mi https://edge2-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c43e5eb9753b9eae12f87f7db156aa052d942761d0b1faab9510e011586e3e97_trns_h264/playlist.m3u8
+Thu Nov 14 15:59:15 CST 2024
+Thu Nov 14 15:59:31 CST 2024
+Thu Nov 14 16:01:33 CST 2024
+Thu Nov 14 16:01:49 CST 2024
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
