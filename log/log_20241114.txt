@@ -589,3 +589,11 @@ Thu Nov 14 22:46:02 CST 2024
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Thu Nov 14 22:57:56 CST 2024
+Thu Nov 14 22:58:37 CST 2024
+Thu Nov 14 23:00:40 CST 2024
+Thu Nov 14 23:00:58 CST 2024
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WQ7u1dLJCqQ28YRlECghf3BTfr9Wpbd-UIGjtR5yM8v2A-jqMtBH400LkQaEODuCkElFk8NRuCWOvFos2ToxTBeutfG5H6mTLYitc3u1QeU
