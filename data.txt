@@ -4,9 +4,7 @@ sonming52 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VLaEBIq7sBo0XW1MbBIIRoGEyfRZ_S1Cae0iMLTkubVqLXwaFashJX_A7S4_1CbH3rCL5SKMSOfpIXfU9zcQ_Arn-9gbX26hTRCBWU-Cq7c
 cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 big541 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HxUPEVnGBz7yX8btfOPdJc7jnA4QES03VNKSD-scOtJz86L7a2tG550srzgk6uiE-2iWVS6bkHk1YFCmQZpPLgmlZP6zDHKS_G-PAxzmQ6Y
-jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
-Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
 leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.FZ7K4plhMgooqE22WMLDOxApEYCY1kIsX7QTnt38gp335gLBZtyfm9BqtOkQzXB1kha8Ld7owuw4ZimNGtx4P9wJ9YinzDUYzHGJV0h215g
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie https://edge11-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8f4c725bfd29a149e7a9e0a3379b7acf2ff3981d0ec62004af18a30803265863_trns_h264/playlist.m3u8
@@ -16,3 +14,4 @@ Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.
 A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
