@@ -401,3 +401,8 @@ Fri Nov 15 17:33:15 CST 2024
 删除sexygamesx https://edge7-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-24e1e9abd91cfb9dc53db7069f61c4a5025889639d0919f7abcf79543cf784a6_trns_h264/playlist.m3u8
 删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=null
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Fri Nov 15 17:43:22 CST 2024
+Fri Nov 15 17:43:39 CST 2024
+Fri Nov 15 17:45:37 CST 2024
+Fri Nov 15 17:45:53 CST 2024
+删除oda_assuri https://edge16-aus.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-38865e254d875a7689cf4fa53cb436a205edf2a2b46f3aedacf8bf737f2f4bb6_trns_h264/playlist.m3u8
