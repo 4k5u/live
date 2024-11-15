@@ -556,3 +556,11 @@ Fri Nov 15 22:45:59 CST 2024
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zhqzrljc820FAbe5hUvAnVJwNJvUbgkS7AQNQ72bQqbZNSkv7as_lZp2xMEa_DotUm9D20firjCcxyb6h4a9CZtXZLFR3961l0Ls0sNmMkFH11bFUybN2blAbe0JFlFz
 删除m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.P4-2C0R6L74hdXbr1CDSVmoxU0Y33HMA1GTe07Ut2HArXE2AKdppA_cF3NMEf6wZ6tdXiG4hWgauX3UXVVXvDICa012X5OMIXbmt2Hgih_zQEMW9c5biWgOMLmkc40FM
+Fri Nov 15 22:57:53 CST 2024
+Fri Nov 15 22:58:42 CST 2024
+Fri Nov 15 23:00:46 CST 2024
+Fri Nov 15 23:01:04 CST 2024
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除your_desssert https://edge2-lax.live.mmcdn.com/live-hls/amlst:your_desssert-sd-a2cf0b09e4e92e056aa33943618cddfbc14c32381dc8138658b505c5076f4ef1_trns_h264/playlist.m3u8
