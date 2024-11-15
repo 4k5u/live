@@ -99,3 +99,12 @@ Sat Nov 16 03:58:23 CST 2024
 Sat Nov 16 04:00:22 CST 2024
 Sat Nov 16 04:00:39 CST 2024
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+添加cuddles_me https://edge15-sea.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-5f79b3d75fcd57ffb7a71c1c1ccba5bbf24e9174d4720067f94536d1431c37dd_trns_h264/playlist.m3u8
+Sat Nov 16 04:26:31 CST 2024
+Sat Nov 16 04:26:38 CST 2024
+Sat Nov 16 04:28:28 CST 2024
+Sat Nov 16 04:28:43 CST 2024
+删除sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.X532zbtUFD5xs3sDPv9Q58mKhGGLVhlL26fZOvDVIhe0bHmx7GXK1kxAddRdS-NIo-h69p9mE98JMpTp7glqgNvIWmofdh_QiXX9O5eh_kxA1TX02AiWiFonRH-_5uQK
+删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.n7fjSdDliOsmQA-ssnsmfyxl5aVfWQqPutkHlCjS3YO7dKmNYHinYrGi9ao2RDQw7paRxV_dcG7XPKkFBBtFAKYw3jLBs_P30f62uJow6ub-7RU76MX6EXzPuNSwTFVp
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除foxylovesyou https://edge15-atl.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-cccde58e93285364a677238a63d7206ec106ceff8acaa1a48d273f18e856a9f5_trns_h264/playlist.m3u8
