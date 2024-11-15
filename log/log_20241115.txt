@@ -264,3 +264,9 @@ Fri Nov 15 12:51:10 CST 2024
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Fri Nov 15 13:01:00 CST 2024
+Fri Nov 15 13:01:13 CST 2024
+Fri Nov 15 13:03:03 CST 2024
+Fri Nov 15 13:03:18 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
