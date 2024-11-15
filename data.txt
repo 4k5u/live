@@ -7,3 +7,5 @@ slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+oki_dokie https://edge13-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-788a9d539315f4170d7dc76e7e3d0c9fe382b47b90a0618fac005b0da0907f37_trns_h264/playlist.m3u8
+mazzanti_ https://edge13-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-c2404d0ab08e799668ce1071cc6b53f4ffa1d8bf7698ba2c3a662696255fb5b6_trns_h264/playlist.m3u8
