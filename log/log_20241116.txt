@@ -143,3 +143,10 @@ Sat Nov 16 05:59:31 CST 2024
 Sat Nov 16 05:59:44 CST 2024
 Sat Nov 16 06:01:42 CST 2024
 Sat Nov 16 06:01:59 CST 2024
+Sat Nov 16 06:27:49 CST 2024
+Sat Nov 16 06:27:59 CST 2024
+Sat Nov 16 06:29:49 CST 2024
+Sat Nov 16 06:30:04 CST 2024
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除oki_dokie https://edge18-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d71f298cfca95423d02489e1da191ac09a5534c57cf1d691e109f9c2a3993543_trns_h264/playlist.m3u8
