@@ -406,3 +406,8 @@ Fri Nov 15 17:43:39 CST 2024
 Fri Nov 15 17:45:37 CST 2024
 Fri Nov 15 17:45:53 CST 2024
 删除oda_assuri https://edge16-aus.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-38865e254d875a7689cf4fa53cb436a205edf2a2b46f3aedacf8bf737f2f4bb6_trns_h264/playlist.m3u8
+Fri Nov 15 17:58:01 CST 2024
+Fri Nov 15 17:58:18 CST 2024
+Fri Nov 15 18:00:15 CST 2024
+Fri Nov 15 18:00:31 CST 2024
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
