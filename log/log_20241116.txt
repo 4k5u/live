@@ -546,3 +546,9 @@ Sat Nov 16 23:28:57 CST 2024
 删除your_desssert https://edge13-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-174a3b341240a29e69861b03eb7c76cc7e187ce044d6ac5a4136b12c1a5f5166_trns_h264/playlist.m3u8
 删除oki_dokie https://edge4-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-94a7f5299281211bb535da04a48310c61d169ba663f5bd81fce5a3884e4c00ed_trns_h264/playlist.m3u8
 删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5oi53oxmKNX4_xdvh2PzjYchPB632GT32OyeZe-rXpqdWfWsmYHrKC7icBE4M4EnhHYlGcTtzDvxr-gQXUvwDl2oAae6qt1j61IYNnfjPsPAlYfdhkE1l1GC2kxzS3N4
+Sat Nov 16 23:40:12 CST 2024
+Sat Nov 16 23:40:33 CST 2024
+Sat Nov 16 23:42:33 CST 2024
+Sat Nov 16 23:42:51 CST 2024
+删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+删除akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0OTMzMzYwRi05OTYzLTQ0M0YtQUQ2MS0wMjgzOUZBMzhDREYiLCJ2aWV3ZXItaWQiOiIyNDg2NDU2MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzE3NjY4MjcsImV4cCI6MTczMTc2NzQyNywiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.nNqrNfuBG6W0d2srpd8QI2Dvjh5HHGR90WpwBY6HQFrbx0d7ZjlBmw3oNq9HifRaUbLM4u9I5VviexQsXxY3rAC-CQRLnVYMxSLIqylRq3hfpl4rYQxXAbgFswxZwiUh
