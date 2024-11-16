@@ -239,3 +239,13 @@ Sat Nov 16 12:27:34 CST 2024
 添加jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Sat Nov 16 12:46:00 CST 2024
+Sat Nov 16 12:46:13 CST 2024
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.BiJsDdpfDKx_Ngrhh4SBUKYVcADlKhVxzrt-UDLrsYiZxtM-XmWd6OonFOdZnm0hXrtpWXvhQpmM0PLvBH0vKYSci6J7e0fiU-qWf64uJBCbznA_LawF_nLlLSfmE-Wv
+Sat Nov 16 12:48:29 CST 2024
+Sat Nov 16 12:48:46 CST 2024
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
