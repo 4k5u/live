@@ -309,3 +309,11 @@ Sat Nov 16 15:01:13 CST 2024
 Sat Nov 16 15:01:31 CST 2024
 删除cuddles_me https://edge30-ash.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-6191d2c6fc9d01912e91168da8264829f09a4d4c4143d7ce5511d8fe0a2d3a66_trns_h264/playlist.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Sat Nov 16 15:22:04 CST 2024
+Sat Nov 16 15:22:23 CST 2024
+Sat Nov 16 15:24:23 CST 2024
+Sat Nov 16 15:24:40 CST 2024
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除iminako https://edge13-aus.live.mmcdn.com/live-hls/amlst:iminako-sd-ed4c60da75edf3e970af51af833b4d51d468b81c770447b341b9615058822fc2_trns_h264/playlist.m3u8
+删除oki_dokie https://edge6-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0d113638d21e45be4a42364cacd9f8a3a7f37a9efed2968141978cabd97ebbf7_trns_h264/playlist.m3u8
