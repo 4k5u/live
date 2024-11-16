@@ -331,3 +331,11 @@ Sat Nov 16 15:52:27 CST 2024
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Sat Nov 16 16:01:00 CST 2024
+Sat Nov 16 16:01:13 CST 2024
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-20/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.sQ-HNfDQJ72N6HlQK85Zb9P4A3REZXA3F5t59JCcpSlsViG7uAofzBXwAG-rz4Lhr33nPL7v-cHCt4CEmvQ5HDAqB7DwxRg5ic6Jc8qOHD8regB1UDFhrbxuUFbY1k9e
+Sat Nov 16 16:03:20 CST 2024
+Sat Nov 16 16:03:37 CST 2024
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wXAE_9P63LQAJhNLqhF4MDf1DyZmGIMy0eR4-3UYbvEPvsZBlc--nR-lHqJATNiT4SUeyzMt7K19BnA2lR1blxTlzs0QIGKnmGyYlXAWrc7Im_3rjftexjjkllKhrzk3
+删除ohhanna https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNO0Boy8waNQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOTzBCb3k4d2FOUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEOUI3NERBNy03RURFLTQyQjUtOTEzRC05NkIxOUQ5MTg4QTgiLCJ2aWV3ZXItaWQiOiIyMzI1MzY3NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzE3MzExMjIsImV4cCI6MTczMTczMTcyMiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.xbd2kMUmBHpSgmrhIReKeCj-WmsuI33RhreG9uL1hOFGEQ2-KuiBni43SNy-UwNi1EfNReUDSBc0IKaohDz3voeom5leBOYHlDT7YYBO2yMDz7MaL5HS1A-5o3rz5JUs
