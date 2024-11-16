@@ -145,3 +145,8 @@ Sun Nov 17 06:23:08 CST 2024
 Sun Nov 17 06:23:24 CST 2024
 删除smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.EWl-J17G_inicF9aHWgDDx5R0yCWkseVF_ImuEgk-aIgvtGDJ2AMt8AbG6mW74JdhJqGDNAAbnWv28M_wMAMfi4hxLYARUo6Zgfugg1h9cT-roEiIeGnAkYXqLXRlNKV
 删除oki_dokie https://edge13-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-370dfabc07c34b7b41f8a4e045adaaffb6a5b3c416820d957c3e65649fad6a40_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge14-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-baace6ad640f1b08b7395ba93f8c909710aed93e56d1f10496e61e031110434e_trns_h264/playlist.m3u8
+Sun Nov 17 06:37:09 CST 2024
+Sun Nov 17 06:37:14 CST 2024
+Sun Nov 17 06:39:21 CST 2024
+Sun Nov 17 06:39:38 CST 2024
