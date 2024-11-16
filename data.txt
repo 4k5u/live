@@ -14,3 +14,4 @@ May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m
 gina_gracia https://edge16-lax.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-a2a46746a274e6eccaf9234f066628e8d19fff8447fa5a9b5865bf1d702ab28b_trns_h264/playlist.m3u8
 oki_dokie https://edge9-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0d113638d21e45be4a42364cacd9f8a3a7f37a9efed2968141978cabd97ebbf7_trns_h264/playlist.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
