@@ -2,7 +2,6 @@ hotse777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin https://edge17-sea.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-749f434105e15e7cc328da3376051ace813847a3de1c2b8accb8ddefd2ab54c6_trns_h264/playlist.m3u8
-LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 my_eyes_higher https://edge6-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a3488bc4914f03f416d3f36e4fb513290770c2ded463881054527a9957af7097_trns_h264/playlist.m3u8
 oki_dokie https://edge15-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1ef2898d30760014693be6b77efe0052920ca3fe81426806e3fbf465f5fd9041_trns_h264/playlist.m3u8
