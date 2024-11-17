@@ -163,3 +163,9 @@ Mon Nov 18 06:28:29 CST 2024
 Mon Nov 18 06:28:44 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Mon Nov 18 06:42:00 CST 2024
+Mon Nov 18 06:42:07 CST 2024
+Mon Nov 18 06:44:12 CST 2024
+Mon Nov 18 06:44:28 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8

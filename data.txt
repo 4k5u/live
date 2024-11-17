@@ -12,3 +12,5 @@ yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 _meganmeow_ https://edge11-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-0527136439545d50a8048e480058aab0417f5538e69b52e2a6dd3ae48d1d9557_trns_h264/playlist.m3u8
 mazzanti_ https://edge18-sea.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-533f11c1dde2f40272d2b6e76ae0335149b68e9715bd01bc8f547e13bea61e89_trns_h264/playlist.m3u8
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
