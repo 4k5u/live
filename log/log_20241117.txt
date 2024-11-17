@@ -304,3 +304,10 @@ Sun Nov 17 15:40:24 CST 2024
 Sun Nov 17 15:42:20 CST 2024
 Sun Nov 17 15:42:35 CST 2024
 添加Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+添加galantini https://edge17-ash.live.mmcdn.com/live-hls/amlst:galantini-sd-4994f74d1d8dbd1d412dfcb38051ec61152d643e2fd30537c457489e9cf40957_trns_h264/playlist.m3u8
+Sun Nov 17 15:51:17 CST 2024
+Sun Nov 17 15:51:30 CST 2024
+Sun Nov 17 15:53:36 CST 2024
+Sun Nov 17 15:53:54 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
