@@ -233,3 +233,9 @@ Sun Nov 17 12:29:47 CST 2024
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Sun Nov 17 12:44:00 CST 2024
+Sun Nov 17 12:44:05 CST 2024
+Sun Nov 17 12:46:11 CST 2024
+Sun Nov 17 12:46:29 CST 2024
+删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除oki_dokie https://edge13-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c3ba096e1999a4de95b10d20bd5000ec62a8ba78fc3301afff46225c0e69910b_trns_h264/playlist.m3u8
