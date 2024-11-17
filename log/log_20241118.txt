@@ -186,3 +186,10 @@ Mon Nov 18 07:39:53 CST 2024
 Mon Nov 18 07:41:59 CST 2024
 Mon Nov 18 07:42:17 CST 2024
 删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加mazzanti_ https://edge6-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-533f11c1dde2f40272d2b6e76ae0335149b68e9715bd01bc8f547e13bea61e89_trns_h264/playlist.m3u8
+Mon Nov 18 07:51:13 CST 2024
+Mon Nov 18 07:51:22 CST 2024
+Mon Nov 18 07:53:27 CST 2024
+Mon Nov 18 07:53:43 CST 2024
+添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
