@@ -249,3 +249,10 @@ Mon Nov 18 11:47:34 CST 2024
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 删除Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+Mon Nov 18 11:58:34 CST 2024
+Mon Nov 18 11:58:47 CST 2024
+Mon Nov 18 12:00:43 CST 2024
+Mon Nov 18 12:00:58 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除_meganmeow_ https://edge11-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-0527136439545d50a8048e480058aab0417f5538e69b52e2a6dd3ae48d1d9557_trns_h264/playlist.m3u8
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
