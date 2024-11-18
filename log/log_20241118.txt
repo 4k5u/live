@@ -235,3 +235,17 @@ Mon Nov 18 11:13:37 CST 2024
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+Mon Nov 18 11:44:58 CST 2024
+Mon Nov 18 11:45:11 CST 2024
+Mon Nov 18 11:47:17 CST 2024
+Mon Nov 18 11:47:34 CST 2024
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除my_eyes_higher https://edge6-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a3488bc4914f03f416d3f36e4fb513290770c2ded463881054527a9957af7097_trns_h264/playlist.m3u8
+删除mazzanti_ https://edge6-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-533f11c1dde2f40272d2b6e76ae0335149b68e9715bd01bc8f547e13bea61e89_trns_h264/playlist.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WO6XN1DU4ihEd2CG2oZlNr5nzdpaPPeGPWgFEvzCX5gCFONKA6Wx5Qe4QhrS6Sh5EYBb-GNtCLtONRnG45kgCgles8R1wlRqsCdrMcUHNoRGSvKKS2seXraMjiM7Et7r
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+删除Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
