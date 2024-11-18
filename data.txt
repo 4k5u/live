@@ -4,3 +4,4 @@ hotse777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 sexygamesx https://edge5-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-6fa49926c2bf0b911af37abdc62189b7abc738ccd3fbe29f8543b1c0b372ac7e_trns_h264/playlist.m3u8
+oki_dokie https://edge9-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6c10f4700d6b1f950e58d129ee37d98e07c68aaf8b0ecbcab2cfb74e51161564_trns_h264/playlist.m3u8
