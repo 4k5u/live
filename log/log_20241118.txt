@@ -332,3 +332,7 @@ Mon Nov 18 15:36:53 CST 2024
 添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
 Mon Nov 18 15:39:07 CST 2024
 Mon Nov 18 15:39:24 CST 2024
+Mon Nov 18 15:48:14 CST 2024
+Mon Nov 18 15:48:27 CST 2024
+Mon Nov 18 15:50:35 CST 2024
+Mon Nov 18 15:50:52 CST 2024
