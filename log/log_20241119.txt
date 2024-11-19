@@ -358,3 +358,9 @@ Tue Nov 19 18:48:42 CST 2024
 添加dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.sQXzfZPsWwcC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9zUVh6ZlpQc1d3Y0MiLCJleHAiOjE3MzIwNTU2NjYwNDgsImlhdCI6MTczMjAxMjQ2Nn0.YRkoexxuQBLdi-6u5Eac0uShXs8mdiNlZIUIczKON6oQ3gpdx350FaAJt4YPL-xhhwwuFRYy6mIVZkP6MEzB6NiJtlx0pHEclTeIHxspVxArmyAnyHewehNqlDxSapqN
 Tue Nov 19 18:49:08 CST 2024
 删除honey_pinkgreen https://edge17-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-33942fe29c3f0baa1f48f7e495e5e1f4c197d551f0d18db38bf66297ab0c41e7_trns_h264/playlist.m3u8
+Tue Nov 19 18:58:13 CST 2024
+Tue Nov 19 18:58:36 CST 2024
+Tue Nov 19 19:00:31 CST 2024
+Tue Nov 19 19:00:46 CST 2024
+删除hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uaY2fROazwjw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VhWTJmUk9hendqdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMzg2QzIzMy00MUQ0LTQ5NTMtQTIwQS0zNUVEMzU5QzIwRTciLCJ2aWV3ZXItaWQiOiIyMjg0MDkyNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIwMDYzOTIsImV4cCI6MTczMjAwNjk5MiwidCI6MX0.pF_tOnWz2LrwEfkbMftsKfnh3xn0GZ-EjDORqCz2Z6NzEGLDmZKvGjW-qu-sj40JyrRYkGIR-6nBvcnfskgKzAN83wphEt494GIvd5bF2wRDnMonj_m5b_6QjmqPTerQ
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
