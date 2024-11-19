@@ -91,3 +91,8 @@ Wed Nov 20 03:19:42 CST 2024
 删除oki_dokie https://edge14-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d38d46831b472b4616f034542eb88d145a83942b05b9ea84d21d36eb11b60c66_trns_h264/playlist.m3u8
 删除gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.cu85Yo9cBYgDFAgEvnrwZllStisSoWjgB8-y1cBKWco5FR69hqaEmSMUhSDErrHlg4C6afd7Z_wR8BRH_Tq7N-jHaGAdb9yC0nihxV9xafgj0mkyl4s9IznHCltSlF_0
 删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Wed Nov 20 03:28:24 CST 2024
+Wed Nov 20 03:28:41 CST 2024
+Wed Nov 20 03:30:48 CST 2024
+Wed Nov 20 03:31:05 CST 2024
+删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
