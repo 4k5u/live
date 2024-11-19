@@ -3,7 +3,6 @@ miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.
 __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie https://edge11-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-bfeb97147a6b9285150ffde0930e22f010cac1e677a84f4e0a46949d4d97cecf_trns_h264/playlist.m3u8
-JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0RjNGNDg1QS1CNUI0LTQzRTQtQjc3Ni1FMTM3NDRCNTA1MUEiLCJ2aWV3ZXItaWQiOiIyNDQzMTI4MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzE5OTQ5MzgsImV4cCI6MTczMTk5NTUzOCwidCI6MX0.KM-xTrvfiURj4ICAIriQ7Cmao8juwXhc-fPLpUAn33SpBopqC-68h5FW6GXndq5K1Ha6DWHLCH1epjr0W_glkGhnrigCnp4JcdkwfiKgzcA4n1vZd9eM9J9BOx5cWGbu
