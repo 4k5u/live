@@ -160,3 +160,11 @@ Wed Nov 20 06:59:00 CST 2024
 Wed Nov 20 06:59:07 CST 2024
 Wed Nov 20 07:01:16 CST 2024
 Wed Nov 20 07:01:33 CST 2024
+Wed Nov 20 07:24:33 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQTMwNkM5Ni00RUM2LTRFQjItOTM0MS0yOERGMkIwMUQyMkUiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIwNTg2NzYsImV4cCI6MTczMjA1OTI3NiwidCI6MX0.izNrgCyUFK92QZIAVILoo4uCI1mr1e8fWtOIrqARDuu60AlSjBTzcvdq7z_silXNivg92JoQg6UphKYa5l-Pacqyp76eB0GhcLeieJFJwDyhHAaOBpLPKYrLyXxY6vAK
+Wed Nov 20 07:24:43 CST 2024
+Wed Nov 20 07:26:39 CST 2024
+Wed Nov 20 07:26:54 CST 2024
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除sexygamesx https://edge18-mia.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-7ecc0f50022a27b3495d0924a407d4d23eed298b2729839527076e88e575c0a8_trns_h264/playlist.m3u8
