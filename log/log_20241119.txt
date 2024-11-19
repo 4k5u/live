@@ -292,3 +292,12 @@ Tue Nov 19 15:48:04 CST 2024
 Tue Nov 19 15:50:11 CST 2024
 Tue Nov 19 15:50:29 CST 2024
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+Tue Nov 19 15:59:27 CST 2024
+添加mozzzi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.P58zKdyrmINu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1A1OHpLZHlybUlOdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFM0Y3MTgwOC0yN0ZBLTQ0RjItQkNDOS01QjZERkNEMjNGOTAiLCJ2aWV3ZXItaWQiOiIyNDk3ODE2MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIwMDMxNjcsImV4cCI6MTczMjAwMzc2NywidCI6MX0.Bhdq-ka_iuz4QaQNFQTsmIx7aom-uRpHv9DxWTjbJ6kig4WB6aApRRDia3iMjiPWs3fXDGXtu5iTfa5UlYScQLlhvtX_OFWgzLZ9AO7MqdtcWeJzN7BSEOFDUdlGV_Na
+Tue Nov 19 15:59:39 CST 2024
+Tue Nov 19 16:01:41 CST 2024
+Tue Nov 19 16:01:56 CST 2024
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
