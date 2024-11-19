@@ -20,3 +20,4 @@ oki_dokie https://edge11-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-bfeb9714
 sksnrnrp11 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.cJT1cq2UIBfX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2NKVDFjcTJVSUJmWCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MkU2RDhDNS1CRTE3LTRGMTItQUY3Ri1FRDgxNTlCRERGRDEiLCJ2aWV3ZXItaWQiOiIyNTAxNDg1NCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzE5OTA2MjIsImV4cCI6MTczMTk5MTIyMiwidCI6MX0.tjWntvZ21DH0vQj1ya081Q5lWErnzU1wTVivIRjzxljtfUGNmiHZoxn4DpkaG106CqavmqKsnjgbUzMl_O80Q_w0IY6FOZ6M_RUGAYKIH3JuYwOaTUqyvz4d8wiYpnwp
 JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
