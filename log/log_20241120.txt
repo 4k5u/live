@@ -383,3 +383,10 @@ Wed Nov 20 19:23:15 CST 2024
 删除ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ddooyaa%22%2C%22channel_id%22%3A442709328%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1732073365%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.195.106%22%2C%22version%22%3A2%7D&sig=3391da565ab205b31581d24457c0626a5e71500b&allow_source=true&allow_audio_only=true
 删除your_desssert https://edge16-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-6317732c47cf02eee48b5c207c74fae8f48a5626570348114c0024ef4aac5e18_trns_h264/playlist.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Wed Nov 20 19:31:16 CST 2024
+Wed Nov 20 19:31:46 CST 2024
+添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Wed Nov 20 19:33:57 CST 2024
+添加dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.sQXzfZPsWwcC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9zUVh6ZlpQc1d3Y0MiLCJleHAiOjE3MzIxNDUwNDY1OTEsImlhdCI6MTczMjEwMTg0Nn0.itKJ_iHKHMkQQB6DsY_Ln9BYH404PwbAa80O3TE4070RRMqN5VgjWfrfl5vuz4SZ08DHHeShZ5n-cvfsAvaXLO6VVFvlpZ6az5uL15DzLzSz8voELQnjawcDcHVZCeVv
+Wed Nov 20 19:34:18 CST 2024
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
