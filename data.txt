@@ -16,3 +16,4 @@ acron5 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
+JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
