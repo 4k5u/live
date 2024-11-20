@@ -34,3 +34,10 @@ Thu Nov 21 00:53:32 CST 2024
 删除imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9D0FYHOlXRPU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlEMEZZSE9sWFJQVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNzg3MTZBNS04MDA4LTQ1QkYtOTVBOS0xQkJDNTE4ODMyMUUiLCJ2aWV3ZXItaWQiOiIyMjk5MzIyOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIxMTAwNzEsImV4cCI6MTczMjExMDY3MSwidCI6MX0.Vf1_4eVlXDUzdnLGix5MewzJgdzF-Dwo80oVszjELJB6BQaGHlw6ELg-hC-OrS5SJ5tdoxCUNdQZL1dBMaLfrwoNeBzPnHD4RNhjU18e68K5l-Wfjgd1_n48jiKcBQD-
 删除anystar00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YQOIybCZrg9K.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lRT0l5YkNacmc5SyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NTg5MTRGOC05MjhDLTQ2MTYtQTE5My1ERDE2MDgxMUQ1REMiLCJ2aWV3ZXItaWQiOiIyMTUyOTQxMSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIxMTI0MDgsImV4cCI6MTczMjExMzAwOCwidCI6MX0.mBr4J8MnL1s_SjJZyFWwPUIFEoi2yh3_u1cugKrdHJYwi7cMnhxhAW2xoQCLGBhtwNgTMgdjPIZ6G6HoNDioPaiS9QJup8DkbQ302n6_WO9BdnfTLuQOP4HqKW3DjPLf
 删除Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+Thu Nov 21 01:02:01 CST 2024
+Thu Nov 21 01:02:32 CST 2024
+Thu Nov 21 01:04:26 CST 2024
+Thu Nov 21 01:04:42 CST 2024
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
