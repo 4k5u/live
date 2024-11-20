@@ -158,3 +158,9 @@ Thu Nov 21 06:08:58 CST 2024
 Thu Nov 21 06:11:03 CST 2024
 Thu Nov 21 06:11:20 CST 2024
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Thu Nov 21 06:32:58 CST 2024
+添加anystar00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YQOIybCZrg9K.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lRT0l5YkNacmc5SyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMDc2QkEzRi0zRTgyLTQ3M0EtQUQ0My1EMkQzODQ3Q0VDMEMiLCJ2aWV3ZXItaWQiOiIyMTUyOTQxMSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIxNDE5NzksImV4cCI6MTczMjE0MjU3OSwidCI6MX0.Z8nrWg6fq8aTNcwEs6IFoKZheLk1ALYl-3lthA72vodmD7qa7SWOqK-xCXFVNMA8tc7ZVf0ghxSWT9AWsUzuscxk7d9ENNv3nwkILPVNQSUiVAdOM-ItP2HP9ehNtjfe
+Thu Nov 21 06:33:05 CST 2024
+Thu Nov 21 06:35:00 CST 2024
+Thu Nov 21 06:35:16 CST 2024
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
