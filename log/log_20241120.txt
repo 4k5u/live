@@ -355,3 +355,11 @@ Wed Nov 20 18:28:53 CST 2024
 添加JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 删除oda_assuri https://edge13-chi.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-d70889b31d600fb6ac69843554f3f012574d61e7c967f32287e8255bd4b995f2_trns_h264/playlist.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Wed Nov 20 18:45:20 CST 2024
+Wed Nov 20 18:45:41 CST 2024
+Wed Nov 20 18:47:36 CST 2024
+Wed Nov 20 18:47:51 CST 2024
+添加Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
