@@ -8,4 +8,5 @@ my_eyes_higher https://edge7-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQTMwNkM5Ni00RUM2LTRFQjItOTM0MS0yOERGMkIwMUQyMkUiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIwNTg2NzYsImV4cCI6MTczMjA1OTI3NiwidCI6MX0.izNrgCyUFK92QZIAVILoo4uCI1mr1e8fWtOIrqARDuu60AlSjBTzcvdq7z_silXNivg92JoQg6UphKYa5l-Pacqyp76eB0GhcLeieJFJwDyhHAaOBpLPKYrLyXxY6vAK
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
-sexygamesx https://edge8-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-32a9fc7d29401c5bb1ff0cfabef60adfb67e8e53961b449083a826f4b9399909_trns_h264/playlist.m3u8
+oda_assuri https://edge13-chi.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-d70889b31d600fb6ac69843554f3f012574d61e7c967f32287e8255bd4b995f2_trns_h264/playlist.m3u8
+Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8

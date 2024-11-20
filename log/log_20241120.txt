@@ -178,3 +178,10 @@ Wed Nov 20 07:51:29 CST 2024
 Wed Nov 20 07:53:35 CST 2024
 Wed Nov 20 07:53:52 CST 2024
 删除dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NDE3QkExQy0zQzc3LTQ2NDctODQ5MC03Njg5MjkxQzdEQjUiLCJ2aWV3ZXItaWQiOiIxOTIyMjg1NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIwNDU5NDgsImV4cCI6MTczMjA0NjU0OCwidCI6MX0.md5Shb2GuEWXdASUl57LwqM-rbBVB7LK8TURTbNBtw3ajcxe7jdsM0SB72f3pBHyH5pWFttDAkAD403vW6b38pDenoG4tkCAWTzxvE4ofW-uTF5sxA0fI70vdktKA2Se
+添加oda_assuri https://edge13-chi.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-d70889b31d600fb6ac69843554f3f012574d61e7c967f32287e8255bd4b995f2_trns_h264/playlist.m3u8
+Wed Nov 20 08:43:30 CST 2024
+Wed Nov 20 08:43:37 CST 2024
+Wed Nov 20 08:45:41 CST 2024
+Wed Nov 20 08:45:57 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除sexygamesx https://edge8-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-32a9fc7d29401c5bb1ff0cfabef60adfb67e8e53961b449083a826f4b9399909_trns_h264/playlist.m3u8
