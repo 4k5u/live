@@ -182,3 +182,8 @@ Thu Nov 21 07:26:49 CST 2024
 Thu Nov 21 07:27:04 CST 2024
 添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除sexygamesx https://edge17-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-95c561240272698b433d83fa36cadef8de91426fc26a5b67dd9e1cc31377e0fc_trns_h264/playlist.m3u8
+Thu Nov 21 07:39:54 CST 2024
+Thu Nov 21 07:40:01 CST 2024
+Thu Nov 21 07:42:10 CST 2024
+Thu Nov 21 07:42:28 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
