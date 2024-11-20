@@ -174,3 +174,11 @@ Thu Nov 21 06:59:13 CST 2024
 Thu Nov 21 07:01:26 CST 2024
 Thu Nov 21 07:01:43 CST 2024
 删除hee_jeen https://edge18-lax.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-e3b7bc3560f4c7e6b53e4cb5c464d90f269317b64e1b21a560ee1371e97ccc93_trns_h264/playlist.m3u8
+添加hee_jeen https://edge17-aus.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-e3b7bc3560f4c7e6b53e4cb5c464d90f269317b64e1b21a560ee1371e97ccc93_trns_h264/playlist.m3u8
+Thu Nov 21 07:24:43 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMERFODc0Ni01OUI3LTRGNTEtOTFDMi02QUYzOUQyQjUyRTkiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIxNDUwODYsImV4cCI6MTczMjE0NTY4NiwidCI6MX0.K2Lf_VEZEBJQa21Qaod10sHLjrVWNuRf1doJzHcM7RujvZhUJqvAJWrdoytqlg4F485Ix89iq32nX6HBy2lriO7HIPXb8lehd3zP_6jmIrxkAoxtOUc4gRaK6xnH77FX
+Thu Nov 21 07:24:52 CST 2024
+Thu Nov 21 07:26:49 CST 2024
+Thu Nov 21 07:27:04 CST 2024
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除sexygamesx https://edge17-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-95c561240272698b433d83fa36cadef8de91426fc26a5b67dd9e1cc31377e0fc_trns_h264/playlist.m3u8
