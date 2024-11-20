@@ -241,3 +241,13 @@ Wed Nov 20 13:00:27 CST 2024
 Wed Nov 20 13:00:44 CST 2024
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Wed Nov 20 13:23:37 CST 2024
+Wed Nov 20 13:23:48 CST 2024
+Wed Nov 20 13:25:53 CST 2024
+Wed Nov 20 13:26:09 CST 2024
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除my_eyes_higher https://edge7-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f6def48741a3d0c37f43a2d4aad9c70830b8dc6a287e12ae9f19cd4d94238b6a_trns_h264/playlist.m3u8
+删除jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQTMwNkM5Ni00RUM2LTRFQjItOTM0MS0yOERGMkIwMUQyMkUiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIwNTg2NzYsImV4cCI6MTczMjA1OTI3NiwidCI6MX0.izNrgCyUFK92QZIAVILoo4uCI1mr1e8fWtOIrqARDuu60AlSjBTzcvdq7z_silXNivg92JoQg6UphKYa5l-Pacqyp76eB0GhcLeieJFJwDyhHAaOBpLPKYrLyXxY6vAK
+删除Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
+删除akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBQjUwRUVBNS00QUE3LTRERjYtQUQ0NC05RkQ5OEY0Njk2QTYiLCJ2aWV3ZXItaWQiOiIyNDg2NDU2MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIwNzIwMTAsImV4cCI6MTczMjA3MjYxMCwidCI6MX0.xS-v83MlfmxPzGuHvCA9QRB2H2DYs3Ollheac2eczYc1Mkhs3UWYYpyMS_n96xjfzloS2W1RCUyWS7ZfAKSeQXcZVazUhE1gADFaH6EocMdK1knP8sQjyKPbnA2ZYpcU
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
