@@ -334,3 +334,7 @@ Wed Nov 20 17:24:55 CST 2024
 Wed Nov 20 17:25:12 CST 2024
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
+Wed Nov 20 17:42:00 CST 2024
+Wed Nov 20 17:42:13 CST 2024
+Wed Nov 20 17:44:08 CST 2024
+Wed Nov 20 17:44:23 CST 2024
