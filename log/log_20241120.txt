@@ -306,3 +306,9 @@ Wed Nov 20 15:48:17 CST 2024
 Wed Nov 20 15:50:14 CST 2024
 Wed Nov 20 15:50:29 CST 2024
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Wed Nov 20 15:59:23 CST 2024
+Wed Nov 20 15:59:36 CST 2024
+Wed Nov 20 16:01:40 CST 2024
+Wed Nov 20 16:01:57 CST 2024
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
