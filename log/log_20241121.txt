@@ -320,3 +320,10 @@ Thu Nov 21 15:35:01 CST 2024
 Thu Nov 21 15:36:57 CST 2024
 Thu Nov 21 15:37:12 CST 2024
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Thu Nov 21 15:48:06 CST 2024
+Thu Nov 21 15:48:22 CST 2024
+Thu Nov 21 15:50:33 CST 2024
+Thu Nov 21 15:50:51 CST 2024
+添加Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除amilia4u https://edge6-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-fa160c90001d78ab6a75e24372c5c4484a4db1f04205c2f6bb59b4ead192ddc4_trns_h264/playlist.m3u8
