@@ -327,3 +327,10 @@ Thu Nov 21 15:50:51 CST 2024
 添加Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除amilia4u https://edge6-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-fa160c90001d78ab6a75e24372c5c4484a4db1f04205c2f6bb59b4ead192ddc4_trns_h264/playlist.m3u8
+Thu Nov 21 15:59:24 CST 2024
+Thu Nov 21 15:59:38 CST 2024
+Thu Nov 21 16:01:34 CST 2024
+Thu Nov 21 16:01:49 CST 2024
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDODNEMDQ5MC1FNTJFLTQzRDgtQTEzNS0yOUIyMDkxRjU1OEYiLCJhd3M6dmlld2VyLWlkIjoiMjMwNDUzNzgiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjE1NTMyMCwiZXhwIjoxNzMyMTU1OTIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.919IPqvgJFoCtJ53Rn9rSaPH5qQ5ODSbVUDVnMqgLSwy2fJY6tbPvhbfVHqznIB71CQdGGs_RZ_1TIQC4gOWZLW5CR6MIOlD7pVYE2TxbLaj3tgNqQi-9EnvT5O3TyOp
+删除your_desssert https://edge9-aus.live.mmcdn.com/live-hls/amlst:your_desssert-sd-28f4f88596d8708ecc0e27508932ce17160174d6619affd29cf5a3e6ac9a3a47_trns_h264/playlist.m3u8
