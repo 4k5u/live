@@ -1,7 +1,5 @@
-kiyoko_rin https://edge25-sea.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-b15948a594e779bc31465fa1f4a3ec577d615f4322d546f8472e3880bac8c1b0_trns_h264/playlist.m3u8
 oki_dokie https://edge16-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-51dd725ac3de08f45c795705aee383911bb324554d55406d136766381b0e2b40_trns_h264/playlist.m3u8
 jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMERFODc0Ni01OUI3LTRGNTEtOTFDMi02QUYzOUQyQjUyRTkiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIxNDUwODYsImV4cCI6MTczMjE0NTY4NiwidCI6MX0.K2Lf_VEZEBJQa21Qaod10sHLjrVWNuRf1doJzHcM7RujvZhUJqvAJWrdoytqlg4F485Ix89iq32nX6HBy2lriO7HIPXb8lehd3zP_6jmIrxkAoxtOUc4gRaK6xnH77FX
-Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 oda_assuri https://edge10-slc.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-056710c9e6170842149539e159db1f5706517e6b77f20be34c0af106dcff25ad_trns_h264/playlist.m3u8
 my_eyes_higher https://edge9-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-67153cd0117c6a9cace22df324fbcb8b14453673def0f879c1076e6197af0ea5_trns_h264/playlist.m3u8
@@ -14,3 +12,10 @@ miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.
 kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+amilia4u https://edge6-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-fa160c90001d78ab6a75e24372c5c4484a4db1f04205c2f6bb59b4ead192ddc4_trns_h264/playlist.m3u8
+Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8

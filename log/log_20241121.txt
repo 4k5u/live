@@ -211,3 +211,16 @@ Thu Nov 21 10:17:47 CST 2024
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除anystar00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YQOIybCZrg9K.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lRT0l5YkNacmc5SyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMDc2QkEzRi0zRTgyLTQ3M0EtQUQ0My1EMkQzODQ3Q0VDMEMiLCJ2aWV3ZXItaWQiOiIyMTUyOTQxMSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIxNDE5NzksImV4cCI6MTczMjE0MjU3OSwidCI6MX0.Z8nrWg6fq8aTNcwEs6IFoKZheLk1ALYl-3lthA72vodmD7qa7SWOqK-xCXFVNMA8tc7ZVf0ghxSWT9AWsUzuscxk7d9ENNv3nwkILPVNQSUiVAdOM-ItP2HP9ehNtjfe
 删除hee_jeen https://edge17-aus.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-e3b7bc3560f4c7e6b53e4cb5c464d90f269317b64e1b21a560ee1371e97ccc93_trns_h264/playlist.m3u8
+添加amilia4u https://edge6-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-fa160c90001d78ab6a75e24372c5c4484a4db1f04205c2f6bb59b4ead192ddc4_trns_h264/playlist.m3u8
+Thu Nov 21 11:06:57 CST 2024
+Thu Nov 21 11:07:06 CST 2024
+Thu Nov 21 11:09:03 CST 2024
+Thu Nov 21 11:09:18 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除kiyoko_rin https://edge25-sea.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-b15948a594e779bc31465fa1f4a3ec577d615f4322d546f8472e3880bac8c1b0_trns_h264/playlist.m3u8
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
