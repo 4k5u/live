@@ -264,3 +264,11 @@ Thu Nov 21 13:00:15 CST 2024
 Thu Nov 21 13:00:29 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
+Thu Nov 21 13:23:49 CST 2024
+Thu Nov 21 13:23:56 CST 2024
+Thu Nov 21 13:25:52 CST 2024
+Thu Nov 21 13:26:07 CST 2024
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMERFODc0Ni01OUI3LTRGNTEtOTFDMi02QUYzOUQyQjUyRTkiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIxNDUwODYsImV4cCI6MTczMjE0NTY4NiwidCI6MX0.K2Lf_VEZEBJQa21Qaod10sHLjrVWNuRf1doJzHcM7RujvZhUJqvAJWrdoytqlg4F485Ix89iq32nX6HBy2lriO7HIPXb8lehd3zP_6jmIrxkAoxtOUc4gRaK6xnH77FX
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
