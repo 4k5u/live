@@ -224,3 +224,16 @@ Thu Nov 21 11:09:18 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 删除kiyoko_rin https://edge25-sea.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-b15948a594e779bc31465fa1f4a3ec577d615f4322d546f8472e3880bac8c1b0_trns_h264/playlist.m3u8
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+添加_meganmeow_ https://edge20-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-ddca9f41f03be2f45b5103feb8364d55434c81d2a73745b509f83de6d734c710_trns_h264/playlist.m3u8
+Thu Nov 21 11:40:02 CST 2024
+Thu Nov 21 11:40:11 CST 2024
+Thu Nov 21 11:42:24 CST 2024
+Thu Nov 21 11:42:42 CST 2024
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除oki_dokie https://edge16-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-51dd725ac3de08f45c795705aee383911bb324554d55406d136766381b0e2b40_trns_h264/playlist.m3u8
+删除my_eyes_higher https://edge9-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-67153cd0117c6a9cace22df324fbcb8b14453673def0f879c1076e6197af0ea5_trns_h264/playlist.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
