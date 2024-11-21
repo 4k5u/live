@@ -298,3 +298,12 @@ Thu Nov 21 14:35:12 CST 2024
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 删除_meganmeow_ https://edge20-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-ddca9f41f03be2f45b5103feb8364d55434c81d2a73745b509f83de6d734c710_trns_h264/playlist.m3u8
+Thu Nov 21 14:53:09 CST 2024
+Thu Nov 21 14:53:25 CST 2024
+Thu Nov 21 14:55:28 CST 2024
+Thu Nov 21 14:55:45 CST 2024
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
