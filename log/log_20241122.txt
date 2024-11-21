@@ -130,3 +130,9 @@ Fri Nov 22 05:00:16 CST 2024
 Fri Nov 22 05:00:33 CST 2024
 添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+添加sexygamesx https://edge8-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-e9bb7bd5d3a2272c906305cb5b9a95f53eebcc3e4325cd9ee29b68ef2403728b_trns_h264/playlist.m3u8
+Fri Nov 22 05:22:24 CST 2024
+Fri Nov 22 05:22:37 CST 2024
+Fri Nov 22 05:24:33 CST 2024
+Fri Nov 22 05:24:48 CST 2024
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
