@@ -377,3 +377,10 @@ Thu Nov 21 17:44:57 CST 2024
 删除oda_assuri https://edge10-slc.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-056710c9e6170842149539e159db1f5706517e6b77f20be34c0af106dcff25ad_trns_h264/playlist.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+添加honey_pinkgreen https://edge15-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-c1c431431c8159df948370db54a6393c8e7628ceb15d1ad0c1ab232fd6ce45d0_trns_h264/playlist.m3u8
+Thu Nov 21 17:57:54 CST 2024
+Thu Nov 21 17:58:17 CST 2024
+Thu Nov 21 18:00:12 CST 2024
+Thu Nov 21 18:00:27 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
