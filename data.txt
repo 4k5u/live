@@ -14,3 +14,7 @@ your_desssert https://edge9-aus.live.mmcdn.com/live-hls/amlst:your_desssert-sd-2
 happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJERTJCRUJERS0xMTMyLTRBQjYtQkUyMS1CMjlCMEU4M0NCQzkiLCJhd3M6dmlld2VyLWlkIjoiMjI2NzgyOTAiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjE3MDc3MywiZXhwIjoxNzMyMTcxMzczLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.FVKujcByE7dTGJ7RcrV59SVbxaxOdQnsEj2-PGVamZVtYjVSsLg-3AOByFVGo8F00FgaAnvn0yKD7QU-ukFfV7cURE5Tdxdx__xf3A56OWKcdTo35st0_Q7S0GIfo7uc
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+_meganmeow_ https://edge18-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-ddca9f41f03be2f45b5103feb8364d55434c81d2a73745b509f83de6d734c710_trns_h264/playlist.m3u8
+Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
