@@ -467,3 +467,13 @@ Fri Nov 22 20:49:50 CST 2024
 删除foxylovesyou https://edge7-mia.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-6d6bfe02d63dd872df1a3fb7c44399efaca32a4e0a6b5ef87e8f2b3b6abda3aa_trns_h264/playlist.m3u8
 删除sexygamesx https://edge3-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-4d46ce575fdda134dc1278653679bc235b17cb92bf761a57fb4ade3a0f09b956_trns_h264/playlist.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Fri Nov 22 21:16:12 CST 2024
+Fri Nov 22 21:17:09 CST 2024
+添加purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Paqe67NadMzggoa06D5XEep7jOrz1mMOmbqB6T3RlGq8WqStmzNTKkn-ZbfBDzxsYPtvMLwmhQ6Setn-geXCrNJSM4DxUqZQhjwXoLLqGCEcXGKYUIGy4xtDpfiTUH3i
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6bEE1MGi5X0nItzq5MrFdVoCmVmyV8DqmIBcvkrk-SJKgGQplnIGpNM1511xeDYs_WEEiJv55qQ1RUw7WEXj64yqhhA4jlgP1eWk3jUII-9XDnT2gp_sTJ4v4gYk2qsP
+Fri Nov 22 21:19:29 CST 2024
+Fri Nov 22 21:19:49 CST 2024
+删除galantini https://edge9-aus.live.mmcdn.com/live-hls/amlst:galantini-sd-6d501493d204f888f7d6ced03ab292df8d34dc69454f346df0a73c25884df79f_trns_h264/playlist.m3u8
+删除danhana https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.WskmuSNNRNQk.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9Xc2ttdVNOTlJOUWsiLCJleHAiOjE3MzIzMTc2NDM2NTIsImlhdCI6MTczMjI3NDQ0M30.l-SQviwpq9j19RdQ4k9zxC8FV8wKMuUbhdEr50hy9lbs8cj3vnZTNtNYrHdP6Q2pCFQdvOest-VHZpk7zHs-EVkauJIU3-Hl622mpDqFSLtnR7uQ5kMBzjGKIrIIALGT
+删除dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.sQXzfZPsWwcC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9zUVh6ZlpQc1d3Y0MiLCJleHAiOjE3MzIzMTc0Nzg5MTUsImlhdCI6MTczMjI3NDI3OH0.bU9pDz5Rm4ByjXmEatFr8R9cEh4lbbsTFFGnTC9ii5IcWS2Nvr5G9d5al5dKYKzTzEDLwJqRjG837VBwVsL9jzHNABFpYX84kau1hcFSIjtabDXOHJziUOzeUrDhAUW3
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
