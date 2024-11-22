@@ -214,3 +214,12 @@ Fri Nov 22 11:10:45 CST 2024
 删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQzdCMUZGOS04NUQwLTQ0MUQtOEZFRi1EOTA2MzU2NTJCQTEiLCJhd3M6dmlld2VyLWlkIjoiMjUwMzY5NDciLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjIyNTg3NCwiZXhwIjoxNzMyMjI2NDc0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.6iuqkCnwBxjEzq026Lqn2vgjI08EehxcO4gTiOFZpAFyVn9Oi2jqos-QronSeRb1comAFOUQ7UQ7bpIsybkL76urMFqb2GqHZUShNYlOODuuNmcQ_Z-7lOzjWtCZBShx
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除oki_dokie https://edge2-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7f769a4b3ebf9c70a522526c8fbe2576a222d23fc708ff7b565bb3ce34f944e4_trns_h264/playlist.m3u8
+Fri Nov 22 11:41:51 CST 2024
+Fri Nov 22 11:42:04 CST 2024
+Fri Nov 22 11:44:12 CST 2024
+Fri Nov 22 11:44:29 CST 2024
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除kiyoko_rin https://edge15-sea.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-6ccc5658c55ae3550a79628c7ce13b2b7f06c05d5331e10cc1aa2f297d1125f1_trns_h264/playlist.m3u8
