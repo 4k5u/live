@@ -284,3 +284,11 @@ Fri Nov 22 14:36:14 CST 2024
 Fri Nov 22 14:36:31 CST 2024
 删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.QIpHQsQ-8eNpZQNI9pQTen2N31qr_C6hGdKQaLVIwX71TvC8y3Q1oQIk5MVGx5oYXSL0WdZ3EcIlkYoR71vIU_gMj5vT82o28k5OSGk-sOUqHCqxnWCJnZSEXhb_1fMs
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Fri Nov 22 14:52:37 CST 2024
+Fri Nov 22 14:52:58 CST 2024
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.rnKbja3dlGxkvkWNMEdHzABCzFBCiqogpR7qO_zgjTjuBJ9Cr0ipqHQfDeGuoELWGAv5ByB-V7bI9W5T2fEwYCYP4BHtDjnk46jq-o6c6BYV757OD72K5IkPkAB3VsMt
+Fri Nov 22 14:55:08 CST 2024
+Fri Nov 22 14:55:25 CST 2024
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
