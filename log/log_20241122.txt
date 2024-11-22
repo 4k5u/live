@@ -423,3 +423,9 @@ Fri Nov 22 19:23:15 CST 2024
 Fri Nov 22 19:23:40 CST 2024
 删除oki_dokie https://edge18-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-40107877074dae514669659f1d818955502a4074bbc8f31e3c54f4c75ad493d4_trns_h264/playlist.m3u8
 删除somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TzU91QWGtODwbNYkwmSEpKbA0COV7sj9kW6HXCrvG_x7xWdC4TZ91NLA7WKdBuHi_pN-tUhk_iRDBSNGk6AKWfeQX2kvNpMc-yJ7Vzjyk_LgZ9E6wdY6hOrRdG5G6K_M
+Fri Nov 22 19:31:26 CST 2024
+添加onlyone521 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.97A1pgl7L5ot.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzk3QTFwZ2w3TDVvdCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNkIzRjE1OS03M0RGLTQ3NTEtOTU2MS0xNjg2Mzk5NTE2QzQiLCJhd3M6dmlld2VyLWlkIjoiMjQwMjc4NjQiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjI3NTExMywiZXhwIjoxNzMyMjc1NzEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.avFv4ymzuMNFOt8ElSCBxTmUr4ZWYgHarqEijmcXpW6Ut3366WbJnrIt7Qsqm9Vskbzn3Z_YJFJF6YiD3YZrPUEUkDTYg1JdRhL1iPxiHzyPZzYV4I-ap5aEjM88jvop
+Fri Nov 22 19:32:11 CST 2024
+Fri Nov 22 19:34:15 CST 2024
+Fri Nov 22 19:34:32 CST 2024
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
