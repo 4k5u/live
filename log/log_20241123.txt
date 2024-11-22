@@ -44,3 +44,8 @@ Sat Nov 23 01:26:52 CST 2024
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 删除akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNDEwQkUzMi0zQUU4LTQzMTItOUU0MS04QjRGRERBMjJGQjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ4NjQ1NjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjI4OTE4NSwiZXhwIjoxNzMyMjg5Nzg1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.VRO9o4CEVxuaHHsXHq70Mxbs4IuAO_9bOaSzTTPJWIp1BoEm-0mSZsw1FYg2E_LWJqkrjfXQoEOU8a-_dPNyCbPo6G7OSTUDmxvcni4QLWGwlvy-oQjlfhAzDMfpEnz5
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+Sat Nov 23 01:42:18 CST 2024
+Sat Nov 23 01:42:51 CST 2024
+Sat Nov 23 01:44:56 CST 2024
+Sat Nov 23 01:45:14 CST 2024
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
