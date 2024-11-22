@@ -429,3 +429,9 @@ Fri Nov 22 19:32:11 CST 2024
 Fri Nov 22 19:34:15 CST 2024
 Fri Nov 22 19:34:32 CST 2024
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Fri Nov 22 19:42:45 CST 2024
+Fri Nov 22 19:43:27 CST 2024
+Fri Nov 22 19:45:31 CST 2024
+Fri Nov 22 19:45:49 CST 2024
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.sQXzfZPsWwcC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9zUVh6ZlpQc1d3Y0MiLCJleHAiOjE3MzIzMTc1NTAwNjksImlhdCI6MTczMjI3NDM1MH0.b-_b58hJyy9-d4xoYjKTLXWtxrf62R43j0Yw_gEDWaXyWrzxGSa4TXLjGoPYSqFGWHgL2dHRc9JbPZgoYsbHieugElp4EmaK_6r9DOFZLPZuxs2ajgGkEKhPrJJPJ2uK
