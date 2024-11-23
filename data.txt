@@ -10,9 +10,7 @@ ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
-Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
-Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 oki_dokie https://edge8-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9e76ca072b3a905cad41fdb815e29b6fbe8e53aba3194f10148c6d28453a4966_trns_h264/playlist.m3u8
 akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEOTYzN0FGQi0wNDhFLTRDREYtOThEOC0xRjQ4RTdEQjkxMUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ4NjQ1NjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjMzNjEzNywiZXhwIjoxNzMyMzM2NzM3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.JqCRa8v97DubBfcTeFlHommMl_sGY1ldbay2VI8jWMOdp2mrKV1aE1RdrzkWNxWmDprHjgXzNhJ6jPZwzcp0BMtvTLpJxTnsD1CvJ7da6Q46-msXb9dY-YSBgcWKCPfs
