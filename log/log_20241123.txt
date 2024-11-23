@@ -377,3 +377,9 @@ Sat Nov 23 18:44:10 CST 2024
 Sat Nov 23 18:44:36 CST 2024
 Sat Nov 23 18:46:41 CST 2024
 Sat Nov 23 18:46:58 CST 2024
+Sat Nov 23 18:58:15 CST 2024
+添加thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9PnMPq8BQptk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlQbk1QcThCUXB0ayIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRjE2REFCMy03QjVELTQ4MDctOTlBQy1ENkM0NzI1ODE5RjEiLCJhd3M6dmlld2VyLWlkIjoiMjQ1NjM3ODMiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjM1OTUxMSwiZXhwIjoxNzMyMzYwMTExLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.HHHR1OXW5CiDVKp29hu8123vUhIA6c0XaxbXihsOCnrrrawyxxwYMuY5t46ikNdjZJx5Bo7bqABFoGIWRV2K3Fu92vOtiFFq-kjIVmX7ysk1f7LQG6lymmtwmgKfi3Bj
+Sat Nov 23 18:58:41 CST 2024
+Sat Nov 23 19:00:36 CST 2024
+Sat Nov 23 19:00:51 CST 2024
+添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
