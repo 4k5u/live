@@ -406,3 +406,9 @@ Sat Nov 23 19:42:42 CST 2024
 Sat Nov 23 19:44:37 CST 2024
 Sat Nov 23 19:44:52 CST 2024
 删除mode_bad https://edge18-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-97f09607dcdbab485f340375fd7f6517438a7e676ad3fff46895618f5d3fdb96_trns_h264/playlist.m3u8
+添加mode_bad https://edge2-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-97f09607dcdbab485f340375fd7f6517438a7e676ad3fff46895618f5d3fdb96_trns_h264/playlist.m3u8
+Sat Nov 23 19:58:01 CST 2024
+Sat Nov 23 19:58:26 CST 2024
+Sat Nov 23 20:00:20 CST 2024
+Sat Nov 23 20:00:35 CST 2024
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
