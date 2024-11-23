@@ -354,3 +354,9 @@ Sat Nov 23 17:40:31 CST 2024
 Sat Nov 23 17:42:27 CST 2024
 Sat Nov 23 17:42:42 CST 2024
 删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+Sat Nov 23 17:50:10 CST 2024
+Sat Nov 23 17:50:25 CST 2024
+Sat Nov 23 17:52:28 CST 2024
+Sat Nov 23 17:52:44 CST 2024
+删除oda_assuri https://edge17-aus.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-ed31c74cb9afd2276858d0310b0d55995b03804d95c50aac882ce8262f80411e_trns_h264/playlist.m3u8
+删除honey_pinkgreen https://edge18-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-434b64edb045194da1ebdf8b2bf61fc23febc5ab99774c2da289aee1b47935d3_trns_h264/playlist.m3u8
