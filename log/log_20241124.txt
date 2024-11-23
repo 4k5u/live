@@ -171,3 +171,8 @@ Sun Nov 24 06:33:34 CST 2024
 Sun Nov 24 06:33:51 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sun Nov 24 06:44:30 CST 2024
+Sun Nov 24 06:44:45 CST 2024
+Sun Nov 24 06:46:49 CST 2024
+Sun Nov 24 06:47:06 CST 2024
+删除my_eyes_higher https://edge6-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-9fc08a7dd79ed477a9739b700d0c7c4177e97d19b878ca48fa65b0c1d82a6e23_trns_h264/playlist.m3u8
