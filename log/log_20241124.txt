@@ -181,3 +181,10 @@ Sun Nov 24 06:58:32 CST 2024
 Sun Nov 24 07:00:27 CST 2024
 Sun Nov 24 07:00:43 CST 2024
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sun Nov 24 07:22:30 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MThDNTFDQS01Mjk1LTQ3NEQtQUQ4Ri03MTE2RDM3NDhFRjMiLCJhd3M6dmlld2VyLWlkIjoiMjM4ODA0NzEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjQwNDE2MSwiZXhwIjoxNzMyNDA0NzYxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gDktFqiUalTs4aaWTYJ_DxxcRRu0BkOt-Pa5_pzX1Nql8I4b_oqSYlIYVco0q1i3W_GDVuMdfswgut2MMVvEqkMVo_vD13WmZIhBHLsxvpU1-ne0jqFKkiYsyPqZMY1-
+Sun Nov 24 07:22:48 CST 2024
+Sun Nov 24 07:24:52 CST 2024
+Sun Nov 24 07:25:09 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GqRoOTScS5FcNd9HsrdQaCkyQCk2EjO7rYBARkag6A36AldlyJ8JqUp7_VVYfmhrazY9yOrhInhm6Am83gdkpiw3VOgQBs0hE1pZUzZ8E6BgAzGgR3qhldaofdXHeQmX
