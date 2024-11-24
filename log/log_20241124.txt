@@ -308,3 +308,12 @@ Sun Nov 24 14:01:02 CST 2024
 Sun Nov 24 14:02:57 CST 2024
 Sun Nov 24 14:03:12 CST 2024
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加galantini https://edge24-chi.live.mmcdn.com/live-hls/amlst:galantini-sd-71c7fa38ccc11a5771387e027424ded198e96b42457c94d9a080e4048074b418_trns_h264/playlist.m3u8
+Sun Nov 24 14:34:53 CST 2024
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxRTQzMjZDMy02NkRBLTQ3ODgtODZCOC0yNDlCRjdGQ0VCOEMiLCJhd3M6dmlld2VyLWlkIjoiMjI2NzgyOTAiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjQzMDEwOCwiZXhwIjoxNzMyNDMwNzA4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.yYGd2jvU33z0t_8Ac3we-8gaM4nAEBk6EJd4C9O_ZWuH8DNfjPXgfSXfERQR_0w-B5f1tOwkhDAX9TJOaQ3cuPMbSw3YcubPGvTlFeAydpioet6Bk66fLT47U51veKrr
+Sun Nov 24 14:35:14 CST 2024
+Sun Nov 24 14:37:16 CST 2024
+Sun Nov 24 14:37:33 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
