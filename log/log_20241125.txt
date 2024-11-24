@@ -158,3 +158,9 @@ Mon Nov 25 06:01:31 CST 2024
 Mon Nov 25 06:03:38 CST 2024
 Mon Nov 25 06:03:55 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加mazzanti_ https://edge4-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6e2835c1c8b94b8e4eef76a655bd1ce34807ea1b802a9f75213c6cbcb55bea35_trns_h264/playlist.m3u8
+Mon Nov 25 06:26:09 CST 2024
+添加hotse777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.u0WI3hwIwXaD.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3UwV0kzaHdJd1hhRCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRUM1RTdDOS0wOEFDLTRGNEQtQkQ2Ny1GN0QwNUVGNTlGNTQiLCJhd3M6dmlld2VyLWlkIjoiMjQ5MDMyNjUiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjQ4NzE3NiwiZXhwIjoxNzMyNDg3Nzc2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.adpYiYkY0c_SPk849s8TfkoMJk1R1ZLKHPyEUjY1AK80EgWVzaotaJnysh9bKiGd1vdTAhXe_OJBgyZZg_1XU0s08ww71e26piE5N0Ba0gKkB96JdOBeI3KRLn-EWpV7
+Mon Nov 25 06:26:22 CST 2024
+Mon Nov 25 06:28:18 CST 2024
+Mon Nov 25 06:28:33 CST 2024
