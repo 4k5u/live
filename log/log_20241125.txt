@@ -58,3 +58,11 @@ Mon Nov 25 01:50:24 CST 2024
 Mon Nov 25 01:50:42 CST 2024
 删除chuing77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.eFD9AIvLFCaB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VGRDlBSXZMRkNhQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNzA5MzVERi1CMDI5LTRGMTItQTRFMS0zQTE2NTc2MDZFQkQiLCJhd3M6dmlld2VyLWlkIjoiMTgyOTQxNzgiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjQ1NDAyNCwiZXhwIjoxNzMyNDU0NjI0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Myk--HFKi1xpfGS37EH3gK-_6w-81kE7Hn_NV80mz-FDgZ8z6D6Fml2GvpWTgQAOh3aDjvIQfI9nBnqyVX7skBIx7b6AN_srktNVAtp6tjW8DpVoHg73ADH95vINFsOf
 删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+Mon Nov 25 02:00:21 CST 2024
+Mon Nov 25 02:00:41 CST 2024
+Mon Nov 25 02:02:41 CST 2024
+Mon Nov 25 02:02:58 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.tASnTVrNdDKulevCJr6EaQeFwUcL6v1VpNaNPLAe--vD1qd6W1x1OAKjaSO-eoWGEJ_47eigx1fS2vhbsp0LDdteMJWevwX41NCfyPFqa4I-WdPGsBaj_p_p2ODPeh4C
