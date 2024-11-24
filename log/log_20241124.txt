@@ -351,3 +351,15 @@ Sun Nov 24 15:51:42 CST 2024
 Sun Nov 24 15:51:57 CST 2024
 Sun Nov 24 15:54:04 CST 2024
 Sun Nov 24 15:54:20 CST 2024
+Sun Nov 24 16:25:23 CST 2024
+Sun Nov 24 16:25:37 CST 2024
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0Yy6uCa6btiv1nMSCTvPTPe8IcPAkL3ndhj6HobeKQ9PdBLeQ3v7_XsRmsnxFpV87xk3kJNp9-XW2uvpNWdCS6aEJA7XMOG7l7WB4HWh2i1N7zbF2ueimBRBzkcC6grD
+Sun Nov 24 16:27:45 CST 2024
+Sun Nov 24 16:28:02 CST 2024
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除qwer00725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sWVcbUkr9eEM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NXVmNiVWtyOWVFTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNTM0QUZBQi1BMzgxLTRFMUMtOEE5MC1FODY1OUVGQjU5NEUiLCJhd3M6dmlld2VyLWlkIjoiMjUzNzIxNjciLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjQxNDkxNCwiZXhwIjoxNzMyNDE1NTE0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Z9T81K79UXAChJrN11e_jZsX3fPcUq1sI9N9VbGRnd-_D6cFcxG8gQqxst7E3KRnO3pNWdOYvUKkAj-w9g7NrmHNUlpeGLW7kqdHqQh6i0anQ30lfTnjMkZQtQmFQyom
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+删除oki_dokie https://edge15-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3fbe7f2aec04c43569137ee7927a78b82e72e39768c210846c0c3fc7d9697dfd_trns_h264/playlist.m3u8
