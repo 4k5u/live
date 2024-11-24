@@ -81,3 +81,10 @@ Mon Nov 25 02:47:14 CST 2024
 Mon Nov 25 02:49:20 CST 2024
 Mon Nov 25 02:49:37 CST 2024
 添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+Mon Nov 25 02:58:26 CST 2024
+Mon Nov 25 02:58:43 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=null
+Mon Nov 25 03:00:44 CST 2024
+Mon Nov 25 03:00:59 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
