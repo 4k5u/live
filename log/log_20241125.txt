@@ -76,3 +76,8 @@ Mon Nov 25 02:34:57 CST 2024
 删除sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.QgqWOa0YQUAwqT1oLOSPgIrA-Dhhy7DTfD5sDK9mMyFn3SiHZ2-ITTaUXhxi38qJ9dQPFtVh4u7tYYT9MndPZhxoetSjeK7pYIr3_arp7beYMlk4R7ypVIGQcmXmj08v
 删除shuiduoduo-xz https://edge-hls.doppiocdn.live/hls/138805661/master/138805661_auto.m3u8
 删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMDRDRDEwRC0wNzVBLTRCN0UtQjlEMC01M0M0MkYwNDRDNzEiLCJhd3M6dmlld2VyLWlkIjoiMTk1ODg4MzQiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjQ2NjgwMiwiZXhwIjoxNzMyNDY3NDAyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.bWuFkxnN__ZdcG6Sfcf29r02hXGxRR6AYKuZd14aeNGGubStk0ScF2oc5ifwING7ryUn73WjIcNJk51JRubKe_C0oMcHFKU3c4XFLfw05AOVegORB0dXzfqS_i8T5LS7
+Mon Nov 25 02:46:57 CST 2024
+Mon Nov 25 02:47:14 CST 2024
+Mon Nov 25 02:49:20 CST 2024
+Mon Nov 25 02:49:37 CST 2024
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
