@@ -341,3 +341,8 @@ Sun Nov 24 15:30:34 CST 2024
 Sun Nov 24 15:30:50 CST 2024
 添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3bt-u0xoL97uWBU2-MKrKCC3t9ihuFouyG4LGqdw8UUDKZI3-v1FBscbJWnRCrMM2HBStfInzWdKj7v9BKTVVMEByncfF8HpQDimVvbzKgAE7hyORaxS8ai692U0Q-Gj
+Sun Nov 24 15:40:26 CST 2024
+Sun Nov 24 15:40:41 CST 2024
+Sun Nov 24 15:42:44 CST 2024
+Sun Nov 24 15:43:01 CST 2024
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
