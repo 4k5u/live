@@ -230,3 +230,16 @@ Sun Nov 24 10:24:25 CST 2024
 删除mazzanti_ https://edge30-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-24e2752e0cecdb66aeb55350d11b8e0621016976d5ce1d220226341bb8cf0beb_trns_h264/playlist.m3u8
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Sun Nov 24 11:22:26 CST 2024
+Sun Nov 24 11:22:44 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.z_Tn1celgvV8zL_DE_EiaBV31Itx-x2F-uvh9ZnI5V8tZxJvJhUfsveTfKDuZd5wiSfEZHb1-Cs3X6oehY2I30TqBfcRVUDfPKbNPJoE6f0dOwU41H3_qUIpjGDPQ7xY
+Sun Nov 24 11:24:53 CST 2024
+Sun Nov 24 11:25:10 CST 2024
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除oki_dokie https://edge1-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-aecefcfa538c8e67a67fdc08dc380cc599686e8fa5947a49fc2908cdaa6ff6cb_trns_h264/playlist.m3u8
+删除hee_jeen https://edge10-lax.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-1e2c04fbe78a6985d95cf44ec18bcead83792b192a5a2b5371144a0f50b3109b_trns_h264/playlist.m3u8
