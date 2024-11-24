@@ -28,3 +28,5 @@ banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.umTsxBhiM6EBlUQ-MhyGsm3iDLaiWdpuVjPBJxg28CKXsD67gY14WUQj7ypghUJooDyMQUyYD6lVPfHu5MBkyCTdHgRY7mjc8c8h2UwrrDcoU2LC_8debfFslONdDy0P
 dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.64NQCLZd5ZKRiYiwbjPQNMLvknv6larJb6D3laN0VFV8K-fh6ZbhKItwiWYglx4oMWl1d7kUyUL5B6uxlxmD_fCr4i5QuJUH52SqSfkqwelVH3KsJTs98uhm1xIMcaWq
 oki_dokie https://edge5-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-38b6e4e6b02f1bd5ca6b0f3b556baba23e620d79c2b193789bc1fba91469abba_trns_h264/playlist.m3u8
+your_desssert https://edge15-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-da30705b9cb698156d52e2c5b8225687784a37e61d6252813ee660c08977ede4_trns_h264/playlist.m3u8
+Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stm-14/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.mw9GBmHVCIfOWEdzPWAcN2ofjcW0qNGJcnEKEfi8JDpeI0h4HTRfiAh-tbIFiZyhgI7TrSE1yO0hErO1zHCGJC1rFt9cdjUv0iAyxSdsg7U6ZTCqN8BiUbz_Iz1L-9pq
