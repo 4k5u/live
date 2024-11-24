@@ -346,3 +346,8 @@ Sun Nov 24 15:40:41 CST 2024
 Sun Nov 24 15:42:44 CST 2024
 Sun Nov 24 15:43:01 CST 2024
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加oki_dokie https://edge15-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3fbe7f2aec04c43569137ee7927a78b82e72e39768c210846c0c3fc7d9697dfd_trns_h264/playlist.m3u8
+Sun Nov 24 15:51:42 CST 2024
+Sun Nov 24 15:51:57 CST 2024
+Sun Nov 24 15:54:04 CST 2024
+Sun Nov 24 15:54:20 CST 2024

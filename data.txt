@@ -25,3 +25,4 @@ y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlis
 mode_bad https://edge19-sea.live.mmcdn.com/live-hls/amlst:mode_bad-sd-287d43d33fd01f61985afe04a1ff0a20373fea71d207a8c1f1d86573cd3a1158_trns_h264/playlist.m3u8
 Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+oki_dokie https://edge15-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3fbe7f2aec04c43569137ee7927a78b82e72e39768c210846c0c3fc7d9697dfd_trns_h264/playlist.m3u8
