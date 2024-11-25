@@ -243,3 +243,12 @@ Mon Nov 25 11:57:46 CST 2024
 添加YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 删除my_eyes_higher https://edge16-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a8d97ba320e4fe2326dc50de9d6c3cbc4f17f89a9c5e6586b9e191bb7717186c_trns_h264/playlist.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加oki_dokie https://edge10-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2c1101657b29fdd99afb54d6f6c77b751d98c3db7f37f7336ec0dec45d214ed0_trns_h264/playlist.m3u8
+Mon Nov 25 12:25:53 CST 2024
+Mon Nov 25 12:26:06 CST 2024
+Mon Nov 25 12:28:12 CST 2024
+Mon Nov 25 12:28:30 CST 2024
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除nemu00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2PAhGvVvczmJ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJQQWhHdlZ2Y3ptSiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGRjExMUU1Ny0yNEZFLTQ3ODItQjg2RS0zOEQ4MUQwNDY3M0MiLCJhd3M6dmlld2VyLWlkIjoiMjExMjU4MDMiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjQ5ODg1OCwiZXhwIjoxNzMyNDk5NDU4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.8shSRsvc92SCdbz3e5OsrSVbCPisGd9AXchUhMRuf7oajJnOTRtkOuCEbgFR2xAlvm0AJM8WVNwon1Rk0D6lYgUTOAIwlFBCN7M7t8ImGPyL0M3im9sE8wx-w91WW54D
+删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
