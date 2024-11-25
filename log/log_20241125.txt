@@ -376,3 +376,15 @@ Mon Nov 25 18:30:02 CST 2024
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除cuddles_me https://edge3-lax.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-6e8c92e9384fdb7413954cd4e116f447da5b414fb406c2076e048b572bc70089_trns_h264/playlist.m3u8
+添加cuddles_me https://edge25-ash.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-6e8c92e9384fdb7413954cd4e116f447da5b414fb406c2076e048b572bc70089_trns_h264/playlist.m3u8
+Mon Nov 25 18:46:40 CST 2024
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNDkwNkE5NS1BNUUxLTQ4OEQtQjI4Ri1FQjhBMUUwMjhBRUMiLCJhd3M6dmlld2VyLWlkIjoiMjQyNDQ0NDMiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjUzMTYwOSwiZXhwIjoxNzMyNTMyMjA5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.YIA1Gym7khFF3GqZkbZcV5SPxE6vgVNT-S-CPn3-kvpS1J7BwOlhicdSWIrWxKWSbbhl32xfXbl4Zt2YCQBQnNHzBe6hB93tsXtZrGTbtbWVXf0Rxh0yT9zJ8HBYiV2p
+Mon Nov 25 18:47:08 CST 2024
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+Mon Nov 25 18:49:21 CST 2024
+Mon Nov 25 18:49:39 CST 2024
+添加Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
+删除oki_dokie https://edge10-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2c1101657b29fdd99afb54d6f6c77b751d98c3db7f37f7336ec0dec45d214ed0_trns_h264/playlist.m3u8
+删除galantini https://edge11-aus.live.mmcdn.com/live-hls/amlst:galantini-sd-1ac035d18bc0a98507d502a438fe964ab8df2991fa703c2e5a75ea3142bf006c_trns_h264/playlist.m3u8
+删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.tOSNsDZugvKJSKzugNQWxEk2dWsTLqalmCIZ_mbdDOBbYYk0R5mM3UQ_b6UtzuzH9ChAVNILqmDvDILDFbRKlOUz3ldsY6fzQ34YygZgvhGVQBxodDYzObAVliQ5WjFj
+删除dign1461 ?aid=null
