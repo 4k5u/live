@@ -388,3 +388,11 @@ Mon Nov 25 18:49:39 CST 2024
 删除galantini https://edge11-aus.live.mmcdn.com/live-hls/amlst:galantini-sd-1ac035d18bc0a98507d502a438fe964ab8df2991fa703c2e5a75ea3142bf006c_trns_h264/playlist.m3u8
 删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.tOSNsDZugvKJSKzugNQWxEk2dWsTLqalmCIZ_mbdDOBbYYk0R5mM3UQ_b6UtzuzH9ChAVNILqmDvDILDFbRKlOUz3ldsY6fzQ34YygZgvhGVQBxodDYzObAVliQ5WjFj
 删除dign1461 ?aid=null
+Mon Nov 25 18:58:23 CST 2024
+添加na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KMLbAVmLZGOm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tNTGJBVm1MWkdPbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzREM4MjQzMC04MTY5LTQxQ0ItQTkzNC1BMEFERUY4Q0U1NjciLCJhd3M6dmlld2VyLWlkIjoiMjQxMzg0NzgiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjUzMjMyMiwiZXhwIjoxNzMyNTMyOTIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.mvGWcpxQAz6Rg8vwL5mjhN40YSlc5Tjkk71qLoindc3_HIJLgTymyn3dmgGOy01Aw8IJONve5IEVygTthPyxQ5_pK9BO_ugpOShnLhMs-WD-ti-pMDrjwccN__csr8Nk
+Mon Nov 25 18:58:53 CST 2024
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+Mon Nov 25 19:00:53 CST 2024
+Mon Nov 25 19:01:08 CST 2024
+添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
+删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
