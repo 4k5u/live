@@ -300,3 +300,9 @@ Tue Nov 26 15:25:40 CST 2024
 删除intim_mate https://edge16-chi.live.mmcdn.com/live-hls/amlst:intim_mate-sd-0069ec17e77b84e0caec5236f2a1854b26dd0546fca8a857c12084e38a87d554_trns_h264/playlist.m3u8
 删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_playlist.m3u8?aid=null
+Tue Nov 26 15:40:54 CST 2024
+Tue Nov 26 15:41:11 CST 2024
+Tue Nov 26 15:43:13 CST 2024
+Tue Nov 26 15:43:29 CST 2024
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
