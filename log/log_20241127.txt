@@ -19,3 +19,9 @@ Wed Nov 27 00:34:26 CST 2024
 删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Wed Nov 27 00:54:36 CST 2024
+Wed Nov 27 00:54:53 CST 2024
+Wed Nov 27 00:57:01 CST 2024
+Wed Nov 27 00:57:19 CST 2024
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+删除4inlv https://edge-hls.doppiocdn.live/hls/111026357/master/111026357_auto.m3u8
