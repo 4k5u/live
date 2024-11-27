@@ -160,3 +160,9 @@ Thu Nov 28 06:20:22 CST 2024
 Thu Nov 28 06:22:19 CST 2024
 Thu Nov 28 06:22:46 CST 2024
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Thu Nov 28 06:39:27 CST 2024
+Thu Nov 28 06:39:34 CST 2024
+Thu Nov 28 06:41:29 CST 2024
+Thu Nov 28 06:41:56 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
