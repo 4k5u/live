@@ -223,3 +223,10 @@ Wed Nov 27 12:01:20 CST 2024
 Wed Nov 27 12:01:36 CST 2024
 删除intim_mate https://edge5-chi.live.mmcdn.com/live-hls/amlst:intim_mate-sd-ab4fd960e80c1b962929d6a3bb7306b4c0d1f587c21b56089082a2a9cbfff716_trns_h264/playlist.m3u8
 删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+添加oki_dokie https://edge17-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d528f03135ecea8c3cec9c041488aa001cdf4ffe2a13dfbb277c46feb63fadd3_trns_h264/playlist.m3u8
+Wed Nov 27 12:30:55 CST 2024
+Wed Nov 27 12:31:04 CST 2024
+Wed Nov 27 12:33:07 CST 2024
+Wed Nov 27 12:33:23 CST 2024
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
