@@ -10,7 +10,7 @@ password="$PASSWORD"
 m3u8site="$M3U8SITE"
 logfile="log/log_`date '+%Y%m%d'`.txt"
 #userIds=$1
-userIds="sumin2005 zoozoo1119 aesoon96 danhana yepyeppp dbzala yoda111 luvje000";
+userIds="aesoon96 chitaya bada0629 jssisabel moto5053 yxyxyyy sumin2005 zoozoo1119 aesoon96 danhana yepyeppp dbzala yoda111 luvje000";
 
 echo -e `date` >> $logfile
 
