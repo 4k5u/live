@@ -17,3 +17,6 @@ TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.
 oki_dokie https://edge17-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d528f03135ecea8c3cec9c041488aa001cdf4ffe2a13dfbb277c46feb63fadd3_trns_h264/playlist.m3u8
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+galantini https://edge2-mia.live.mmcdn.com/live-hls/amlst:galantini-sd-ed178209513a3a10cb417d8a74c3fec9d61fe8bc327af16cb1d502bbd30ed89a_trns_h264/playlist.m3u8
+Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8

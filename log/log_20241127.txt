@@ -236,3 +236,10 @@ Wed Nov 27 12:51:01 CST 2024
 Wed Nov 27 12:51:18 CST 2024
 删除Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
 删除luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MzI3MjIyMzgwMjMsImlhdCI6MTczMjY3OTAzOH0.7K2sjboqjZ7KD1UZyvzMnW9w6LluIQcJIXEDKb8Dvc38nztdb2BZ8tWB44veouxM3MFB1iK5iTv6nZQCox_KGLGt0-6rUtOULRyEPQV44o8snx7FegXor55FBfNxqAvc
+添加galantini https://edge2-mia.live.mmcdn.com/live-hls/amlst:galantini-sd-ed178209513a3a10cb417d8a74c3fec9d61fe8bc327af16cb1d502bbd30ed89a_trns_h264/playlist.m3u8
+Wed Nov 27 13:00:04 CST 2024
+Wed Nov 27 13:00:13 CST 2024
+Wed Nov 27 13:02:20 CST 2024
+Wed Nov 27 13:02:37 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
