@@ -286,3 +286,11 @@ Wed Nov 27 14:37:28 CST 2024
 删除icubi69 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.GUsiHfsr4rWj.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0dVc2lIZnNyNHJXaiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNjMzNjQzMC1EQzgzLTRCMzEtQkNDRS0xNEFBRjBBMEU0NDgiLCJhd3M6dmlld2VyLWlkIjoiMjUxOTkwMDciLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjY3MjQ3MywiZXhwIjoxNzMyNjczMDczLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pIcDXdXPcbWLo1CtuQ6p0OrmjyuVbEQUDqfuoL11mOdkU10S-AQnPd3ZnjVHMEVBGBum8BsS8OrYNEnm-InBfpEL0YzE14AhYbN2V9yz1nH3M3BDrB97of2z2zBNd3Kz
 删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加mode_bad https://edge8-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-6e144a06539e9fcc8214a61330bb2623186a2b2f4175d08890c4047255a3ec98_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge2-chi.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-1c4507dda7c86fb0dfa8cfb036aaac2216bb423482042379e747e4fc563f2b79_trns_h264/playlist.m3u8
+Wed Nov 27 14:53:21 CST 2024
+Wed Nov 27 14:53:32 CST 2024
+Wed Nov 27 14:55:34 CST 2024
+Wed Nov 27 14:55:51 CST 2024
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
