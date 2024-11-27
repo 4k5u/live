@@ -130,3 +130,7 @@ Thu Nov 28 04:44:55 CST 2024
 Thu Nov 28 04:45:27 CST 2024
 删除1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yz6c_5XLPwByQhdW6NfM1g_bMT8nfIKXw9tzqnOqniJDD9m1iDLOMWSkqaGBwAhCoTV8KPAxvS587lG6vOiDMtOPYBJw0sJi0z9TLwMTwwFjX8KlyIRQem37TZMUENHt
 删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+Thu Nov 28 04:58:00 CST 2024
+Thu Nov 28 04:58:05 CST 2024
+Thu Nov 28 05:00:11 CST 2024
+Thu Nov 28 05:00:44 CST 2024
