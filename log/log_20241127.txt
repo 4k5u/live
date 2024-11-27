@@ -359,3 +359,10 @@ Wed Nov 27 17:46:57 CST 2024
 Wed Nov 27 17:47:14 CST 2024
 删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._Shwa2eB6rB4gGujO40Fq5VjuOr6m7qBgv9a6QsrjmKIAEAzDrIAnSkHCsetHUtSSEOo40HmxAjhLFQudoB8PHeh7l3z6YCxONHByIGo_uYxwpTeH7uSHUrTIZEXhgW7
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Wed Nov 27 17:58:05 CST 2024
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.x8AkQVOBDgwQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3g4QWtRVk9CRGd3USIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RUJCOUM2Mi0wOUFGLTQ3M0QtOUVDNy1DQjA1RkIwMERERjAiLCJhd3M6dmlld2VyLWlkIjoiMjQ3OTI4NzkiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjcwMTQ5MiwiZXhwIjoxNzMyNzAyMDkyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.WdlHZdC3sDY2usMbjQY-a5CNHFLuZ9HOnHL8acnK3ZDlRFqp-Lm9SDPUZHGgRo6dTYNc2ovZYq8J27xe-FR6YrRiqmCqaRFJdVBeHfHpkEFwQDMlfUoxSg_7h1rMlsjs
+Wed Nov 27 17:58:23 CST 2024
+Wed Nov 27 18:00:18 CST 2024
+Wed Nov 27 18:00:33 CST 2024
+删除iminako https://edge1-atl.live.mmcdn.com/live-hls/amlst:iminako-sd-3b61d21c02527be4e74e24afe2ec2a970cda62a95c5a844d6c1166101974c4ac_trns_h264/playlist.m3u8
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
