@@ -294,3 +294,11 @@ Wed Nov 27 14:55:34 CST 2024
 Wed Nov 27 14:55:51 CST 2024
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+添加iminako https://edge1-atl.live.mmcdn.com/live-hls/amlst:iminako-sd-3b61d21c02527be4e74e24afe2ec2a970cda62a95c5a844d6c1166101974c4ac_trns_h264/playlist.m3u8
+Wed Nov 27 15:22:39 CST 2024
+Wed Nov 27 15:22:50 CST 2024
+添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Wed Nov 27 15:25:04 CST 2024
+Wed Nov 27 15:25:22 CST 2024
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
