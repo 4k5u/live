@@ -24,7 +24,6 @@ yxyxyyy https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1
 oki_dokie https://edge9-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8869d1659fa3dd8a1e78e8241ca5d199d42f135e186f93eadbf37868f15fad36_trns_h264/playlist.m3u8
 -ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
-morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 -ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0QzJFQzVGMy1FQjU2LTQwN0YtQjZCMS1EMDYwQkVGOTdENzEiLCJhd3M6dmlld2VyLWlkIjoiMjI0NzI5NDgiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjgxMzMxOCwiZXhwIjoxNzMyODEzOTE4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Ei3jdaMggqDVSGuDwj2zx97nH0SsBuUlRy-ZT6MKpkyq-mesEgoFMIxz0fyAHw-nW4pULt0sCSbvzi_LXUKdpVvNWdkm0l3_grRd1-02XkweO9DjWwX_pOJ4FWnQPSic
 -ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
