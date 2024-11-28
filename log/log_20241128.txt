@@ -240,3 +240,10 @@ Thu Nov 28 11:37:38 CST 2024
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加_meganmeow_ https://edge5-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-50f2912683b50dbbc5bc581fc26ad41ef3895d0c624fbfd8c24694026be798cd_trns_h264/playlist.m3u8
+添加cuddles_me https://edge15-aus.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-912b3f71c0143ac3dac4c448c5b153628905f25bfe3fdf40bf9db0f3acbf5034_trns_h264/playlist.m3u8
+Thu Nov 28 11:55:51 CST 2024
+Thu Nov 28 11:56:04 CST 2024
+Thu Nov 28 11:58:02 CST 2024
+Thu Nov 28 11:58:30 CST 2024
+删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
