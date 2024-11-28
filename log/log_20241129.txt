@@ -183,3 +183,11 @@ Fri Nov 29 06:59:24 CST 2024
 Fri Nov 29 06:59:37 CST 2024
 Fri Nov 29 07:01:43 CST 2024
 Fri Nov 29 07:02:14 CST 2024
+添加sexygamesx https://edge21-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-e244b95c5c01bfd4954ac3fa2b2af6be75fab28a8d98bc91a51c3cd7577b0da5_trns_h264/playlist.m3u8
+Fri Nov 29 07:24:54 CST 2024
+Fri Nov 29 07:25:05 CST 2024
+Fri Nov 29 07:27:00 CST 2024
+Fri Nov 29 07:27:27 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQ0MxOTI4OC1DN0I3LTQ1NkMtOERGNC1CQURDNTBEQ0QyMzgiLCJhd3M6dmlld2VyLWlkIjoiMjQzNjgzODUiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjgyODkzOSwiZXhwIjoxNzMyODI5NTM5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pD7ZHzXbBLSLje1tQGwFuBCYuoCKljnFS7mbpmnZ4pQO9_7lyVtasFEUBf8jQ7mAod4Ku0CGfBExUaGG1mNbXsw6SRXoMoO6oyNORm2KCNYgTvacTRnzOuhnJ6Iikpuv
