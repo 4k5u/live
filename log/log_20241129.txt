@@ -91,3 +91,9 @@ Fri Nov 29 02:31:16 CST 2024
 删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qvVYVUYPiOVp.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xdlZZVlVZUGlPVnAiLCJleHAiOjE3MzI4NTc0ODgzNTMsImlhdCI6MTczMjgxNDI4OH0.XkEVN7hC-eYs-8b7gWAjqxqFyjkMS0rqr30rFIgAZee6xTb00trOJ_5o5ZySkhAZTYE3F3MbGv-qyIUx8gsBItBHBO1f6sacC52nXLfBFoGhUUnjdhoBtgHvzQ2jeeyD
 删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+Fri Nov 29 02:48:19 CST 2024
+Fri Nov 29 02:48:32 CST 2024
+Fri Nov 29 02:50:28 CST 2024
+添加chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzI4NjI5MDc2MjQsImlhdCI6MTczMjgxOTcwN30.QqF3I73Sp3P0g3_rdFH2u_mrgyq034eJ1dtFQCcsGWxO55PXPoGQ9FE6-OZtJMe2kLSO-ASEqSfVakuB5YcKyiMTdyCVgMym77WYITagcPn9YfqsCvsFToKWHwMlIh28
+Fri Nov 29 02:50:57 CST 2024
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
