@@ -10,3 +10,4 @@ Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m
 oki_dokie https://edge14-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9cc9491d43907fc2807faf45a6c5511699e11e08c9b21a916e9d9d5905e1c8ac_trns_h264/playlist.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
