@@ -160,3 +160,9 @@ Sat Nov 30 06:50:09 CST 2024
 Sat Nov 30 06:50:39 CST 2024
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+添加cuddles_me https://edge16-ash.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-1c8ca16ad0ae3f35bbc37af8aa5da0617b4909819780ce798a22bf8f5c7f9281_trns_h264/playlist.m3u8
+Sat Nov 30 06:59:03 CST 2024
+Sat Nov 30 06:59:06 CST 2024
+Sat Nov 30 07:01:11 CST 2024
+Sat Nov 30 07:01:43 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8

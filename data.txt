@@ -9,3 +9,5 @@ morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3
 mazzanti_ https://edge16-sea.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-affec9d0d8aae7d29e67ebbc94b2a5f98962c9508dd7ba1cda969c8c87d7be51_trns_h264/playlist.m3u8
 oki_dokie https://edge9-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9d2619aa36ce6212cd5428df1024ca5789609b25dcaa62b39f267e6788bd267e_trns_h264/playlist.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+cuddles_me https://edge16-ash.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-1c8ca16ad0ae3f35bbc37af8aa5da0617b4909819780ce798a22bf8f5c7f9281_trns_h264/playlist.m3u8
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
