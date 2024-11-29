@@ -38,3 +38,9 @@ Sat Nov 30 01:21:49 CST 2024
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.ygOujwb0SUcF.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC95Z091andiMFNVY0YiLCJleHAiOjE3MzI5MzQzMDE3MzEsImlhdCI6MTczMjg5MTEwMX0.Q46Lwl5iRNrtKMux3daaqOq4nA07k8x7osmEEHvAHss-fQah24X_tv6xwBEV4VPtXHWdNF3kcppIQGqjDL9Tkq4lpflR7UAkrI3OtmXjMxUubi3ByhvVgeGZ4qyujjwr
 删除dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.sQXzfZPsWwcC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9zUVh6ZlpQc1d3Y0MiLCJleHAiOjE3MzI5MzUzMDQ0MDcsImlhdCI6MTczMjg5MjEwNH0.LuPQ_ZUbV3MdRTBxghO4cGlbuIHJhF19_8M0-Sqsv1jOmDm1oEszYY5-dosenrsWqZ85zN4J92UVoJBRKz4JvugAk0LB-P0wYvYYQTSbMJL_EdZkDYS7zGCg2sGbRkaS
+Sat Nov 30 01:36:02 CST 2024
+Sat Nov 30 01:36:27 CST 2024
+Sat Nov 30 01:38:34 CST 2024
+Sat Nov 30 01:39:05 CST 2024
+添加badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
