@@ -504,3 +504,10 @@ Sat Nov 30 21:50:52 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.7avxKItSMoG4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzdhdnhLSXRTTW9HNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MzUxMkU3OS1CN0FGLTRBN0QtQTQxOS1CNTBEMzIxRDI5RjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ1NzYzMTciLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjk2MDI2NiwiZXhwIjoxNzMyOTYwODY2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.FPyHM2x_3OzYQ5XXOnHEePttXAsMQfxfrgzp8S9TCWdVUaxMmR5H5dyN7RnEfR1lUF5LVmSnnrL75Gsn_5neRCxdzSmi_9DJs5pY5vUWgkqh6o5KP1vkOKkSPWP_b4f1
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Sat Nov 30 21:59:07 CST 2024
+Sat Nov 30 21:59:30 CST 2024
+Sat Nov 30 22:01:36 CST 2024
+Sat Nov 30 22:02:09 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
