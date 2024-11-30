@@ -3,7 +3,6 @@ hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playl
 kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 1stforever https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FqOTsJGin1Qc.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZxT1RzSkdpbjFRYyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RjFBOEUyRC1FOENGLTQ0NTItODJGRC0xRkIzMTQ2OTYzRDYiLCJhd3M6dmlld2VyLWlkIjoiMjUwNjYxMjIiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjk4MDg1NywiZXhwIjoxNzMyOTgxNDU3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.WBMN2EBW3tfXaqOXxSGa8EMByY01j0kdCVLtmD1Gl_O7xJeBfrtYJ3UdlZ6ce3C4mxqo6D9xDovhJ5DgOLFBgmOrzT2jEnSAIRpCMkR-s5c_L8b-yp4pI-Cum3PHyfmE
-oki_dokie https://edge13-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7bf3da8e8f856916922b70a8552bed938a292994092561f61e982eeb466ac368_trns_h264/playlist.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin https://edge3-chi.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-d9ad554df9f063369d9a8e8a9e56b80be3c8e0adbbef53b108ef351a22ae7a37_trns_h264/playlist.m3u8
 A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
