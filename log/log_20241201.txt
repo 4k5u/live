@@ -183,3 +183,8 @@ Sun Dec 1 07:43:39 CST 2024
 Sun Dec 1 07:44:09 CST 2024
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
+Sun Dec 1 07:52:32 CST 2024
+Sun Dec 1 07:52:41 CST 2024
+Sun Dec 1 07:54:44 CST 2024
+Sun Dec 1 07:55:14 CST 2024
+删除mazzanti_ https://edge1-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-c225ba0d5fdb9cc247d52a1e5f2e475977bb673ffba074cbe9fdaccdf84462c3_trns_h264/playlist.m3u8
