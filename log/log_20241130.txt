@@ -242,3 +242,9 @@ Sat Nov 30 12:44:15 CST 2024
 Sat Nov 30 12:46:22 CST 2024
 Sat Nov 30 12:46:54 CST 2024
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sat Nov 30 12:57:52 CST 2024
+Sat Nov 30 12:58:01 CST 2024
+Sat Nov 30 13:00:08 CST 2024
+Sat Nov 30 13:00:40 CST 2024
+删除Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
+删除cuddles_me https://edge5-aus.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-80faa6a2686bae897f889daedd44a80c10d7bc2711e70f103626e338aea16326_trns_h264/playlist.m3u8
