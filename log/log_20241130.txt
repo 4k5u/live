@@ -384,3 +384,14 @@ Sat Nov 30 18:09:19 CST 2024
 添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.qkrjxkkKITLXoPBnsMfRFTU4zScw5oiFnu4T1kzL9GYRb4Kqn9bA9jq7QAaa4ewTfek3tldgwfOahv6UkU59JzcCzGhfe1ZH8OeKaku2WPr0hww7H8w_9Ix31YPqI8ys
 Sat Nov 30 18:11:39 CST 2024
 Sat Nov 30 18:12:06 CST 2024
+添加oki_dokie https://edge13-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f987f182ff2d1ba0592637ae8c3b48178edd4d8c400018f7624d2f1b45ea59c3_trns_h264/playlist.m3u8
+Sat Nov 30 18:33:34 CST 2024
+Sat Nov 30 18:33:53 CST 2024
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.2SrkfyXeSXxUCm9bIWz8AiuHM9v5TSYjpeTB3PkJwD2uq8nqhXTxyMqpD5tqQBO3lcZcPztJlW03QkkUKpRQgU9KZfQxMfLW4rLkqkzDuxUndcq_WiXGplcgqpBFHU6H
+Sat Nov 30 18:36:05 CST 2024
+Sat Nov 30 18:36:37 CST 2024
+添加Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
+添加peichen6699 https://edge-hls.doppiocdn.live/hls/160752369/master/160752369_auto.m3u8
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除maby33 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ROEQ3JbhTQeQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1JPRVEzSmJoVFFlUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRUFGQTZGNi00OEI0LTRFMzEtOEREOC0xOTNCREVFQ0UyOUMiLCJhd3M6dmlld2VyLWlkIjoiMTgwMDA2NjYiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjk2MTMzNywiZXhwIjoxNzMyOTYxOTM3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gSaVn9N1b7ielImI9Tc00_aIcO0G-xdHfAqBW5jH8J2pY7CSr_MpKjw1dfLEOrkDmOCEnNspK57SyAU84qY5dq-Xd1JEB_Rwl0OkdiohYPVJTZPI476gsekXdkMjmxOj
