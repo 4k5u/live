@@ -511,3 +511,15 @@ Sat Nov 30 22:02:09 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+添加honey_pinkgreen https://edge6-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-e9183ad3639b2e46fb1a7b3628e4c421b1cf05ed4c72d0c9985c6d6caa996447_trns_h264/playlist.m3u8
+Sat Nov 30 22:22:44 CST 2024
+添加ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJERTQzNjRCNS05QTM3LTQzQjktQTY0QS00M0YxRjJFRDg2MkQiLCJhd3M6dmlld2VyLWlkIjoiMjI0NzI5NDgiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjk3NjU3OCwiZXhwIjoxNzMyOTc3MTc4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pfwVxkdddOBIGuK6JkFuLW4IsYWPIxgaldUUXTtgqyhh92AfUQ0YKh4HzgsYr5LKwMsPGdhxnjVRZfUZPAo965y8cCsPmnSP1MkqqANW6GNOg5Eg0WN1Cs6ZzeShOAQR
+Sat Nov 30 22:23:12 CST 2024
+Sat Nov 30 22:25:06 CST 2024
+Sat Nov 30 22:25:35 CST 2024
+删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.48hMY6oKvWziqTyjMIOFZfuzF2cFtX5Pt4pIbRETnSOW6wLq3fcoBaI9zsiNrpoQ6BWrj0RrPw7IqJ7a8V2T_KnyudNtSJ59g7RcjbBF9_NW-e_mpoICYbDH5N97jx8-
+删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
