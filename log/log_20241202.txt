@@ -115,3 +115,9 @@ Mon Dec 2 04:45:35 CST 2024
 Mon Dec 2 04:46:05 CST 2024
 删除muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQzlBQjk4MC0zRDIwLTQ4NjEtQjE0Ni1GNzgzNjcxMkUyMDIiLCJhd3M6dmlld2VyLWlkIjoiMjM5NjQxMTMiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzA0MTgzNCwiZXhwIjoxNzMzMDQyNDM0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.LHiq0Gqrmcoybo3-gK3TrxlZkR9SBXMfbY1wKUG2BzgndUE8_2ijHxrvppAF5RgUvFyqyNzSgJsSYA_UHvW6EBJhK2jFJpY2_epyP9TAvXaZ-I0mXE8Q8wUvmwlHEkeO
 删除sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.8UIBNS2VuBzlHvIZKdwP0mY1snlWLRerjn_ko2RyBbPR4sLCjronAm_bwunqEPk6w2kN1B7LG_0mMIqtBIK78NAZK0FxgzP-hREypoZDKIOYDJr1zZ03_uMh-8NouDgk
+Mon Dec 2 04:57:55 CST 2024
+Mon Dec 2 04:58:06 CST 2024
+Mon Dec 2 05:00:08 CST 2024
+Mon Dec 2 05:00:40 CST 2024
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
