@@ -271,3 +271,13 @@ Sun Dec 1 13:57:57 CST 2024
 Sun Dec 1 13:59:55 CST 2024
 Sun Dec 1 14:00:23 CST 2024
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加your_desssert https://edge11-mia.live.mmcdn.com/live-hls/amlst:your_desssert-sd-1b5da4ab7572049f19ea43f9209055f163716b404db81b21e523f6fa52763fbd_trns_h264/playlist.m3u8
+Sun Dec 1 14:32:33 CST 2024
+添加yamimm https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ZGjhVFHgKW8D.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1pHamhWRkhnS1c4RCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyOEJCNDhBNi0zRjE4LTRCQzQtODQ0My1EQkQ5NzcxRjY0OTMiLCJhd3M6dmlld2VyLWlkIjoiMjUyNjUyNTEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzAzNDc2MCwiZXhwIjoxNzMzMDM1MzYwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pu7rxaqNIH7gpXvwiJgeCBkiKdWBKbZ26L3gB2y_Eb8rSWmaEBBe3ZmW0vJ6-4iRtgc8X1ZWnaJuYahQZhFsod6ncM7I6KGP1svCLFItw5plLfvF0FEWlfFysQQ8gIXu
+Sun Dec 1 14:32:49 CST 2024
+Sun Dec 1 14:34:55 CST 2024
+Sun Dec 1 14:35:27 CST 2024
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除intim_mate https://edge30-ash.live.mmcdn.com/live-hls/amlst:intim_mate-sd-908e24ee112024522d95a33439a05b03ed06b5111aba2ed18424335c3e92355c_trns_h264/playlist.m3u8
+删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+删除iminako https://edge20-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-6b198369ebaf880288a9a9c9e39819178e6cdf38f99d23f4567aed58856a5729_trns_h264/playlist.m3u8
