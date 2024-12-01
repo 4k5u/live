@@ -30,3 +30,10 @@ Mon Dec 2 01:01:16 CST 2024
 Mon Dec 2 01:01:44 CST 2024
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.PuWOmhqBXWI2.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B1V09taHFCWFdJMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQ0FGMjMwQi0xMzc2LTQ0NUUtQjMyMy0zRkRBRDE3MzVFRjgiLCJhd3M6dmlld2VyLWlkIjoiMjUzODg5MjIiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzA1MzY3OSwiZXhwIjoxNzMzMDU0Mjc5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.V8KjEcVNLG4G5YRl4kM3ltOLZ3a6OIHuvDhuuH6BmiAW8bDsYQMWgrb7GVfFz8oVckCwg2-ab_oa318rRF1IHCwgQrC5iOD-TefcDCEhTahZf-ZXyd_BFawZw1M9n7XD
+Mon Dec 2 01:21:16 CST 2024
+Mon Dec 2 01:21:37 CST 2024
+Mon Dec 2 01:23:43 CST 2024
+Mon Dec 2 01:24:13 CST 2024
+添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yuEdYPv42siJan7z_d9iulkxfYPVEBoDauRNp9NmRzoLS1fj-ZyWAZJKjluqY33eDUjbMGAHW3oHHl1KIAvjajPMuRCCtus-z6HQ0AWkheuHC6BTqFuqJS8GyPQMcCSe
+删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
