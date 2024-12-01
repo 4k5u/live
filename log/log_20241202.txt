@@ -84,3 +84,8 @@ Mon Dec 2 03:25:35 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除honey_pinkgreen https://edge2-chi.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-0e33a6d027236f73c3899e3d8b4d3b5ceab9eedcf0d2db0a555b8fb05a621e05_trns_h264/playlist.m3u8
 删除Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+Mon Dec 2 03:38:57 CST 2024
+Mon Dec 2 03:39:12 CST 2024
+Mon Dec 2 03:41:13 CST 2024
+Mon Dec 2 03:41:43 CST 2024
+删除qwer00725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sWVcbUkr9eEM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NXVmNiVWtyOWVFTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwODlBQkZGNC1BQzQ5LTRDQkYtOTA2MS01NUFEQkQ3RUMwNzAiLCJhd3M6dmlld2VyLWlkIjoiMjUzNzIxNjciLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzA1NzI2NywiZXhwIjoxNzMzMDU3ODY3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.FLQ8mKV3K4L4dh9kKD4tUnEXODFWO4KmBMhiBYPPq3pkwBTgg-0obnoRJAGY7aXQVfni3f9y_WYQ0TJ0BgqwtsMSZa3WEMGGFhomKQCvZA-s7jCjGPw1oAm_3nvBwZBP
