@@ -9,3 +9,4 @@ ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 mazzanti_ https://edge1-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-bfbfd605a4760e3aca5762e5005e70e15ee216de2db4e90bbfc6b92498e28b0e_trns_h264/playlist.m3u8
 _meganmeow_ https://edge14-mia.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-05e8cb8280976e07d4932a092c91487772a8db6d7adb7321bb24a178a28ddd23_trns_h264/playlist.m3u8
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
