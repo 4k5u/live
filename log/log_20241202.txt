@@ -97,3 +97,8 @@ Mon Dec 2 03:53:06 CST 2024
 删除in0410 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CAKTJ7JkMyu8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NBS1RKN0prTXl1OCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENTVENTFEOS04OTRELTQyOTctODEwMS00NDc3QTA5NEE5MDIiLCJhd3M6dmlld2VyLWlkIjoiMjUyNjIzNTQiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzA2NDc4NCwiZXhwIjoxNzMzMDY1Mzg0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.RV2Ck-o1HPszDf4DWuddJk8Eb40FFsZs1gCNaRj3YFzLGGSUJHP3cK3md68wBHPB1DqCKff_TUn2C3awWii6Nb1wmHtVGoa_3Lsxv1iYeT_tHHvJqR33L6aPFuKTlkYH
 删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Mon Dec 2 04:01:46 CST 2024
+Mon Dec 2 04:01:55 CST 2024
+Mon Dec 2 04:03:54 CST 2024
+Mon Dec 2 04:04:23 CST 2024
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.x20JbIEB9ZAcz-u34TbpkdQReI2g-rHo0uyN8ECUNNDwhq6sR-k759_zB_KfaD7VBcix1xAa62y1TC5WYHKSkR1sa_r-otEd0_-ptCmK1IpArMa7opg45CUfFMT_Hv00
