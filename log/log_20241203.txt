@@ -139,3 +139,9 @@ Tue Dec 3 05:52:18 CST 2024
 Tue Dec 3 05:54:12 CST 2024
 Tue Dec 3 05:54:39 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+添加oki_dokie https://edge13-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6eee4301640a5df9003de7ba31682548ba58f57c6ad7c864e58b273854e04971_trns_h264/playlist.m3u8
+Tue Dec 3 06:21:02 CST 2024
+Tue Dec 3 06:21:05 CST 2024
+Tue Dec 3 06:22:59 CST 2024
+Tue Dec 3 06:23:26 CST 2024
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
