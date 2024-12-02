@@ -203,3 +203,9 @@ Mon Dec 2 11:28:32 CST 2024
 删除oki_dokie https://edge16-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6a0dc6cc8a462674572d08090413ec3c3a6c755a9aa8078354dbca9620040c7a_trns_h264/playlist.m3u8
 删除mazzanti_ https://edge1-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-bfbfd605a4760e3aca5762e5005e70e15ee216de2db4e90bbfc6b92498e28b0e_trns_h264/playlist.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Mon Dec 2 11:53:10 CST 2024
+Mon Dec 2 11:53:29 CST 2024
+Mon Dec 2 11:55:33 CST 2024
+Mon Dec 2 11:56:02 CST 2024
+删除intim_mate https://edge20-atl.live.mmcdn.com/live-hls/amlst:intim_mate-sd-a9d56321a1e048095eb1fca4f7bf47aa70c49c4a7ad9c2e027101b4a6ad79881_trns_h264/playlist.m3u8
+删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
