@@ -393,3 +393,9 @@ Tue Dec 3 19:42:13 CST 2024
 Tue Dec 3 19:42:45 CST 2024
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Tue Dec 3 19:50:53 CST 2024
+Tue Dec 3 19:51:30 CST 2024
+Tue Dec 3 19:53:31 CST 2024
+添加dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.sQXzfZPsWwcC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9zUVh6ZlpQc1d3Y0MiLCJleHAiOjE3MzMyNjk4NDcxMzAsImlhdCI6MTczMzIyNjY0N30.yYvXaBuyQ4_paafON_ouCz5kRmbYDRXYpB7AMlf3qBs2FqezDPJJzxF5g5xe6y10NkNl_aMs3BLFHJ32hCtAbLH80HysbDozCRvqTkMyH7RigJA-rnpI61PVZXHD4hDv
+Tue Dec 3 19:54:05 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
