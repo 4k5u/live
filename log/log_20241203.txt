@@ -167,3 +167,8 @@ Tue Dec 3 07:43:56 CST 2024
 Tue Dec 3 07:44:27 CST 2024
 添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Tue Dec 3 07:58:07 CST 2024
+Tue Dec 3 07:58:12 CST 2024
+Tue Dec 3 08:00:07 CST 2024
+Tue Dec 3 08:00:34 CST 2024
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
