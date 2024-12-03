@@ -1,4 +1,3 @@
-Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 ake_mi https://edge28-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-785259f2c9c67d656a05f2bbb1d8d776c6138ee715afb2e3d40768f15ee55bb8_trns_h264/playlist.m3u8
