@@ -476,3 +476,9 @@ Tue Dec 3 22:46:45 CST 2024
 删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.mDIxlx1dCW_2znE5ZTR1tRBwusGLN1b-4f9oXBSbFcbFikyPwKNMADy4CYgp5o3N1hRwt0a7hDLLn8tEUPyMxj31XMvjHrvUPJCG3P42DvIay99VgjsYibTBGyCtNOFC
 删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 删除Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+Tue Dec 3 22:57:57 CST 2024
+Tue Dec 3 22:58:28 CST 2024
+Tue Dec 3 23:00:35 CST 2024
+Tue Dec 3 23:01:08 CST 2024
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
