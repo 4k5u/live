@@ -6,3 +6,4 @@ na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 my_eyes_higher https://edge11-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-20254233a9f673e8f38d536907bfbf05ea07925177ff23bfd5d776ae6dc65d7b_trns_h264/playlist.m3u8
 Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
