@@ -20,3 +20,4 @@ nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 sexygamesx https://edge7-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-850b2dca78ed06f5691d24e72bfecfcb98a7e28b08745f2e494843fed0ab7151_trns_h264/playlist.m3u8
 somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
