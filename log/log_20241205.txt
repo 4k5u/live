@@ -121,3 +121,9 @@ Thu Dec 5 04:29:39 CST 2024
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+添加my_eyes_higher https://edge10-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ce03b991241e2a8ea4c4f6a08032d5bd3c169e6ae513d3c2085162835f6f3e39_trns_h264/playlist.m3u8
+Thu Dec 5 04:43:19 CST 2024
+Thu Dec 5 04:43:28 CST 2024
+Thu Dec 5 04:45:23 CST 2024
+Thu Dec 5 04:45:50 CST 2024
+添加Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
