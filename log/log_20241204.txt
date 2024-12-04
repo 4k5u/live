@@ -299,3 +299,14 @@ Wed Dec 4 16:53:31 CST 2024
 删除ake_mi https://edge25-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-6bcc825ef3909b4d3ce9103c9e06aefd6ae64ebad0bc15cffa6acbfee31f5a25_trns_h264/playlist.m3u8
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Wed Dec 4 17:10:00 CST 2024
+Wed Dec 4 17:10:07 CST 2024
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Wed Dec 4 17:12:14 CST 2024
+Wed Dec 4 17:12:40 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除sexygamesx https://edge7-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-850b2dca78ed06f5691d24e72bfecfcb98a7e28b08745f2e494843fed0ab7151_trns_h264/playlist.m3u8
