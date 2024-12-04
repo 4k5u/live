@@ -246,3 +246,13 @@ Wed Dec 4 14:00:03 CST 2024
 Wed Dec 4 14:00:34 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQ0Y5QkRGQi1CMUU3LTQ5QjktQjEyQS03NjUwQ0JBMDBFMTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzI4NjY3NSwiZXhwIjoxNzMzMjg3Mjc1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gYKc6Ni21ZRo-7TFfQv_ksEVG9SX2WMkuCf8kb8lkMrKSYc3W1_hPjuD2XqOaL_qsMNLuYvfOpO58R-pkccBmgrNAqZG9DHNZu-cQR9oUHeA0KsxsIy7I_bs7vojx8CW
+添加sexygamesx https://edge7-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-850b2dca78ed06f5691d24e72bfecfcb98a7e28b08745f2e494843fed0ab7151_trns_h264/playlist.m3u8
+Wed Dec 4 14:34:13 CST 2024
+Wed Dec 4 14:34:24 CST 2024
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Wed Dec 4 14:36:24 CST 2024
+Wed Dec 4 14:36:52 CST 2024
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
