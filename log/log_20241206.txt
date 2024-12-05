@@ -47,3 +47,19 @@ Fri Dec 6 01:22:17 CST 2024
 删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Glw0dRl8lPxCf4_jJe8MOHe-6lgzyGg3Q0N6rQkMqrohoiK1QJ6mLT2ziSjerCAcnd51nquYLwZovAHJ5DsYiGJvc6GAfu_bAVby7GxTjy5vAGtd37MSOw7FX254YTq5
 删除362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.x8AkQVOBDgwQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3g4QWtRVk9CRGd3USIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQjgwNzQwMC1DQ0VDLTQ5RjItQjRBNC1BNDUwMDRCMTY0MTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzQxMzQ3NiwiZXhwIjoxNzMzNDE0MDc2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.RgsvzefcIpFTtnLee0e7ztd4VDgIbA_r1KS4a8ye6MPUg5Ea7cvv1Dtp4hxMW9sUoHg6MmoF2HHsxG8zDG9vrI9AIR8gqYL5iJx4_kcBnVLylb3mlAqclzOvh6RI2NWa
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+Fri Dec 6 01:38:05 CST 2024
+Fri Dec 6 01:38:20 CST 2024
+Fri Dec 6 01:40:28 CST 2024
+Fri Dec 6 01:41:01 CST 2024
+添加badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+删除m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jElp4aUx8MyWIjEmyL43nczuaYzLaAA5692mi_3fKgw_blkxxFVZEzxlUHkMkQNTaBYXFBXlFqMyATB5k2ItbaECa5IyF3pNzkZyoW-pMh28FaKeeDeTrI9_dGdQvSx1
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
