@@ -24,7 +24,6 @@ glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_pla
 leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Glw0dRl8lPxCf4_jJe8MOHe-6lgzyGg3Q0N6rQkMqrohoiK1QJ6mLT2ziSjerCAcnd51nquYLwZovAHJ5DsYiGJvc6GAfu_bAVby7GxTjy5vAGtd37MSOw7FX254YTq5
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
-honey_pinkgreen https://edge30-ash.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-dc44a348afe9f945cdddbacafd0aea5d909af4296ada1a4e4c8861537e638df0_trns_h264/playlist.m3u8
 jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 minion998 https://edge-hls.doppiocdn.live/hls/131654942/master/131654942_auto.m3u8
