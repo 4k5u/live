@@ -7,3 +7,23 @@ Fri Dec 6 00:01:09 CST 2024
 删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 删除flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.pOaq4cy8gPp1TxBGNhG2Kln6FRdgY5-LpWqukxuoH6ObVbau-wj9L-1KUi1EHY7TwnRkraBlPAWaCX1T_I-L8j6eNy8AB33ZvZIkMhrpL-CCbfVryapGE_H5dn4BWcGa
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+添加oki_dokie https://edge10-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e59bc47a5750b9a655927a8dc5a16d6d47882da924d8e6eba28c179284f6f0ed_trns_h264/playlist.m3u8
+Fri Dec 6 00:31:53 CST 2024
+Fri Dec 6 00:32:16 CST 2024
+Fri Dec 6 00:34:28 CST 2024
+Fri Dec 6 00:35:01 CST 2024
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+删除kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3t5NKLgDwt5yFoMtMwKiFnc822c-8JGrHGmGrb4JxXqQnxLCCybuffA6T3lPK9bSHFkkPpvQdljL-KC1nYXGf4uHnfcZTisguRrqH824fQlHqXz1UM-fb9YD_foJcL3C
+删除tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQjlBMEIzQS04QjBCLTREOUMtOTlBMy0wMTMxMUQ5QUU3QUYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzQwMzE5MiwiZXhwIjoxNzMzNDAzNzkyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2ZqVpONIgs6a62olZdvCyxeL81YX1w4xUBRXe8MRqjKlEWsdP7237YEipdv12fKsYPTSy3SiK4XSCYbJeOoLbiCxmQfqzPCm5aOYBMMWZQUBuSm7Bp8_WZ3ZdzBmsPFO
+删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+删除172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+删除dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCODVEMEYwRi03NTlBLTQ4NjMtQkY4Qi04MzMyQTAzRTFFMDkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzQwNjUwNCwiZXhwIjoxNzMzNDA3MTA0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.BYKAFyxO5JpRFxgmmYTiEdo0DxMmuLhWlA03RhdkJvwRP0d3BuNuGFZ5-TsndDuc9IhJWaoq9eyIRD4SxqU0G6_g85S6oKufiqZ56bNkUmpSjZbcCZo_GXhxCOFRuRhq
+删除-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+删除-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+删除chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzM0NTU4Mzg4NTEsImlhdCI6MTczMzQxMjYzOH0.R9XC2QMnwUqyqJfcHWHBr1Um23eb6mPnUSz1e5vzZm61gTY9suCxUcDqm_ISZH5orBRovyndV8PM3dejN-5u25ZZizwDJjsgnRUe8UDvVyPf9vwNwM_rEqEQWHGZxStf
+删除-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+删除-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
