@@ -130,3 +130,8 @@ Fri Dec 6 04:43:13 CST 2024
 Fri Dec 6 04:45:23 CST 2024
 Fri Dec 6 04:45:57 CST 2024
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Fri Dec 6 04:58:05 CST 2024
+Fri Dec 6 04:58:10 CST 2024
+Fri Dec 6 05:00:17 CST 2024
+Fri Dec 6 05:00:50 CST 2024
+删除oki_dokie https://edge10-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e59bc47a5750b9a655927a8dc5a16d6d47882da924d8e6eba28c179284f6f0ed_trns_h264/playlist.m3u8
