@@ -292,3 +292,11 @@ Thu Dec 5 14:34:46 CST 2024
 Thu Dec 5 14:36:59 CST 2024
 Thu Dec 5 14:37:31 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Thu Dec 5 14:53:21 CST 2024
+Thu Dec 5 14:53:38 CST 2024
+Thu Dec 5 14:55:46 CST 2024
+Thu Dec 5 14:56:18 CST 2024
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzM0MTc0NTc3MzIsImlhdCI6MTczMzM3NDI1N30.7YPkG9eukF3zbgtXv7qS2_wojF3772UgCkFWRatoXMirlhfje0HXv3bGOhFP8XOXPi9wPmsm5m341EJsuecv_8x19HMpghruAxaF28VvuGoQbsnIHK3AdJuifRVK3xHL
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
