@@ -244,3 +244,13 @@ Thu Dec 5 12:34:21 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加amilia4u https://edge26-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-a8e948e44adfadc3edda6ea60cf908099414913f16985dd5b13f1162b6d31714_trns_h264/playlist.m3u8
+添加cuddles_me https://edge12-chi.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-a66cfb8816ac9b657dc6af880e936e52f692ec9d29014d2ead440148409700df_trns_h264/playlist.m3u8
+添加sexygamesx https://edge13-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-1b602b8defc559081be6f8c02a4a2e918c111493ccae1980148531d039d14944_trns_h264/playlist.m3u8
+Thu Dec 5 12:48:45 CST 2024
+添加maby33 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ROEQ3JbhTQeQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1JPRVEzSmJoVFFlUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NDhCOEM2Mi00QjdFLTQwMTMtQTFFMS00NTBDNTUxNDI4NDUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzM3NDEyOCwiZXhwIjoxNzMzMzc0NzI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.al_jBLQXO2D3Da9eHLxlMAKLhNtJKY8dneL7_-JOkj_jbQR3E1fAMSyCcm1C27esRJmi6RT28ugZWM1G8ArTS6OLfCBrFD3Y5UhjKtiaFDW3swl_SnKHUWgQZWhYnrTB
+Thu Dec 5 12:48:59 CST 2024
+Thu Dec 5 12:51:08 CST 2024
+Thu Dec 5 12:51:39 CST 2024
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
