@@ -345,3 +345,10 @@ Thu Dec 5 16:52:18 CST 2024
 删除_meganmeow_ https://edge18-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-0b79cc156e1b3a86d8fbb61117494b4d0a846beba986d337940df06d4d9373be_trns_h264/playlist.m3u8
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Thu Dec 5 17:00:43 CST 2024
+添加thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9PnMPq8BQptk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlQbk1QcThCUXB0ayIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwNkU5QTYyMC0xOUQyLTRFNDEtODNBRS1CNzY5MjBBMEZGNUQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzM4OTI1NCwiZXhwIjoxNzMzMzg5ODU0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.yh0Qa8NGPKDYWBcx-qfOXpa7tmlRt0VB5L2o3pwyePXucagVKyvaTpIocH2dG5vxsQgdSFn5JQRHgBE1ezHdt8QillDeEoZ1kmVpLFrIeuoFY5-32lsf_4Y2Z7cToRCC
+Thu Dec 5 17:01:05 CST 2024
+Thu Dec 5 17:03:13 CST 2024
+Thu Dec 5 17:03:45 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除Smm555 https://edge-hls.doppiocdn.live/hls/165829792/master/165829792_auto.m3u8
