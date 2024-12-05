@@ -337,3 +337,11 @@ Thu Dec 5 16:31:30 CST 2024
 删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 删除chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzM0MjY0Nzc0NTAsImlhdCI6MTczMzM4MzI3N30.0D_ZV2CIZoZAwUVk_er8MLCkq1-_az6b7C3WoYRstTU_UwVEFHAT988-AKfhLLfdY1ZADnZrdPFeVZnc_BjUfVyCw80yb1qloNs8_LB4qr6VdiwdT-qYTYkTz0ilF4X2
+Thu Dec 5 16:49:19 CST 2024
+添加yamimm https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ZGjhVFHgKW8D.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1pHamhWRkhnS1c4RCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwQjIyMjREMi1EMDE2LTQzRTctQUYzNC00MjEzODIyRkM1RTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzM4ODU2OCwiZXhwIjoxNzMzMzg5MTY4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qPLDh8s9Y8xtaWtoY7fE0xHy_K7BgYIkGjd82A0D27Kbrpjp_pXDHsqjm4Pr-_zksoVN_13QQ8XCu0oxzRtBdSfEibNzi3tARdElGr-d9Lt1zrTp9eKYrxb3omd2nXOr
+Thu Dec 5 16:49:39 CST 2024
+Thu Dec 5 16:51:47 CST 2024
+Thu Dec 5 16:52:18 CST 2024
+删除_meganmeow_ https://edge18-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-0b79cc156e1b3a86d8fbb61117494b4d0a846beba986d337940df06d4d9373be_trns_h264/playlist.m3u8
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
