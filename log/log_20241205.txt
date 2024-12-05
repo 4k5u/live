@@ -258,3 +258,11 @@ Thu Dec 5 13:00:10 CST 2024
 Thu Dec 5 13:00:23 CST 2024
 Thu Dec 5 13:02:32 CST 2024
 Thu Dec 5 13:03:02 CST 2024
+Thu Dec 5 13:27:34 CST 2024
+Thu Dec 5 13:27:45 CST 2024
+Thu Dec 5 13:29:47 CST 2024
+添加chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzM0MTc0NTc3MzIsImlhdCI6MTczMzM3NDI1N30.7YPkG9eukF3zbgtXv7qS2_wojF3772UgCkFWRatoXMirlhfje0HXv3bGOhFP8XOXPi9wPmsm5m341EJsuecv_8x19HMpghruAxaF28VvuGoQbsnIHK3AdJuifRVK3xHL
+Thu Dec 5 13:30:21 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2ODdEMzUyQi00Qzg5LTREOEUtOUE0MC1GOTU2NTQ1OEE2RDIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzM1NDQ5NiwiZXhwIjoxNzMzMzU1MDk2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.0cfVSooXg_ByTDkgrjbzdZPbQ5dYP81WqeFwMnX1rojNTTERMjc_0jUNXfltFbi50OIlMPDSI-AVPhjp7DWYzStQD8xCI5w5-BxAq6g8CQafWGeNKxnwqGLv6bWeZ2nG
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
