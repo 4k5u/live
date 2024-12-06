@@ -9,5 +9,5 @@ kiyoko_rin https://edge10-mia.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-97cfe5
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
-my_eyes_higher https://edge1-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-683dac7fea83d75730e8ed83ccaf4b7c86afba067b60b3b5a2396d6898524881_trns_h264/playlist.m3u8
 Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+oki_dokie https://edge30-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9ab44d25ba0115a61610ca553c1df12db1054a965862745590d898be038e584d_trns_h264/playlist.m3u8
