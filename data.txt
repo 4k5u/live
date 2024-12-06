@@ -19,3 +19,4 @@ Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.
 mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.r5gbErG1lmfOKEF51DlvZqcOrTxWJYBzyWgyJLhVvmewKRRZf42tKl8pyv3bCFKweDNsT570bHJSJ0zNayggQJKjrh2OLBjejutgAtrrN7Txv_s6zd0ji_fr-aYRLcdx
 hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=null
+yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3SaVvF7oURFBEvIV5pyaRzbCuIfji68viqJXl51ATTWAVHPeHb0-2jqyPa_EdDsgeZ4fnQWam-Kko6CkjDStDvYU3tphyb1171e3WKCWtGpPzpg6GWL5yGbjRLINZTI3
