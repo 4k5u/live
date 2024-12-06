@@ -470,3 +470,12 @@ Fri Dec 6 22:26:14 CST 2024
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加foxylovesyou https://edge11-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-9e29f53ce8af99fdbbe5d8f63a61cd35cfa77e426ad7c728bf02c9cf2242f07b_trns_h264/playlist.m3u8
+Fri Dec 6 22:45:19 CST 2024
+Fri Dec 6 22:45:58 CST 2024
+Fri Dec 6 22:47:59 CST 2024
+Fri Dec 6 22:48:29 CST 2024
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除sumin2005 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.6vr07jRLAAqe.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC82dnIwN2pSTEFBcWUiLCJleHAiOjE3MzM1MjcxNzU1NjAsImlhdCI6MTczMzQ4Mzk3NX0.BuE-_MFthc_J5AUJcXppBkkTEQu8hsVB39H4BEEbCjVuV8ofMhSFqCWkfsrqfTOtkHms2vh5GUB531SJLiR3ehqMSl1TAG67YPSTmu0VIT9MnXJUGikaSfnELHTjZPcM
