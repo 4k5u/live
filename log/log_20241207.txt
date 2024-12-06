@@ -92,3 +92,10 @@ Sat Dec 7 03:41:23 CST 2024
 Sat Dec 7 03:43:27 CST 2024
 Sat Dec 7 03:43:58 CST 2024
 删除kiyoko_rin https://edge10-mia.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-53571c835fd3975f4e26ddefc0194753fef62ea8323259ebabfec93740078350_trns_h264/playlist.m3u8
+Sat Dec 7 03:53:38 CST 2024
+Sat Dec 7 03:53:49 CST 2024
+Sat Dec 7 03:55:42 CST 2024
+Sat Dec 7 03:56:08 CST 2024
+添加YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=null
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
