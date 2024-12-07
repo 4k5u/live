@@ -448,3 +448,11 @@ Sat Dec 7 20:42:01 CST 2024
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Sat Dec 7 21:05:15 CST 2024
+添加tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwOTcxODA2NS03MzcxLTQzRTItQUY1Ri01QTE2MDVGMTdEOTMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzU3NjczOCwiZXhwIjoxNzMzNTc3MzM4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gkgkDppwshNZsB2uM78fRJCDm8GLyD8svzpYSeS9MVQmaQjxN4f5fdIKUEbGCkjR6vuFr03Wr0uGLyPLNX_rUD6AMJ3oc6ucOmZpBFAFtWAT-utCvsNe903yfFfuxKHh
+Sat Dec 7 21:05:50 CST 2024
+Sat Dec 7 21:07:53 CST 2024
+Sat Dec 7 21:08:25 CST 2024
+添加peichen6699 https://edge-hls.doppiocdn.live/hls/160752369/master/160752369_auto.m3u8
+删除sexygamesx https://edge1-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-00f3c528d6c7d466d4e234bd21aa0f71287ac26171cca2602c50e0c8b715e058_trns_h264/playlist.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
