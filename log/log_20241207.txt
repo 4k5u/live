@@ -231,3 +231,16 @@ Sat Dec 7 11:56:48 CST 2024
 Sat Dec 7 11:57:15 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+添加amilia4u https://edge1-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-b6399ae18128534adf1ea08f95c95e97da72715c7f7f71664427a10d9db37268_trns_h264/playlist.m3u8
+添加oki_dokie https://edge7-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-de9b08740f5daa8c94025e4db3f34f8a1553575a1d2212617d792f5e0b0690b7_trns_h264/playlist.m3u8
+添加iminako https://edge19-atl.live.mmcdn.com/live-hls/amlst:iminako-sd-798272139b7e2b29ea33db22fa4825af1cbcb6603e4d0f55d91460bb8aaed418_trns_h264/playlist.m3u8
+Sat Dec 7 12:25:35 CST 2024
+添加sksnrnrp11 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.cJT1cq2UIBfX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2NKVDFjcTJVSUJmWCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBM0VGNDRFQS1COTZELTQ5MUYtQTZGRC04RjE5REE1QkU4MzgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzU0NTU0MCwiZXhwIjoxNzMzNTQ2MTQwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2Qi87Sg0NlA6mtBhoxNLfuOE8VadUGhBke4lCyiFUNEQCkdZhwhyFWKE_0cFSoBbfzhM8QvBaBi7MDZPeduZMs3TIfey_GNUHX2FhMU3yjfAVFZH7yVLrdTyyZqZ0ijx
+Sat Dec 7 12:25:49 CST 2024
+Sat Dec 7 12:27:51 CST 2024
+Sat Dec 7 12:28:23 CST 2024
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1Mu5yG9cTECcLzWMxK88CPg7OIUzUNDtxSoV5hiWl0vjPCHNshFiQwxsfkQwjgPx-yhKVlWDv1eCt_52U8KDMfDM8mzQ0kDMxxHnanEBitjtBNytrP7hnHwSOsOK7qdH
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
