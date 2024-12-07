@@ -4,10 +4,8 @@ y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlis
 rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
-sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MuPrFRbXuwjRCUtTvVZEDgZLbKcxcC0IqpcZ1Y1qx-Bd3BcViLtcBuVBNdp8okjpU0zUMS2E-1xqR7i_CLe1Xp3FV_a6yXfv8gQSzDpXj4XXXvlHcWK7egy7XL28qEfb
 jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
-alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie https://edge15-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-81822d86fa5beb36dddbe1079643f3577f3cdb8c1786d09729f95bb4d06b864f_trns_h264/playlist.m3u8
 yxyxyyy https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.m8Q1Bw1bpBic.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9tOFExQncxYnBCaWMiLCJleHAiOjE3MzM2MzI1MDU2MzIsImlhdCI6MTczMzU4OTMwNX0.8bsb8MYH43OudBNhk_rDh11vpChpyfnxLbRoQEhqXwQE1f-FvU6dFSSagfj_NNGZ33s0cRd5ybgmsfQbfU45riINEmaV5GbqcMJOBuKA_MbLIwTB3mpfqrC8w6nDuUgk
 gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
@@ -18,3 +16,4 @@ Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.
 A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
 YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1RUFCNjlEMy00RTJFLTRDMDctOEU5Ni1GOTA3NzgzRjQxMEQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzYwMDM1MiwiZXhwIjoxNzMzNjAwOTUyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.rcc6uk8TF22JNgTrzmCljXHKCju_prQMtHqQFLEkNznwwQOpLw7_hTUx8WE3dE4ees2D-lBh3gxQCqk7-iEobnLHnNhT0YJTs2VDwjObHbLUsQwvoCu8-2WoC3u0Z9ZZ
+morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
