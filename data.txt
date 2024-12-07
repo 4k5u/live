@@ -5,11 +5,9 @@ twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_p
 bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
-oki_dokie https://edge7-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-de9b08740f5daa8c94025e4db3f34f8a1553575a1d2212617d792f5e0b0690b7_trns_h264/playlist.m3u8
 iminako https://edge19-atl.live.mmcdn.com/live-hls/amlst:iminako-sd-798272139b7e2b29ea33db22fa4825af1cbcb6603e4d0f55d91460bb8aaed418_trns_h264/playlist.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
-EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 ohhanna https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNO0Boy8waNQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOTzBCb3k4d2FOUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5OEY4M0VFMS1FNDE0LTQwOUUtOUIyNy00REU1NTE1MTEyNTkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzU0ODk3OCwiZXhwIjoxNzMzNTQ5NTc4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cFpMpn7DN5JXI_84Zr2pWamViGhBBhHOLmY7sudl6VJdR8Jd9_BwnWxeV6d5R_6dP24aOHAtjYSixOMinmOzaNfd4BMzo5ZmSlP21t9pjU3_ZgNENjZnpltDmsMepvzx
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
