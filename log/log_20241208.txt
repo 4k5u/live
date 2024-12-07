@@ -131,3 +131,12 @@ Sun Dec 8 04:53:48 CST 2024
 Sun Dec 8 04:55:51 CST 2024
 Sun Dec 8 04:56:22 CST 2024
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+添加mazzanti_ https://edge2-sea.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6093e5fb086ba5f182216995f7326fde927a3fd83f40804e243306c4c91d4e39_trns_h264/playlist.m3u8
+Sun Dec 8 05:18:56 CST 2024
+Sun Dec 8 05:19:13 CST 2024
+Sun Dec 8 05:21:06 CST 2024
+Sun Dec 8 05:21:33 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除oki_dokie https://edge15-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-81822d86fa5beb36dddbe1079643f3577f3cdb8c1786d09729f95bb4d06b864f_trns_h264/playlist.m3u8
+删除A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
