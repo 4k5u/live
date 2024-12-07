@@ -73,3 +73,8 @@ Sun Dec 8 02:37:44 CST 2024
 删除mozzzi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.P58zKdyrmINu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1A1OHpLZHlybUlOdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNjRBNEU2OC1DNTEwLTQxMDAtQkREMi0zMDkyNzNFMjM1OTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzU4OTAyOCwiZXhwIjoxNzMzNTg5NjI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.R_Vys1paJAmZpxVG22YhVnXG8MenlFivTsdHuEj6jq_474hqpY6ZQHxKsd0lpKTC4NOMaB2gSUrO9DZIeoFvb4GkMWdmhVBYm3GIpYYtU3t5o7svCH583Sjou28Nyy1O
 删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 删除Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+Sun Dec 8 02:50:45 CST 2024
+Sun Dec 8 02:50:52 CST 2024
+Sun Dec 8 02:52:52 CST 2024
+Sun Dec 8 02:53:21 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
