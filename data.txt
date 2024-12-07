@@ -11,3 +11,4 @@ morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3
 mazzanti_ https://edge25-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6561ac00a11a40151827acbb8c8e421178184f9caf8163c238f0fc2b9d58d46b_trns_h264/playlist.m3u8
 kiyoko_rin https://edge15-ash.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-9afc34f6e6cb0d423be29bf2be5c023a8859fb28e803cb31ce5faf640ac98ccf_trns_h264/playlist.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+_meganmeow_ https://edge4-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-02c754cd0f8b1c55666aae3e5960cd09ed8d91b35875f933c430e267d5443aaa_trns_h264/playlist.m3u8

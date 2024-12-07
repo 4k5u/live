@@ -191,3 +191,8 @@ Sun Dec 8 07:24:28 CST 2024
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+添加_meganmeow_ https://edge4-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-02c754cd0f8b1c55666aae3e5960cd09ed8d91b35875f933c430e267d5443aaa_trns_h264/playlist.m3u8
+Sun Dec 8 07:39:47 CST 2024
+Sun Dec 8 07:39:54 CST 2024
+Sun Dec 8 07:41:47 CST 2024
+Sun Dec 8 07:42:14 CST 2024
