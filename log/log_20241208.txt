@@ -161,3 +161,9 @@ Sun Dec 8 05:58:01 CST 2024
 Sun Dec 8 05:58:13 CST 2024
 Sun Dec 8 06:00:06 CST 2024
 Sun Dec 8 06:00:32 CST 2024
+添加oki_dokie https://edge1-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-dbaa8973653e6681e40ef38d2e1c3843dfa80f5d17fcf5d9d3a7c297e2729449_trns_h264/playlist.m3u8
+Sun Dec 8 06:22:15 CST 2024
+Sun Dec 8 06:22:24 CST 2024
+Sun Dec 8 06:24:17 CST 2024
+Sun Dec 8 06:24:43 CST 2024
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
