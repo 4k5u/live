@@ -369,3 +369,8 @@ Sat Dec 7 17:44:20 CST 2024
 Sat Dec 7 17:44:47 CST 2024
 删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 删除iminako https://edge18-aus.live.mmcdn.com/live-hls/amlst:iminako-sd-6e652612aa8637183aed4d0c404673f7ac813400db4e51645c710f4a72165749_trns_h264/playlist.m3u8
+Sat Dec 7 17:52:38 CST 2024
+Sat Dec 7 17:52:49 CST 2024
+Sat Dec 7 17:54:48 CST 2024
+Sat Dec 7 17:55:18 CST 2024
+删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
