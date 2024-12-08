@@ -21,3 +21,5 @@ Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u
 oki_dokie https://edge21-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9331682c944d05db1d1e5abd3d12ce96ba973dc7a053e256228ccfd5aa4b79dc_trns_h264/playlist.m3u8
 LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
