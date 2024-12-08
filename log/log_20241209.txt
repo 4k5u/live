@@ -78,3 +78,8 @@ Mon Dec 9 02:35:48 CST 2024
 删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MEE2RkJGOS1GQjNFLTQxNDktOTc3NC0zOEY5RjM4NEY0NTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzY3Mjk0MCwiZXhwIjoxNzMzNjczNTQwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.tkozQ2zTVg_-C6Nk8MplDUqEqju8L-DNhfa-AtppDjsViqTqg0Rvxm9N1CynzWoVAmXvJm5E9jtzWXddgd1TswNZH1PVx9Z8azQjHjkpN6-cNvexpq5qsVpYU_7ajpuK
 删除Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Mon Dec 9 02:50:30 CST 2024
+Mon Dec 9 02:50:39 CST 2024
+Mon Dec 9 02:52:31 CST 2024
+Mon Dec 9 02:52:58 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
