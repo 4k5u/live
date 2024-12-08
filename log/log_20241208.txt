@@ -417,3 +417,9 @@ Sun Dec 8 19:20:49 CST 2024
 Sun Dec 8 19:22:40 CST 2024
 添加dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.sQXzfZPsWwcC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9zUVh6ZlpQc1d3Y0MiLCJleHAiOjE3MzM2OTk2MDM1NzksImlhdCI6MTczMzY1NjQwM30.dgCY4t8lyYCnCfYDJ4w0O8oJ4Or8UM_mF-Irh5XbRNY34tlO-0eb4AzZkFfChdv0QbM4ElBYc5x5QCcr6vpk44krS-xsA24e6W0pEhjXMNe_RfAGJElvYj4iPtkJPg4f
 Sun Dec 8 19:23:19 CST 2024
+Sun Dec 8 19:31:41 CST 2024
+Sun Dec 8 19:32:08 CST 2024
+Sun Dec 8 19:34:08 CST 2024
+Sun Dec 8 19:34:37 CST 2024
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
