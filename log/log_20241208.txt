@@ -201,3 +201,12 @@ Sun Dec 8 07:50:54 CST 2024
 Sun Dec 8 07:52:57 CST 2024
 Sun Dec 8 07:53:29 CST 2024
 删除oki_dokie https://edge1-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-dbaa8973653e6681e40ef38d2e1c3843dfa80f5d17fcf5d9d3a7c297e2729449_trns_h264/playlist.m3u8
+添加oki_dokie https://edge1-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-dbaa8973653e6681e40ef38d2e1c3843dfa80f5d17fcf5d9d3a7c297e2729449_trns_h264/playlist.m3u8
+添加oda_assuri https://edge17-aus.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-7841b9833cc580f1b42cbc2d53523cfa67a400b5394b131b561eacb6b14dc98f_trns_h264/playlist.m3u8
+Sun Dec 8 08:44:46 CST 2024
+添加nemu00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2PAhGvVvczmJ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJQQWhHdlZ2Y3ptSiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NkU0RTMyMS1CNjA4LTRBMjktOEY3MS03NTIxM0Y3MzAzNzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzYxODY5MCwiZXhwIjoxNzMzNjE5MjkwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.OzBYf7xgI-fmnr0GSYUP42Xa5Ky38GqeA4BcSlvRuAyzrWDpTpIX4fhoTn2GwxoTE9QyAIJ-Zb98P1G4sfKPb0Aogt9b70iXK9_VPPTjbNc-AlhUpTDmxGm5LPYWalsz
+Sun Dec 8 08:44:56 CST 2024
+添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HGpiPaTsBOuEmI1A_2Lt4-aeXb16_oOt1n3xjBlVjBhIvkmyNYSTNYFOZ_jnN4C7dKRg6hoM23MvhkRStGLmixxwvlMuFMpesLmnaSulE9mJSq2hf08HTY_nej41TF_v
+Sun Dec 8 08:46:54 CST 2024
+Sun Dec 8 08:47:21 CST 2024
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
