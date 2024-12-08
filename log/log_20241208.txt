@@ -366,3 +366,9 @@ Sun Dec 8 17:27:30 CST 2024
 Sun Dec 8 17:28:00 CST 2024
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Sun Dec 8 17:40:04 CST 2024
+Sun Dec 8 17:40:23 CST 2024
+Sun Dec 8 17:42:16 CST 2024
+Sun Dec 8 17:42:47 CST 2024
+删除oda_assuri https://edge17-aus.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-7841b9833cc580f1b42cbc2d53523cfa67a400b5394b131b561eacb6b14dc98f_trns_h264/playlist.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
