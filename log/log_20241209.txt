@@ -133,3 +133,10 @@ Mon Dec 9 04:57:50 CST 2024
 Mon Dec 9 04:57:57 CST 2024
 Mon Dec 9 04:59:59 CST 2024
 Mon Dec 9 05:00:29 CST 2024
+Mon Dec 9 05:21:13 CST 2024
+Mon Dec 9 05:21:18 CST 2024
+Mon Dec 9 05:23:11 CST 2024
+Mon Dec 9 05:23:38 CST 2024
+删除ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.eBxc3aR2XJmy.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VCeGMzYVIyWEpteSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNTNFOUZEOS03RTA5LTRGMUYtQTA5Qi0zRjM1QUY0NEMyNzciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzY3MTMwOCwiZXhwIjoxNzMzNjcxOTA4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.RO_egGU6ljK6Uprq1TlEEa8UEquchcSe2LmlG02QzJZPkNO3v0uVw1UwrYP72FsDEl9gwrp1nD8sWgfq883105egTqESgYRpuTZFpnC8Qd21tts3QsP-qquiJ-00HSFJ
+删除LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除mazzanti_ https://edge18-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-c13460d484efdc30490e41138f5852174743d2ca141c09bf54225e4008290490_trns_h264/playlist.m3u8
