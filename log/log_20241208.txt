@@ -221,3 +221,16 @@ Sun Dec 8 10:29:36 CST 2024
 添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Sun Dec 8 11:26:26 CST 2024
+Sun Dec 8 11:26:35 CST 2024
+Sun Dec 8 11:28:34 CST 2024
+Sun Dec 8 11:29:03 CST 2024
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4QTA2QjA2OS02QjMxLTQ4MUMtODg2Ny00MUUyNjk1RkE2OTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzYwODY4NiwiZXhwIjoxNzMzNjA5Mjg2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.AEsrUieSy_QosDAcotXiDxtxA39yAonpyqjgwJk6GqEtD5Vcjy1HBOnWkwnXQcQ88ISvIaDzUBgybFV0iqDpQ_VY136W3Jy6pGz8AfaIPRPxx1MR9Au0H-u91l1nUOxt
+删除kiyoko_rin https://edge15-ash.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-9afc34f6e6cb0d423be29bf2be5c023a8859fb28e803cb31ce5faf640ac98ccf_trns_h264/playlist.m3u8
+删除oki_dokie https://edge1-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-dbaa8973653e6681e40ef38d2e1c3843dfa80f5d17fcf5d9d3a7c297e2729449_trns_h264/playlist.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
