@@ -3,7 +3,6 @@ wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin https://edge20-atl.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-f59ee07a8a2edbc74a9265ca425b1009cd69be5325d296024f4a0fc457f8ff58_trns_h264/playlist.m3u8
-TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 my_eyes_higher https://edge3-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ffa6c0317fbe768cdd882eca2aef68c50e18c1544ddd8a31f21cf1aa3142f7e6_trns_h264/playlist.m3u8
 _meganmeow_ https://edge14-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-a7194247b5d03749c7256e6b0e1c28836a63844ba615f03bd848ff0ffd183978_trns_h264/playlist.m3u8
@@ -13,3 +12,5 @@ mazzanti_ https://edge4-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-c13460d48
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+hee_jeen https://edge4-chi.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-d7cb51056dcddfa0b23e18cf02442dd24ba31588131e5aab84c064360fc83e5e_trns_h264/playlist.m3u8
+intim_mate https://edge17-aus.live.mmcdn.com/live-hls/amlst:intim_mate-sd-c323af7778350a8c2acdba045307970244bd6e2b2b97a78c5732f75788641d42_trns_h264/playlist.m3u8
