@@ -7,3 +7,4 @@ hotse777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=null
 LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+my_eyes_higher https://edge1-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-6f81ca4a417fcd4647d759656c725af57e871d9d5219cc8ca807e6823c7b9c02_trns_h264/playlist.m3u8
