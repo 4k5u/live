@@ -331,3 +331,11 @@ Mon Dec 9 16:32:32 CST 2024
 删除1stforever https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FqOTsJGin1Qc.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZxT1RzSkdpbjFRYyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNDI3Q0YyMi0yRTI0LTQ2MUUtQkVDRS1DNDE2OTdCRjdGMEIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzU5MzczMywiZXhwIjoxNzMzNTk0MzMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.e5Mv5zoHE0KQINpo-bJejecj1sxpYSXR9otNLJtVidYb-HcEvAbCzHV9xTpVYP2A1Jr82Ri9J6Shwc7TwDs20co4-w-lb70ArPQXW9ziGGNqiRVS0M9bn1tGn6EphJ9R
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Mon Dec 9 16:51:02 CST 2024
+Mon Dec 9 16:51:11 CST 2024
+Mon Dec 9 16:53:15 CST 2024
+Mon Dec 9 16:53:45 CST 2024
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除ake_mi https://edge7-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-15d2cc37fed21b8af09000d65276c02445c6268d13461ea57e7a9a7a60441218_trns_h264/playlist.m3u8
+删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
