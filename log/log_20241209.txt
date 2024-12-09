@@ -213,3 +213,18 @@ Mon Dec 9 10:26:32 CST 2024
 删除kiyoko_rin https://edge20-atl.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-f59ee07a8a2edbc74a9265ca425b1009cd69be5325d296024f4a0fc457f8ff58_trns_h264/playlist.m3u8
 删除_meganmeow_ https://edge14-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-a7194247b5d03749c7256e6b0e1c28836a63844ba615f03bd848ff0ffd183978_trns_h264/playlist.m3u8
 删除hee_jeen https://edge4-chi.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-d7cb51056dcddfa0b23e18cf02442dd24ba31588131e5aab84c064360fc83e5e_trns_h264/playlist.m3u8
+Mon Dec 9 11:27:14 CST 2024
+Mon Dec 9 11:27:23 CST 2024
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Mon Dec 9 11:29:21 CST 2024
+Mon Dec 9 11:29:47 CST 2024
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NDlCRDc0OS01ODMxLTQxNDktQTYyNC0xQzI5MTM1MEM3MEQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzY5NTIwMywiZXhwIjoxNzMzNjk1ODAzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.IhbR4bjHTk5ew13sdYhOP4es4V9BTJFInngTgpT-__Y9vAklL8i4Xfxy0LvVmhY3-2L63Ho8A5TQIjCnwMlaqq5H9G0Ij80jmMMdnZrILxMTDtJ3tkdDctqoEIuw6uvr
+删除oki_dokie https://edge13-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7189320f6d367b34d08519fdb5d4c915591a5ece9f56e9b0e652f2034a3db365_trns_h264/playlist.m3u8
+删除mazzanti_ https://edge4-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-c13460d484efdc30490e41138f5852174743d2ca141c09bf54225e4008290490_trns_h264/playlist.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+删除intim_mate https://edge17-aus.live.mmcdn.com/live-hls/amlst:intim_mate-sd-c323af7778350a8c2acdba045307970244bd6e2b2b97a78c5732f75788641d42_trns_h264/playlist.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
