@@ -307,3 +307,10 @@ Mon Dec 9 15:26:06 CST 2024
 Mon Dec 9 15:26:35 CST 2024
 删除icubi69 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.GUsiHfsr4rWj.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0dVc2lIZnNyNHJXaiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMjAzQTM4RS0xNURBLTQ1NDYtODlFRi03OUU2MDZFQTE1RkIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzcxMTA0MSwiZXhwIjoxNzMzNzExNjQxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.KgJddrb234oosK-4EIqwqV4hyWcK4IZBZHclU07M5Q45TOARDc3rO0YBK8-LbCOOjZVKdBJa7t2xOcU7hUhT9hcZNNsFAwfgqWKdeQLiviM8FEit2f6c3wcn0Z3BX3_c
 删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Hm0HzJl3ZXdQFFeVcrrJde0UaQ_uE7_W6c0mfQweejFWsqywsyYMRQjEcgu1kApsxow9bJA30Yp6ZgaCwJtNiupGpLL5_uU8Aq-EDXNjYebnphyr51pZs4W4mP2K41jD
+Mon Dec 9 15:42:15 CST 2024
+Mon Dec 9 15:42:26 CST 2024
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Mon Dec 9 15:44:24 CST 2024
+Mon Dec 9 15:44:51 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
