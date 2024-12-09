@@ -19,3 +19,9 @@ Tue Dec 10 00:35:50 CST 2024
 删除1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IIZABJHPwVpsmcrePIYHA-ij1IIgVWwepHTg6LN0y5CSMeRxztyX3CZeTgB6pqQhb5Zb63Gmm5h8qwGXTpwL4MZzzeWzpLikHM24mbuuj4o7Yh72hcUbnUxPw0BnJrbQ
 删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OopB8v3zaUYzoRinkHKFfXzb31aZbv5B-SGaUOLaDr35SnqsdJFDSoZLd9k-Fphpi1NaMrPQYi2vMquotRKO9mTTOuoZHWtWJaq3Ju0DMin6fQFIXqbk-5tkFHmthq-i
 删除bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qvVYVUYPiOVp.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xdlZZVlVZUGlPVnAiLCJleHAiOjE3MzM3OTQ3NzYyMTYsImlhdCI6MTczMzc1MTU3Nn0.x-1siMARml-5wpQvMzYBwtexhhp2nO_moYGRU9MO5uPRAE72A__YQXIBK8JuOMuQGILapi4ldEYFZX5_kXeRZcKCdSv0m8FkDMevnPG-7u73yDetibakIs1k-OBD1VTW
+Tue Dec 10 00:54:54 CST 2024
+Tue Dec 10 00:55:33 CST 2024
+Tue Dec 10 00:57:36 CST 2024
+Tue Dec 10 00:58:08 CST 2024
+删除m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VTcU28U7-eYCzqsZYZDrylEs9HlPjbr4y6LN1ZQEVmrkQO4HCt6ppW6GucaFF1z95GK6hq_vXNYMuRoCV-6uUUuhqLXLMduc8WPQshFZ9Z1LPMxkSykq7fy3eFrqVSgf
+删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
