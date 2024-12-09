@@ -267,3 +267,8 @@ Mon Dec 9 13:27:55 CST 2024
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 删除ake_mi https://edge20-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-708e9eb1003375fb464c407a8cdaa15d5c1f3f10158e0b72db46c4d197499c12_trns_h264/playlist.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Mon Dec 9 13:43:36 CST 2024
+Mon Dec 9 13:43:43 CST 2024
+Mon Dec 9 13:45:46 CST 2024
+Mon Dec 9 13:46:17 CST 2024
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6OSWvPEg8BZhxJyCAe_EuUYeJo7ZYXNtmUcbWEqkXP-6sTJrdR9NMQlNlm6bJwVAYIs1rR69q1Qvddw64zpyYtHkiWohn-kRgq27OmArC9RSMpozilybOLc-rDhehdlO
