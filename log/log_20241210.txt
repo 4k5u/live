@@ -376,3 +376,13 @@ Tue Dec 10 19:00:53 CST 2024
 Tue Dec 10 19:01:26 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.DCugcYA5XjWb5XaRwQDNX3DN3bNf6AWqKSv9BfQ6EUDn9J7MTwaZNwgFDTLYRTQiP4wFZFpSaATtadAS4OdTad8Otp550d1PAPGke2FL18byarlObcpFsHSu_Cl_a_6P
+Tue Dec 10 19:22:55 CST 2024
+添加zzeongi2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KYtf6OZfojoq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tZdGY2T1pmb2pvcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQkE1MTQ4Ri01NjhCLTQ2NTItQTkyRi0zNzNCMEJFNUM0MjgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzgyOTgwMCwiZXhwIjoxNzMzODMwNDAwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.1KHgub04HEauAKkoIyfD_yuhytlJyUNAq3gGy_gL5OjFS37M_Vi2gpPH-xXjqRJLKPVDPseGgyvArmrqavb1tkPqPBTUg1a4GVmqxLrWMyxA723dDFBBClMNoVqjb21o
+Tue Dec 10 19:23:25 CST 2024
+添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-KPBbjullx5V8dkmUEhOouho93o3KhVgZ_wrgXiUKpjiZtMViQ_xquZIY_DuZJHmo5VtlUjemTSMG5bs6D2W7SwhcxkTx8nPaXWDw9tJRspDhiEN1uuuuIDDFvTBb2FH
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.H-Ft8p2xjBYQyv3AajnEKroA7NjsJRen1wOtxkRdv2WgRQiIvazc8krpDrTWOOjLUl4LrO6W-Lx_y02pegu9fdcCXIOd-1CQwpYNQSBzBzScbd10NPf9OTlcAO_AwGjA
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WOVaOdOynJg9Xax3ni9Xys6EPqBdCQjByTQOkwO7g92-tJfoHQTyW3QdHfvv--4BA6YO55wXVqPnrOxPG6LkcGf8baN9rj8reOq4iOdKy85fMD7PClbjLkNkgeDBeQ04
+Tue Dec 10 19:25:46 CST 2024
+Tue Dec 10 19:26:15 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
