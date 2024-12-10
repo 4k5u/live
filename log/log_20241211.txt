@@ -133,3 +133,9 @@ Wed Dec 11 05:52:15 CST 2024
 Wed Dec 11 05:52:27 CST 2024
 Wed Dec 11 05:54:20 CST 2024
 Wed Dec 11 05:54:47 CST 2024
+Wed Dec 11 06:20:26 CST 2024
+Wed Dec 11 06:20:33 CST 2024
+Wed Dec 11 06:22:32 CST 2024
+Wed Dec 11 06:23:01 CST 2024
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除1stforever https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FqOTsJGin1Qc.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZxT1RzSkdpbjFRYyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NEE3QUY3NC02MTUzLTRCMkItODNFOC1FQTQ0QjJBMjlCMzkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzgwNTEwNSwiZXhwIjoxNzMzODA1NzA1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.nwfBo50oc46Xdob4QAzQIHm1kP7U0ijV83iKLjg_gpZrL6jc2Anb6wvAmj8J95wC2h96GxaQL8tsFoNGnDRgzpMCW1NvDBBKhDNqZ_W-8UfRpCo3_WCelaMMPhO1F0w2
