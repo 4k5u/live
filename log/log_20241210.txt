@@ -324,3 +324,10 @@ Tue Dec 10 17:04:14 CST 2024
 删除ake_mi https://edge25-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-de417c9ad33d734b9a1f8306466cb8d9f24caca468ef7994fdd521f7b97c5ada_trns_h264/playlist.m3u8
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除iminako https://edge8-atl.live.mmcdn.com/live-hls/amlst:iminako-sd-546406be12746293222d4f0147c2113796b1c47e2d8c309d4ff77fbf892516d0_trns_h264/playlist.m3u8
+Tue Dec 10 17:29:51 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEMjEwRkU4OC1GQjQ0LTRBRjAtOTA4Ri01MjdGMjJDNEUzMDYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzgyMjk5NiwiZXhwIjoxNzMzODIzNTk2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.LOV0YSRCn3HQ8dnwte7m0BPDao0n0n1yM4aDeUEzLL5gqssyVizGwbJi5NEqOy50u-E4e6sub8JfoYbI9Hy4h7Uq_K3tLKfrz6swc0FWflBKH7gDeeGTyCFvMUH9U8F0
+Tue Dec 10 17:30:08 CST 2024
+Tue Dec 10 17:32:07 CST 2024
+Tue Dec 10 17:32:38 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
