@@ -316,3 +316,11 @@ Tue Dec 10 16:50:35 CST 2024
 Tue Dec 10 16:52:33 CST 2024
 Tue Dec 10 16:53:03 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+Tue Dec 10 17:01:26 CST 2024
+Tue Dec 10 17:01:39 CST 2024
+Tue Dec 10 17:03:43 CST 2024
+Tue Dec 10 17:04:14 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除ake_mi https://edge25-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-de417c9ad33d734b9a1f8306466cb8d9f24caca468ef7994fdd521f7b97c5ada_trns_h264/playlist.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除iminako https://edge8-atl.live.mmcdn.com/live-hls/amlst:iminako-sd-546406be12746293222d4f0147c2113796b1c47e2d8c309d4ff77fbf892516d0_trns_h264/playlist.m3u8
