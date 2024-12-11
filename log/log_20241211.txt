@@ -367,3 +367,15 @@ Wed Dec 11 18:30:36 CST 2024
 删除honey_pinkgreen https://edge1-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-f5157387ff4624bf74ba0329e5485e693400c7f0c5f95101e742f1c1b513710a_trns_h264/playlist.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Wed Dec 11 18:47:10 CST 2024
+添加1919152 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2nd3qry9BhIj.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJuZDNxcnk5QmhJaiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQzc2QzFGNi04OTk3LTQyRUUtQURDQi04NjZERTY4NzAzOTMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzkxNDA0MiwiZXhwIjoxNzMzOTE0NjQyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.8Z_NX7EeS8idZ330dmYvHu7WpvjAGJHm4NU9E6OmjO-3Xhtcao5i7Nbrka-kKXC2OWCBdO_d5yjm2ETZB3-r0G_8T0gvd_-LYykTaqcSh4o2nFfqjZ8WFSXxCngKQwsg
+Wed Dec 11 18:47:47 CST 2024
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Wed Dec 11 18:49:59 CST 2024
+添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MzM5NTU3NTQzMzEsImlhdCI6MTczMzkxMjU1NH0.VjO18_XasPuJHKVIWVdwUEYZw-EkZ5KkHzEYLupA39fdyuRMrE3XfS3th_fzZgPhrEuVKw5DzqtHsfXuBjneKPZDuiw9Vnit0Rk3R0rytDkyvbGIFhAtbZPG9awlQlGo
+Wed Dec 11 18:50:38 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除oki_dokie https://edge12-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6d1abcfa38601de1aa177b9b4b7f301b4f487f910158923cf8c9b062caebda17_trns_h264/playlist.m3u8
+删除ake_mi https://edge5-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2d5bc08e6868586c8bbdeef8ebc3c16284a33455f70cbc4d504ab1ec7031f31e_trns_h264/playlist.m3u8
