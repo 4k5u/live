@@ -224,3 +224,9 @@ Wed Dec 11 12:49:04 CST 2024
 Wed Dec 11 12:51:07 CST 2024
 Wed Dec 11 12:51:37 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Wed Dec 11 13:00:11 CST 2024
+Wed Dec 11 13:00:24 CST 2024
+Wed Dec 11 13:02:28 CST 2024
+Wed Dec 11 13:02:59 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
