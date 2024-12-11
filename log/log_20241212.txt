@@ -27,3 +27,10 @@ Thu Dec 12 00:35:13 CST 2024
 删除regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
 删除Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+Thu Dec 12 00:54:59 CST 2024
+Thu Dec 12 00:55:32 CST 2024
+Thu Dec 12 00:57:36 CST 2024
+Thu Dec 12 00:58:05 CST 2024
+删除yxyxyyy https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.m8Q1Bw1bpBic.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9tOFExQncxYnBCaWMiLCJleHAiOjE3MzM5NTgwODI5MDAsImlhdCI6MTczMzkxNDg4Mn0.HdNhSXrvAghBFEZGIOa0LzT2WEKjW29wqAqX5xAwJdicIx2SvLDIpH-upsD3rbKUaaDe_APxSFOhslIkgTpBFWJmiepcKjlPtJXrcGXwZJI34TAj3Pd6ClASL7-YreND
+删除dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.sQXzfZPsWwcC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9zUVh6ZlpQc1d3Y0MiLCJleHAiOjE3MzM5NjAyOTc4NTEsImlhdCI6MTczMzkxNzA5N30.w517XyRrBfc-D24JhNxLQqiVg4aTEkicPXk0zPLJxgSWKVDtVnXVcuwHD_HEB-kbc_kHNxUmsIh0pKGuYB7CDldfNUSB-y3Ud6rnXDsGDhO1fGTxqea2b4SvXJI_9kdf
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
