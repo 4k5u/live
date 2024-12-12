@@ -273,3 +273,10 @@ Thu Dec 12 13:29:56 CST 2024
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除amilia4u https://edge5-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-10adbc58a21bd59e7f1d1ac75f8a8da1874fad8a48c23ce75c6759db5a64cfb9_trns_h264/playlist.m3u8
+Thu Dec 12 13:43:22 CST 2024
+Thu Dec 12 13:43:31 CST 2024
+Thu Dec 12 13:45:39 CST 2024
+Thu Dec 12 13:46:10 CST 2024
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
