@@ -556,3 +556,13 @@ Thu Dec 12 23:30:24 CST 2024
 删除rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xjWpLi8DZQ2UHu0FYiKcYKkMsbxm3vuTF352uLV8s3RQVeSoWgVuRW1RdBVN1fTowLK_5M4NqnpGCJODVA8Yby8TzOfTL5bCrdtf8O5wMuWtabIlbtNdQvppeLuud-vw
 删除flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.4JmaMxwwfLxgZJkXTbF_k1i-yx4XPJMJ0MMQNuKDJ1t0gAuIGdnPK7G0H6qfwyPdKKQ6z5KMlrkXYc4yEO1r1vhvlUXEpAlV7e1Wn6ghUGoShel0YaM144sSDGAnFQpR
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+Thu Dec 12 23:44:00 CST 2024
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.eBxc3aR2XJmy.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VCeGMzYVIyWEpteSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMTcwMkZDQy01RkMwLTQyMjgtQTdBMy02NUQ3QkJBMzIwNEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDAxODI2NSwiZXhwIjoxNzM0MDE4ODY1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Tf_3zUbNALNxA9Ug2KbKDcHkh46lU6BzcLcabP0Peqk3QEjXcYORbFhLdeuRt09P16Lhquj2Mms5sRQGWQfuVbEtICXcKdMq3MESxUR3tdew2UA7RbzQ7xkTBR-B2JQH
+Thu Dec 12 23:44:32 CST 2024
+Thu Dec 12 23:46:44 CST 2024
+Thu Dec 12 23:47:15 CST 2024
+添加Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.X-Efs-oQoE4nDYbVio6CATO_CbcHpNw_47VrRkyJ0AsU0YJfsfc2fz83OAQRv42z9dYv5zrUyGeq8yAKi-qVv9RCFpXobJ0k52xU89vhlc5nPc0kfBznm-jqROI49gJe
+删除kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1LcBER3M1UJJvkv5pGCDtLmsv5YODSnIMVrUN5tcaS0dlwgr9AAoXh8s6JKxx2MVoh0IvwYPTXjeMKuVfgnjdKPX7NysmaaKnF-W1w3WjupTEKpKT-pXSxscpdiNlzFX
+删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1rZPTxbsLupSGfbks097XRzNJSfD7ORl8KW309GPgnTVphFZ_F46Tf4IfKN2LMBvyg4zAnUC1hH4NVxRfYE05cdRVTKsEUmgmW5On-vtn3YD7s1Lw9XLc4RRchzitxFJ
