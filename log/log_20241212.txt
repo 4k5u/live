@@ -249,3 +249,8 @@ Thu Dec 12 12:28:49 CST 2024
 删除dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNTExODUxMy0zNjcxLTQwODEtODA0NC1FRUMxNUVBREM4QjEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzkyMTY1MiwiZXhwIjoxNzMzOTIyMjUyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.WgDcPcSdVpvp6JBIVrnTwD9QuHSkI7RF-CfyIAU6iem94Uchxead0r1JJhXQH_kzs--picTW5UDsNHM_uReoDwir9PRexCZdtADkh0ZSxtSQHOGuIyI5TDCbcHJy7V1w
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Kxx0fQKrw3-UhwRxp66o88oMWI6aHdMdQGSb8e3J1QVA4k39FXKeUI7SDpI1zoapi4MOE9E8mY_DQacJwwXOo3hjH2WvRnnMLi3GKMbtCOijDuPDFCVMsbJVFFYJ7JjM
+Thu Dec 12 12:47:13 CST 2024
+Thu Dec 12 12:47:20 CST 2024
+Thu Dec 12 12:49:30 CST 2024
+Thu Dec 12 12:50:00 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
