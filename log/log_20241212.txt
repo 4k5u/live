@@ -310,3 +310,12 @@ Thu Dec 12 14:57:14 CST 2024
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加galantini https://edge13-aus.live.mmcdn.com/live-hls/amlst:galantini-sd-a836a8e41db8616e361756d330d222a04b35c46fb539d6191d1426e33373566e_trns_h264/playlist.m3u8
+Thu Dec 12 15:22:14 CST 2024
+Thu Dec 12 15:22:25 CST 2024
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Thu Dec 12 15:24:34 CST 2024
+Thu Dec 12 15:25:04 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除_meganmeow_ https://edge7-mia.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-3f727f55e102f2a32d4b0c1cbc3f961c1e8001f18b3e3173c11f6bf1ae4249ea_trns_h264/playlist.m3u8
+删除oki_dokie https://edge6-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-39a9e1e8c752b6b852d3a003b11d3db5f2e2d73ede238163b92dc97f8f56b78b_trns_h264/playlist.m3u8
