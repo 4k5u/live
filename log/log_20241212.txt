@@ -229,3 +229,11 @@ Thu Dec 12 11:40:29 CST 2024
 删除oki_dokie https://edge24-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7d20a53f070867f58b15772fddaa7a82a125e7f35af6fb0debc85c01eadebdb4_trns_h264/playlist.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Thu Dec 12 11:55:48 CST 2024
+Thu Dec 12 11:55:55 CST 2024
+Thu Dec 12 11:58:03 CST 2024
+Thu Dec 12 11:58:34 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+删除nemu00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2PAhGvVvczmJ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJQQWhHdlZ2Y3ptSiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwQkY2ODdCOS00RDkxLTQ2OEQtODczQS04MERFMzRGOUMzNUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzk2Nzc4NywiZXhwIjoxNzMzOTY4Mzg3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.o-ssY-BCGRt4IXljoXl8CZxwXekp515McKBzIaBJOoX1WZ7CbwRx9YxikFnJOMQUfgoSXEn8RT3kBeSjrfos1TuFFBkdUTwy9QwcpiZB-WW-b69SWPQdv2B0vwS1LAdQ
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
