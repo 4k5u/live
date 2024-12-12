@@ -328,3 +328,9 @@ Thu Dec 12 15:43:33 CST 2024
 添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Thu Dec 12 15:53:00 CST 2024
+Thu Dec 12 15:53:11 CST 2024
+Thu Dec 12 15:55:09 CST 2024
+Thu Dec 12 15:55:37 CST 2024
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
