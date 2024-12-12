@@ -14,7 +14,6 @@ mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
-Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.eBxc3aR2XJmy.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VCeGMzYVIyWEpteSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMTcwMkZDQy01RkMwLTQyMjgtQTdBMy02NUQ3QkJBMzIwNEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDAxODI2NSwiZXhwIjoxNzM0MDE4ODY1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Tf_3zUbNALNxA9Ug2KbKDcHkh46lU6BzcLcabP0Peqk3QEjXcYORbFhLdeuRt09P16Lhquj2Mms5sRQGWQfuVbEtICXcKdMq3MESxUR3tdew2UA7RbzQ7xkTBR-B2JQH
 Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
