@@ -15,7 +15,6 @@ nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 galantini https://edge13-aus.live.mmcdn.com/live-hls/amlst:galantini-sd-a836a8e41db8616e361756d330d222a04b35c46fb539d6191d1426e33373566e_trns_h264/playlist.m3u8
 leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
-Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 oki_dokie https://edge9-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8e66e1d5920da117d66f7f0e19a85305c7d37d961cb12c10c5343ee49b3ac5c9_trns_h264/playlist.m3u8
 kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_playlist.m3u8?aid=null
 Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
