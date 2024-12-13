@@ -1,0 +1,9 @@
+Sat Dec 14 00:00:41 CST 2024
+Sat Dec 14 00:01:29 CST 2024
+Sat Dec 14 00:03:38 CST 2024
+Sat Dec 14 00:04:11 CST 2024
+添加jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除dana9282 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.f3h98P9qXjHb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2YzaDk4UDlxWGpIYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENjIzMTYxMS1DMjVELTQzNTMtODBGMi03RTlCRjREMTBDMzgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDA4ODgyNCwiZXhwIjoxNzM0MDg5NDI0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.hcXLE9Out-UWepsozas3rd53pxWTgVKVtCxcKmrdkRl2Mq1o-qWhOm-R40CwfKsBXdLiHrgUTcrNPUOCc46uOBI7-ace0gYldBcX3jo_fv_amID913gJSNsKHN_rEeN9
+删除kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.a2MxfcJqvvu8ihZXqkzn1y2uoW2d9JYT4084_e-YeXBkoeF1MsW_33wujDcMupxW_0YDGE9qIE5YzKThVvYX10O3CQmiDJRQCPQLewQR7OsyTJseaWBVTEFlhM1tbul8
+删除honey_pinkgreen https://edge14-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-b63f41f70dc88b9d40e30fd7ff778d7a2b19e7562156d2f7f55f1f4505ec5da5_trns_h264/playlist.m3u8
