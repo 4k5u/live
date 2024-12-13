@@ -157,3 +157,10 @@ Sat Dec 14 04:58:04 CST 2024
 Sat Dec 14 05:00:15 CST 2024
 Sat Dec 14 05:00:45 CST 2024
 添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+添加sexygamesx https://edge27-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d671f1b16e8524fad3bf0705d0953695b11e3f651c0bd90386a3eb82faebcdd5_trns_h264/playlist.m3u8
+Sat Dec 14 05:23:25 CST 2024
+Sat Dec 14 05:23:39 CST 2024
+Sat Dec 14 05:25:41 CST 2024
+Sat Dec 14 05:26:13 CST 2024
+添加YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+删除oki_dokie https://edge16-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-46c68372716fe2f69a4cf82df5550679a5bf177c9d60fc93b066f7ad470c6ff9_trns_h264/playlist.m3u8
