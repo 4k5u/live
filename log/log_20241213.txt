@@ -431,3 +431,11 @@ Fri Dec 13 19:23:42 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加ad0res https://edge23-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-f3e4a86cef04ec7abe0b23a881b99e4fbcddd1427f019a0ead927400a3b44fe1_trns_h264/playlist.m3u8
+添加your_desssert https://edge20-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b3d94c4784f26cc5da2da7df628e0fd1487ee78f7819f3e576c40cec92be870b_trns_h264/playlist.m3u8
+Fri Dec 13 19:31:19 CST 2024
+Fri Dec 13 19:31:50 CST 2024
+Fri Dec 13 19:33:57 CST 2024
+添加dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.sQXzfZPsWwcC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9zUVh6ZlpQc1d3Y0MiLCJleHAiOjE3MzQxMzIyNjM3ODcsImlhdCI6MTczNDA4OTA2M30.5x_-unHBLJBeTU-mcvQz7JeaL5y0ED1J_-08RLSLaSt_zgqqK96b1OzVIx_2s-saLOBgLFb52hUhuNUXMzrbKCiP8Y6EFqPfvwfz9yEz3nRjJOwqOjj-2aUFFQbpDfR4
+Fri Dec 13 19:34:32 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
