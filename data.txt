@@ -4,7 +4,6 @@ fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin https://edge18-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-7e0e33fd01e99d025d070f5cff5d4700a249945944d5b443c6eb20bac33d54f9_trns_h264/playlist.m3u8
-A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
 100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NkJEMzczQS04Q0FELTRGNUMtOUE0RS1GNzA3NzU1MTNCQkEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDExODkxNywiZXhwIjoxNzM0MTE5NTE3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.vj9fDBVVrNCngZGEzX4Kd8-BK95L2APXpSQb6chWHJ9xO2Ff85ag3mD099OQkt7ynxzJdEE1mabMq6nF98TP-D_xSSWo81vfA7nsgthn8SnNrf_mD7mhMcfxsLOGEDp4
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 mazzanti_ https://edge11-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-39566f8cf55a0bc1fdf1c8d4bd8b2ee4e858d5696ce0096c8719b0759a1b3929_trns_h264/playlist.m3u8
@@ -14,3 +13,5 @@ oki_dokie https://edge17-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-db8aff90
 _meganmeow_ https://edge22-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-0ea2437c154ffb4a4a76e454c7c8b73b53e35edad9f382c5ef8891964e101a65_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 my_eyes_higher https://edge6-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f403c6a8af34a33f1b0373797e28be1a9ccf8fafa8232bf025502ae9c4aec23a_trns_h264/playlist.m3u8
+LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
