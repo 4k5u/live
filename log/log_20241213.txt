@@ -270,3 +270,8 @@ Fri Dec 13 13:46:18 CST 2024
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+添加your_desssert https://edge2-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-45676f3680a86e1ccc2f5e7bfa4ec59778ced8aedcc1698ffd390f1aa886cfcc_trns_h264/playlist.m3u8
+Fri Dec 13 13:58:12 CST 2024
+Fri Dec 13 13:58:23 CST 2024
+Fri Dec 13 14:00:27 CST 2024
+Fri Dec 13 14:00:56 CST 2024
