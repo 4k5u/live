@@ -145,3 +145,10 @@ Sat Dec 14 04:26:22 CST 2024
 删除3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NUY5RDIyNS01M0Q2LTRFMDctOEVFRS04OTAxMDYyQzc4ODciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDA5NTk1NywiZXhwIjoxNzM0MDk2NTU3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.NlaQR2fIAqFNHTBr1PMs1QDiuTD1mTKddz2Kfri3_McG5CWhrabuEYq9FgM9sv4Tbf9Lxlsmea1eZnYUtda4C84CQVqhmpfJcDeaKBYqQcamt2HIBRiLZxv9eHdOlh00
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._IrQwzxUMI1uZY3eHoMf0fSzOXnw-RoUWNA-zgkqfGL_wVDF59zubPZBe6NMC78M5WJa7Wc7ca4giLqZ-4eOSxFztBXtPLBLOiyDGXDnrTrdIlQYc7Np_UMVUI-y-Y6s
+添加mazzanti_ https://edge11-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-39566f8cf55a0bc1fdf1c8d4bd8b2ee4e858d5696ce0096c8719b0759a1b3929_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge4-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-54ce409c0a84ef6d6fc47a8ce73125a6a54a7ffba6d38a4c5fb91808ec014cbd_trns_h264/playlist.m3u8
+Sat Dec 14 04:42:45 CST 2024
+Sat Dec 14 04:42:58 CST 2024
+Sat Dec 14 04:45:09 CST 2024
+Sat Dec 14 04:45:41 CST 2024
+删除sexygamesx https://edge7-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-e047fac1f72c7a1f9d730036f0f0a991ed67d5715c012925794832cbad4000f6_trns_h264/playlist.m3u8
