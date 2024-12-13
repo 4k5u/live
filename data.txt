@@ -13,3 +13,4 @@ YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.
 oki_dokie https://edge17-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-db8aff90c7140b01bd4333f669204f7a70abd70cd1fa350ac203caf9749d83ec_trns_h264/playlist.m3u8
 _meganmeow_ https://edge22-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-0ea2437c154ffb4a4a76e454c7c8b73b53e35edad9f382c5ef8891964e101a65_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+my_eyes_higher https://edge6-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f403c6a8af34a33f1b0373797e28be1a9ccf8fafa8232bf025502ae9c4aec23a_trns_h264/playlist.m3u8
