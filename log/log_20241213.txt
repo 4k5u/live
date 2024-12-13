@@ -439,3 +439,13 @@ Fri Dec 13 19:33:57 CST 2024
 添加dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.sQXzfZPsWwcC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9zUVh6ZlpQc1d3Y0MiLCJleHAiOjE3MzQxMzIyNjM3ODcsImlhdCI6MTczNDA4OTA2M30.5x_-unHBLJBeTU-mcvQz7JeaL5y0ED1J_-08RLSLaSt_zgqqK96b1OzVIx_2s-saLOBgLFb52hUhuNUXMzrbKCiP8Y6EFqPfvwfz9yEz3nRjJOwqOjj-2aUFFQbpDfR4
 Fri Dec 13 19:34:32 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+添加galantini https://edge3-aus.live.mmcdn.com/live-hls/amlst:galantini-sd-c4a1a174fedf529da37eb62fceab8b668a428c38e46dd56edbfa0a4608ee670b_trns_h264/playlist.m3u8
+Fri Dec 13 19:43:25 CST 2024
+添加dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2OTc5Qjg5Mi01QjMyLTRDNDAtQUU3My01RTA5MTA1NjgxNTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDA5MDIyOSwiZXhwIjoxNzM0MDkwODI5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.PsRNPjFnkXRWiZ6UkcZH-o8jjPK3XHJrLCCGRO5toFh0h9Ftm_KQMrQXKUEPGECqjqzyhLJjmXFF3uyV-vt_gGXKxi50XPPUtLvA3Gf3-cfFNY5v5OqPP7GFeO1bReZx
+Fri Dec 13 19:44:00 CST 2024
+Fri Dec 13 19:45:57 CST 2024
+Fri Dec 13 19:46:25 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除your_desssert https://edge20-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b3d94c4784f26cc5da2da7df628e0fd1487ee78f7819f3e576c40cec92be870b_trns_h264/playlist.m3u8
