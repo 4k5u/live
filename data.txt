@@ -28,3 +28,5 @@ Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u
 dbzala https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.sQXzfZPsWwcC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9zUVh6ZlpQc1d3Y0MiLCJleHAiOjE3MzQyMTg1MTU3NDUsImlhdCI6MTczNDE3NTMxNX0.A8Sbz7RA5SJarRZsV8IpyyAcPJ9EW7nMs5OiVAxvq8IlpBgbvMeHg8h-MfIQXbv0zyhZp8wdo78EAVMR5qbPLCltHZFSUj6_tht0P8fvdH3m2XDtvA1PNKj3qWVxo-fk
 -ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 -ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
