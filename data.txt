@@ -5,9 +5,9 @@ fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin https://edge17-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-591f42d4e1ff8d592bb8185c6d72d75f4a2c3bb84464b2c56d45741acd5e7732_trns_h264/playlist.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
-homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMDczQzNFQS1DMDM4LTQwNkQtQjIwRS1CQzRCQkQ4QTE1RjciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDIwMjk1MSwiZXhwIjoxNzM0MjAzNTUxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.D15UDvs9PuVCvIviEpe1MD8HJJTq8Xh46GC-VDGjrSWI5-7kWFySsgqI6Cbsm49k6i1mp4AT6O19EbLAll08CqVA5yQflHO58XXtZuuUyGW4QyvKxbCZJ0tUDyXQlP1R
 A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
 my_eyes_higher https://edge6-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-6af8a82bbd9c1e4704be9c3c5eb5eda8bcc25aab7b888e225e83aa7c4c10254c_trns_h264/playlist.m3u8
 mazzanti_ https://edge17-mia.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-1828d10c6516cc9a909188211fbacca6e38b13efad53f89f0d0bb62975817456_trns_h264/playlist.m3u8
 oki_dokie https://edge15-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-50ff7a5095e156bc9cbb9ab7dcc6361426ef3796439f3af97ebb124d0882e057_trns_h264/playlist.m3u8
 _meganmeow_ https://edge2-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-af110b83b76d14ff07e1e52e284837dafc24f12ff0fab5a5cd4f52aea1e47dbf_trns_h264/playlist.m3u8
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
