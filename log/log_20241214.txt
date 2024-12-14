@@ -382,3 +382,12 @@ Sat Dec 14 15:54:40 CST 2024
 删除mode_bad https://edge19-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-fbf043fd58df2a5744fb76057a8352cf32b87a69e0af23e5ea9bfa8e76250051_trns_h264/playlist.m3u8
 删除cuddles_me https://edge11-aus.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-aa4c34d303611f6993b65ea67bc2b9fa70cb5c8efa28c931b015310c4af8f7a6_trns_h264/playlist.m3u8
 删除your_desssert https://edge11-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-69ef9dc068420082de0bde7487d179a42fd6e4f00067281f1421e098011ecae5_trns_h264/playlist.m3u8
+添加your_desssert https://edge11-aus.live.mmcdn.com/live-hls/amlst:your_desssert-sd-69ef9dc068420082de0bde7487d179a42fd6e4f00067281f1421e098011ecae5_trns_h264/playlist.m3u8
+Sat Dec 14 16:12:55 CST 2024
+Sat Dec 14 16:13:17 CST 2024
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.r7ymr9Ywuxnb0-0hoyom2CUdvgFtaXWZt8qt-zZVVbQIr0WotD5goYO6KPZVCCnhU19aaU6cwaozA9z_qb1EE6u_EJigEdqBsMAE0yAbXVEPXCtYx8VxX57ko8O9V4B4
+Sat Dec 14 16:15:27 CST 2024
+Sat Dec 14 16:15:57 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
