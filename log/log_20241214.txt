@@ -391,3 +391,9 @@ Sat Dec 14 16:15:57 CST 2024
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Sat Dec 14 16:39:16 CST 2024
+Sat Dec 14 16:39:36 CST 2024
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Sat Dec 14 16:41:59 CST 2024
+Sat Dec 14 16:42:30 CST 2024
+删除akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1OTAzQUJEMy01MzQwLTQ3REMtQjNFNS0xOTY0MDA0NUQ0REEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDE2MDE2NCwiZXhwIjoxNzM0MTYwNzY0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.CHn_dPgZj6_f_ojTtlogJSmgnzoqEvmeuaSMXkFpTwrA1hOZp080vLy8hUk1ZrzNzGgPUIl-t6anxcw2v-g5pFfVBe90qExuMI2ILlU_4MH9a0GYYZt4euJCpgxwT0YI
