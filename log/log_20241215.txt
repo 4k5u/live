@@ -214,3 +214,9 @@ Sun Dec 15 06:45:16 CST 2024
 Sun Dec 15 06:45:43 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMDczQzNFQS1DMDM4LTQwNkQtQjIwRS1CQzRCQkQ4QTE1RjciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDIwMjk1MSwiZXhwIjoxNzM0MjAzNTUxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.D15UDvs9PuVCvIviEpe1MD8HJJTq8Xh46GC-VDGjrSWI5-7kWFySsgqI6Cbsm49k6i1mp4AT6O19EbLAll08CqVA5yQflHO58XXtZuuUyGW4QyvKxbCZJ0tUDyXQlP1R
+Sun Dec 15 06:57:50 CST 2024
+Sun Dec 15 06:57:57 CST 2024
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.FGsTXYWwDMDUqL18rSQ_C83YFqvkFBzD3nGgdlvZsMzbCcsvetrDPzfXP15iZX3SCFjoeukThy94blnX6AA0wlwbS8Ev-uTeTYPa5u5EGZwZv-IXgrcrMEQJ1sI8zhzj
+Sun Dec 15 07:00:10 CST 2024
+Sun Dec 15 07:00:40 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
