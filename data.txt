@@ -4,8 +4,6 @@ qwer00725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin https://edge17-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-591f42d4e1ff8d592bb8185c6d72d75f4a2c3bb84464b2c56d45741acd5e7732_trns_h264/playlist.m3u8
-Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
-A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
 my_eyes_higher https://edge6-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-6af8a82bbd9c1e4704be9c3c5eb5eda8bcc25aab7b888e225e83aa7c4c10254c_trns_h264/playlist.m3u8
 mazzanti_ https://edge17-mia.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-1828d10c6516cc9a909188211fbacca6e38b13efad53f89f0d0bb62975817456_trns_h264/playlist.m3u8
 oki_dokie https://edge15-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-50ff7a5095e156bc9cbb9ab7dcc6361426ef3796439f3af97ebb124d0882e057_trns_h264/playlist.m3u8
