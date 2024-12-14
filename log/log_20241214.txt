@@ -585,3 +585,15 @@ Sat Dec 14 23:03:30 CST 2024
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.asxRgXP1QCUL1rSbdBGLyMvCARcLVQNguO24K3kdf65PEi4dit1Ix4Ld_X9PB0qk8kHtkeR1PWtHe6VyefbQbVFQorP9Rts7tOJeDCgAjrm2Cmx5imG83HQ0onE4hDP9
 删除your_desssert https://edge20-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-079c165c3cd789a17b7c46c3c663bf4c393fd436a84ae881dc74061878e6bef1_trns_h264/playlist.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Sat Dec 14 23:25:40 CST 2024
+Sat Dec 14 23:26:13 CST 2024
+Sat Dec 14 23:28:11 CST 2024
+Sat Dec 14 23:28:38 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMzA5NDJGNS1FQTIwLTQ0QjYtQjQ0My1DMjIyMUM5QjFFODciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDE2ODA5NCwiZXhwIjoxNzM0MTY4Njk0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.JCKh3EISf3j8u554NAYxcghY7_yof9MSdajDxILbuUz2qD7Nm-cThI8bmU1IM-wdUkbouGOB401fRxfNRMuJNwGPCCEPbhW109DHRD9CBr5yYtBYk5vqc5PZ2v2nlS3P
+删除oki_dokie https://edge5-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c79600373cfdebdb3d72130632a9630537ad9cf2817602107a8736310de994c2_trns_h264/playlist.m3u8
+删除grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
