@@ -181,3 +181,10 @@ Mon Dec 16 06:43:24 CST 2024
 Mon Dec 16 06:45:21 CST 2024
 Mon Dec 16 06:45:47 CST 2024
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Mon Dec 16 06:57:49 CST 2024
+Mon Dec 16 06:57:54 CST 2024
+Mon Dec 16 07:00:04 CST 2024
+Mon Dec 16 07:00:35 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除my_eyes_higher https://edge4-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-07528011fafd30e949a72e2a4d06110a90355e2dca0a6aea1b05aed73d2d79a7_trns_h264/playlist.m3u8
+删除oki_dokie https://edge24-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f08397ba0583c3f6bc0d87d0c3fccdae45d424f96fb2fdd7fcd19a7658e2684f_trns_h264/playlist.m3u8
