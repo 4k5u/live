@@ -8,7 +8,6 @@ kiyoko_rin https://edge6-chi.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-365e8a5
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
-wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 my_eyes_higher https://edge4-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-07528011fafd30e949a72e2a4d06110a90355e2dca0a6aea1b05aed73d2d79a7_trns_h264/playlist.m3u8
 oki_dokie https://edge24-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f08397ba0583c3f6bc0d87d0c3fccdae45d424f96fb2fdd7fcd19a7658e2684f_trns_h264/playlist.m3u8
