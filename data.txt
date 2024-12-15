@@ -17,4 +17,3 @@ ad0res https://edge27-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-0253b86240b26d
 kiyoko_rin https://edge6-chi.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-365e8a53a1a0cb7e41d381567a9b5b1e1bf51c9ab2569d5c487599f3e6580be1_trns_h264/playlist.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
-JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
