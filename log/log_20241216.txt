@@ -78,3 +78,11 @@ Mon Dec 16 01:51:10 CST 2024
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+添加ad0res https://edge27-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-0253b86240b26dcf1addbbb64ab9815e4e8c6a1afdcbf7c806b5b1f6e34d5d5d_trns_h264/playlist.m3u8
+添加kiyoko_rin https://edge6-chi.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-365e8a53a1a0cb7e41d381567a9b5b1e1bf51c9ab2569d5c487599f3e6580be1_trns_h264/playlist.m3u8
+Mon Dec 16 01:59:23 CST 2024
+Mon Dec 16 01:59:44 CST 2024
+Mon Dec 16 02:01:54 CST 2024
+Mon Dec 16 02:02:25 CST 2024
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
