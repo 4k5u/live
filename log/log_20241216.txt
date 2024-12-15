@@ -101,3 +101,9 @@ Mon Dec 16 02:50:43 CST 2024
 Mon Dec 16 02:52:52 CST 2024
 Mon Dec 16 02:53:23 CST 2024
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+Mon Dec 16 03:01:36 CST 2024
+Mon Dec 16 03:01:50 CST 2024
+Mon Dec 16 03:03:59 CST 2024
+Mon Dec 16 03:04:30 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除ad0res https://edge27-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-0253b86240b26dcf1addbbb64ab9815e4e8c6a1afdcbf7c806b5b1f6e34d5d5d_trns_h264/playlist.m3u8
