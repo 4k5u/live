@@ -560,3 +560,11 @@ Sun Dec 15 21:51:02 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-14/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.EfdtNP99Dz-k19rZGsGSP3rm0QpYbBGkwb54lbaUhL1ZWKcFWLiqq5DyX2Lh54jsvEOJZvk-3BWuS2UoBurhZ6Kxklv32iqiEbh7tyv2QPsaJuK818JvUbmA8rLoskbN
+添加hee_jeen https://edge2-aus.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-8aed6714cbdf4a46c814eeaf123542250fe4079f7dcbdb82440bc35a28da7d7a_trns_h264/playlist.m3u8
+Sun Dec 15 21:59:03 CST 2024
+Sun Dec 15 21:59:34 CST 2024
+Sun Dec 15 22:01:43 CST 2024
+Sun Dec 15 22:02:14 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+删除somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.huptaVnfWblqmatHRX7i_53XRqPRBJd4KLKL46oLkao5nIAlJjYlYnx31y5MU2aK9_cIV_evfYyz8-Ir8t7LAx-mJ71ruMbmn0E7n7FPXOTDU5bIkVebm2KGqFBARwvt
