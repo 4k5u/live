@@ -7,7 +7,6 @@ mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
-Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 oki_dokie https://edge3-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-b08a05278826d99502acadcd0d75824adfa3e7c0ddcb7c55f7686c97fde05743_trns_h264/playlist.m3u8
 TAOZI-BAOBei https://edge-hls.doppiocdn.live/hls/164676457/master/164676457_auto.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
@@ -18,4 +17,6 @@ ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 amilia4u https://edge10-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-fa30f676811ec3629610bd51ff07390ecbf4e4017021b91374e1839cab3b07cf_trns_h264/playlist.m3u8
 leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
-__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+sexygamesx https://edge15-mia.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d6201c2007828283b196cce8d48144a32e8a631f1681a8025aee35dabbc50e3a_trns_h264/playlist.m3u8
+foxylovesyou https://edge8-mia.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-ef175a18aa66d8180a0c7d1b5e35f1628660cd8d50e45ea70c8d3c994063aa83_trns_h264/playlist.m3u8
+54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.7avxKItSMoG4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzdhdnhLSXRTTW9HNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2NkYxOUI0Ni0yRjlFLTRCQTYtQjdDQS1FNUI5NDUzRDZBNTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDI0MTM0OCwiZXhwIjoxNzM0MjQxOTQ4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.vmofA28_IGIJmhfX0lUv1vNngktwJApf7U_PZy7ZHMqKuw4IBlKoVmyP-oBQc_LFWKOiVyDGXNLGjB-LRKtjy-ZeEfFe2a0miPAuPzdICPXNwVomChYXPQtMA6n93Hee
