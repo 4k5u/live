@@ -11,4 +11,4 @@ Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
-cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+my_eyes_higher https://edge4-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-07528011fafd30e949a72e2a4d06110a90355e2dca0a6aea1b05aed73d2d79a7_trns_h264/playlist.m3u8
