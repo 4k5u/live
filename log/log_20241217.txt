@@ -146,3 +146,11 @@ Tue Dec 17 04:58:10 CST 2024
 Tue Dec 17 05:00:14 CST 2024
 Tue Dec 17 05:00:44 CST 2024
 添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Tue Dec 17 05:23:53 CST 2024
+Tue Dec 17 05:23:56 CST 2024
+Tue Dec 17 05:26:07 CST 2024
+Tue Dec 17 05:26:37 CST 2024
+添加JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
+删除jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qhFw1WrhHTVr.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xaEZ3MVdyaEhUVnIiLCJleHAiOjE3MzQzOTM0NTc0NTUsImlhdCI6MTczNDM1MDI1N30.Imk6AOSw-2g1yb8_H0RqrAyanVEArskFYYDogl08qOORsm2ODCjf88ItR-Hjg7aM_cAXpIqER6lDvFC-uJ_DlXtHZlg__3Mr3hdtK7fk7tLG03C3u371F9YqpIL9MKFV
