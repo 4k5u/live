@@ -140,3 +140,9 @@ Tue Dec 17 04:43:00 CST 2024
 Tue Dec 17 04:45:05 CST 2024
 Tue Dec 17 04:45:35 CST 2024
 删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5CN_OvBdYPxqY1Cp9lf1RJuxWDdtHhmj0_6EMBYzcMKTpI_LMopeq7eeseYB1hcPgbmdAK4y50im2dRsjj51l0kusQ3Ko12nh5x3yuLQYXcYSL-SmGorQ4FWfFPhBX5D
+添加sexygamesx https://edge15-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-f784dddb86e8d8de2d58e97b467f978f3dc3b5aacf8e0a95a91328dd169a1b8b_trns_h264/playlist.m3u8
+Tue Dec 17 04:58:07 CST 2024
+Tue Dec 17 04:58:10 CST 2024
+Tue Dec 17 05:00:14 CST 2024
+Tue Dec 17 05:00:44 CST 2024
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
