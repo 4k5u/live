@@ -257,3 +257,9 @@ Mon Dec 16 12:27:02 CST 2024
 Mon Dec 16 12:28:59 CST 2024
 Mon Dec 16 12:29:26 CST 2024
 删除sexygamesx https://edge15-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-0bd6b6e671ee5480906e3b63c1e32c535ef13e33e2a76322598f00bb25fdd154_trns_h264/playlist.m3u8
+Mon Dec 16 12:46:18 CST 2024
+Mon Dec 16 12:46:25 CST 2024
+Mon Dec 16 12:48:36 CST 2024
+Mon Dec 16 12:49:06 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
