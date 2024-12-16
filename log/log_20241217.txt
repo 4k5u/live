@@ -170,3 +170,8 @@ Tue Dec 17 06:19:56 CST 2024
 Tue Dec 17 06:21:53 CST 2024
 Tue Dec 17 06:22:19 CST 2024
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+Tue Dec 17 06:39:26 CST 2024
+Tue Dec 17 06:39:31 CST 2024
+Tue Dec 17 06:41:29 CST 2024
+Tue Dec 17 06:41:56 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
