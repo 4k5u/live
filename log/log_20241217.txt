@@ -135,3 +135,8 @@ Tue Dec 17 04:26:43 CST 2024
 删除ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.eBxc3aR2XJmy.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VCeGMzYVIyWEpteSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MTg4NjIyQy01NzM1LTQ4MEEtOTEyOC1ENDY0NEIzNzBCRUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDM2NjczOCwiZXhwIjoxNzM0MzY3MzM4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.IUSLwPViK_LsNxCsm8LcecjcCBMnwG_gefnfWCPoKK9BBgc9Vffz1tjaMJwJHTxdOFAUbi97fEVsq-jkhURw43-4xjdM-gSzAC_z0vqc0GwBAR6ZlpD9tA6v9-b9-8yA
 删除tw_Sutew https://edge-hls.doppiocdn.live/hls/104933496/master/104933496_auto.m3u8
 删除Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+Tue Dec 17 04:42:57 CST 2024
+Tue Dec 17 04:43:00 CST 2024
+Tue Dec 17 04:45:05 CST 2024
+Tue Dec 17 04:45:35 CST 2024
+删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5CN_OvBdYPxqY1Cp9lf1RJuxWDdtHhmj0_6EMBYzcMKTpI_LMopeq7eeseYB1hcPgbmdAK4y50im2dRsjj51l0kusQ3Ko12nh5x3yuLQYXcYSL-SmGorQ4FWfFPhBX5D
