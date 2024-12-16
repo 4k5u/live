@@ -164,3 +164,9 @@ Tue Dec 17 05:51:45 CST 2024
 Tue Dec 17 05:51:53 CST 2024
 Tue Dec 17 05:54:02 CST 2024
 Tue Dec 17 05:54:32 CST 2024
+添加oki_dokie https://edge9-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e7b2ea38ecbf19a456a79e2620a8bce5f3680f9a34fa3acb0e5d9bb94cdc76f3_trns_h264/playlist.m3u8
+Tue Dec 17 06:19:51 CST 2024
+Tue Dec 17 06:19:56 CST 2024
+Tue Dec 17 06:21:53 CST 2024
+Tue Dec 17 06:22:19 CST 2024
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
