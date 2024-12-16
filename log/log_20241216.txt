@@ -358,3 +358,11 @@ Mon Dec 16 17:02:49 CST 2024
 Mon Dec 16 17:03:11 CST 2024
 Mon Dec 16 17:05:20 CST 2024
 Mon Dec 16 17:05:51 CST 2024
+Mon Dec 16 17:34:51 CST 2024
+Mon Dec 16 17:35:10 CST 2024
+添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.8rpBE7lMa39bkpSp1kyQEcrGilRvpXhzFWUIeClzWqmY0Ja8T_kjk2bS7sHPes_0IPUbdt0_OelYYg4upY3PqDTc8KEnoX4gxtqZkxNcmtdjSL5N_zAmWoJ39YDLzjQS
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.DksakuZhTvIDkwL8G1bR-qqgK1yJr2zjoEtTnzuceAOVOj4SzXMpS0ZN3MdA7m5v6wwtMvN6LZAgPmoTxi1ItVY-R4tR6LvEC6NxYdLwZDHQgJaGe_1t2eYyg-yYh0x2
+Mon Dec 16 17:37:27 CST 2024
+添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MzQzODIyMTA5OTAsImlhdCI6MTczNDMzOTAxMH0.4DVCJrZjR1VXTZxeY3uPQ5HZ2gV1TZjsHvu69gKFc64QjwfMO5L4t14G5DAoG8Mnqpph5t_YJ4bKH-nGDQ9mZiNS7gAtzSDQmpch-g1PisD-_tkkIfIjhjC7-e3jg5lb
+Mon Dec 16 17:37:59 CST 2024
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
