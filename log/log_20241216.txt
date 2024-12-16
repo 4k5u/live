@@ -413,3 +413,8 @@ Mon Dec 16 19:26:13 CST 2024
 Mon Dec 16 19:26:45 CST 2024
 删除oki_dokie https://edge9-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-190456636ac1f4603fa9fc6019263be398d9f2c5ec9781cc80ff2a500564064f_trns_h264/playlist.m3u8
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+Mon Dec 16 19:39:17 CST 2024
+添加na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KMLbAVmLZGOm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tNTGJBVm1MWkdPbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMjM2RjgwRi0yNjJFLTQ4RDgtODExRS1BRDFCQjcxRERDQTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDM0OTE4MCwiZXhwIjoxNzM0MzQ5NzgwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.hHeZuM6jQQy2HZb17QtvVWcplYiQhAhvZbO8fXGgVuWNCdBWcsOiFham0MlejoprJSkhi2jvB6oNkpr0qXVhl3sZpk2xW2tPluKUfGl0i0nhExDfTPXUb5zNBNhzMLwl
+Mon Dec 16 19:40:06 CST 2024
+Mon Dec 16 19:42:03 CST 2024
+Mon Dec 16 19:42:29 CST 2024
