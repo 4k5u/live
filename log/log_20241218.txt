@@ -128,3 +128,9 @@ Wed Dec 18 04:25:47 CST 2024
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Wed Dec 18 04:41:46 CST 2024
+Wed Dec 18 04:42:03 CST 2024
+Wed Dec 18 04:44:13 CST 2024
+Wed Dec 18 04:44:44 CST 2024
+添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+删除green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFC1eSatgATs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQzFlU2F0Z0FUcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NUZCNURFQi1BODFDLTREOUItOTZCNi03MzBBQjc0NDYxQzUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDQ1MDIyNywiZXhwIjoxNzM0NDUwODI3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.0siFOkm2fVxTaBR6kN5HGgy9JvC56VuvdGxsE0rM3Qp8tKiev5IW5oOqjY946PUt_sVtjw_mfG2Vpgo2vMFOMUGkFWrTPSP4i-w3LKX_rdWcTnBc0q9g2mIy83Vom-Jt
