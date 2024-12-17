@@ -43,3 +43,8 @@ rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playl
 -ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+1919152 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2nd3qry9BhIj.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJuZDNxcnk5QmhJaiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFREZCMDQzQS1BNzkxLTQzNjAtOEQwOS1EREQyQkJGNEZGQjMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDQzNjc3NCwiZXhwIjoxNzM0NDM3Mzc0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.18mNOlx3jFHfLfUXEuc_osOTsYcBas7fGO2cilUik0aO42syUqKJTv0k1lY8NuYzAUHU511oLTanhKgCPtXSrL0ICPmL58FJAAVGYOkbK8S9mlkppcnUkWu4yD97uz19
+__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
