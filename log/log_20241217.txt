@@ -300,3 +300,10 @@ Tue Dec 17 14:56:26 CST 2024
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+Tue Dec 17 15:21:58 CST 2024
+添加1stforever https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FqOTsJGin1Qc.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZxT1RzSkdpbjFRYyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENkRDMDc2RS03Q0Q5LTQ5RDktQUI0OS0xNDhFMkNCODBCQjAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDQyMDEyMywiZXhwIjoxNzM0NDIwNzIzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.OxmylwDIcLw63Z5B_dy2kfo2LWhvNDJpjYRUL9EaRx06E1wX4R1QmIBjExsMEU8cotX4m_hJ6GIq8wOLvYO13pdGWae-_FGA68HC_5dgEtgUtuzYpsMfF9jLMaWUqFDw
+Tue Dec 17 15:22:17 CST 2024
+Tue Dec 17 15:24:14 CST 2024
+Tue Dec 17 15:24:41 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
