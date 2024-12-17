@@ -362,3 +362,9 @@ Tue Dec 17 17:47:03 CST 2024
 Tue Dec 17 17:47:34 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Tue Dec 17 17:58:18 CST 2024
+Tue Dec 17 17:58:43 CST 2024
+Tue Dec 17 18:00:41 CST 2024
+Tue Dec 17 18:01:08 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除ake_mi https://edge8-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-853b8bf66f2d6dd137f7d968ba826ec7977f65a6aff13102b0ddb7aff409575e_trns_h264/playlist.m3u8
