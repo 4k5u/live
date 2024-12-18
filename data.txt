@@ -17,3 +17,6 @@ ake_mi https://edge2-phx.live.mmcdn.com/live-hls/amlst:ake_mi-sd-749de422a4b6858
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Zt4t-EDgUY7_EUdzIQuJdSwFDzTiYQppcYFQ9B_-qnxKDAREYuKDskNNui-7iN-sLz-8iygRCgXZvfijyCIUdk04y-tqJhm2kIqBnYa_lvTU-n4FfTfCTXjYJ2TF5k8c
+kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.68dnaUrAj1sMJb7LuZRgedH1Q92nnmPXz95srOr5YxhIN-ekk8MKC3CfUHvbKJayVih0BWaeeLmCCfkD7FNFy_u3ashQjcbEHK_WLCwaOxjb7UWI7ylvy2XnpSMxdBdk
+Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
