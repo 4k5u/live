@@ -159,3 +159,9 @@ Thu Dec 19 06:00:23 CST 2024
 Thu Dec 19 06:00:49 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RTUwQTI5NS05N0QwLTRBNDYtQjYwMi1DMUQ4OTE4NzYwRDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDUyMzEwNywiZXhwIjoxNzM0NTIzNzA3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pCxOqQ45tLi2RgIv9WjFCNRPGXmNJ5MREOmCuvqdsxTrUI1OxjbgVVLkxR_EkH_QL2nhXFGIN1N9hEUmLuRqf_IySuf8YhSZpMpqN49y-IrTbGJ6Cmfz98fN5GEbamYA
+添加oki_dokie https://edge13-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-88253a9ffa5bcac07cbbdb9171a662913235921268f6dcd65198bf8605e04096_trns_h264/playlist.m3u8
+Thu Dec 19 06:23:41 CST 2024
+Thu Dec 19 06:23:48 CST 2024
+Thu Dec 19 06:25:45 CST 2024
+Thu Dec 19 06:26:12 CST 2024
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jDJhXFKRrKcUPs_erMG5ejYu2_NVwv1uYKjbs_OC_udwFJpaDpLS51jlrpMt5vA1AeFF7wkiAOGU5IMJF-0rap4FCPerumyBcfHV2COOOoVko0SImK2FBzu-W-36GsFB
