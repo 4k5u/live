@@ -343,3 +343,12 @@ Wed Dec 18 16:01:40 CST 2024
 Wed Dec 18 16:02:07 CST 2024
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Wed Dec 18 16:33:27 CST 2024
+添加akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MThERkU4Mi05ODU5LTREMUMtODdFQy04NjFCNjJFQUVBRjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDUxMDgxNCwiZXhwIjoxNzM0NTExNDE0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.kvnHQKhxDVKuOQ_WFsuL1UEjprbEq-ctV57hT89un472LWxF2HtLDw_iCbJB99fKh8rNjY0c8e8C1uUsyRK1JDgQpFA6T0F7iivIiTOI105jy72k2ztzWhzZyU-P-kye
+Wed Dec 18 16:33:46 CST 2024
+Wed Dec 18 16:35:56 CST 2024
+Wed Dec 18 16:36:27 CST 2024
+删除ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ddooyaa%22%2C%22channel_id%22%3A442709328%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1734489392%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.195.105%22%2C%22version%22%3A2%7D&sig=2d9f5c3e8c3cfaa615225893c52833ef06cecb0b&allow_source=true&allow_audio_only=true
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
