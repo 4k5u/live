@@ -132,3 +132,8 @@ Thu Dec 19 04:44:24 CST 2024
 Thu Dec 19 04:46:22 CST 2024
 Thu Dec 19 04:46:49 CST 2024
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Thu Dec 19 04:58:15 CST 2024
+Thu Dec 19 04:58:24 CST 2024
+Thu Dec 19 05:00:22 CST 2024
+Thu Dec 19 05:00:50 CST 2024
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
