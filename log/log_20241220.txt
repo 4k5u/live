@@ -192,3 +192,8 @@ Fri Dec 20 06:44:16 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除lovewindy https://edge13-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-6c5ac075b06ed82f49d437aa6bd1e8ac23112a12dfeb476dee700ef14596bb32_trns_h264/playlist.m3u8
 删除acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0QzhCQjlCNC0xNzZCLTQ1RjEtOTFEQS1FNEU4QTlEMTY1MTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDY0MzE1OCwiZXhwIjoxNzM0NjQzNzU4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.mCrWk9hdhYw3SQCn8yLxXFKAWpLygY-D49U0izScDxJqTECXFSqmwt0shNkGA0qSGAIKItSzHRvZIsvpTwuKM6uXI-6XZYPILR1RbPX2iPa3K02YcxBxUlkdWbhz4uta
+Fri Dec 20 06:52:54 CST 2024
+Fri Dec 20 06:53:03 CST 2024
+Fri Dec 20 06:55:11 CST 2024
+Fri Dec 20 06:55:42 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
