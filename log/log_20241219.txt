@@ -319,3 +319,9 @@ Thu Dec 19 15:23:58 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.JCiejxSPyJ4xMXakPYyXIfXjb87MRBjZPIvnAphazb3-dIBGOkrA0O0B7_ocSZYJUUOWIY6m5ThjAUMwGdaqs__ChPS9PHA4dmz1D1ANl55B1U7yPSNgM_I9nOCL7_Jg
 删除akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxRTU5MTJDMy04Rjk2LTQzNUYtQkY5MC05OUI5Q0FDNjg2M0MiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDU4Njk0MSwiZXhwIjoxNzM0NTg3NTQxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.691cuVWl5Xf6cXXLfqBWvZKyurCJhELbpg_m7ZseJURjANE7plbDr4vf5L2eFVwYRO8tOGzutJH17sqVMCWlSEliug9GA_D_ei_OSEK1_b-CVnv6kqYtQbQbfiY2uuq6
+添加alicechina https://edge17-aus.live.mmcdn.com/live-hls/amlst:alicechina-sd-981497e5095a7689d2941bc87973246cbf9e15b3f82c7cde94aa1ad866c674af_trns_h264/playlist.m3u8
+Thu Dec 19 15:33:30 CST 2024
+Thu Dec 19 15:33:43 CST 2024
+Thu Dec 19 15:35:41 CST 2024
+Thu Dec 19 15:36:09 CST 2024
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8

@@ -5,7 +5,6 @@ mode_bad https://edge5-sea.live.mmcdn.com/live-hls/amlst:mode_bad-sd-f41dec56c41
 bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie https://edge7-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0b54ac0a6c971f71e5c071b8e4f495b8d91f2193c07ae07d7de342f157f6aa68_trns_h264/playlist.m3u8
-sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 _meganmeow_ https://edge12-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-3d13443375ddd8eba418768051d55e6ce5b1cf5e4037ddd53c67848174de8c1e_trns_h264/playlist.m3u8
 iminako https://edge18-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-8998ecfe2ecdcfa6949c719268efd520abc515836485a0b520c946d1eabb52e3_trns_h264/playlist.m3u8
@@ -25,3 +24,4 @@ honey_pinkgreen https://edge36-phx.live.mmcdn.com/live-hls/amlst:honey_pinkgreen
 twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.DaIPOyf9uNzH35ZEs2gQmaeHi0Nh4imAxOHVsEb_HajO3zbbVcaSmg1As0IlG9OJvZkFp-dyWkiwRhlWY3dGT31VHPQvDy2We4REcYZdy-3AcXdxb-1CpXXSGqjr70IE
 SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+alicechina https://edge17-aus.live.mmcdn.com/live-hls/amlst:alicechina-sd-981497e5095a7689d2941bc87973246cbf9e15b3f82c7cde94aa1ad866c674af_trns_h264/playlist.m3u8
