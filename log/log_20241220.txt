@@ -2,3 +2,12 @@ Fri Dec 20 00:00:47 CST 2024
 Fri Dec 20 00:01:19 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除your_desssert https://edge12-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-4a4cdd40797038882d81cae302e8cb181c68b234b25678c582b305e57693d354_trns_h264/playlist.m3u8
+Fri Dec 20 00:27:22 CST 2024
+Fri Dec 20 00:27:59 CST 2024
+Fri Dec 20 00:30:10 CST 2024
+Fri Dec 20 00:30:42 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除oki_dokie https://edge12-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8041ff670b3fe9988fa5e41f8d90abe2e6f47ee36e4bd717f3e120cbc61b8f05_trns_h264/playlist.m3u8
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+删除Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
