@@ -222,3 +222,12 @@ Thu Dec 19 11:10:40 CST 2024
 添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 删除kiyoko_rin https://edge1-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-eda1855e3344bd43c82ffc3f2452db0601f62cdaf06f9a89b8ef5ab8730301c0_trns_h264/playlist.m3u8
+Thu Dec 19 11:43:05 CST 2024
+Thu Dec 19 11:43:12 CST 2024
+Thu Dec 19 11:45:22 CST 2024
+Thu Dec 19 11:45:52 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除my_eyes_higher https://edge35-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1fc56dd0d58cbaad8f8153348aeebabedb5f787b2d9b4909dc361e301e0e6572_trns_h264/playlist.m3u8
+删除oki_dokie https://edge13-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-88253a9ffa5bcac07cbbdb9171a662913235921268f6dcd65198bf8605e04096_trns_h264/playlist.m3u8
