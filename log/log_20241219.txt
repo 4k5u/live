@@ -513,3 +513,12 @@ Thu Dec 19 21:52:24 CST 2024
 Thu Dec 19 21:54:42 CST 2024
 Thu Dec 19 21:55:13 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+Thu Dec 19 22:10:15 CST 2024
+Thu Dec 19 22:10:57 CST 2024
+Thu Dec 19 22:12:54 CST 2024
+Thu Dec 19 22:13:22 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除hanny27 ?aid=.A32.7bbT56vyHM9fKZk.XG-1LvAnNRaGTrHOpKyav86ST0WIajnsiGc2bdbtvXF_56La3HIesdqHsWaHonIyDaHb6aIbxJ1iToWvQdRaE0mn_KUH3_tP6c85LQWgp3Zw2LfyMCBLO5F091uPW1vS
+删除luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MzQ2NDkyNTQ3NjAsImlhdCI6MTczNDYwNjA1NH0.gEWjTmg6th2dr1J9qYhIi7Uw10tvZP3LzYRIO5sndcinQziI-orNEUwVCbzFLb4-U_rt3Yd73j0OlrvlIPWanEhdilZFjndkoyuewT8-mVuRp0Pa3Vwdz8JrDnPkh54W
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
