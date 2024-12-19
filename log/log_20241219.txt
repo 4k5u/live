@@ -231,3 +231,11 @@ Thu Dec 19 11:45:52 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除my_eyes_higher https://edge35-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1fc56dd0d58cbaad8f8153348aeebabedb5f787b2d9b4909dc361e301e0e6572_trns_h264/playlist.m3u8
 删除oki_dokie https://edge13-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-88253a9ffa5bcac07cbbdb9171a662913235921268f6dcd65198bf8605e04096_trns_h264/playlist.m3u8
+添加ake_mi https://edge11-mia.live.mmcdn.com/live-hls/amlst:ake_mi-sd-29bce7d328420dd60e7e5bcfbdd254418a4d368d76e12ac01c739957e216d442_trns_h264/playlist.m3u8
+Thu Dec 19 11:58:10 CST 2024
+Thu Dec 19 11:58:17 CST 2024
+Thu Dec 19 12:00:22 CST 2024
+Thu Dec 19 12:00:50 CST 2024
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
