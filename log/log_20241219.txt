@@ -353,3 +353,13 @@ Thu Dec 19 16:37:11 CST 2024
 删除your_desssert https://edge20-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-ecc95651ffab175748fb2f988dbf2e18ff917b8e04acb56101cd1ec9bb037ef9_trns_h264/playlist.m3u8
 删除honey_pinkgreen https://edge36-phx.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-984874d4f172144a2945ca3e3311107c2f2d316180949ec6bee78373c7014482_trns_h264/playlist.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加ake_mi https://edge21-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-9f25cf60905e5e71c74287bbc610789ad6214e44e7a94ad8c1621d8042901c13_trns_h264/playlist.m3u8
+Thu Dec 19 16:53:14 CST 2024
+Thu Dec 19 16:53:29 CST 2024
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ErGjdmrq4aBCnoeBb3pGn97JGJZj3Uyptu9hRdkD8GWtApZ9VjyFIaKdFBp9J0U3TzHdbY15D81SP4bW7IYo-0mOEXTS81J0wEgXKwKkQg6ayBbGpKJIBGHJ9R0_W5TI
+Thu Dec 19 16:55:44 CST 2024
+Thu Dec 19 16:56:15 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除alicechina https://edge17-aus.live.mmcdn.com/live-hls/amlst:alicechina-sd-981497e5095a7689d2941bc87973246cbf9e15b3f82c7cde94aa1ad866c674af_trns_h264/playlist.m3u8
+删除hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uaY2fROazwjw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VhWTJmUk9hendqdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENjNDRDYxMi00MzZCLTQyQTktODgwNy0wN0QxQTQ2OTBCOUQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDU5NzI1MywiZXhwIjoxNzM0NTk3ODUzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.dyfOgCTH4tahJg1WPzMqcWhflidsGgfOVKNjMDSHLGK12aSkfPb1FE0JoY-O7ecrxfVliEoxCN10s_6twvR_0qeSCreHuHAA8R3CrUuhZHjLuI5xO0bMI5MBSfVNhR_O
