@@ -371,3 +371,10 @@ Thu Dec 19 17:22:57 CST 2024
 Thu Dec 19 17:25:08 CST 2024
 Thu Dec 19 17:25:39 CST 2024
 添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Thu Dec 19 17:41:42 CST 2024
+Thu Dec 19 17:42:01 CST 2024
+添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KF2IkFTgze2IOYEMJk2qlb4Q0HBm8s8WcNBPPcy_DRHA5J1Ba68-nLtAJOmN_lBulywVx_56oCiYwBwVMNRrjNvSPIcd10uKPG-rES5SfbEln3ar6H44Fz-o82PU301e
+Thu Dec 19 17:44:16 CST 2024
+Thu Dec 19 17:44:48 CST 2024
+删除oda_assuri https://edge15-aus.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-685028381d731c6d25674a34d07a645dfa31c038e705b55a8c3c420c6c812f1b_trns_h264/playlist.m3u8
+删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
