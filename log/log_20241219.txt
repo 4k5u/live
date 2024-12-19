@@ -211,3 +211,14 @@ Thu Dec 19 10:17:20 CST 2024
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除sexygamesx https://edge26-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-63c07daa9b88a506d0bc8c786ef97578dcbf4e96025a0517f772d142edeed9b9_trns_h264/playlist.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加mode_bad https://edge5-sea.live.mmcdn.com/live-hls/amlst:mode_bad-sd-f41dec56c418ce8e38770308bf76366ce5e8a396887c7f6171fbe1b819f7ca19_trns_h264/playlist.m3u8
+添加intim_mate https://edge36-phx.live.mmcdn.com/live-hls/amlst:intim_mate-sd-58fa2b62d7b84a9df9f1a06c870ce98f81d105d23717f8286e29219fce80d8ea_trns_h264/playlist.m3u8
+Thu Dec 19 11:08:07 CST 2024
+Thu Dec 19 11:08:14 CST 2024
+Thu Dec 19 11:10:12 CST 2024
+Thu Dec 19 11:10:40 CST 2024
+添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+删除kiyoko_rin https://edge1-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-eda1855e3344bd43c82ffc3f2452db0601f62cdaf06f9a89b8ef5ab8730301c0_trns_h264/playlist.m3u8
