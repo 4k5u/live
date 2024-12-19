@@ -378,3 +378,9 @@ Thu Dec 19 17:44:16 CST 2024
 Thu Dec 19 17:44:48 CST 2024
 删除oda_assuri https://edge15-aus.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-685028381d731c6d25674a34d07a645dfa31c038e705b55a8c3c420c6c812f1b_trns_h264/playlist.m3u8
 删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+Thu Dec 19 17:53:01 CST 2024
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.x8AkQVOBDgwQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3g4QWtRVk9CRGd3USIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMkUwNzc1OS0xQzE1LTQ5MEYtOEIzOS1GNzkyOEIzQjA1RTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDYwMTk5MiwiZXhwIjoxNzM0NjAyNTkyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.TeLs6RNtIbIUUDLU9JUvhhdgg8W6bOmHxKFFyo-FAcis35QsSJErO5aIsQJW0C8mM9l-4GZGowlqoR9K60noK5llWolAmmzAefXGon4uT8HIjdvMJ750yd8xwPjZeMSG
+Thu Dec 19 17:53:24 CST 2024
+Thu Dec 19 17:55:31 CST 2024
+Thu Dec 19 17:56:02 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
