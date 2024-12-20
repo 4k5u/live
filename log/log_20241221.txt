@@ -197,3 +197,8 @@ Sat Dec 21 06:42:54 CST 2024
 Sat Dec 21 06:43:24 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除my_eyes_higher https://edge9-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3bd5c0dbc1149d34fd61a04a51be3a970a713817e9f019ffaa46be60ff9322f8_trns_h264/playlist.m3u8
+Sat Dec 21 06:52:02 CST 2024
+Sat Dec 21 06:52:07 CST 2024
+Sat Dec 21 06:54:15 CST 2024
+Sat Dec 21 06:54:45 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8

@@ -10,3 +10,4 @@ San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3
 lovewindy https://edge15-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-3e111d0df2fdad8c4e91289c633cde9aacadd62e021373cfdd1f7bcacb007e5b_trns_h264/playlist.m3u8
 oki_dokie https://edge4-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1e266b92b74e86e50b5c578d5deff5c2c8947038e83e1cac7691fbb0fb2d4b3e_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
