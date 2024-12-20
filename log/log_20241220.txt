@@ -585,3 +585,8 @@ Fri Dec 20 22:45:03 CST 2024
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.j38wUMvWE4bp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ozOHdVTXZXRTRicCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MUM4Q0ZDRi00QTU5LTQ0MjEtQTAxRS05NzE0RTU0M0FGNUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDY5MjM4MCwiZXhwIjoxNzM0NjkyOTgwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9._BNQN6hwRRIT_l7AQat7ja-yNUPZ7mt61BQWhSO99yC_8UDJWqtj_0Zc25Ge2iKQ-n4LADCS13TbMasD-HHHqzO5OCOdW5yH9Inj46m7ckHCENr1_OjRgdJeK101eoNN
 删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+Fri Dec 20 22:52:36 CST 2024
+Fri Dec 20 22:53:37 CST 2024
+Fri Dec 20 22:55:46 CST 2024
+Fri Dec 20 22:56:19 CST 2024
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
