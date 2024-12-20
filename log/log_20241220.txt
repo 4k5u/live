@@ -257,3 +257,8 @@ Fri Dec 20 11:41:30 CST 2024
 Fri Dec 20 11:41:59 CST 2024
 添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Fri Dec 20 11:50:31 CST 2024
+Fri Dec 20 11:50:42 CST 2024
+Fri Dec 20 11:52:40 CST 2024
+Fri Dec 20 11:53:07 CST 2024
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
