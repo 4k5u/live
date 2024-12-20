@@ -202,3 +202,14 @@ Sat Dec 21 06:52:07 CST 2024
 Sat Dec 21 06:54:15 CST 2024
 Sat Dec 21 06:54:45 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加hee_jeen https://edge24-ash.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-9bacda658b796bff6312897e39bd19b04397a7e261c56584136c12832b94c18c_trns_h264/playlist.m3u8
+Sat Dec 21 07:19:03 CST 2024
+Sat Dec 21 07:19:08 CST 2024
+Sat Dec 21 07:21:15 CST 2024
+Sat Dec 21 07:21:45 CST 2024
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=null
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除lovewindy https://edge15-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-3e111d0df2fdad8c4e91289c633cde9aacadd62e021373cfdd1f7bcacb007e5b_trns_h264/playlist.m3u8
