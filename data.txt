@@ -3,7 +3,6 @@ h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playl
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin https://edge28-ash.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-1ed3c3c97053af8a453dbeab1bd74a22ebfc260fcc24aa6bca157d39d4a5110d_trns_h264/playlist.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
-TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 lovewindy https://edge2-lax.live.mmcdn.com/live-hls/amlst:lovewindy-sd-f34a64819ec1e67e057af3cf03a0ed783704d5462ab86744b83d4123766ca96d_trns_h264/playlist.m3u8
 my_eyes_higher https://edge9-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3bd5c0dbc1149d34fd61a04a51be3a970a713817e9f019ffaa46be60ff9322f8_trns_h264/playlist.m3u8
 mazzanti_ https://edge1-aus.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-82055a66bd06cf3fef37618f376f6ee88d25293126aa7e21c6b2e7cc7b7f1884_trns_h264/playlist.m3u8
