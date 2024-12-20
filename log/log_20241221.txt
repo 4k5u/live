@@ -183,3 +183,9 @@ Sat Dec 21 06:01:37 CST 2024
 Sat Dec 21 06:03:46 CST 2024
 Sat Dec 21 06:04:16 CST 2024
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sat Dec 21 06:25:57 CST 2024
+Sat Dec 21 06:26:02 CST 2024
+Sat Dec 21 06:28:08 CST 2024
+Sat Dec 21 06:28:35 CST 2024
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除lovewindy https://edge2-lax.live.mmcdn.com/live-hls/amlst:lovewindy-sd-f34a64819ec1e67e057af3cf03a0ed783704d5462ab86744b83d4123766ca96d_trns_h264/playlist.m3u8
