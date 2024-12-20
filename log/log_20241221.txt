@@ -189,3 +189,11 @@ Sat Dec 21 06:28:08 CST 2024
 Sat Dec 21 06:28:35 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除lovewindy https://edge2-lax.live.mmcdn.com/live-hls/amlst:lovewindy-sd-f34a64819ec1e67e057af3cf03a0ed783704d5462ab86744b83d4123766ca96d_trns_h264/playlist.m3u8
+添加lovewindy https://edge15-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-3e111d0df2fdad8c4e91289c633cde9aacadd62e021373cfdd1f7bcacb007e5b_trns_h264/playlist.m3u8
+添加oki_dokie https://edge4-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1e266b92b74e86e50b5c578d5deff5c2c8947038e83e1cac7691fbb0fb2d4b3e_trns_h264/playlist.m3u8
+Sat Dec 21 06:40:39 CST 2024
+Sat Dec 21 06:40:44 CST 2024
+Sat Dec 21 06:42:54 CST 2024
+Sat Dec 21 06:43:24 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除my_eyes_higher https://edge9-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3bd5c0dbc1149d34fd61a04a51be3a970a713817e9f019ffaa46be60ff9322f8_trns_h264/playlist.m3u8
