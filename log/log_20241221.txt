@@ -353,3 +353,10 @@ Sat Dec 21 14:34:39 CST 2024
 添加Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Sat Dec 21 14:46:03 CST 2024
+Sat Dec 21 14:46:26 CST 2024
+Sat Dec 21 14:48:35 CST 2024
+Sat Dec 21 14:49:05 CST 2024
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除intim_mate https://edge23-ash.live.mmcdn.com/live-hls/amlst:intim_mate-sd-9cc91377a9084980e1fa72293dd04634f7bf4c50d45d98640b57419d85946b45_trns_h264/playlist.m3u8
+删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
