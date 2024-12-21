@@ -589,3 +589,9 @@ Sat Dec 21 22:30:53 CST 2024
 删除green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFC1eSatgATs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQzFlU2F0Z0FUcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQjFDNEQ3My1ERUVCLTQ4QTMtOURFOC1FQzY2OUQ0NkU0M0MiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDc3MTU1MiwiZXhwIjoxNzM0NzcyMTUyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.3yChSbRX7j1r2I4k4NvNridbCT-xoXCKQtwNoaW7kt1TuzFUoEilEiwdgNU8nUyKUl9eNDgaBzcfEBxVV0BCSckt4BRuUXm2TJ8iMSeYDeYOfwIcBv3DLiSm93KMc5Hx
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
+Sat Dec 21 22:39:10 CST 2024
+Sat Dec 21 22:39:39 CST 2024
+Sat Dec 21 22:41:49 CST 2024
+Sat Dec 21 22:42:23 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
