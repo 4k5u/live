@@ -446,3 +446,7 @@ Sat Dec 21 17:50:55 CST 2024
 删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.cNC3a5dLc3IpahookUgCsmL_8VkFMCFvNlJya2H8LXu8UaPz3z3-QSIHsrbJH56XcPzu5eqli2U2rjZQTvaRviBYSJ5TrymIWXuc2SqrqfeBnjRQ-pJ5yqYf9pz1F6nS
 删除mode_bad https://edge12-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-cf27f8fc150d45fdb83013b1913b0819e33bd03897a7d22791e8af0e68d3f6e2_trns_h264/playlist.m3u8
 删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-14/auth_master_playlist.m3u8?aid=null
+Sat Dec 21 17:59:12 CST 2024
+Sat Dec 21 17:59:31 CST 2024
+Sat Dec 21 18:01:41 CST 2024
+Sat Dec 21 18:02:11 CST 2024
