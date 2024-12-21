@@ -430,3 +430,12 @@ Sat Dec 21 17:24:14 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除ake_mi https://edge2-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-8e7e96983c9b0914645d8bae322eb9b0dae02abc848e444a095a53cbc788faf3_trns_h264/playlist.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Sat Dec 21 17:32:43 CST 2024
+Sat Dec 21 17:33:02 CST 2024
+Sat Dec 21 17:35:00 CST 2024
+Sat Dec 21 17:35:27 CST 2024
+删除oda_assuri https://edge6-chi.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-4154269f6004fd044a625e3b7680353d51a62eb3ddc8e515ab71102ddbf1ac49_trns_h264/playlist.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除sexygamesx https://edge13-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-28035c21bc09a84121b47a24ec030b029c75ab9653a12f759092b8b86f544b8b_trns_h264/playlist.m3u8
+删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+删除akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRjQ0MUY3Qy1FQzcxLTQ3MTAtOUUxRC03REY0NzdFQzQ0MDQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDc3MDU0OCwiZXhwIjoxNzM0NzcxMTQ4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.BolidjlUfvCQJiQZH6YSN3x8IyEQNHQ2y5Z25MyDU4NceJZs9fnd6dNV6a6d8Fac7zlokuCbLxAihAHhaPUiU4trOUFIU3JZz5lVteWzDwK7n5HjxNKEuJ-EpuLJlyKd
