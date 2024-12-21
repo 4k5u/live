@@ -44,3 +44,9 @@ Sun Dec 22 01:35:17 CST 2024
 Sun Dec 22 01:35:48 CST 2024
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.DRhXLIDlEq5cVHk00RoK1sV0-RSsETMNgswG1GFK_tqRu7pfOX-NbTL_W2slkIOR5tolVE7z02ojnIh-ORPl4u34yUY7AisnOQvgbG0tibOe2Jfi9gwk_zM2WTk28wL8
+添加lovewindy https://edge28-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-f8eaad07e2ce9d4d4c2db291b121043e66dfbf03936c5f944e98f7e111b289eb_trns_h264/playlist.m3u8
+Sun Dec 22 01:48:04 CST 2024
+Sun Dec 22 01:48:21 CST 2024
+Sun Dec 22 01:50:30 CST 2024
+Sun Dec 22 01:51:01 CST 2024
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
