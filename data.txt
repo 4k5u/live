@@ -9,7 +9,6 @@ oki_dokie https://edge4-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1e266b92b
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 hee_jeen https://edge24-ash.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-9bacda658b796bff6312897e39bd19b04397a7e261c56584136c12832b94c18c_trns_h264/playlist.m3u8
-May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 my_eyes_higher https://edge22-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3bd5c0dbc1149d34fd61a04a51be3a970a713817e9f019ffaa46be60ff9322f8_trns_h264/playlist.m3u8
