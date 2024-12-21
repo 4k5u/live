@@ -507,3 +507,9 @@ Sat Dec 21 19:42:47 CST 2024
 删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+添加your_desssert https://edge1-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-8a68fe33783fc4bdaed8d2223b10e0e5790fe51a08f1a809eab2d40c36e49315_trns_h264/playlist.m3u8
+Sat Dec 21 19:50:19 CST 2024
+Sat Dec 21 19:50:40 CST 2024
+Sat Dec 21 19:52:48 CST 2024
+Sat Dec 21 19:53:20 CST 2024
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
