@@ -174,3 +174,9 @@ Mon Dec 23 06:51:13 CST 2024
 Mon Dec 23 06:53:20 CST 2024
 Mon Dec 23 06:53:50 CST 2024
 删除lovewindy https://edge1-lax.live.mmcdn.com/live-hls/amlst:lovewindy-sd-2b5b6a8d65a1e97e0ee0e3b9ddc33fd47196d8045c204767bfe1896d4b31bd50_trns_h264/playlist.m3u8
+Mon Dec 23 07:08:02 CST 2024
+Mon Dec 23 07:08:09 CST 2024
+Mon Dec 23 07:10:17 CST 2024
+Mon Dec 23 07:10:47 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8

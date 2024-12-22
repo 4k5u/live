@@ -8,3 +8,5 @@ slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 cuddles_me https://edge6-ash.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-410d67247421994996b05f96d1a05f0c41e480b2b54abaeb731acaa403996602_trns_h264/playlist.m3u8
+IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
