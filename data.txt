@@ -10,3 +10,4 @@ Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m
 cuddles_me https://edge6-ash.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-410d67247421994996b05f96d1a05f0c41e480b2b54abaeb731acaa403996602_trns_h264/playlist.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MjR19NdqZXhAHMlEoN-RUhDWOYPy7E32abxETWl3f4u7zBbKF6cPA7Swpaf1u7hpMYjKWzpHOhPmu7C82yXiImFSC4iBLaVfR3xI60vq2f12f57cF92rj79LoLqYy2Vp
