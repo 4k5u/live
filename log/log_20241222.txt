@@ -372,3 +372,9 @@ Sun Dec 22 16:30:53 CST 2024
 Sun Dec 22 16:31:24 CST 2024
 删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zhtD5RWGFSo90pCY7Qgl3JZlZzVsrPvoB9XLm7BQXBTD8bRWw12aVhFKtFEgLXtTNdGQkpI0o3bZa-EJAX30XgC6VGlNZtSSTfW27rM93zvU57w-2rQY2cysRBdQO82f
 删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+Sun Dec 22 16:43:11 CST 2024
+Sun Dec 22 16:43:24 CST 2024
+Sun Dec 22 16:45:32 CST 2024
+Sun Dec 22 16:46:03 CST 2024
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除imsocutesexy https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Jo7ZAl7lqyiK.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pvN1pBbDdscXlpSyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RjQ3NDYwRC1EQUE1LTQ0NTktQjJFOS02MEEzMkE3RDk0MTQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDg0OTEyOCwiZXhwIjoxNzM0ODQ5NzI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.v4U_4YyUtTNMOd4WiV1ZIpGeFx8vap6z5-hWrT-Sz50cGgW8OzyjwEunjJrjE-ESRJUXX_XgqQaI7Q8gfM9mR7kKKcbdRizXerZZSPTImj6q3D8eJyim69mzMf2ai_rb
