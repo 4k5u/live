@@ -292,3 +292,8 @@ Mon Dec 23 13:43:40 CST 2024
 Mon Dec 23 13:44:06 CST 2024
 添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Mon Dec 23 13:52:30 CST 2024
+Mon Dec 23 13:52:41 CST 2024
+Mon Dec 23 13:54:48 CST 2024
+Mon Dec 23 13:55:17 CST 2024
+删除ake_mi https://edge9-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-703f9a386a9cd7134df4112f95d1025498676dda7f3f054bd144845297f90a67_trns_h264/playlist.m3u8
