@@ -245,3 +245,8 @@ Mon Dec 23 11:29:01 CST 2024
 删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNEJENjJDMy0wMDE3LTQwMEUtOUI2Ri0wMEVBMkM1NjU1OUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDkwNDg3NywiZXhwIjoxNzM0OTA1NDc3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.QiPOm_GC0TbmLhTNzg96VUPZd6vnYsqJJ2EbFMR1fxXA58qJjihKwURR-DF2IJjqUqjdiKCC2eGyDR7qCZ1RhphDybAF_RDjAhCkbhIvfB7rESppwpTeHWhzJUd-j8pW
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除oki_dokie https://edge9-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1c226ee1dc5c2801e133d73e8d851cdec89d0df01e3e4f94b831f9318db64d38_trns_h264/playlist.m3u8
+Mon Dec 23 11:47:32 CST 2024
+Mon Dec 23 11:47:39 CST 2024
+Mon Dec 23 11:49:42 CST 2024
+Mon Dec 23 11:50:11 CST 2024
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
