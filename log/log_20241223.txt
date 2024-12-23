@@ -329,3 +329,8 @@ Mon Dec 23 15:27:19 CST 2024
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除icubi69 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.GUsiHfsr4rWj.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0dVc2lIZnNyNHJXaiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwQkY2REM0Ny1BREM4LTQzMzEtQTE5QS04QTZGNEI2REU0QjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDkxODg0MCwiZXhwIjoxNzM0OTE5NDQwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.jLKCTSJZvgAm41Ant6SDuZbQAr-s5B9-tTS8Bf6z_GcCBS8hW23qM92dkgw6RadL2ZYMwEd5dSyaMGqbh1y03OtvhvTqZC-dtx59YEs7_I2wh9ybEVTQsj5nGxIu4Cc0
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+Mon Dec 23 15:38:40 CST 2024
+Mon Dec 23 15:38:52 CST 2024
+Mon Dec 23 15:40:50 CST 2024
+Mon Dec 23 15:41:16 CST 2024
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
