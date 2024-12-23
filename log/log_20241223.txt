@@ -312,3 +312,11 @@ Mon Dec 23 14:48:31 CST 2024
 Mon Dec 23 14:48:44 CST 2024
 Mon Dec 23 14:50:51 CST 2024
 Mon Dec 23 14:51:22 CST 2024
+添加mode_bad https://edge9-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-a9169bcd3cfc826c576a18199e18590f586017c3020dd9a9e148d50de0891d86_trns_h264/playlist.m3u8
+Mon Dec 23 15:00:10 CST 2024
+Mon Dec 23 15:00:23 CST 2024
+Mon Dec 23 15:02:21 CST 2024
+Mon Dec 23 15:02:47 CST 2024
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
