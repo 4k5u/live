@@ -254,3 +254,13 @@ Mon Dec 23 11:58:03 CST 2024
 Mon Dec 23 11:58:10 CST 2024
 Mon Dec 23 12:00:19 CST 2024
 Mon Dec 23 12:00:49 CST 2024
+添加oki_dokie https://edge23-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cccb4a8ae12aa3e8af560618e7ca813bdd77df2e6d0994c6acafba5d879f19f3_trns_h264/playlist.m3u8
+添加ake_mi https://edge9-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-703f9a386a9cd7134df4112f95d1025498676dda7f3f054bd144845297f90a67_trns_h264/playlist.m3u8
+Mon Dec 23 12:27:15 CST 2024
+添加sksnrnrp11 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.cJT1cq2UIBfX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2NKVDFjcTJVSUJmWCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQTQzNTFCMi0wMzc1LTQ5RjctQUIyMi1GNDgyQTExMjg2RDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDkyODAzOCwiZXhwIjoxNzM0OTI4NjM4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.tyKlN3irH5EjIgIcU2C4AaHUSOl0VkjAQY6RtiZQLhno8ApS-PHeTmsba-hnxUL6JWgjevpzEEVPTUVjscCZH9mUXc24sNzDM7P8WVrVNfgtMoXRqP1VonZITPqs70DD
+Mon Dec 23 12:27:27 CST 2024
+Mon Dec 23 12:29:35 CST 2024
+Mon Dec 23 12:30:06 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除my_eyes_higher https://edge6-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-857597c0f7fdb02a06f5052e8b3c479f8c9e5ddad16d77ff655be3c92daba82e_trns_h264/playlist.m3u8
