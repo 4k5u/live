@@ -212,3 +212,11 @@ Tue Dec 24 10:45:50 CST 2024
 添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 删除cuddles_me https://edge11-mia.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-4101b3fa4dbe097613865d0f3c316884c90b8062f86fdf48d83990c8d81e3a00_trns_h264/playlist.m3u8
+Tue Dec 24 11:13:56 CST 2024
+Tue Dec 24 11:14:01 CST 2024
+Tue Dec 24 11:16:10 CST 2024
+Tue Dec 24 11:16:41 CST 2024
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除oki_dokie https://edge13-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-dce77a4fa95aed2c904be220f4798789e847016f187fc6b7abad97a091289d3c_trns_h264/playlist.m3u8
