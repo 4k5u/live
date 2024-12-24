@@ -120,3 +120,8 @@ Wed Dec 25 03:21:32 CST 2024
 删除moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ihs5BQ6EbCAl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2loczVCUTZFYkNBbCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNzMxODM0My03NkNELTRFQ0QtQjRBRS0zOUE4Mjk2ODA1MTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTA0NjAxMiwiZXhwIjoxNzM1MDQ2NjEyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gg593x4JGCH6FEa8A-CcBIaHRAX0dealgzyPQ6bceoH8x4KqVP_M0Fap6PBxVL-i79_jpVnc82XzUbXT_1nyICDeHRlDoEL4FJt3mdVckIY1bp6gOGwYfSj3IfjuMmJS
 删除gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.irLM9ksEbCGXEAPZgxiUkc_FqdtEe2kUQ5SzKo4kAHYri33bCjbn5avasR2z8TqJz4H8J9CxKX7HnaJFM15UWNGgZCGS6bZeRXQX0945O34zWR_DGoAH890a_8K_4zwp
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+Wed Dec 25 03:30:01 CST 2024
+Wed Dec 25 03:30:08 CST 2024
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Wed Dec 25 03:32:23 CST 2024
+Wed Dec 25 03:32:53 CST 2024
