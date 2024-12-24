@@ -326,3 +326,9 @@ Tue Dec 24 15:52:35 CST 2024
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ERU9bHDzOVY29hCNqcfA7tiyuQE4tnxPLKDg7pHw7Pa__SH_8-bpH_vx8xfsAT-VUldocfDomT-0VKu8VaQYxzjE2em-QZkYuAHw-Mk9AMxh3zVgrCemzidS2gxTnCsz
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Tue Dec 24 16:00:56 CST 2024
+添加sssna777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o9iClHICQg9W.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL285aUNsSElDUWc5VyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRDk3OURENy03Qjc2LTQwNjctOERDOC0xOEI0QjZCRTM1Q0IiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTAyNzI1NywiZXhwIjoxNzM1MDI3ODU3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.y-LV16iKklMxrtb2BXbsSFYf82vUELyLPlH0lBr3uXiBJCyWnZhge8004HP4kROeKAFKSFiyuNQo--yNy49g-fclsLnOJy0rMzDVsiYQA0I2KHvhf9q6hdfW5a4fHsHL
+Tue Dec 24 16:01:12 CST 2024
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.41_tUajJugtuJXXYWNyeNhtMMwPmYJgEQF0MseTDl1DGgDLGDjokVarIxM2QjlGQH2epjk0HFb7LRGqhiIG1DKhuE3sUTB0FHVt65V5uPMIWIb7gdY1z9eqyhihZdXZD
+Tue Dec 24 16:03:27 CST 2024
+Tue Dec 24 16:03:58 CST 2024
