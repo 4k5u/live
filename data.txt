@@ -6,3 +6,4 @@ lovewindy https://edge15-mia.live.mmcdn.com/live-hls/amlst:lovewindy-sd-880bde2a
 my_eyes_higher https://edge3-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-dadf2db414277306e9307bc3f6e5583df3bdb26916f5289731863b483b00dd85_trns_h264/playlist.m3u8
 Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GuBrRiIPlnakXNlWqN-wudubarJMLmNAsiFA9bvOYzxlXXKGpp93HWcz2Kcn8GNTUYGe_UCoaIRc9V78ONLifn43Tq04R3AUhUpZigaUx7555aSF2hTniXV1ZKvV90bM
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
