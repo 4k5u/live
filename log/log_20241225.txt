@@ -74,3 +74,9 @@ Wed Dec 25 01:51:16 CST 2024
 删除1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wmyPwYLjyzeJmTZhgqdAQKYjesL903XL2ONt_1U0Xag6puM1C9TWiagzD4AhcPuEDexXIUrYUMC0A1bULPF_KKHBfFe7zGvZKXtfuUO3fq3Kx0t3OclIIgaje2rqvbmJ
 删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+Wed Dec 25 01:59:25 CST 2024
+Wed Dec 25 01:59:50 CST 2024
+Wed Dec 25 02:02:01 CST 2024
+Wed Dec 25 02:02:32 CST 2024
+删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
