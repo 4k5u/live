@@ -339,3 +339,8 @@ Tue Dec 24 16:33:34 CST 2024
 添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MzUwNzEyODA3NzEsImlhdCI6MTczNTAyODA4MH0.6-9uS0U4fFzj1WFWQ8zDeTdfPaSGGgNl8kwtuyAe2_e0NkuJRBpJSombw9o7dVh64zPqMQBnPtBnoNxHYbVJb4GwXb3_37vRWj1dWoCW1-CdaLTdETrMSTghraAw6Yx8
 Tue Dec 24 16:34:08 CST 2024
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Tue Dec 24 16:46:57 CST 2024
+Tue Dec 24 16:47:10 CST 2024
+Tue Dec 24 16:49:18 CST 2024
+Tue Dec 24 16:49:50 CST 2024
+删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
