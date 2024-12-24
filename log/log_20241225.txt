@@ -138,3 +138,11 @@ Wed Dec 25 03:54:58 CST 2024
 删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KlJKKVbNRK4OifzpicRGmqTrmA34Xl0aEkiuU1MQPYFgklaeBZImz7fkKBY99g3PVkXXbTKcjr8aD-xHpZeFJcX_ookb3rdMFL9pL6JSm2onPNwbDcp--DA_10NXFBs2
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Wed Dec 25 04:21:44 CST 2024
+Wed Dec 25 04:21:49 CST 2024
+Wed Dec 25 04:23:47 CST 2024
+Wed Dec 25 04:24:14 CST 2024
+删除smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Q_Cbcd9DvfjqbEovpMqR-InEgH-mwK6Sn2ofwlPn5qpvcQOxc6M5QDFHAoYP9YPOvBP98qIMZY1-ftUPLmOJ48E6xOTEY2-7balAjGt5Ok0sohAfE3kaqkRydnOtxj5n
+删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.boortqCq3EC3vEVYkz-4m4GUUbvw2hiaqKwmE7otK6HIGmbwPYE1NKaLgT7ENbEnr4QdGlLkDV74hPui1H5bsH6qPFtY2DxFEONL4fLdHmXMl3wBGJzFjvO-V0oceege
+删除lovewindy https://edge13-atl.live.mmcdn.com/live-hls/amlst:lovewindy-sd-d64a35b9357078e8217eb8bb54393b8a8914ad2eff9ca7d3fadd82806ed81ada_trns_h264/playlist.m3u8
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
