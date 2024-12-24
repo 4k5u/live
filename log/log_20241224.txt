@@ -366,3 +366,11 @@ Tue Dec 24 17:27:26 CST 2024
 删除kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Ezju533PfTwHh2w-VprN0eqTi2TnJb9iAzn9tMbsWcBGFykmJnVieVJmyKYyLPNHLU1p427tq2qP8A5sRHkNi0mhU7fKcoZb-xXfPvLfgQyjGsb-frITfcOsO9Khvrbx
 删除mode_bad https://edge30-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-78512d50ec2b5cadd1bcd677be59bb3e3b8581478af3732046d1dc2afd313708_trns_h264/playlist.m3u8
 删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Tue Dec 24 17:40:37 CST 2024
+Tue Dec 24 17:40:58 CST 2024
+Tue Dec 24 17:42:56 CST 2024
+Tue Dec 24 17:43:24 CST 2024
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
