@@ -64,3 +64,4 @@ akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 -Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
+-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
