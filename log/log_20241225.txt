@@ -153,3 +153,11 @@ Wed Dec 25 04:35:40 CST 2024
 Wed Dec 25 04:36:11 CST 2024
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除A_sexydoll22 https://edge-hls.doppiocdn.live/hls/137238120/master/137238120_auto.m3u8
+添加lovewindy https://edge15-mia.live.mmcdn.com/live-hls/amlst:lovewindy-sd-880bde2a10051aa8d1530620a2bfe2eb10aa7d53edb1477f7da3518bcd1888ff_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge3-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-dadf2db414277306e9307bc3f6e5583df3bdb26916f5289731863b483b00dd85_trns_h264/playlist.m3u8
+Wed Dec 25 04:47:56 CST 2024
+Wed Dec 25 04:48:01 CST 2024
+Wed Dec 25 04:50:09 CST 2024
+Wed Dec 25 04:50:39 CST 2024
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+删除dign1461 ?aid=null
