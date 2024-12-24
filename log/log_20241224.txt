@@ -248,3 +248,11 @@ Tue Dec 24 12:47:25 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除ad0res https://edge11-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-676d06f94f06f348d6b299856adaa30acd8675799df3f227434cbcfb1783b665_trns_h264/playlist.m3u8
+添加ake_mi https://edge22-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-ab6a2e8aa6545cd51ce59997be502a68bc82928811debfa181fa30064759dc28_trns_h264/playlist.m3u8
+Tue Dec 24 12:58:54 CST 2024
+Tue Dec 24 12:58:59 CST 2024
+Tue Dec 24 13:01:06 CST 2024
+Tue Dec 24 13:01:36 CST 2024
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNjU2NkVBQS00MEU5LTQwMjgtQTI3Ri1BRDg2MENBRTlCMEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDk1NDE5MywiZXhwIjoxNzM0OTU0NzkzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.REpIZraxz9AavvVwZWzOts1EXHenRGa5gYBQS3aW6O-PuX3ucbdOrddZqyMb9CLnEbAG_Tc6Hn1wS1hgf8Svc731iunq6BbWemAIb8hBeYIuvNixfVfWkIFTpq854ubV
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
