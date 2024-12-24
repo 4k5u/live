@@ -374,3 +374,9 @@ Tue Dec 24 17:43:24 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加ad0res https://edge6-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-b5d4d20d48d857ae3304951833857e39364719448027bc876f9dfd3b585acf71_trns_h264/playlist.m3u8
+Tue Dec 24 17:51:03 CST 2024
+Tue Dec 24 17:51:24 CST 2024
+Tue Dec 24 17:53:23 CST 2024
+Tue Dec 24 17:53:51 CST 2024
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
