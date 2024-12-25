@@ -158,3 +158,9 @@ Thu Dec 26 05:01:31 CST 2024
 Thu Dec 26 05:01:58 CST 2024
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Thu Dec 26 05:23:45 CST 2024
+Thu Dec 26 05:23:52 CST 2024
+Thu Dec 26 05:25:50 CST 2024
+Thu Dec 26 05:26:16 CST 2024
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除oki_dokie https://edge23-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cc092f7d331ae15419ef409a012edbb06809e6f06ac6abdd21b1e17a046d190b_trns_h264/playlist.m3u8
