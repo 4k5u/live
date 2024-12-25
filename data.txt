@@ -8,7 +8,6 @@ in0410 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.NDGWilrZ7OB0.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9OREdXaWxyWjdPQjAiLCJleHAiOjE3MzUxODUyMzY3MTcsImlhdCI6MTczNTE0MjAzNn0.LnNPLq2ZvAAdl43JVfQtRLcr0aqUnnhW_G496DF93guPPmSnOSWoVsol07UQTkqNo2xfaRfFdi24C35yPybwdC-vStSdYurwSamNFSmWLXZcKaq4OUK3z2cxgSc7yzjm
-oki_dokie https://edge1-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-293837e6f71021dbd00d765fcdf439596719a463eb12595e1b228cfdc3943b8b_trns_h264/playlist.m3u8
 JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 kiyoko_rin https://edge4-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-4ecef78b203bddf10e3a12a9e015ab44fa162fbd1f6b2c6322c6d10d93193744_trns_h264/playlist.m3u8
