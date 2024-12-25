@@ -420,3 +420,12 @@ Wed Dec 25 18:05:04 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+添加iminako https://edge25-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-32e3a902b74a5bda3eea3e9bc9b42a692778e504219d47cef201ecca9bfd26a1_trns_h264/playlist.m3u8
+Wed Dec 25 18:28:00 CST 2024
+Wed Dec 25 18:28:21 CST 2024
+Wed Dec 25 18:30:31 CST 2024
+Wed Dec 25 18:31:02 CST 2024
+添加YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
