@@ -12,3 +12,4 @@ morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3
 oki_dokie https://edge23-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cc092f7d331ae15419ef409a012edbb06809e6f06ac6abdd21b1e17a046d190b_trns_h264/playlist.m3u8
 lovewindy https://edge9-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-f478cedc40e257889c488a70ff19a1bcb4124a3e53514d81c3ac8534c549ef8e_trns_h264/playlist.m3u8
 hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3Q1fGgBcvUJaKN6AZXCvbHMeIRzWAsKYv9jOrfPQvbXQIYFspkOhcYjS-wtZqGFS0HGoit29ze3j7HdwTmFlrrWUxtmUCtIote_-mEXoKmjYlJmF5mrLscpzIDelAV4i
+my_eyes_higher https://edge10-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3302f94732e63d94de57143607843797c854a61f2b581e2d3ea270f7496b5ea9_trns_h264/playlist.m3u8
