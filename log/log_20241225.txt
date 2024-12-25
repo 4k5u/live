@@ -222,3 +222,11 @@ Wed Dec 25 07:51:01 CST 2024
 Wed Dec 25 07:53:11 CST 2024
 Wed Dec 25 07:53:42 CST 2024
 删除jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.tU1TfCdsRESz.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC90VTFUZkNkc1JFU3oiLCJleHAiOjE3MzUwODg3OTA2NTEsImlhdCI6MTczNTA0NTU5MH0.ohocIWy9ByqKGvkSTNLLzoqwOR7iMvf7pRDhsv_LDso4uSfo2a6OKuNyVwU-OC1qroROpImfHFSBnd-JL9NTk7wubXq5gPQncNQixnl0Yf2WXPgM6YweoeCnjfS-UA4D
+Wed Dec 25 08:36:11 CST 2024
+添加nemu00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2PAhGvVvczmJ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJQQWhHdlZ2Y3ptSiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5QUY0RkIwOC1GQUVGLTQzRDYtOThENS0yOTFFN0E0QTAwRTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTA4Njk3MywiZXhwIjoxNzM1MDg3NTczLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.rrwRkHhI0nptFqxWOMw3GFmdtuzh5K9551hoxocNpQwJysbioWPpWdSXZeIH-hlslC1pVf5bY4Lb-42ELqlC1E8MVYkDwY6Ut_yqyJXLnD_iDJ1WB6txDca9M7jq02Tc
+Wed Dec 25 08:36:19 CST 2024
+Wed Dec 25 08:38:26 CST 2024
+Wed Dec 25 08:38:55 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除lovewindy https://edge15-mia.live.mmcdn.com/live-hls/amlst:lovewindy-sd-880bde2a10051aa8d1530620a2bfe2eb10aa7d53edb1477f7da3518bcd1888ff_trns_h264/playlist.m3u8
