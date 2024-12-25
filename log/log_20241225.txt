@@ -288,3 +288,9 @@ Wed Dec 25 12:44:36 CST 2024
 添加yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1s8XuL-K1r_Col4tpk0LJE7-rMnR2gpN6Q5w0PTzERnMgS5ul9k6Ac2PRbhR-N1XvJ4hXvXv0SysPVqJ6NtRD8Dsyce0Nd1qeECS20CtdjDfCflRsFzt-vH2H-t3QNKh
 Wed Dec 25 12:46:52 CST 2024
 Wed Dec 25 12:47:23 CST 2024
+Wed Dec 25 12:58:13 CST 2024
+Wed Dec 25 12:58:24 CST 2024
+添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3hxSLGeEANKpn4ct_ECCC_UxEsaLEob5uoLUiwUGWm70oowsxEzrwgafxm9ttjOM__FCuA7JlvTmQY06KoriVMlS0_tDF0OcPFuk1ogQ8xK2HHWjTVu_BZXcEwdl5GJc
+Wed Dec 25 13:00:39 CST 2024
+Wed Dec 25 13:01:09 CST 2024
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
