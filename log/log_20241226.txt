@@ -102,3 +102,9 @@ Thu Dec 26 02:50:57 CST 2024
 Thu Dec 26 02:51:27 CST 2024
 删除purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.hmoAcnGrNKFubchfB3YuoDHLExgJsqeWqe0K8-4wYP8qx0xWRgHT7zmLhcgZkANjSdn61iN7kV45a-iBtIZZOCAblFDvk1skkK5e1pYv8MpF-432XidCRaeQazos0_rH
 删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.CsT_BntFy0rBbcrZrah7NAMvwgtm-XjwAJgln0TEVyRyeQpq0_OHej3Iue_jkXsG2yGHafvRi-N0APf161rWt6gMz8cVOFb4wY3tsivLqBXBTW98FNd0pslsiqb36U_A
+Thu Dec 26 03:00:03 CST 2024
+Thu Dec 26 03:00:18 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.LxTwnQOki_r1JfQ6P2rbQM8hFYAA5YvoAjLCj6KhdzPxwwx43VY20c4wyac0HVSm3N-6oc7qgHGrBi0JwHUxFyC04GnyF_N08IPeUaTbgFnoa04j5C3yGD6pdWCyWPYi
+Thu Dec 26 03:02:21 CST 2024
+Thu Dec 26 03:02:48 CST 2024
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
