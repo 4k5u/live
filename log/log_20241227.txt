@@ -33,3 +33,9 @@ Fri Dec 27 00:48:22 CST 2024
 Fri Dec 27 00:48:54 CST 2024
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Fri Dec 27 00:58:50 CST 2024
+Fri Dec 27 00:59:19 CST 2024
+Fri Dec 27 01:01:17 CST 2024
+Fri Dec 27 01:01:45 CST 2024
+删除172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
