@@ -14,3 +14,4 @@ leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playl
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
