@@ -389,3 +389,10 @@ Thu Dec 26 16:50:00 CST 2024
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除ake_mi https://edge15-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-72afedcbcdbb1ef7f475671fc6290e86fe88dbc2c032963728c75bfbd11c84bb_trns_h264/playlist.m3u8
+Thu Dec 26 16:58:38 CST 2024
+Thu Dec 26 16:58:47 CST 2024
+Thu Dec 26 17:00:56 CST 2024
+Thu Dec 26 17:01:26 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
