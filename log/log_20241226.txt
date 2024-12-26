@@ -350,3 +350,11 @@ Thu Dec 26 15:23:58 CST 2024
 Thu Dec 26 15:25:56 CST 2024
 Thu Dec 26 15:26:23 CST 2024
 添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+添加iminako https://edge7-aus.live.mmcdn.com/live-hls/amlst:iminako-sd-40e27f3a1ef8ed356867ed5a22d80aa0a4025949697db10b74d8de22ee923cc1_trns_h264/playlist.m3u8
+添加sexygamesx https://edge6-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-5215c29a033d1a6a1576e2e217c963fa3c2df91f433b552c1d5ffa759bcb2eb2_trns_h264/playlist.m3u8
+Thu Dec 26 15:38:59 CST 2024
+Thu Dec 26 15:39:10 CST 2024
+Thu Dec 26 15:41:10 CST 2024
+Thu Dec 26 15:41:37 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
