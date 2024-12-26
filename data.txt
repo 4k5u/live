@@ -7,3 +7,4 @@ ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 kiyoko_rin https://edge15-ash.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-636ca7c419080080847a2bc29eaae3a65db529a55742d7deb526052b035f2d4a_trns_h264/playlist.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
