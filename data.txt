@@ -19,3 +19,4 @@ iminako https://edge7-aus.live.mmcdn.com/live-hls/amlst:iminako-sd-40e27f3a1ef8e
 sexygamesx https://edge6-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-5215c29a033d1a6a1576e2e217c963fa3c2df91f433b552c1d5ffa759bcb2eb2_trns_h264/playlist.m3u8
 -ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 -ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
