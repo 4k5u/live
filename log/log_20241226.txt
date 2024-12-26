@@ -443,3 +443,9 @@ Thu Dec 26 18:36:32 CST 2024
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除iminako https://edge7-aus.live.mmcdn.com/live-hls/amlst:iminako-sd-40e27f3a1ef8ed356867ed5a22d80aa0a4025949697db10b74d8de22ee923cc1_trns_h264/playlist.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Thu Dec 26 18:48:04 CST 2024
+Thu Dec 26 18:48:23 CST 2024
+Thu Dec 26 18:50:31 CST 2024
+Thu Dec 26 18:51:01 CST 2024
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
