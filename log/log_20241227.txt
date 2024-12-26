@@ -102,3 +102,8 @@ Fri Dec 27 03:22:20 CST 2024
 Fri Dec 27 03:22:51 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+Fri Dec 27 03:32:39 CST 2024
+Fri Dec 27 03:32:44 CST 2024
+Fri Dec 27 03:34:40 CST 2024
+Fri Dec 27 03:35:08 CST 2024
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
