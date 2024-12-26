@@ -265,3 +265,10 @@ Thu Dec 26 11:42:25 CST 2024
 删除kiyoko_rin https://edge4-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-4ecef78b203bddf10e3a12a9e015ab44fa162fbd1f6b2c6322c6d10d93193744_trns_h264/playlist.m3u8
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RkRDQjg1OS1CMzRDLTRBOUMtOTk3MS04MDY1QTBDNzAzNDUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTE3Nzg2NCwiZXhwIjoxNzM1MTc4NDY0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.e2tLyupF2Yx8snovM3uJfsllqrPDeaZqrvz1NSlJHG8vIEGeUErx6hX1djlaGSOMKKlrfY9UB1Xk__JKd3l0eM7j5JJPKe7Qcgd44SwMYgskD85_51SJtzrdnKfYTJc1
+Thu Dec 26 11:50:08 CST 2024
+Thu Dec 26 11:50:17 CST 2024
+Thu Dec 26 11:52:27 CST 2024
+Thu Dec 26 11:52:57 CST 2024
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
