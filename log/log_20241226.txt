@@ -358,3 +358,9 @@ Thu Dec 26 15:41:10 CST 2024
 Thu Dec 26 15:41:37 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Thu Dec 26 15:50:08 CST 2024
+Thu Dec 26 15:50:19 CST 2024
+Thu Dec 26 15:52:30 CST 2024
+Thu Dec 26 15:53:01 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
