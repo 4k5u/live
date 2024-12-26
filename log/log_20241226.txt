@@ -396,3 +396,14 @@ Thu Dec 26 17:01:26 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Thu Dec 26 17:24:34 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCODM1NDA1Ny1ERTVGLTQ0NzktOTVDNS1BRjY5OUFBNjgxOTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTIwNTA3OSwiZXhwIjoxNzM1MjA1Njc5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.NNsctmU9LLAF_VclFOmva9l_6oEEI1BHZwqbk4WJMKoe6bLB9gWLCTN1DThxR81K81Q64QhARsQeaFp4zVd2PDKWCGlxBAVFLUBSnbldLmIUj5ECyeO_viQFy4eokjqQ
+Thu Dec 26 17:24:46 CST 2024
+Thu Dec 26 17:26:53 CST 2024
+添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MzUyNDcxMzIzMzgsImlhdCI6MTczNTIwMzkzMn0.0OprwN-ohZ_Ez_mbAOruyiGa-Vnp0WcH2c3gYbpt0P66HelfvHb3Gwu-3ovJMiEt5UBxQG7CzHvcYrj4Q9KII247Byem4fMOZqBSfbkb4OQUnasMAzOL0kQkZtDCjn1l
+Thu Dec 26 17:27:33 CST 2024
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
