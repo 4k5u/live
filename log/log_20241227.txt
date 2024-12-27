@@ -284,3 +284,8 @@ Fri Dec 27 13:41:15 CST 2024
 Fri Dec 27 13:43:11 CST 2024
 Fri Dec 27 13:43:38 CST 2024
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Fri Dec 27 13:52:02 CST 2024
+添加flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JkgGs0DUSaAA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0prZ0dzMERVU2FBQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBQTk1NDU1Ny0xMDQ5LTQyRTktOUFGNC04NTYwQ0I0OEJFM0QiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTI3ODcyMiwiZXhwIjoxNzM1Mjc5MzIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.xk3zWLUGwmpWWuylPnFDjJ2koIp2XneNMU-Pi-bPC4woXzP3tre4gNoKccs4nWbD2ZmIEBvGX7eEza8gZ_XKgL3VOZ-7UU73f7QHOlylj0oZQxHg2Vcq_B5wPgKczQva
+Fri Dec 27 13:52:14 CST 2024
+Fri Dec 27 13:54:22 CST 2024
+Fri Dec 27 13:54:53 CST 2024
