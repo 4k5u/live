@@ -50,3 +50,4 @@ imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 -ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8

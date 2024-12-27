@@ -528,3 +528,8 @@ Fri Dec 27 21:45:20 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.XcURnry5TxgmTBS8Lngbcnx1EVseqwuFbA7T-t4IM6vkkNzGphPnRKCAKGQv1428H0LPaBKO6vvVgRLFtFUlQYbIksdlfuiETTylCTvu-Q8slE4d-LSOGzJjpIANDqvw
+Fri Dec 27 21:52:46 CST 2024
+Fri Dec 27 21:53:29 CST 2024
+Fri Dec 27 21:55:37 CST 2024
+Fri Dec 27 21:56:08 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
