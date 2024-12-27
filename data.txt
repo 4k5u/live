@@ -5,5 +5,4 @@ kiyoko_rin https://edge15-ash.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-3ef81a
 jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.NDGWilrZ7OB0.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9OREdXaWxyWjdPQjAiLCJleHAiOjE3MzUzNTkzMjk5MTAsImlhdCI6MTczNTMxNjEyOX0.33RrZ9v053SFOSlG7PIQIEP24cBUUun_6Fb2ppQ0uW7-EI0PuUkIsaqrL-KZwFnmk03zmRC6ZMOZkH8srSjcVQxxuOyb0cj4-kfJcA_NJOvTWjc6v_obvsqj5hotFAHT
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 sexygamesx https://edge4-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-4ebef8bef5521b84e65b87176cfa2e23f2f3842768a7f18d751444bc6dfbf911_trns_h264/playlist.m3u8
-Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 my_eyes_higher https://edge3-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d9f67412cec9347503094f48e3801d4e10aff768e0a8527cad1199224992f68f_trns_h264/playlist.m3u8
