@@ -434,3 +434,11 @@ Fri Dec 27 18:45:32 CST 2024
 删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除oki_dokie https://edge14-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7bc766047a0460d51d698b33962d8642ca836b9a48f3d28b8ebc8c6861612160_trns_h264/playlist.m3u8
+Fri Dec 27 18:58:49 CST 2024
+添加banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.j38wUMvWE4bp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ozOHdVTXZXRTRicCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNkMzNkQ1Ni0wODlBLTRERDMtODVEMy00RUY0NTBBNjM2RDgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTI5NzE0MiwiZXhwIjoxNzM1Mjk3NzQyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.63UeEdfq1os9xT3kna_PgvChfeauCZ905GaXXcdW9B2RMBKH8vTz2s3TtX6PNKBw1qhDmsB_047uA1HfIeZeDXEUV5nQofrDOd6-kOO_KzncmqxstikacJCtNNXp-GWk
+Fri Dec 27 18:59:10 CST 2024
+Fri Dec 27 19:01:06 CST 2024
+Fri Dec 27 19:01:33 CST 2024
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除iminako https://edge4-mia.live.mmcdn.com/live-hls/amlst:iminako-sd-4663aa2b2a7eb208e96db96c196408a9064f31542c508db416ca3f6355f3706b_trns_h264/playlist.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
