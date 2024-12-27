@@ -301,3 +301,13 @@ Fri Dec 27 14:30:52 CST 2024
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Hz_Fx-TfIyB7x5k1RoB7SDyGRuqipMqFBrdrQJBBY7BTUfmfnUcl-tOE02pHUUo8VBnVQAQeZUgZgQe52wI3P9tw14oKtsq5qFXgKU8Y_qFlK3vazBIUG023nWpaz0w9
+添加foxylovesyou https://edge12-chi.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-817963419a4f760c10515b77d140a327a1f4dbc32983885fed50984d523047c6_trns_h264/playlist.m3u8
+Fri Dec 27 14:46:22 CST 2024
+Fri Dec 27 14:46:35 CST 2024
+Fri Dec 27 14:48:43 CST 2024
+Fri Dec 27 14:49:13 CST 2024
+添加Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除intim_mate https://edge28-atl.live.mmcdn.com/live-hls/amlst:intim_mate-sd-b53e1d3d3a77bd2942fdf7383668695e8681834b0e9ce64ea27bcf3f201c029f_trns_h264/playlist.m3u8
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
