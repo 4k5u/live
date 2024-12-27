@@ -458,3 +458,13 @@ Fri Dec 27 19:31:24 CST 2024
 添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.CAndowa5uclvo_uYiF2O4vwa0TT20AmeyPEsbBP9rH_XKOfef5y9epEzmJDsrxFItJPbee53FBz6ugorTVjQwY0AqOPoHr8qPm4yyCKqTJQ1DntxvRchwlXSNirphfPS
 Fri Dec 27 19:33:39 CST 2024
 Fri Dec 27 19:34:09 CST 2024
+Fri Dec 27 19:41:37 CST 2024
+Fri Dec 27 19:42:04 CST 2024
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Fri Dec 27 19:44:25 CST 2024
+Fri Dec 27 19:44:55 CST 2024
+删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gT7CNRZNB15h-3l3YMFQW9STrt9tVMTPxntm-8BF9q7oUpwD9CwAvZF-gYfplESaVJDe2d2Z3PY8YcrySQXIGqPbuXUN27M0sO1jqizlFS-imf-ke0a6b90F_2RW9_O_
