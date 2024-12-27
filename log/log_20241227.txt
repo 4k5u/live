@@ -468,3 +468,12 @@ Fri Dec 27 19:44:55 CST 2024
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gT7CNRZNB15h-3l3YMFQW9STrt9tVMTPxntm-8BF9q7oUpwD9CwAvZF-gYfplESaVJDe2d2Z3PY8YcrySQXIGqPbuXUN27M0sO1jqizlFS-imf-ke0a6b90F_2RW9_O_
+添加oki_dokie https://edge25-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7358f7bf8a44065e06bc6d10cd444868617f339871875b0c4973febf6bf0ed63_trns_h264/playlist.m3u8
+Fri Dec 27 19:53:08 CST 2024
+Fri Dec 27 19:53:35 CST 2024
+添加yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.XcURnry5TxgmTBS8Lngbcnx1EVseqwuFbA7T-t4IM6vkkNzGphPnRKCAKGQv1428H0LPaBKO6vvVgRLFtFUlQYbIksdlfuiETTylCTvu-Q8slE4d-LSOGzJjpIANDqvw
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Fri Dec 27 19:55:54 CST 2024
+Fri Dec 27 19:56:25 CST 2024
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.PY9Os-e-FO6aMOGaQf-H21ztBvYGgJh9ecTkhuOnIouiFPzrf97rZo0ztt2v_1sXxAKk1084kj76HZwulNsVPaaSWTFkJ-RyB1wBNSeo1E6SQoj4Id0vu7UuJqVOH6Kj
