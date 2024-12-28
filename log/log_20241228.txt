@@ -223,3 +223,10 @@ Sat Dec 28 09:52:55 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.NDGWilrZ7OB0.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9OREdXaWxyWjdPQjAiLCJleHAiOjE3MzUzNTkzMjk5MTAsImlhdCI6MTczNTMxNjEyOX0.33RrZ9v053SFOSlG7PIQIEP24cBUUun_6Fb2ppQ0uW7-EI0PuUkIsaqrL-KZwFnmk03zmRC6ZMOZkH8srSjcVQxxuOyb0cj4-kfJcA_NJOvTWjc6v_obvsqj5hotFAHT
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+Sat Dec 28 10:39:40 CST 2024
+添加hotse777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.u0WI3hwIwXaD.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3UwV0kzaHdJd1hhRCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNEREMTcxRS0wNTYzLTQxMjYtQjUxNS0zQTQyRTk0MTRDNUYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTM1MzU4NSwiZXhwIjoxNzM1MzU0MTg1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.w_8EHsL2buzylIJhKx5Ic6ygNmxub41KkPQshHeb37Wg1vmLCAowumh-XMkofnoNykXFRfITszwkdBUxKZ9oVFdHvi63wkWTQ4N5y-xi-KIeLJyFyiRhbUzSbVbKhQpg
+Sat Dec 28 10:39:50 CST 2024
+Sat Dec 28 10:41:58 CST 2024
+Sat Dec 28 10:42:28 CST 2024
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
