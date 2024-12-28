@@ -184,3 +184,11 @@ Sun Dec 29 06:24:31 CST 2024
 Sun Dec 29 06:26:29 CST 2024
 Sun Dec 29 06:26:56 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加oki_dokie https://edge2-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e82da20305cc9c3f3bf624d5ba34e6c8150dd0db2fdf1817e2543d04bb485b1b_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge29-phx.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7a668d7be591099b6bd7ffe675b0e5b98f9dd1ecf7153c96dfa817b6efc203c0_trns_h264/playlist.m3u8
+Sun Dec 29 06:40:14 CST 2024
+Sun Dec 29 06:40:21 CST 2024
+Sun Dec 29 06:42:19 CST 2024
+Sun Dec 29 06:42:45 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JkgGs0DUSaAA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0prZ0dzMERVU2FBQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwNzNGRDFDQy02MUQ5LTRBRkEtQTdBMS1BNThERUM4MjZBOTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTM2NzUwOSwiZXhwIjoxNzM1MzY4MTA5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.66r0z1XibnqSWz7XFER0osKBum6TXltC4tEfYhGExpagtts2g3QfGExSdZdgR1PrYBMjj2eT51Kp5Gbrd9EEXc_jUPf2JE0T21XVwBSw6pXIYQFfw0NTC0WbzJQK4AVI
