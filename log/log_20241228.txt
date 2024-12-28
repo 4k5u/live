@@ -379,3 +379,12 @@ Sat Dec 28 16:02:41 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xqD-gOeu8wpv4ftq-Umdg_rpsGHg07GglZpGIIS3k6zh7-NKSJ1WwLxA2Wj25EFxqpPTwO6lYkCj1S1PoToHNvW9j-OXaS-okCzvpyi7NoFnrdSYTuPvLX38_s1KztmI
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+Sat Dec 28 16:28:26 CST 2024
+添加akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1RThFNkRFNy0yMkZGLTQxNDMtQjFENS03NDBDN0FCMjE5QkIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTM3NDUxMSwiZXhwIjoxNzM1Mzc1MTExLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.mkylXRsLjiUG0MyCLHr-ialSzS5q9D_Oms1Wg-VuvDDVYrEhxmmvs8LkggkEgQJNdXZ4r5J0qyaubmrwc4zFS1Qc-p1YiS04JOi2xxk4yyZR2y7QLAYIkkxOfXZOMtLP
+Sat Dec 28 16:28:46 CST 2024
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5o1SA0OoD3BwmGwebgEdEovvIj_GNHBxIFzj0XfVxgoAUGsOJsCrtZVCXOKNJ7Qnc6VLPFXbatMp4wwOxRJTtqDt4d2s-2f2YFFAHQP_28fyjsCtAE-TER4PPe2AX6KM
+Sat Dec 28 16:31:00 CST 2024
+Sat Dec 28 16:31:30 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
