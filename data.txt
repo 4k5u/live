@@ -16,3 +16,6 @@ TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u
 oki_dokie https://edge2-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e82da20305cc9c3f3bf624d5ba34e6c8150dd0db2fdf1817e2543d04bb485b1b_trns_h264/playlist.m3u8
 mazzanti_ https://edge29-phx.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7a668d7be591099b6bd7ffe675b0e5b98f9dd1ecf7153c96dfa817b6efc203c0_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+sexygamesx https://edge17-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-51a398d7d45ea4788d105596d39093c9ab0e7208ef21afd45ec72d8284624493_trns_h264/playlist.m3u8
+YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
