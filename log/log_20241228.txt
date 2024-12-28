@@ -304,3 +304,10 @@ Sat Dec 28 13:51:09 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除cuddles_me https://edge1-atl.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-b16b75f947aa9ba5da3d3361a9e5f7ab93607d85bb80ef81b6424f5b7808d243_trns_h264/playlist.m3u8
+Sat Dec 28 13:59:33 CST 2024
+Sat Dec 28 13:59:44 CST 2024
+Sat Dec 28 14:01:42 CST 2024
+Sat Dec 28 14:02:09 CST 2024
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
