@@ -134,3 +134,8 @@ Sun Dec 29 03:53:26 CST 2024
 Sun Dec 29 03:54:07 CST 2024
 删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBOTMxMTIwNy1ERDBBLTRDMDUtQkFCNC0wQUEzNzJDMEQ5NTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTM5NzUyNCwiZXhwIjoxNzM1Mzk4MTI0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Lb3Bk1LZ006oFb7rscnndHQJS8Rb_cdHAOB2Yf1WBVG536d_3W9g1v32_8ahpZ4YPnDpPoQ1Qmfl8DgQoE1dL3ucw15T2wbBG3_DLxP2XVpjeXCQ4m_NGfILzFFKTwr6
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Sun Dec 29 04:08:52 CST 2024
+Sun Dec 29 04:09:07 CST 2024
+Sun Dec 29 04:11:16 CST 2024
+Sun Dec 29 04:11:47 CST 2024
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
