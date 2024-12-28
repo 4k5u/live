@@ -9,6 +9,6 @@ oki_dokie https://edge3-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cf480798d
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin https://edge13-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-2a077727ff99a623ad03d6c23e61cda25afd167d1da83de73f7b0cc78c3f19ea_trns_h264/playlist.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
-TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.NDGWilrZ7OB0.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9OREdXaWxyWjdPQjAiLCJleHAiOjE3MzU0NTg3NzQ4NzIsImlhdCI6MTczNTQxNTU3NH0.pkM_tCdB5zvRLlR_KY2p1z29sACgyzScFwFnliDqIQpfwluQSYu7VwTxcpv10B6QNHPD4DsPEiwcqXltIrvyK0r-PVetfDP7GmYEx0cZ11VvYGghq6H8VsFhIMw-j0yt
 lovewindy https://edge4-lax.live.mmcdn.com/live-hls/amlst:lovewindy-sd-1fa411eb096c07df829f0825e6fd1799a6f86f5370338579f2b945b0dcf66d37_trns_h264/playlist.m3u8
+my_eyes_higher https://edge12-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e8ffdcf08ddd11493e4e7b3bf77321883d47b722cb8a01fd099e4fc886a96cd7_trns_h264/playlist.m3u8
