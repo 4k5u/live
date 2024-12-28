@@ -561,3 +561,9 @@ Sat Dec 28 21:43:27 CST 2024
 Sat Dec 28 21:43:54 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Opja2RyZitnaFL6gEXEH48kSUxCr807nlPhwDC9ql9Vh5EYDcxsBTqJPGUtgwDu-nIaibxRj3gWLRstI2ai3pxlntzijLv7u0sK4IHG6dK4qNTyAWehBTLPOR79YMUnk
+Sat Dec 28 21:51:39 CST 2024
+Sat Dec 28 21:52:18 CST 2024
+添加big541 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3j7-DFueg2bMT8pdpwO_kEhXDyczQTXnXusfITbq1ljry7qw5Ntw8QfW9OjpLknI9as6GVzPwGc14QL5zoce_U0Y-S-QIUxAMA3JSSUDmnWWow27nXd5p3NxzFyDLDi_
+Sat Dec 28 21:54:35 CST 2024
+Sat Dec 28 21:55:06 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
