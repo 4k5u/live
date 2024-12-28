@@ -421,3 +421,10 @@ Sat Dec 28 17:37:02 CST 2024
 Sat Dec 28 17:37:32 CST 2024
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加oki_dokie https://edge4-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-48dde1bdfa82d21e3ccb669649afbf606490b3b103089ed156b947c77ca8744c_trns_h264/playlist.m3u8
+Sat Dec 28 17:48:08 CST 2024
+Sat Dec 28 17:48:31 CST 2024
+Sat Dec 28 17:50:41 CST 2024
+Sat Dec 28 17:51:11 CST 2024
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除leelate ?aid=.A32.7bbT56vyHM9fKZk.k14Ac0m41BJFJCqO1rsGonr8RS4t8x66JqupWAz6w4tmBFhG3wtBgF8NnBnJFosM-rShPyhNvf3hWzqkD4PNpOcBKFaHCS-K6HNSF3MA04pwWcesEUaPARbuzSNt39Kc
