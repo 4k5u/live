@@ -567,3 +567,10 @@ Sat Dec 28 21:52:18 CST 2024
 Sat Dec 28 21:54:35 CST 2024
 Sat Dec 28 21:55:06 CST 2024
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+Sat Dec 28 22:08:20 CST 2024
+添加eli05021212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.N95Vb4kgMeCB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL045NVZiNGtnTWVDQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1Njg2MTA2MC0zMEZGLTREMEMtODY0Mi1BQTI4NDQzRjYwRTQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTM5NDkyMywiZXhwIjoxNzM1Mzk1NTIzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.NXl9CRk1o_7Mem2FGq_xS097088VcjFuMZVcQ7FEr2kkkYi_wjr3KS_GZYEMbkoZoIV4m9_tn6wLEOZD9xbWAQMWXoXhXcQA5viCHFNsVh_JmUf_nnshx4f8jX2kk2FI
+Sat Dec 28 22:09:02 CST 2024
+Sat Dec 28 22:11:06 CST 2024
+Sat Dec 28 22:11:36 CST 2024
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
