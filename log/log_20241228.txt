@@ -281,3 +281,10 @@ Sat Dec 28 13:00:30 CST 2024
 Sat Dec 28 13:00:58 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除_meganmeow_ https://edge20-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-c00ecb0daae1f26fc3fe5646aca3e20ea29f435b2920e7d0470a6efad535aa2c_trns_h264/playlist.m3u8
+添加cuddles_me https://edge1-atl.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-b16b75f947aa9ba5da3d3361a9e5f7ab93607d85bb80ef81b6424f5b7808d243_trns_h264/playlist.m3u8
+Sat Dec 28 13:21:29 CST 2024
+Sat Dec 28 13:21:38 CST 2024
+Sat Dec 28 13:23:45 CST 2024
+Sat Dec 28 13:24:17 CST 2024
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
