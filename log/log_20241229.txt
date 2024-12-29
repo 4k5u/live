@@ -311,3 +311,8 @@ Sun Dec 29 13:38:50 CST 2024
 Sun Dec 29 13:39:18 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Sun Dec 29 13:48:15 CST 2024
+Sun Dec 29 13:48:22 CST 2024
+Sun Dec 29 13:50:20 CST 2024
+Sun Dec 29 13:50:48 CST 2024
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
