@@ -221,3 +221,22 @@ Sun Dec 29 08:02:14 CST 2024
 添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.RbRBg7r2O1FPT8Jo9gwmuTD55yC5MpXglhEL1_fHOgJX1-b5nNC37J6ACI1p5Ck9xkBcLUtYzedIx1dWMGr4bcMmynkOCu4NbcAj0W2G7vjxZ2aW_8qctZ2a6LjCfG0u
 Sun Dec 29 08:04:27 CST 2024
 Sun Dec 29 08:04:53 CST 2024
+Sun Dec 29 10:03:20 CST 2024
+Sun Dec 29 10:03:25 CST 2024
+Sun Dec 29 10:05:24 CST 2024
+Sun Dec 29 10:05:52 CST 2024
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除sonming52 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.D6e6vk06XVmc.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Q2ZTZ2azA2WFZtYyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRkFDMkQ4My0yRkIxLTRGNDMtQjUzNy1FNDFFRUREQjA2NzAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTM5MDMxMywiZXhwIjoxNzM1MzkwOTEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.MVp1wHbltfa-6lRtoaEdN6aKkf-pXUvOrfujy3_jbNsiqiviSpmFhWOnMA2UkEQrYR7Rgv_gG-pRiuFYB8MYuNxB-HjRgK-Ro-gXvod7OYuGtfan_wRHRyrzjSGz8eJ8
+删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.l11undiyyBYqPy5jWXwuvQLyZYtYQnU1qmhm_VwFfix8fFjAl_bg-GbKH8oyNJ1hADCtsLbf_wF3E_zf8hBL-mY9FXu9qygZ9AIdyD9IUcmoqfX0eU7BDXNKHYAKFUDU
+删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7BmZzCVfNC6FCdTeTW01GgzCi_cWnyAqVP1Qra-L3gcHFufH_rKkkXAoNUonKT8A7506imv7M2-J_jmKObABh9-qx-REVBrr8R9Zn0BeVH_gG6FpdgGD4VvVxBAgwFGE
+删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除kiyoko_rin https://edge13-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-2a077727ff99a623ad03d6c23e61cda25afd167d1da83de73f7b0cc78c3f19ea_trns_h264/playlist.m3u8
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除lovewindy https://edge4-lax.live.mmcdn.com/live-hls/amlst:lovewindy-sd-1fa411eb096c07df829f0825e6fd1799a6f86f5370338579f2b945b0dcf66d37_trns_h264/playlist.m3u8
+删除oki_dokie https://edge2-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e82da20305cc9c3f3bf624d5ba34e6c8150dd0db2fdf1817e2543d04bb485b1b_trns_h264/playlist.m3u8
+删除mazzanti_ https://edge29-phx.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7a668d7be591099b6bd7ffe675b0e5b98f9dd1ecf7153c96dfa817b6efc203c0_trns_h264/playlist.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除sexygamesx https://edge17-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-51a398d7d45ea4788d105596d39093c9ab0e7208ef21afd45ec72d8284624493_trns_h264/playlist.m3u8
