@@ -16,4 +16,3 @@ morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3
 Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 mazzanti_ https://edge33-phx.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7d4243a4050a6f03a81cb6685585295dc44441d48a4ca6869b105d72dec07839_trns_h264/playlist.m3u8
-dign1461 ?aid=null
