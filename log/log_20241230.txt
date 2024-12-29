@@ -111,3 +111,8 @@ Mon Dec 30 03:53:09 CST 2024
 Mon Dec 30 03:53:35 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加mazzanti_ https://edge33-phx.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7d4243a4050a6f03a81cb6685585295dc44441d48a4ca6869b105d72dec07839_trns_h264/playlist.m3u8
+Mon Dec 30 04:02:29 CST 2024
+Mon Dec 30 04:02:40 CST 2024
+Mon Dec 30 04:04:38 CST 2024
+Mon Dec 30 04:05:04 CST 2024
