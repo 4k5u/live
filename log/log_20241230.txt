@@ -127,3 +127,9 @@ Mon Dec 30 04:38:50 CST 2024
 Mon Dec 30 04:41:01 CST 2024
 Mon Dec 30 04:41:31 CST 2024
 删除dign1461 ?aid=null
+添加my_eyes_higher https://edge16-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e35afb32359b7da17087f42200027c91200c78cc2a2d20c5ba50f6cd3cc3504c_trns_h264/playlist.m3u8
+Mon Dec 30 04:50:17 CST 2024
+Mon Dec 30 04:50:26 CST 2024
+Mon Dec 30 04:52:24 CST 2024
+Mon Dec 30 04:52:51 CST 2024
+删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NjAwQjdBOS03QzVCLTRBNEYtQkIxNi1CREYyQTJGQTgzRkEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTQ4NjcyMiwiZXhwIjoxNzM1NDg3MzIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Yi81_h8Ku7VG4DJVhRed6d4bwo_ygdgcvHaXHhZCTVZPJQpwQgub2laU4l6x4oUGujbV2Hogfe5X1tiBcjBknCwuB52HEy-fcD1SWtfyfGeOnkTzPQGUXwhcmDWMCvmS
