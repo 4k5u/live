@@ -38,3 +38,6 @@ Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_au
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Q1YhQQTtlzAJD-m2S4p9yAVEZ475ejgi-RXwynyGy4MpPX8nl2osRr7Vl4xouzg7GrbLt5snvdMVMyV_HtIbbO9cMtup74EFwE6EW1C7ZHLyRz6Fqr8xnrVnpxhsoVe6
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
