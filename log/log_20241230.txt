@@ -145,3 +145,10 @@ Mon Dec 30 05:22:12 CST 2024
 Mon Dec 30 05:24:20 CST 2024
 Mon Dec 30 05:24:49 CST 2024
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+添加mazzanti_ https://edge9-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7d4243a4050a6f03a81cb6685585295dc44441d48a4ca6869b105d72dec07839_trns_h264/playlist.m3u8
+Mon Dec 30 05:39:53 CST 2024
+Mon Dec 30 05:40:00 CST 2024
+Mon Dec 30 05:41:57 CST 2024
+Mon Dec 30 05:42:24 CST 2024
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
