@@ -43,3 +43,5 @@ ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 your_desssert https://edge33-phx.live.mmcdn.com/live-hls/amlst:your_desssert-sd-e8ccb930546e92977ec655049a8127d1f5ad82cd03f78c35d7d90539ea621f67_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
