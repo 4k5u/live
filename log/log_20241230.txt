@@ -358,3 +358,9 @@ Mon Dec 30 16:41:13 CST 2024
 Mon Dec 30 16:41:42 CST 2024
 添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+Mon Dec 30 16:50:50 CST 2024
+Mon Dec 30 16:51:10 CST 2024
+Mon Dec 30 16:53:17 CST 2024
+Mon Dec 30 16:53:48 CST 2024
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
