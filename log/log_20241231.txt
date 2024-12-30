@@ -22,3 +22,9 @@ Tue Dec 31 00:51:07 CST 2024
 Tue Dec 31 00:53:10 CST 2024
 Tue Dec 31 00:53:39 CST 2024
 添加JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+Tue Dec 31 01:01:40 CST 2024
+Tue Dec 31 01:02:09 CST 2024
+Tue Dec 31 01:04:17 CST 2024
+Tue Dec 31 01:04:47 CST 2024
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+删除Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
