@@ -5,3 +5,4 @@ Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.
 kiyoko_rin https://edge26-ash.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-249c0df7fae50b0ebf8ed6dd4b29d3bfa067a0c5a231a1b3051416955d559c09_trns_h264/playlist.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 lovewindy https://edge17-mia.live.mmcdn.com/live-hls/amlst:lovewindy-sd-797aac878a1d04ccb94395b8f5e4beb46e3fb9dd0eafb6ecea4819047c4d6050_trns_h264/playlist.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
