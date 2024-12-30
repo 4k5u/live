@@ -508,3 +508,12 @@ Mon Dec 30 22:02:00 CST 2024
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+Mon Dec 30 22:21:25 CST 2024
+添加imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9D0FYHOlXRPU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlEMEZZSE9sWFJQVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMjg1NUFCRi0yQTI2LTRDMTktQUZDQS1EMzNBN0JERENGREEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTU2ODUyOCwiZXhwIjoxNzM1NTY5MTI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.hm3ry_mEqUTAhLpWsNj5Vwh8Y7Qzp2D2uXpImtU7vsJ-D_pHhofJZELAhM6LhsUiE3_aAWjCn1rlf9yKNVJB6EGELqiwJJBZpa4oYzlhezk2dTSmFmhBfoeddLNc9InW
+Mon Dec 30 22:22:28 CST 2024
+Mon Dec 30 22:24:37 CST 2024
+Mon Dec 30 22:25:09 CST 2024
+添加regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
+添加JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+删除chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzU1OTMxMzIzNzksImlhdCI6MTczNTU0OTkzMn0.tyNrOg5iCCtozPdJtV_O-SNy0ai4omPGGlFHCpoWvCNAcA9dXAMwZxWBsOTffvIZmrLakLTHxltkbmeoeRDUAY9jmN1JwyI79uZLCpUtBawz47ASammaUp48uPGSVOgs
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
