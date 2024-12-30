@@ -141,3 +141,8 @@ Tue Dec 31 05:22:56 CST 2024
 Tue Dec 31 05:24:55 CST 2024
 Tue Dec 31 05:25:23 CST 2024
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加lovewindy https://edge17-mia.live.mmcdn.com/live-hls/amlst:lovewindy-sd-797aac878a1d04ccb94395b8f5e4beb46e3fb9dd0eafb6ecea4819047c4d6050_trns_h264/playlist.m3u8
+Tue Dec 31 05:38:50 CST 2024
+Tue Dec 31 05:38:59 CST 2024
+Tue Dec 31 05:41:12 CST 2024
+Tue Dec 31 05:41:44 CST 2024
