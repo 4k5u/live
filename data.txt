@@ -14,3 +14,5 @@ kiyoko_rin https://edge26-ash.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-249c0d
 Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+lovewindy https://edge18-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-5f0e46408f995042e7ff42ba4dce275fa12daf3dac6e4944f04a1e43ae65e962_trns_h264/playlist.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
