@@ -12,4 +12,5 @@ eli05021212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
-Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=null
+anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8

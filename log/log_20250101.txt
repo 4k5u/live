@@ -80,3 +80,10 @@ Wed Jan 1 02:35:31 CST 2025
 删除lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwQjZBNEUwMy1BNzExLTQ4MDQtQTQyOS0yRTM5MjNGMUFFNEQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTY1NzE3NSwiZXhwIjoxNzM1NjU3Nzc1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Ixxv1mh5ZjoWo2mlbGHn0ObrSeJ3MtSI00DLRQCyk0jbQQzEq7Kpcgp6ru4WWMSp1yl65uCOz3josZUFWmrieT2zKemTRlYesdWA_zGBLZOq2aNu9o1ZXgTrKuPlXmBD
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
+Wed Jan 1 02:49:00 CST 2025
+Wed Jan 1 02:49:19 CST 2025
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=null
+Wed Jan 1 02:51:33 CST 2025
+Wed Jan 1 02:52:00 CST 2025
+添加anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
