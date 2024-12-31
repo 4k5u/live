@@ -354,3 +354,9 @@ Tue Dec 31 16:33:21 CST 2024
 Tue Dec 31 16:33:48 CST 2024
 添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Tue Dec 31 16:46:42 CST 2024
+Tue Dec 31 16:46:59 CST 2024
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Tue Dec 31 16:49:02 CST 2024
+Tue Dec 31 16:49:28 CST 2024
+删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
