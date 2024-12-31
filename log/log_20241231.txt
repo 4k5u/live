@@ -496,3 +496,19 @@ Tue Dec 31 21:07:35 CST 2024
 删除smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
 删除Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.EdM5QTRHzU4npChP6a4KmpZcb1ifw6oEE4Zl4YnzEPTJjSVWkm8VWXMmWs7z5RWgw4UltZH509PEpqqxZOsW300-q6yl2H4y9WsxDj7-jzC9wecS5CQ4pORcwwioSIBe
 删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
+Tue Dec 31 21:30:05 CST 2024
+Tue Dec 31 21:30:46 CST 2024
+添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.24lpcC8NZGHdXGiOUX13xisZGJ6zURaQsRPlLBAQZqsQOF4FOD4eBMx0XD8zwNd1bzrFn7qQ3kT5JMi_e20eTDwmyyvYkKtZcup_Z9-42yH710grD9NxUTCNI2TESLuQ
+添加smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vE9hK33f2Zkg8tcOBISvBY9GRBDNaCB75bLW0ej1bRcJCzcncmbm78WWA20NZJqwFvjDCrvAxRmHgySGLQ8gfHCuoEUVtq3vjmm-aHguVMpfNYR0XSkhuSWMWcypPIID
+添加purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MgUTlRQ6RgZkdxLdaHNhYEFJvc4Q0-wY4izbfxxpSo3xJoR5thVXm2T0NSH1TrRuFnWb02fcfplyedWFELtRZn91it1Kh56H4o7oNEz_kImqYSY0YhiUlPbLGVOQdSBe
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.bPvWvTvvnbl8N85vQ-JMi3muIEUNpiLLnnifTTTn6YNKYS7AVmlfDXb9f1AQj154nPMpn3lqxomdmiJMvi9pWY5idUpADa5wgukqf-LeEMrpmC8aTTV9DG4oZwgveJKY
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
+Tue Dec 31 21:33:21 CST 2024
+添加yxyxyyy https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.m8Q1Bw1bpBic.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9tOFExQncxYnBCaWMiLCJleHAiOjE3MzU2OTM0OTc5MTMsImlhdCI6MTczNTY1MDI5N30.ZSI3qL8cDZVsxLmwj1lnPLN-Hbtti6HmDKYIG4YwctJelgLwy4Awkw55aCd6dB1xBpeTj6OUlas4k_NiI4foSYhk-dItjD-iROM5eMipb1h6bGysVjSd13q7c0a3m7av
+Tue Dec 31 21:33:55 CST 2024
+添加NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.BRTCZugksoRaWT0dOSMPnXy7NQz0ct9AiMLbyzx7RNiQARiZJXOCHbVVz5q9zVRZtK3T5ToCHVCnVZPNnlv_FoYnO2fHRLEKN6N5TWaSY9rv7THzeGaLwVqSOo0TN6ea
+删除honey_pinkgreen https://edge19-ash.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-cc608d9fc2f820352f8b957e51218b188d5ec5a862201b01205ee2a934241243_trns_h264/playlist.m3u8
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.YwTuaAJKpwms_Pnx2BhL5FaEcAtJwtgBz6jkyLXGvlXQsO0NnpN6DPlWitTCZTH1BzMWq7M8T1OR_U0DgWFBvwRYqP4GELyEmlePwC8WNi9lRehiXjnbyzRBjdWJBYom
