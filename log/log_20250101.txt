@@ -226,3 +226,9 @@ Wed Jan 1 11:39:24 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=null
+Wed Jan 1 11:52:04 CST 2025
+Wed Jan 1 11:52:09 CST 2025
+Wed Jan 1 11:54:17 CST 2025
+Wed Jan 1 11:54:48 CST 2025
+删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
