@@ -203,3 +203,15 @@ Wed Jan 1 10:02:22 CST 2025
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7ttksEnOnAtjVwBZ8xqvlwFek-djJca-98NOq-B6OiHG47uUQxWzTgqkux-xP7TKMD0cjrHDTjt2SgJGA-kjfCGyUNRRDaxkEDBZSn9OWIVECrNLXEgdyA9A2FGuIfZE
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除rico0210 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qobGYBJqMAhF.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FvYkdZQkpxTUFoRiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NDc5RTEyMy1EQUU0LTQxQjAtOUJBQi0zMDExQkIwNDQyMjgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTY4OTAxMCwiZXhwIjoxNzM1Njg5NjEwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.5SRSNG0T9Yc1rJUYZAaOTugdxNLKWmSpO7pW-yFK7rttbGUDSzZCU7Mpjrt8Xf2FC2bnZoONbTBnLq1rWX74RJlbBcbuOTgAmFejZ4jDczrp8vSpYIYeumgyI5KTrD8i
+Wed Jan 1 11:01:20 CST 2025
+Wed Jan 1 11:01:23 CST 2025
+添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-51JopbyWiXpotr-xxOV13jgo5zkV8oMYNHhE5OA-UH-T0LKbQgXhs70D6j4j2cidXRqORq-HRVFvuQ-vpwgywnNWCr6_5wqnMx73XkpSiNKvXvE7v554VSh-Ei7S1-v
+添加kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-51JopbyWiXpotr-xxOV13BUO7gsUckB4mnzQejL72XsdcjMwIUgbEe9GxtAlvHxD9USaxIDU89o2tVtpIWmPlVVfAl0A9Ywgqz6UCf-nuoOXD89wYY4ENzx-Oo2GzVl
+Wed Jan 1 11:03:51 CST 2025
+Wed Jan 1 11:04:21 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除kiyoko_rin https://edge17-ash.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-ffcf6c6a9dc59f53b9037354c43cf42f7cdfe5e162b05702bcf86d5611879956_trns_h264/playlist.m3u8
+删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
