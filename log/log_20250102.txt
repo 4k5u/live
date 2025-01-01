@@ -45,3 +45,9 @@ Thu Jan 2 01:22:07 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Thu Jan 2 01:32:16 CST 2025
+Thu Jan 2 01:32:35 CST 2025
+Thu Jan 2 01:34:46 CST 2025
+Thu Jan 2 01:35:16 CST 2025
+添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+删除purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nfc_i7Ngnxbqyc1ZhxlJzWoDqJbZbxzF0t8JcX2-7MJDZhznLn4EYjiOGbjzw_ilB6XaTTrfUflbDiHnjX7wqE6JpKG_6n5a9diEMskYb30fd6NFhAPfEINkMC718SwY
