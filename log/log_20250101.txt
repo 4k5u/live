@@ -395,3 +395,8 @@ Wed Jan 1 19:31:25 CST 2025
 Wed Jan 1 19:33:23 CST 2025
 Wed Jan 1 19:33:51 CST 2025
 删除ake_mi https://edge15-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-557ee98e20c8fe35044832d716011e5ec740b730416aaa311bc606f3f4184c06_trns_h264/playlist.m3u8
+Wed Jan 1 19:41:55 CST 2025
+Wed Jan 1 19:42:26 CST 2025
+Wed Jan 1 19:44:34 CST 2025
+Wed Jan 1 19:45:05 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
