@@ -98,3 +98,8 @@ Thu Jan 2 03:30:57 CST 2025
 Thu Jan 2 03:32:54 CST 2025
 Thu Jan 2 03:33:21 CST 2025
 删除Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+Thu Jan 2 03:41:47 CST 2025
+Thu Jan 2 03:41:54 CST 2025
+Thu Jan 2 03:44:03 CST 2025
+Thu Jan 2 03:44:33 CST 2025
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
