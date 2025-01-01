@@ -324,3 +324,8 @@ Wed Jan 1 16:47:18 CST 2025
 Wed Jan 1 16:49:26 CST 2025
 Wed Jan 1 16:49:57 CST 2025
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+Wed Jan 1 16:58:11 CST 2025
+Wed Jan 1 16:58:24 CST 2025
+Wed Jan 1 17:00:32 CST 2025
+添加chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzU3NjQ5MDcwNDksImlhdCI6MTczNTcyMTcwN30.RC2F02cR9cJk3E-no9rAs-f2AIj352MjXPQjR7qr5IYQxcXvMI5VxKdGiOqzwDZUcClA6ktPouUlGyf3UTFCJx290XUaOeSRIocIZUYtcMz-0HRUpIJ6lF6Z3LbMb308
+Wed Jan 1 17:01:06 CST 2025
