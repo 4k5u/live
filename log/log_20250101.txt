@@ -349,3 +349,12 @@ Wed Jan 1 17:53:16 CST 2025
 Wed Jan 1 17:53:46 CST 2025
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Wed Jan 1 18:09:12 CST 2025
+添加jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2Q0Q1RTk3QS00Mzk0LTQ1OEYtOUI2Ni1CMTMzQzIwODIxMDUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTcyNjE1NCwiZXhwIjoxNzM1NzI2NzU0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.VMZQ8CwKHKaU5os3PrjolHkOQkZ1lmyq6mC3hNpqbEmQ5RD-2Js0CHko2D2jCtpKp0bnriWnVB1j1B9McYYS9dqB4GvigcCat4Zv1q97OxxpxT6QaNh-b2cnZ9OkF6UQ
+Wed Jan 1 18:09:31 CST 2025
+Wed Jan 1 18:11:42 CST 2025
+Wed Jan 1 18:12:14 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除oda_assuri https://edge4-chi.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-9bbecdea85e2067edd2bcb1362a074d9f5477d5cf398e92c68c0dd1456ec3efe_trns_h264/playlist.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
