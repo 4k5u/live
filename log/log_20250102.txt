@@ -199,3 +199,13 @@ Thu Jan 2 10:45:50 CST 2025
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除kiyoko_rin https://edge4-mia.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-07094ce90b9020877294b16bbfc379def112942821c17f68554d6cb425870097_trns_h264/playlist.m3u8
 删除mazzanti_ https://edge8-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-61ebb6c40136880fa478426d8c0339b0a49592acd66d5fb5a590a6c5555dbd10_trns_h264/playlist.m3u8
+Thu Jan 2 11:12:12 CST 2025
+Thu Jan 2 11:12:17 CST 2025
+Thu Jan 2 11:14:26 CST 2025
+Thu Jan 2 11:14:57 CST 2025
+添加ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ddooyaa%22%2C%22channel_id%22%3A442709328%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1735788899%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.228.78%22%2C%22version%22%3A2%7D&sig=4711d37e414d7bd325fac01ed4c849335e921653&allow_source=true&allow_audio_only=true
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMEQyRUUyMS1FMjYyLTQ4NzQtODI1NC1GQjYxMUM1RDRCQUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTc2ODI2NCwiZXhwIjoxNzM1NzY4ODY0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.BRlgtKRXb2mq4MWzmUGbr8ddIhmFzUUrD-w-2br2nmrGvT6Ae4ly35IJwujYBIjpB9C83mr4mUINlJT9WXMDl-r-jOc3FAWgW0zt_PESF2DlSEBV5ienRy3rD9DnG54s
