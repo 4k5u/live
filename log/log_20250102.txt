@@ -189,3 +189,13 @@ Thu Jan 2 09:52:34 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Thu Jan 2 10:43:03 CST 2025
+Thu Jan 2 10:43:10 CST 2025
+Thu Jan 2 10:45:20 CST 2025
+Thu Jan 2 10:45:50 CST 2025
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除kiyoko_rin https://edge4-mia.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-07094ce90b9020877294b16bbfc379def112942821c17f68554d6cb425870097_trns_h264/playlist.m3u8
+删除mazzanti_ https://edge8-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-61ebb6c40136880fa478426d8c0339b0a49592acd66d5fb5a590a6c5555dbd10_trns_h264/playlist.m3u8
