@@ -162,3 +162,9 @@ Fri Jan 3 06:41:16 CST 2025
 Fri Jan 3 06:43:20 CST 2025
 Fri Jan 3 06:43:50 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Fri Jan 3 06:52:24 CST 2025
+Fri Jan 3 06:52:31 CST 2025
+Fri Jan 3 06:54:39 CST 2025
+Fri Jan 3 06:55:09 CST 2025
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
