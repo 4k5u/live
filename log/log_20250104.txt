@@ -45,3 +45,10 @@ Sat Jan 4 01:23:11 CST 2025
 删除dmsdms1247 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I8orYrw2LIdl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0k4b3JZcncyTElkbCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NzQ4RUYzNi02MDZGLTRFQjMtQjA1MS0zMTE2QUYxNjJDRTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTkxNDI0MiwiZXhwIjoxNzM1OTE0ODQyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.MAkM6GZ2SW1B7kBzALiDlnleHyELr-8dlNFLoes4FON1oCwOqJMclioi8aaIa-q3W9yHTljbfE1zxkN6B4a4JlM88bF5yJDC64cbYbEYXZd4UhEsTMw7d2mmrgkYWTPc
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 删除ad0res https://edge27-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-1d4f62dfed4ed456fe8d42cb8aa58fbc813cbb02f749ddb058b7e4a07fcffc74_trns_h264/playlist.m3u8
+添加ad0res https://edge1-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-1d4f62dfed4ed456fe8d42cb8aa58fbc813cbb02f749ddb058b7e4a07fcffc74_trns_h264/playlist.m3u8
+Sat Jan 4 01:34:34 CST 2025
+Sat Jan 4 01:34:57 CST 2025
+Sat Jan 4 01:36:55 CST 2025
+Sat Jan 4 01:37:22 CST 2025
+删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.y4OpVnWhFKE16HH8odhrzmMhRdXPV9Ts2R0AXhv-sqTkkByxj7qieDfcFtVMU4cicvgd2nkVjEIP80r8IrhJDpVT4DfW87mkVw2oksv8ihchQe0e0f7DBmxb2I5iEk9K
+删除Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
