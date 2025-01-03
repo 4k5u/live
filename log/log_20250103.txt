@@ -336,3 +336,14 @@ Fri Jan 3 17:00:35 CST 2025
 添加chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzU5Mzc4NjU5NTEsImlhdCI6MTczNTg5NDY2NX0.Lua0cOLB8H4anH6z_nX47iF-vzrm3549sranHcnh_xojpWBu2KAldO2aNHJYgMsw-RjQy2V2NfF2DJe343FZ9ro9J9XiJKWKRx7HSHy4HpbfQ4dS3M76tx-O9L8hXqV0
 Fri Jan 3 17:01:07 CST 2025
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+添加your_desssert https://edge12-lax.live.mmcdn.com/live-hls/amlst:your_desssert-sd-8fd64aeb04580898538dd48448e655b5c3da26bcbe9ff8b82d9d61792829995c_trns_h264/playlist.m3u8
+Fri Jan 3 17:24:58 CST 2025
+Fri Jan 3 17:25:11 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IhZXTuxi8Xolb1vvvA7LmUH7V3jBWY30W_-2u3DVDETPHZRAb6F3UfZRzxaBulahXPekQItxagP_SXcycP3NtNOxaBzxyi_09MnqUkm2PzJ6GIlGnLw01qOi15WZo8NM
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wOyPWAqJPQpr6fkAnIN1WTAAsWMXv3Rwze6kHqVLLtkig5ggJ2f2X1fxLGV8nkSeWdWvHqq8FsfoJKyptr7CGoe1tSzERJECK9M6D4xVUvV4ptp0pm4x24I5Cv87Pt1L
+Fri Jan 3 17:27:19 CST 2025
+Fri Jan 3 17:27:46 CST 2025
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
