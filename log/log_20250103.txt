@@ -307,3 +307,8 @@ Fri Jan 3 15:48:31 CST 2025
 Fri Jan 3 15:50:39 CST 2025
 Fri Jan 3 15:51:08 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+Fri Jan 3 16:00:12 CST 2025
+Fri Jan 3 16:00:23 CST 2025
+添加yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MyvyfK2yMpoz5vPgbF7iMrA5NI1ppNnPDVyR3Mc1YRtKW93xyNpIUY60K5wRHH9txniJxLUUAp4NgdPBUARLL7G6qnOoyskM7hzNfNtVgGckeSMqLXlvZeoNJDe7NeVd
+Fri Jan 3 16:02:26 CST 2025
+Fri Jan 3 16:02:52 CST 2025
