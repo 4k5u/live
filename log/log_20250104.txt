@@ -111,3 +111,11 @@ Sat Jan 4 03:59:09 CST 2025
 Sat Jan 4 03:59:16 CST 2025
 Sat Jan 4 04:01:25 CST 2025
 Sat Jan 4 04:01:56 CST 2025
+Sat Jan 4 04:24:07 CST 2025
+Sat Jan 4 04:24:14 CST 2025
+Sat Jan 4 04:26:23 CST 2025
+Sat Jan 4 04:26:55 CST 2025
+删除rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.qTTox8NbfhoshJEwC-dgx3ll87pHPtTxZUZi8iqisFmHTr7m_ieuIn97LL4ImvTsShEm6OiWSrFslr0_ubD7h5c_NS5J7v2goEgBiWvUgUKZZcRjrAapQ-n0SqulhrvF
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.63vCVQomZiMBp7miDL536rdZUOJJ8ZK7hBcvh0cLmd81QsQKBThAfX2RNZOBgX6Eku7L86XyrVsASb_dLWbvcPfcEQ_wEhNE5P68Nm6cL7f7UoNnrSdMwN4sZm83R_-Z
+删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
