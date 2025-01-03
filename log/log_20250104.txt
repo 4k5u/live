@@ -152,3 +152,8 @@ Sat Jan 4 05:52:23 CST 2025
 Sat Jan 4 05:52:52 CST 2025
 删除minion998 https://edge-hls.doppiocdn.live/hls/131654942/master/131654942_auto.m3u8
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+Sat Jan 4 06:01:10 CST 2025
+Sat Jan 4 06:01:17 CST 2025
+Sat Jan 4 06:03:24 CST 2025
+Sat Jan 4 06:03:54 CST 2025
+删除oki_dokie https://edge23-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6a71c6947aba62a08c7302f585a2efac526620e690970d04a7ddef42101ccf9c_trns_h264/playlist.m3u8
