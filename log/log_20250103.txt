@@ -238,3 +238,8 @@ Fri Jan 3 12:36:36 CST 2025
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除mazzanti_ https://edge6-aus.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-96b03e9e1e92a8b2f0a65be785b86d6b363466c83e0f6ce8ae2d2267cd107579_trns_h264/playlist.m3u8
 删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+Fri Jan 3 12:47:57 CST 2025
+Fri Jan 3 12:48:02 CST 2025
+Fri Jan 3 12:50:12 CST 2025
+Fri Jan 3 12:50:43 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
