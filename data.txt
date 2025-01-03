@@ -9,3 +9,4 @@ minion998 https://edge-hls.doppiocdn.live/hls/131654942/master/131654942_auto.m3
 jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.NDGWilrZ7OB0.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9OREdXaWxyWjdPQjAiLCJleHAiOjE3MzU5NzIzNjU4MjEsImlhdCI6MTczNTkyOTE2NX0.shyuXoJfSTasYIO3GDcvUaAvneI0Qw5w51Vy6CzlRwHi56ubXM6B4tHdSyVcrRg9qklRLI6TFoHTsVlmjOCFBRnDQidNk2_zPoTZRlADnQ3Sf-9kDHPT_fvgl5aXU7xl
 l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
