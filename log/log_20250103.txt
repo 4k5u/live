@@ -412,3 +412,9 @@ Fri Jan 3 19:23:43 CST 2025
 删除ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ddooyaa%22%2C%22channel_id%22%3A442709328%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1735870044%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.227.105%22%2C%22version%22%3A2%7D&sig=9f10e21300ce159b3d08500bf636b6711e249372&allow_source=true&allow_audio_only=true
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+添加ad0res https://edge28-ash.live.mmcdn.com/live-hls/amlst:ad0res-sd-cbf51194509c332f0ea1ae7588ed681617c64b35dfaa629ed86234c40e6bd48d_trns_h264/playlist.m3u8
+Fri Jan 3 19:31:12 CST 2025
+Fri Jan 3 19:31:45 CST 2025
+Fri Jan 3 19:33:54 CST 2025
+Fri Jan 3 19:34:25 CST 2025
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
