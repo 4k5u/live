@@ -330,3 +330,9 @@ Fri Jan 3 16:48:35 CST 2025
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MyvyfK2yMpoz5vPgbF7iMrA5NI1ppNnPDVyR3Mc1YRtKW93xyNpIUY60K5wRHH9txniJxLUUAp4NgdPBUARLL7G6qnOoyskM7hzNfNtVgGckeSMqLXlvZeoNJDe7NeVd
 删除your_desssert https://edge20-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-8fd64aeb04580898538dd48448e655b5c3da26bcbe9ff8b82d9d61792829995c_trns_h264/playlist.m3u8
+Fri Jan 3 16:58:13 CST 2025
+Fri Jan 3 16:58:26 CST 2025
+Fri Jan 3 17:00:35 CST 2025
+添加chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzU5Mzc4NjU5NTEsImlhdCI6MTczNTg5NDY2NX0.Lua0cOLB8H4anH6z_nX47iF-vzrm3549sranHcnh_xojpWBu2KAldO2aNHJYgMsw-RjQy2V2NfF2DJe343FZ9ro9J9XiJKWKRx7HSHy4HpbfQ4dS3M76tx-O9L8hXqV0
+Fri Jan 3 17:01:07 CST 2025
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
