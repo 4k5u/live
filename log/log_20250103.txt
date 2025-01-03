@@ -300,3 +300,10 @@ Fri Jan 3 15:33:21 CST 2025
 Fri Jan 3 15:35:31 CST 2025
 Fri Jan 3 15:36:02 CST 2025
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加ake_mi https://edge14-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-7ad81f7a762d36955d6c2a010cb0772d8b296267552619b9bcc1fb0e6e150fb6_trns_h264/playlist.m3u8
+Fri Jan 3 15:48:20 CST 2025
+Fri Jan 3 15:48:31 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Fri Jan 3 15:50:39 CST 2025
+Fri Jan 3 15:51:08 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
