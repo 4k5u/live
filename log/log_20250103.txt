@@ -286,3 +286,11 @@ Fri Jan 3 15:00:24 CST 2025
 Fri Jan 3 15:00:51 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Fri Jan 3 15:21:34 CST 2025
+Fri Jan 3 15:21:44 CST 2025
+添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xkUdI8rvqNFWdKbpMTTzKMWcDxtc_RytlP8gu8tzv9vGllf7_ikL_u4VAYjS1p6FsAdXMSgezxTWv82W-QTOSPipHJ2qOMAClsjRLlvHfY1CEDNbD4ujtxEag-BBvXLc
+Fri Jan 3 15:24:01 CST 2025
+Fri Jan 3 15:24:31 CST 2025
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
