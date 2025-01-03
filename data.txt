@@ -4,7 +4,6 @@ ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx
 kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Nhk2S1VFeUo8W3RkL2fB309OmYqQnaNDPrXdrJ3Qajngvk9nPkVDDgsQOp_3O3QFSYs6NxjgdIgR2Fa2WptDsyvlzylJRzzu5Onk6LlbReewiQgk67xq4xacxP8x4PJx
 bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
-TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
@@ -12,3 +11,4 @@ __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 1stforever https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FqOTsJGin1Qc.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZxT1RzSkdpbjFRYyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBODEwRjQ0MS0wRDZGLTQzRkUtODdBNy0xQ0FEN0EzMDUzODgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTg4MDM1NCwiZXhwIjoxNzM1ODgwOTU0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.KZSs8IXVW6fc615NnkvGO01bHRyb32O-k44DMk7gwnE_EWe20QkB-2A5BtyFYTmvzGFQr6bHc4WkeDxDGe-9wnk_pFa8jUoEkEVQTaVypE3k6aWisgC1IMwlgideP-vo
+hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.sih904bvg2gyypi9dD8HsSm5Aa7JqIh_KocSTUBIqX5BAe7FNIkUUUtjoFUPjZV7YJMlivof6JzRZMIn7YmYIyVr7KJ0cp2i9_fA64DDix_EnA1LMe2P8IQzpiJJzYoN
