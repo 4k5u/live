@@ -243,3 +243,8 @@ Fri Jan 3 12:48:02 CST 2025
 Fri Jan 3 12:50:12 CST 2025
 Fri Jan 3 12:50:43 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Fri Jan 3 12:59:13 CST 2025
+添加1stforever https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FqOTsJGin1Qc.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZxT1RzSkdpbjFRYyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBODEwRjQ0MS0wRDZGLTQzRkUtODdBNy0xQ0FEN0EzMDUzODgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTg4MDM1NCwiZXhwIjoxNzM1ODgwOTU0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.KZSs8IXVW6fc615NnkvGO01bHRyb32O-k44DMk7gwnE_EWe20QkB-2A5BtyFYTmvzGFQr6bHc4WkeDxDGe-9wnk_pFa8jUoEkEVQTaVypE3k6aWisgC1IMwlgideP-vo
+Fri Jan 3 12:59:23 CST 2025
+Fri Jan 3 13:01:32 CST 2025
+Fri Jan 3 13:02:02 CST 2025
