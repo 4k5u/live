@@ -196,3 +196,10 @@ Sun Jan 5 06:52:43 CST 2025
 Sun Jan 5 06:54:54 CST 2025
 Sun Jan 5 06:55:25 CST 2025
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+添加oki_dokie https://edge11-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ea4b5a5001712d5fb76a0fb914d298ffe1f978aff5fb3e7322dc52f32c94df95_trns_h264/playlist.m3u8
+Sun Jan 5 07:19:03 CST 2025
+Sun Jan 5 07:19:10 CST 2025
+Sun Jan 5 07:21:19 CST 2025
+Sun Jan 5 07:21:50 CST 2025
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除sexygamesx https://edge10-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-51e1879751a4a2f414f630112cc0d409c34ad2b4cd4bd766607ea54b48c9e13b_trns_h264/playlist.m3u8
