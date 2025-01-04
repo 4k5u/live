@@ -177,3 +177,9 @@ Sun Jan 5 06:04:05 CST 2025
 Sun Jan 5 06:04:36 CST 2025
 删除oki_dokie https://edge14-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-045e56c88401a3b46082b5f9418a1c34fb2792085e0a5f7ea8d58b3b8e5ebf94_trns_h264/playlist.m3u8
 删除jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.NDGWilrZ7OB0.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9OREdXaWxyWjdPQjAiLCJleHAiOjE3MzYwNTU1ODk0ODcsImlhdCI6MTczNjAxMjM4OX0.RuWfnQpyMDriOgmeeUR1PC6hDI8VJKAjeROsabCsua5v9ff25SClQPGoggM4moxvgfewC2WZeU1w0zrk1TXpoFpXIomXHWYKyQpaM5-azeBCG80hJ0HofiyovEfS1Dek
+添加mazzanti_ https://edge8-aus.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7604ce4bb3ec60cd822634ab10fd361c1f4e955abce7fea584220160cc1ef83a_trns_h264/playlist.m3u8
+Sun Jan 5 06:28:45 CST 2025
+Sun Jan 5 06:28:52 CST 2025
+Sun Jan 5 06:31:07 CST 2025
+Sun Jan 5 06:31:34 CST 2025
+删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.21XIVYn-JCynFBqjMK2O7azEsjaDkOLGiNKdcCHjPaQ8s3HRxxHZbEOpkkRE_L08ox2NuKdXF00dAVsiQ23h4fHodW7G7RI0vCiTn6T6J_Bl2oYNLXkoGDBo6lYSkIeG
