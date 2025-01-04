@@ -369,3 +369,10 @@ Sat Jan 4 17:00:16 CST 2025
 Sat Jan 4 17:00:46 CST 2025
 添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Sat Jan 4 17:21:23 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMkVGNTg5RC03QkM5LTQ2QUMtQTlBMi1FQTZBNkRGQjI5RjMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTk4MjQ4OCwiZXhwIjoxNzM1OTgzMDg4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.3JgvVf7HRmIrefjdrxeihgsYBltoyb6w3JYAgIMAQX4eo6F_rTIbg94ssD8TUJXEUJd0XKau8yKmuKpPawZzPKXednDWYnsw7Cwn38IkhZpYsd0SAzhSWK3ykbjWCwi0
+Sat Jan 4 17:21:50 CST 2025
+Sat Jan 4 17:23:59 CST 2025
+Sat Jan 4 17:24:29 CST 2025
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
