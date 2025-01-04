@@ -39,3 +39,5 @@ purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_pla
 gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.L_d_8vjoc5GcxU6ebFp5n2IxjIlA1w4QI_bx4HSU2Q-JTdVWF5ozhhbJZGbjK50Hc51XlQt54vd4bg3shSKAKKUkIgZPCJqoVUD2dJ_KRXK4BUr6Mv8h8dN0EwnpDPkQ
 fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+ake_mi https://edge6-mia.live.mmcdn.com/live-hls/amlst:ake_mi-sd-432ad1c9ab2a53439f55deef7709ce91ce0351fd7cf901f456aa9b28a81db150_trns_h264/playlist.m3u8
+-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
