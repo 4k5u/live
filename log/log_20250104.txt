@@ -244,3 +244,13 @@ Sat Jan 4 11:58:05 CST 2025
 Sat Jan 4 12:00:14 CST 2025
 Sat Jan 4 12:00:44 CST 2025
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sat Jan 4 12:26:11 CST 2025
+Sat Jan 4 12:26:18 CST 2025
+添加yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.LKfXOrVOBB9LG3878C2lYqYlztwNIRbHMyOzPaWbrKSJ5TRZ2ajqu8_5SkPCgF7g9GNLQFhL74hYRMA1J4j9KIsCi5c46iu0djm2ZGr9OztH3t1qJXRTHah8O4Lt1J4w
+Sat Jan 4 12:28:41 CST 2025
+Sat Jan 4 12:29:12 CST 2025
+添加badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除mazzanti_ https://edge6-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-33c58667b406a1b907880e565621a020cdc89f11cbb2c095c6c864e479aa5fcf_trns_h264/playlist.m3u8
+删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
