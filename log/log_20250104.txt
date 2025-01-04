@@ -303,3 +303,8 @@ Sat Jan 4 14:34:56 CST 2025
 删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Sat Jan 4 14:46:42 CST 2025
+Sat Jan 4 14:46:59 CST 2025
+Sat Jan 4 14:49:07 CST 2025
+Sat Jan 4 14:49:37 CST 2025
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
