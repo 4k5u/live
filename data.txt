@@ -10,3 +10,4 @@ San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3
 oki_dokie https://edge11-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ea4b5a5001712d5fb76a0fb914d298ffe1f978aff5fb3e7322dc52f32c94df95_trns_h264/playlist.m3u8
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+sexygamesx https://edge4-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-bcb0253cc3664b6974239d45b61061bcbd08222b26d34c0901580f2b397b517e_trns_h264/playlist.m3u8
