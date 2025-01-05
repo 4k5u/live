@@ -1,5 +1,4 @@
 rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7xB4twSqu27sI5N8pfdYE7YD268k_3rCAgbTMkQkyEBN9EeLQLuRdDso0TSVkWy9X5Ggg2iFteFmkUKF4sLsE7VZ9ZDFAraDPUCP1zeMuNBsfSAZ2u668JZ4bOW1Z-aV
-mazzanti_ https://edge8-aus.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7604ce4bb3ec60cd822634ab10fd361c1f4e955abce7fea584220160cc1ef83a_trns_h264/playlist.m3u8
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
 oda_assuri https://edge17-mia.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-acd02391a172b0bf9273d2525384db28ac46b18188b39e413ea0c693caa7b6be_trns_h264/playlist.m3u8
@@ -10,3 +9,9 @@ mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qvVYVUYPiOVp.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xdlZZVlVZUGlPVnAiLCJleHAiOjE3MzYwOTE3MjI2NTYsImlhdCI6MTczNjA0ODUyMn0.Zl6jB9ECHTNQT-PTvx3n-hGKKworlnGUmcFzQkyfHR19clCrF_ZeO4PmZScUQfZ4dbaJcLW7lNuDQaecQDkqvKQVNSLUqYyQG3LHZbydS8LkSk9908EDpCQxPdyPoOjI
+Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8

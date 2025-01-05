@@ -246,3 +246,14 @@ Sun Jan 5 11:21:16 CST 2025
 添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MERBQTVCQS1BNzZFLTQ2MTgtQTc1OS05QjM5NzlBNEY4RDEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjAyNzQzNiwiZXhwIjoxNzM2MDI4MDM2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.tMVR5cA1v9avyYTKvFZNQIxnIM8-sa1uNPFJQFbOuiEOVt8hzzu5O7hplwwpnFlwEIkKLhM4QsPMq-kz0992IHXuprCQsa4H3tNh2xTPyrhi_S3X82EHB_Q_4Hv-Ftd3
 删除oki_dokie https://edge11-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ea4b5a5001712d5fb76a0fb914d298ffe1f978aff5fb3e7322dc52f32c94df95_trns_h264/playlist.m3u8
+Sun Jan 5 11:41:43 CST 2025
+Sun Jan 5 11:41:48 CST 2025
+Sun Jan 5 11:43:51 CST 2025
+添加bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qvVYVUYPiOVp.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xdlZZVlVZUGlPVnAiLCJleHAiOjE3MzYwOTE3MjI2NTYsImlhdCI6MTczNjA0ODUyMn0.Zl6jB9ECHTNQT-PTvx3n-hGKKworlnGUmcFzQkyfHR19clCrF_ZeO4PmZScUQfZ4dbaJcLW7lNuDQaecQDkqvKQVNSLUqYyQG3LHZbydS8LkSk9908EDpCQxPdyPoOjI
+Sun Jan 5 11:44:21 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除mazzanti_ https://edge8-aus.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7604ce4bb3ec60cd822634ab10fd361c1f4e955abce7fea584220160cc1ef83a_trns_h264/playlist.m3u8
