@@ -314,3 +314,8 @@ Sun Jan 5 14:35:45 CST 2025
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sun Jan 5 14:48:53 CST 2025
+Sun Jan 5 14:49:02 CST 2025
+Sun Jan 5 14:51:12 CST 2025
+Sun Jan 5 14:51:42 CST 2025
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
