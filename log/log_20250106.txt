@@ -164,3 +164,9 @@ Mon Jan 6 06:42:51 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+添加oki_dokie https://edge3-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-63d23982ca54ee65e839c9a1a99f3c0ff99de118d3303975fb15f013538cee47_trns_h264/playlist.m3u8
+Mon Jan 6 06:52:22 CST 2025
+Mon Jan 6 06:52:29 CST 2025
+Mon Jan 6 06:54:26 CST 2025
+Mon Jan 6 06:54:52 CST 2025
+删除honey_pinkgreen https://edge1-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-8c9c24d9955fc57a0b518f2e21c21702b6651dce9edaa703c83d5d02c01fc601_trns_h264/playlist.m3u8
