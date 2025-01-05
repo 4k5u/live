@@ -69,3 +69,8 @@ Mon Jan 6 02:31:30 CST 2025
 删除172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+Mon Jan 6 02:44:45 CST 2025
+Mon Jan 6 02:44:56 CST 2025
+Mon Jan 6 02:47:04 CST 2025
+Mon Jan 6 02:47:33 CST 2025
+删除lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFBGqUtHSQ1T.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQkdxVXRIU1ExVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQkY2QjAyQS0zMTgxLTQzMUMtQUZGNi1DMzkxNkU2QUIyNzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjA4MjY3MCwiZXhwIjoxNzM2MDgzMjcwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Q6uY-L6KHIw6pjdoLr3DK635kbKPrkerLGmQZx_-9ZFEHlJ2mED11ZzNPuU6DPSRGAvxxy_WHvn29eyIOcIEVXgG3Ki4v4VVPrao4wIZekG3OYPcUHo5m2scWjkZM-Ma
