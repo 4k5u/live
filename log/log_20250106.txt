@@ -152,3 +152,8 @@ Mon Jan 6 06:01:21 CST 2025
 Mon Jan 6 06:03:28 CST 2025
 Mon Jan 6 06:03:58 CST 2025
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+Mon Jan 6 06:24:28 CST 2025
+Mon Jan 6 06:24:35 CST 2025
+Mon Jan 6 06:26:45 CST 2025
+Mon Jan 6 06:27:15 CST 2025
+删除lovewindy https://edge20-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-b78b718e425cd3597cce75d3b5a956c67c96054aee7b9eaead68f6eb0740db2b_trns_h264/playlist.m3u8
