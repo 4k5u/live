@@ -49,3 +49,11 @@ Mon Jan 6 01:45:54 CST 2025
 删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.n2oFv11t1MpUpKmQoOfqzw0NIWQV5n7jQK6ZY6iStnVT0JJV8x63NiJmY-gFox6ATMef3I7EuY8D0GfY4oRW_RtDDQK1zq1zMtUjuz_hMqS7lkP3d2YJPqp5v9pEjTYA
 删除lovewindy https://edge34-phx.live.mmcdn.com/live-hls/amlst:lovewindy-sd-ab15ee13afb56c6196a462846fe8d8ff254709c7f88b6f42d25405d0eaff41f5_trns_h264/playlist.m3u8
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+添加lovewindy https://edge20-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-b78b718e425cd3597cce75d3b5a956c67c96054aee7b9eaead68f6eb0740db2b_trns_h264/playlist.m3u8
+Mon Jan 6 01:58:07 CST 2025
+Mon Jan 6 01:58:20 CST 2025
+Mon Jan 6 02:00:28 CST 2025
+Mon Jan 6 02:00:58 CST 2025
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzYxMjAzMTA4MzUsImlhdCI6MTczNjA3NzExMH0.eoQf2QiyTRKtxbbBtLacKQW_3jkGemXCg7c6309CrUOmTEw8H0dM4Z1YyP6CEXnEQNU9qV0gopG9qPJczIcQBahxlmral_6zdfCZ4hzbtSajWoI_Yzk7ZAnQoomrAdWx
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
