@@ -230,3 +230,12 @@ Sun Jan 5 09:53:47 CST 2025
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除sexygamesx https://edge4-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-bcb0253cc3664b6974239d45b61061bcbd08222b26d34c0901580f2b397b517e_trns_h264/playlist.m3u8
+Sun Jan 5 10:48:35 CST 2025
+Sun Jan 5 10:48:45 CST 2025
+Sun Jan 5 10:50:52 CST 2025
+Sun Jan 5 10:51:22 CST 2025
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除kiyoko_rin https://edge19-ash.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-3b3f497c277ea1c1e1168e9bb812726705c89d5b59629579bc05fb2ec30b39bb_trns_h264/playlist.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
