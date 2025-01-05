@@ -10,3 +10,4 @@ TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 oki_dokie https://edge3-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-63d23982ca54ee65e839c9a1a99f3c0ff99de118d3303975fb15f013538cee47_trns_h264/playlist.m3u8
+YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
