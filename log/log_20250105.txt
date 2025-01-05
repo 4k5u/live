@@ -374,3 +374,10 @@ Sun Jan 5 17:38:46 CST 2025
 Sun Jan 5 17:38:57 CST 2025
 Sun Jan 5 17:41:06 CST 2025
 Sun Jan 5 17:41:36 CST 2025
+添加your_desssert https://edge4-lax.live.mmcdn.com/live-hls/amlst:your_desssert-sd-16e05be6f6c159171be2db54810897b3f8b5f46b49a75e952f65193ad9e25904_trns_h264/playlist.m3u8
+Sun Jan 5 17:50:57 CST 2025
+Sun Jan 5 17:51:08 CST 2025
+Sun Jan 5 17:53:05 CST 2025
+Sun Jan 5 17:53:32 CST 2025
+删除oda_assuri https://edge17-mia.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-acd02391a172b0bf9273d2525384db28ac46b18188b39e413ea0c693caa7b6be_trns_h264/playlist.m3u8
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
