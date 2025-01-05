@@ -129,3 +129,8 @@ Mon Jan 6 05:11:08 CST 2025
 Mon Jan 6 05:11:38 CST 2025
 添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+添加mazzanti_ https://edge9-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-c4e43d064b785a9e2fefe3c72711755edf1c0f1baf41d1827856910d093d9e43_trns_h264/playlist.m3u8
+Mon Jan 6 05:26:06 CST 2025
+Mon Jan 6 05:26:09 CST 2025
+Mon Jan 6 05:28:19 CST 2025
+Mon Jan 6 05:28:49 CST 2025
