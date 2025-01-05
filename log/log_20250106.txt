@@ -74,3 +74,9 @@ Mon Jan 6 02:44:56 CST 2025
 Mon Jan 6 02:47:04 CST 2025
 Mon Jan 6 02:47:33 CST 2025
 删除lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFBGqUtHSQ1T.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQkdxVXRIU1ExVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQkY2QjAyQS0zMTgxLTQzMUMtQUZGNi1DMzkxNkU2QUIyNzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjA4MjY3MCwiZXhwIjoxNzM2MDgzMjcwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Q6uY-L6KHIw6pjdoLr3DK635kbKPrkerLGmQZx_-9ZFEHlJ2mED11ZzNPuU6DPSRGAvxxy_WHvn29eyIOcIEVXgG3Ki4v4VVPrao4wIZekG3OYPcUHo5m2scWjkZM-Ma
+Mon Jan 6 02:58:11 CST 2025
+Mon Jan 6 02:58:22 CST 2025
+Mon Jan 6 03:00:30 CST 2025
+Mon Jan 6 03:01:01 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除oki_dokie https://edge16-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-98ea1576927791c75efadb4988dc78639ab8aa28a77298f94ed77f7046e4b50f_trns_h264/playlist.m3u8
