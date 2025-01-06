@@ -13,3 +13,4 @@ imsocutesexy https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 -Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 my_eyes_higher https://edge20-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-267427f6277a722e957452cfb2afa640dd6120d07ae2a4a57d9213d352badeb9_trns_h264/playlist.m3u8
 -Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
