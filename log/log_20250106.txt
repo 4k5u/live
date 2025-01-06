@@ -324,3 +324,8 @@ Mon Jan 6 16:42:40 CST 2025
 Mon Jan 6 16:43:10 CST 2025
 添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Mon Jan 6 16:52:09 CST 2025
+Mon Jan 6 16:52:22 CST 2025
+Mon Jan 6 16:54:20 CST 2025
+Mon Jan 6 16:54:47 CST 2025
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
