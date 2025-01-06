@@ -42,3 +42,10 @@ Tue Jan 7 01:32:46 CST 2025
 添加JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加lovewindy https://edge34-phx.live.mmcdn.com/live-hls/amlst:lovewindy-sd-470276db058a9036d7ef48f38c6d70d7c47a36a201ff846436d7efeece499e71_trns_h264/playlist.m3u8
+Tue Jan 7 01:42:22 CST 2025
+Tue Jan 7 01:42:47 CST 2025
+添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.f84NGs-3ObqMJzW5ESrKtpPtVQvxiGyT_7mpao-q9EEge-bBFLw5LxzvDYW8JcI_JgOIW8XRZKLPzAQ8wGdeee0g2hsL69HTyf9jHmzB5IT08KGIjrBN03qV8C7mIXbM
+Tue Jan 7 01:44:50 CST 2025
+Tue Jan 7 01:45:17 CST 2025
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
