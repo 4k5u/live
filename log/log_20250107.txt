@@ -101,3 +101,9 @@ Tue Jan 7 03:41:12 CST 2025
 Tue Jan 7 03:43:21 CST 2025
 Tue Jan 7 03:43:51 CST 2025
 添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+Tue Jan 7 03:53:27 CST 2025
+Tue Jan 7 03:53:38 CST 2025
+Tue Jan 7 03:55:42 CST 2025
+Tue Jan 7 03:56:08 CST 2025
+添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+删除lovewindy https://edge34-phx.live.mmcdn.com/live-hls/amlst:lovewindy-sd-470276db058a9036d7ef48f38c6d70d7c47a36a201ff846436d7efeece499e71_trns_h264/playlist.m3u8
