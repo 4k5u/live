@@ -399,3 +399,9 @@ Mon Jan 6 19:34:49 CST 2025
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3T7cq7o_jCp_WTA7wjM_XaTWk2n-sozVJaqTCQGJI8iPHatj3IbIwBJ_mOfbLttLHng15sZssZpWlC_bFfqbPre956zKjI1fu3yT9FcJBRLi8GUMvEQvyYK8Ci7CYkza
+Mon Jan 6 19:43:49 CST 2025
+Mon Jan 6 19:44:24 CST 2025
+Mon Jan 6 19:46:21 CST 2025
+Mon Jan 6 19:46:47 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除lovewindy https://edge34-phx.live.mmcdn.com/live-hls/amlst:lovewindy-sd-a9fa9c7eea8ac505d7521e1cd9679af9adb84580f6a5566dd6a74f83bcfc9552_trns_h264/playlist.m3u8
