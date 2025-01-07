@@ -237,3 +237,12 @@ Tue Jan 7 12:01:15 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除mazzanti_ https://edge12-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-58dc6c47117217ddcb235037c3b5b8336f89ab9d98a7121916f675842857f984_trns_h264/playlist.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加oki_dokie https://edge8-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0f9b46d46a327489697757edabac4ba7e6114a82311bafed1880e63847b48948_trns_h264/playlist.m3u8
+Tue Jan 7 12:26:43 CST 2025
+Tue Jan 7 12:26:46 CST 2025
+Tue Jan 7 12:28:54 CST 2025
+Tue Jan 7 12:29:23 CST 2025
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
