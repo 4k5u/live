@@ -97,3 +97,8 @@ Wed Jan 8 03:05:11 CST 2025
 删除flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JkgGs0DUSaAA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0prZ0dzMERVU2FBQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCOUQwRDNENC02NDUzLTQwMzEtODRBRC1CRDMxRDFBRkQ2NUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjIzMTY4NywiZXhwIjoxNzM2MjMyMjg3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ze8Z5dr7Ek3Gaupx2l7_ZgQfyeTTA4PNLo-DfnGpAiDQsKv2LGESdquEEUuXjP2u19qx-Vqnye_5f5zK4mKV0T6QcCqKNlk2PdY50TzIwz0dhguiGZWKnOAoLP_dOY8S
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除ake_mi https://edge26-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-3d46a04f27e11e71471b3c6959bb94db4e41ac89695d0258b40b0e5e1e4b19db_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge6-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-19c3cf8d47a9eb7b84a2077badd43d585f4b6f0a20c1de2a59dbec05652b2b82_trns_h264/playlist.m3u8
+Wed Jan 8 03:20:24 CST 2025
+Wed Jan 8 03:20:37 CST 2025
+Wed Jan 8 03:22:45 CST 2025
+Wed Jan 8 03:23:15 CST 2025
