@@ -4,5 +4,5 @@ jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 kiyoko_rin https://edge10-lax.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-29e6f861f7f9e8d21a93e396121213b4982a66d980514063a9e47e7772d95839_trns_h264/playlist.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
-lovewindy https://edge6-lax.live.mmcdn.com/live-hls/amlst:lovewindy-sd-32b1da893d94e2a1faf1ca10223bd6d782c58d41305fe21f1a13c79e0a4fcca4_trns_h264/playlist.m3u8
 my_eyes_higher https://edge6-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-19c3cf8d47a9eb7b84a2077badd43d585f4b6f0a20c1de2a59dbec05652b2b82_trns_h264/playlist.m3u8
+mazzanti_ https://edge28-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-d9b742229507901990a937ab4ebc961d7c4df66f17b60c8fc32f6a752c07ebb9_trns_h264/playlist.m3u8

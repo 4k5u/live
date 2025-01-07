@@ -160,3 +160,9 @@ Wed Jan 8 05:53:35 CST 2025
 Wed Jan 8 05:54:05 CST 2025
 删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9OyCRJ7yheOCZTTlsnkAGv60sKyvItd2FGv_ORmpJ4rcCXwTObSRKLthEC3v6k0_CWISZEmmFXYlW9ZNZT7fW5ooEvocRNHgndeDm_2aWVUKDguaSY1cDf5hK2u1DzKK
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nkvUEzhJ6A2Ktu7Ol_ZLSJZfwg7d_cyNAuBZVTvNMYxDj8slga73ipyG2j-ZSceuKNvud40jkxZdtZABTjRCsKrpTdMCv_Gs_-Jlgg7CqVZR4UHVnag5kL4sXr2_bLer
+添加mazzanti_ https://edge28-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-d9b742229507901990a937ab4ebc961d7c4df66f17b60c8fc32f6a752c07ebb9_trns_h264/playlist.m3u8
+Wed Jan 8 06:08:58 CST 2025
+Wed Jan 8 06:09:03 CST 2025
+Wed Jan 8 06:11:10 CST 2025
+Wed Jan 8 06:11:39 CST 2025
+删除lovewindy https://edge6-lax.live.mmcdn.com/live-hls/amlst:lovewindy-sd-32b1da893d94e2a1faf1ca10223bd6d782c58d41305fe21f1a13c79e0a4fcca4_trns_h264/playlist.m3u8
