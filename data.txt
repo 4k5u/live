@@ -11,3 +11,4 @@ hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playl
 lovewindy https://edge6-lax.live.mmcdn.com/live-hls/amlst:lovewindy-sd-32b1da893d94e2a1faf1ca10223bd6d782c58d41305fe21f1a13c79e0a4fcca4_trns_h264/playlist.m3u8
 my_eyes_higher https://edge6-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-19c3cf8d47a9eb7b84a2077badd43d585f4b6f0a20c1de2a59dbec05652b2b82_trns_h264/playlist.m3u8
 -Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
