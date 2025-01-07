@@ -343,3 +343,9 @@ Tue Jan 7 16:53:19 CST 2025
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除oki_dokie https://edge8-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0f9b46d46a327489697757edabac4ba7e6114a82311bafed1880e63847b48948_trns_h264/playlist.m3u8
 删除sexygamesx https://edge16-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-64f7e83addbd69903883ab666715deb93d970ab4e46d93149df91fc09a8b7915_trns_h264/playlist.m3u8
+Tue Jan 7 17:01:32 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4M0UxRTRCNy01QkI4LTRBOEEtQUUzNS05OTFBMEFDNUNGMTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjI0MDQ5NCwiZXhwIjoxNzM2MjQxMDk0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.9HlQD8diM8DwOQMnGckIsFeKOrxnaFXU7YW0WnXRkn1tiOXmbqugKCs62hY0qBOoAhQY3K_CRsGxT_Hkg7yAd6Y3e3YvyG5gR6cX0GZQC6xZaxQtRFtPVHyXB6j2Z4H0
+Tue Jan 7 17:01:47 CST 2025
+Tue Jan 7 17:03:55 CST 2025
+Tue Jan 7 17:04:24 CST 2025
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
