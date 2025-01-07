@@ -412,3 +412,13 @@ Tue Jan 7 19:22:29 CST 2025
 Tue Jan 7 19:23:00 CST 2025
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-14/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3pB55KVOLZrvveNQyYmwsoZGb7pYqAPqmw-_PMgs-ArH-EHyQimQwYZsyPYwiPd3W2BAKWaGbouklOXeYK0Nr-lHRrxG5-HzxPVNMMGUXxW3SVwQLTF_Crqn6kuOZXEP
+Tue Jan 7 19:30:41 CST 2025
+添加dana9282 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.f3h98P9qXjHb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2YzaDk4UDlxWGpIYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NjZDNDlCRS1FNTNCLTQ0Q0YtOTU0QS0xNkUyQUZGRDUzREMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjI0OTQ1NSwiZXhwIjoxNzM2MjUwMDU1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.yPS6BxEijlv6hKcjyD9_uma8QQh6tWOALa2f3AeZ11hOexTkAO2SMZ5_-RgA45f0QMAVKWWnfijiW1kz3jZH_AsyCvkk-xOmHZUwOpt6_2Z7T-GrNO8k8J45xXKhvC5e
+Tue Jan 7 19:31:22 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.YwCVR2agxPoJiIq2I5g_sI0vKhs37kDqwYfq2L27Gv25ZBV9jOvtpwpGzI21oNxfQQmabIeXk6xaZTvaGJCTcj1lBIFF18k7SOq1rrlwU0096yEgQEB9LlPyoEIEkyf7
+Tue Jan 7 19:33:26 CST 2025
+Tue Jan 7 19:33:52 CST 2025
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除your_desssert https://edge1-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b6d97655dfb9e98e5c0c5f4aacb2638bdd97d598073a966c84a46731b811091f_trns_h264/playlist.m3u8
