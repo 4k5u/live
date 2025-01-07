@@ -222,3 +222,9 @@ Tue Jan 7 11:29:25 CST 2025
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除hee_jeen https://edge30-atl.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-394f62d3f37928cc46b6cacd81a3e576af050f1eeb30f6e8e48583e4a3211d08_trns_h264/playlist.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Tue Jan 7 11:45:08 CST 2025
+Tue Jan 7 11:45:11 CST 2025
+Tue Jan 7 11:47:11 CST 2025
+Tue Jan 7 11:47:39 CST 2025
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
