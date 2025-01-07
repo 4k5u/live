@@ -276,3 +276,8 @@ Tue Jan 7 13:50:28 CST 2025
 Tue Jan 7 13:50:55 CST 2025
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+Tue Jan 7 13:59:30 CST 2025
+Tue Jan 7 13:59:33 CST 2025
+Tue Jan 7 14:01:48 CST 2025
+Tue Jan 7 14:02:22 CST 2025
+添加JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
