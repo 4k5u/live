@@ -11,3 +11,5 @@ kiyoko_rin https://edge26-sea.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-69b9fc
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 my_eyes_higher https://edge25-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-35873023281ed773d2cc548419fc598a7cb7539eb6fd9ae093c8b6baf56b2963_trns_h264/playlist.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+lovewindy https://edge8-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-6a6376b4928fd996ab59fc423c868a4f09d7ea763cac0093d1be984e5c2aad9b_trns_h264/playlist.m3u8
+Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8

@@ -118,3 +118,9 @@ Thu Jan 9 04:43:18 CST 2025
 Thu Jan 9 04:45:30 CST 2025
 Thu Jan 9 04:46:00 CST 2025
 删除lovewindy https://edge8-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-f040c53b4dd43f5725a42219c7ea33c6c48c3b5c0a612583953dc1d90c833898_trns_h264/playlist.m3u8
+添加lovewindy https://edge8-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-6a6376b4928fd996ab59fc423c868a4f09d7ea763cac0093d1be984e5c2aad9b_trns_h264/playlist.m3u8
+Thu Jan 9 04:57:59 CST 2025
+Thu Jan 9 04:58:04 CST 2025
+Thu Jan 9 05:00:13 CST 2025
+Thu Jan 9 05:00:43 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
