@@ -346,3 +346,10 @@ Wed Jan 8 16:34:51 CST 2025
 Wed Jan 8 16:35:17 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除_meganmeow_ https://edge9-phx.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-0f11e0cd196fb7a9da419bca6fb76ada5bf62afbb30da2cfb615497ddcde283d_trns_h264/playlist.m3u8
+Wed Jan 8 16:47:49 CST 2025
+Wed Jan 8 16:48:04 CST 2025
+Wed Jan 8 16:50:13 CST 2025
+Wed Jan 8 16:50:43 CST 2025
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
