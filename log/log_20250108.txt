@@ -268,3 +268,12 @@ Wed Jan 8 13:00:27 CST 2025
 Wed Jan 8 13:00:58 CST 2025
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEOEU4REY2Qi1GRkNCLTRFQjMtQUE3Qi1GQTAwRDIxRDM3M0EiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjI2NjM2MywiZXhwIjoxNzM2MjY2OTYzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.kf4p1IDyl1Ajn6mntNas1PlqgI31qYqWpZ8DPSXe6HsR7eqPvJOeaaCQEl5XcMhoDfWdb4LChzpsMxa5-IdmQyVHpailhA4l6GROjjjhQ-4HL4B3H5dMVHEdF2jhIMrd
+Wed Jan 8 13:22:43 CST 2025
+Wed Jan 8 13:22:50 CST 2025
+添加yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Wed Jan 8 13:24:57 CST 2025
+添加moto5053 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.ZzPbRyiE4wgK.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9aelBiUnlpRTR3Z0siLCJleHAiOjE3MzYzNTYxMTgzMzIsImlhdCI6MTczNjMxMjkxOH0.bmtGVkU7vL2vvhFeIYVQ_gW977cM7EkuZkv-EzL3-YvdGstw96eUjk2jqrtPEu98wG7Du_cxv2-J36vRoymtLfqWvwnGUJidmK6EaWm2bwonhvDgOl2b114amqHTkQN1
+Wed Jan 8 13:25:31 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除_meganmeow_ https://edge28-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-0f11e0cd196fb7a9da419bca6fb76ada5bf62afbb30da2cfb615497ddcde283d_trns_h264/playlist.m3u8
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
