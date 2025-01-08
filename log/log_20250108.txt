@@ -388,3 +388,11 @@ Wed Jan 8 18:13:02 CST 2025
 Wed Jan 8 18:15:06 CST 2025
 Wed Jan 8 18:15:33 CST 2025
 删除oki_dokie https://edge12-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-b6d73378608d292dd32a23eb621f292118338caa595c1db5f4f8560c8274d9bd_trns_h264/playlist.m3u8
+添加your_desssert https://edge15-mia.live.mmcdn.com/live-hls/amlst:your_desssert-sd-beca3e15ffd54c67c21a23f73ba91e1b40121bc1d32f2d05369bb2cfb254ff98_trns_h264/playlist.m3u8
+Wed Jan 8 18:35:43 CST 2025
+添加green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFC1eSatgATs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQzFlU2F0Z0FUcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5QTZDNTkzRi0zRTNFLTQ4RkItQTQ0Qi01MjkzQzM1QzZENjAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjMzMjU0OCwiZXhwIjoxNzM2MzMzMTQ4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.37wresJCLbI6aXEKbNUyzi9wcq4mVrBuOarqw19Vx460M1yOilM32vxgwNw7K1c3_JR89q-QpFb_9FJbChsf4N63naQrynRu9_uf6FuybYlAi6LvJwqNjbFBtHGaHes-
+Wed Jan 8 18:36:17 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stm-20/auth_master_playlist.m3u8?aid=null
+Wed Jan 8 18:38:33 CST 2025
+Wed Jan 8 18:39:04 CST 2025
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
