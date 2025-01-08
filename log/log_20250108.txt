@@ -283,3 +283,8 @@ Wed Jan 8 13:43:11 CST 2025
 Wed Jan 8 13:43:37 CST 2025
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Wed Jan 8 13:52:20 CST 2025
+Wed Jan 8 13:52:27 CST 2025
+Wed Jan 8 13:54:37 CST 2025
+Wed Jan 8 13:55:07 CST 2025
+删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
