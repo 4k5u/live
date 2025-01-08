@@ -246,3 +246,13 @@ Wed Jan 8 12:02:30 CST 2025
 Wed Jan 8 12:03:00 CST 2025
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加oki_dokie https://edge12-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-b6d73378608d292dd32a23eb621f292118338caa595c1db5f4f8560c8274d9bd_trns_h264/playlist.m3u8
+Wed Jan 8 12:29:29 CST 2025
+Wed Jan 8 12:29:34 CST 2025
+Wed Jan 8 12:31:33 CST 2025
+Wed Jan 8 12:31:59 CST 2025
+删除mazzanti_ https://edge28-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-d9b742229507901990a937ab4ebc961d7c4df66f17b60c8fc32f6a752c07ebb9_trns_h264/playlist.m3u8
+删除YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
+删除hee_jeen https://edge6-chi.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-43a8dd79006ccf4eb9cb5e77868b79156c490ac670d739c771ee47ee05461d78_trns_h264/playlist.m3u8
+删除sexygamesx https://edge34-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-3b2b78a6cf7b47cea2b0dc504f5e811ff75a53357210c0c137f6f1df40f95bab_trns_h264/playlist.m3u8
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
