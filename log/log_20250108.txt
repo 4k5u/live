@@ -220,3 +220,9 @@ Wed Jan 8 10:54:43 CST 2025
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除my_eyes_higher https://edge6-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-19c3cf8d47a9eb7b84a2077badd43d585f4b6f0a20c1de2a59dbec05652b2b82_trns_h264/playlist.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加sexygamesx https://edge34-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-3b2b78a6cf7b47cea2b0dc504f5e811ff75a53357210c0c137f6f1df40f95bab_trns_h264/playlist.m3u8
+Wed Jan 8 11:15:22 CST 2025
+Wed Jan 8 11:15:27 CST 2025
+Wed Jan 8 11:17:25 CST 2025
+Wed Jan 8 11:17:52 CST 2025
+添加badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
