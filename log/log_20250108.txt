@@ -277,3 +277,9 @@ Wed Jan 8 13:25:31 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除_meganmeow_ https://edge28-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-0f11e0cd196fb7a9da419bca6fb76ada5bf62afbb30da2cfb615497ddcde283d_trns_h264/playlist.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Wed Jan 8 13:41:07 CST 2025
+Wed Jan 8 13:41:14 CST 2025
+Wed Jan 8 13:43:11 CST 2025
+Wed Jan 8 13:43:37 CST 2025
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
