@@ -318,3 +318,8 @@ Wed Jan 8 15:23:59 CST 2025
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除icubi69 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.GUsiHfsr4rWj.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0dVc2lIZnNyNHJXaiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3RUFCQTAwMy0xQzVBLTRCNEUtQjBGOC01MzE1NDZGRTE3MjciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjMwMTIyMiwiZXhwIjoxNzM2MzAxODIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9._JMqvBZ2VJCRhJfvm2mGuX21OQ8h7wu46ND2o4F4PAYJ4sVJAygCy7bwXVzFdLaNMjeZWB7R4mSUqby-LkPIAN6rzTF2L-NQ7D8s5Klv7pX56_A7UBfJGPOdWu0YLTPY
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Wed Jan 8 15:32:24 CST 2025
+Wed Jan 8 15:32:37 CST 2025
+Wed Jan 8 15:34:36 CST 2025
+Wed Jan 8 15:35:03 CST 2025
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
