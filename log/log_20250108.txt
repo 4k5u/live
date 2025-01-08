@@ -366,3 +366,8 @@ Wed Jan 8 17:28:55 CST 2025
 删除oda_assuri https://edge20-ash.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-33dde11e917f2516b5cd93a3f771e07f88af81bdd08b47ba0f081841ef1ee449_trns_h264/playlist.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Wed Jan 8 17:40:19 CST 2025
+Wed Jan 8 17:40:36 CST 2025
+Wed Jan 8 17:42:44 CST 2025
+Wed Jan 8 17:43:15 CST 2025
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
