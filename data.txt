@@ -10,3 +10,6 @@ fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+hee_jeen https://edge11-aus.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-501210732a36d8aacebd63ab71f33031f45228f645c4afa3f182d933e2ccc091_trns_h264/playlist.m3u8
+oki_dokie https://edge15-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d659bc5cae7f6a157f58c8a5cd2d913b2316176bde4b8b8b13b44ff7c1e80da1_trns_h264/playlist.m3u8
+YINGTao-168 https://edge-hls.doppiocdn.live/hls/163958825/master/163958825_auto.m3u8
