@@ -277,3 +277,8 @@ Thu Jan 9 15:03:56 CST 2025
 Thu Jan 9 15:04:26 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Thu Jan 9 15:26:26 CST 2025
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5ODI0NTBGMS1FOEUxLTRCN0ItQTNFOS0xRjFEMjY4QjgwMDEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjQwNzU5MSwiZXhwIjoxNzM2NDA4MTkxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.OOupvOoaBWJ1jk8g5YdUsC4wQGsi5Srxq0r3HDn-wXwBO7IwokqJeeFPY5fdtAus10OdFjIIEYZq70wyIH86o4sPhvyrlzUXU2PwKcC3rjIT8A1EfYZuNrrCgh8_aGrY
+Thu Jan 9 15:26:38 CST 2025
+Thu Jan 9 15:28:44 CST 2025
+Thu Jan 9 15:29:14 CST 2025
