@@ -154,3 +154,11 @@ Fri Jan 10 06:24:49 CST 2025
 Fri Jan 10 06:26:52 CST 2025
 Fri Jan 10 06:27:22 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Fri Jan 10 06:41:44 CST 2025
+Fri Jan 10 06:41:49 CST 2025
+Fri Jan 10 06:43:57 CST 2025
+Fri Jan 10 06:44:27 CST 2025
+添加JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除oki_dokie https://edge26-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2d539b75c7a637a474a8101ba7b4ceb376d81abee22c0923261883eb3e549345_trns_h264/playlist.m3u8
+删除lovewindy https://edge16-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-da5c1ae33d8eae6272186b931ead6f26d520635e066e5b60bfea6766510b995d_trns_h264/playlist.m3u8
