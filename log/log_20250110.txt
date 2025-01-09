@@ -82,3 +82,9 @@ Fri Jan 10 02:51:17 CST 2025
 Fri Jan 10 02:53:32 CST 2025
 Fri Jan 10 02:54:04 CST 2025
 删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
+添加lovewindy https://edge7-mia.live.mmcdn.com/live-hls/amlst:lovewindy-sd-1402496e9abcaec7bfe1b5881d1cf248a98830ae96528d7cb16e61eb518b3dcd_trns_h264/playlist.m3u8
+Fri Jan 10 03:02:29 CST 2025
+Fri Jan 10 03:02:43 CST 2025
+Fri Jan 10 03:04:55 CST 2025
+Fri Jan 10 03:05:25 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
