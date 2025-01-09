@@ -105,3 +105,8 @@ Fri Jan 10 03:52:14 CST 2025
 Fri Jan 10 03:54:13 CST 2025
 Fri Jan 10 03:54:40 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Fri Jan 10 04:09:38 CST 2025
+Fri Jan 10 04:09:46 CST 2025
+Fri Jan 10 04:11:44 CST 2025
+Fri Jan 10 04:12:10 CST 2025
+删除chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzY0NTIzMjM0MTYsImlhdCI6MTczNjQwOTEyM30.b8T9spy5LL7l6rckmYjNTqqidYPcOZLpa1yHSa5MgA8XVVAc-mzKBT_kunohLJfZI74MsQZGic71LU-k7VEHffX3pRM6LwdkYOwPCgNUTAldc1RPG4pYissYQZ9-JeCU
