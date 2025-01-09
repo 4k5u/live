@@ -366,3 +366,10 @@ Thu Jan 9 18:46:10 CST 2025
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Thu Jan 9 18:58:03 CST 2025
+Thu Jan 9 18:58:23 CST 2025
+Thu Jan 9 19:00:32 CST 2025
+Thu Jan 9 19:01:03 CST 2025
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除Tmdgus5411 ?aid=null
