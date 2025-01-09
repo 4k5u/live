@@ -4,7 +4,6 @@ oda_assuri https://edge16-lax.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-27d5e9
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
-TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zchg5G58wMyekCQLXQD5A0-G2AJ3Kh9fH_mUsfIbJzh4Jo91SK-xZuToEqbf01MKfF1aukL3dDOq16j647GqEyHsUDZ71LnetQX0QyYzPNLwDoB5IuB96kI7VIPupE7m
@@ -12,3 +11,4 @@ Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 oki_dokie https://edge15-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5c5298d80222a1da2af921ebe657c416e63fd5a62b22e114d246196b9ccab300_trns_h264/playlist.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JkgGs0DUSaAA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0prZ0dzMERVU2FBQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NTlDMzI0Qi04RjMxLTQ0NzctQkM2Qi1DQTVBMDBFRUQwMzMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjQwMTAwOCwiZXhwIjoxNzM2NDAxNjA4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.VwP9G4Ve0vnqqubh3OXnNxtNnOMCdvyIdhvrO2qcf4HcDtdWrTk71i0J1c4GO9vPgIjILqS2vU2a4Oz85VbGpxbrxvpijRntmqAjFcLsqM_LTbMj9Xk8kdAuOMR58VdX
