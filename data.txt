@@ -6,6 +6,5 @@ fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 sexygamesx https://edge11-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-a471ea6d58aea76c98823f214c3b3baf56316b907206ec972b1a1cb98e3978ab_trns_h264/playlist.m3u8
 kiyoko_rin https://edge15-lax.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-37c3555bfc0149d6f132be5fe27be8537807046e7b17f95e286702fa18e02895_trns_h264/playlist.m3u8
-TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 my_eyes_higher https://edge17-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-0134ea4af4bde91b5c4186d33e159c04a45246a1f7b9cd923272be6845acc82a_trns_h264/playlist.m3u8
 lovewindy https://edge16-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-da5c1ae33d8eae6272186b931ead6f26d520635e066e5b60bfea6766510b995d_trns_h264/playlist.m3u8
