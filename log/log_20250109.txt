@@ -526,3 +526,18 @@ Thu Jan 9 23:27:56 CST 2025
 删除emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5CF4w5XAvR8X.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVDRjR3NVhBdlI4WCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNjZCNThFQi05RkJBLTQ0QkEtQjE0NC1DQ0Y4QTQ0MUVFRDUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjQyMTU0OCwiZXhwIjoxNzM2NDIyMTQ4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ilmWFqQn9sgCQyooWtKEzg365OEjpx_0mVOcDdAIXJ6U1-fG9kOHZYD-7ioyGfhYPq_FtOwTg25tU-vqMewWWhXq9RSfJHzTMIyUvwlaH7Ur8Lrx1lvvmYb8G-MWSx9B
 删除dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.tMKqkZ6ppDhTypQ_kh7kdRHuxAHgqU73Sf7LFUSx8VuN341jr_XxPEudYBMZTkp6z_FIF_udlz0MjmT7hNSf8H_m0khkaYlMLgsTFjgBemJ7w3hNpnMQtOxb1YxuQoZZ
 删除JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
+添加lovewindy https://edge18-atl.live.mmcdn.com/live-hls/amlst:lovewindy-sd-7de0c2721b3931fc9ecd9be967467de53e6294412579f02c70e4b34021b226a2_trns_h264/playlist.m3u8
+Thu Jan 9 23:41:16 CST 2025
+Thu Jan 9 23:41:45 CST 2025
+Thu Jan 9 23:43:54 CST 2025
+Thu Jan 9 23:44:25 CST 2025
+删除flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JkgGs0DUSaAA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0prZ0dzMERVU2FBQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NTlDMzI0Qi04RjMxLTQ0NzctQkM2Qi1DQTVBMDBFRUQwMzMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjQwMTAwOCwiZXhwIjoxNzM2NDAxNjA4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.VwP9G4Ve0vnqqubh3OXnNxtNnOMCdvyIdhvrO2qcf4HcDtdWrTk71i0J1c4GO9vPgIjILqS2vU2a4Oz85VbGpxbrxvpijRntmqAjFcLsqM_LTbMj9Xk8kdAuOMR58VdX
+删除172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+删除-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+删除-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+删除-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
