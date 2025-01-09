@@ -409,3 +409,11 @@ Thu Jan 9 19:44:21 CST 2025
 删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+Thu Jan 9 19:52:27 CST 2025
+Thu Jan 9 19:52:52 CST 2025
+Thu Jan 9 19:55:02 CST 2025
+Thu Jan 9 19:55:33 CST 2025
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2NDVBNzhDNi03MTY4LTQ2NEEtOUUzMy1GOTc1OTdDRTgyOUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjQxNDYzMCwiZXhwIjoxNzM2NDE1MjMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.7C_Ue-P5XG7ehmR9upWYmbTmEzwJklTIzKEWVw8Nxy9wvduTGEZRKSSOs9_g18gW3Zot3D22p7hrla5z7Au0k-fhGzYr_vTcBgxhAuH4Xi2D87yoXtikk6nFRsJOfTPv
