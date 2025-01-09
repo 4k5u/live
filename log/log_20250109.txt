@@ -318,3 +318,15 @@ Thu Jan 9 16:58:06 CST 2025
 Thu Jan 9 17:00:21 CST 2025
 Thu Jan 9 17:00:50 CST 2025
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+Thu Jan 9 17:23:47 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2NDVBNzhDNi03MTY4LTQ2NEEtOUUzMy1GOTc1OTdDRTgyOUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjQxNDYzMCwiZXhwIjoxNzM2NDE1MjMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.7C_Ue-P5XG7ehmR9upWYmbTmEzwJklTIzKEWVw8Nxy9wvduTGEZRKSSOs9_g18gW3Zot3D22p7hrla5z7Au0k-fhGzYr_vTcBgxhAuH4Xi2D87yoXtikk6nFRsJOfTPv
+Thu Jan 9 17:24:08 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.guvNiiBY2oyJEN07HW2WRB95ZvICG7jJJoafM_g36xHpW7wPrjUWL21_Or-o6C0BuidxD6ZPbtvc0lCBQDs8TaFJgtfWT4s_cQ-WG6SU89tGuXnt6-XufVeCwnIcC6vk
+添加flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dUH8PZdybu-rjxWQIrBEcgfS5M7A8tErT-PaefW_7zjv0VPRJd4Zu4Qe0JvX3dpjl_3I0-rB7qGV9oK0iHQYZG0N-PVhz8DuAApwtVP5ZE-6eWpQKK0Qkmm8kshQqmpB
+Thu Jan 9 17:26:31 CST 2025
+添加moto5053 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.ZzPbRyiE4wgK.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9aelBiUnlpRTR3Z0siLCJleHAiOjE3MzY0NTc4NzQwOTcsImlhdCI6MTczNjQxNDY3NH0.0xNBHx6p9K0uFhLizfRpy0J365FvQ5nE2kMBqbPkbzb4lI919XK3qzYbKTfBnnhblY3z_HspgaSckbk27nA-cuILcprpoxGGHh0u-ahdFK1m-ZTnpAOSuinLx6oy9fN0
+Thu Jan 9 17:27:05 CST 2025
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zchg5G58wMyekCQLXQD5A0-G2AJ3Kh9fH_mUsfIbJzh4Jo91SK-xZuToEqbf01MKfF1aukL3dDOq16j647GqEyHsUDZ71LnetQX0QyYzPNLwDoB5IuB96kI7VIPupE7m
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
