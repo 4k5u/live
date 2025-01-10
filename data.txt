@@ -21,3 +21,4 @@ mode_bad https://edge13-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-adcd237b08
 hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
 kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzY1NDE3MjkyNjcsImlhdCI6MTczNjQ5ODUyOX0.H2uJsIeWiEeOj_TJRGdKdGvp-kJOeOT80XkwMGLNabMy4VNN0RhiwuAWbiXL1pVMtWjqF3FXK2Y-Qk7Z9rcJc6eIfRobUxEo0DAoxLICz0Xld_cxBiQYoYV9FxbPW5UX

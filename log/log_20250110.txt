@@ -345,3 +345,8 @@ Fri Jan 10 16:34:47 CST 2025
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除ake_mi https://edge6-mia.live.mmcdn.com/live-hls/amlst:ake_mi-sd-d5c85302ef5ba382fdf040246af969bafb14dd7d3205aa99775705f5a4a56758_trns_h264/playlist.m3u8
 删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Fri Jan 10 16:50:16 CST 2025
+Fri Jan 10 16:50:32 CST 2025
+Fri Jan 10 16:52:28 CST 2025
+添加chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzY1NDE3MjkyNjcsImlhdCI6MTczNjQ5ODUyOX0.H2uJsIeWiEeOj_TJRGdKdGvp-kJOeOT80XkwMGLNabMy4VNN0RhiwuAWbiXL1pVMtWjqF3FXK2Y-Qk7Z9rcJc6eIfRobUxEo0DAoxLICz0Xld_cxBiQYoYV9FxbPW5UX
+Fri Jan 10 16:53:03 CST 2025
