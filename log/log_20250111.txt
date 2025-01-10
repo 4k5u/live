@@ -74,3 +74,8 @@ Sat Jan 11 02:36:11 CST 2025
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 删除lovewindy https://edge4-phx.live.mmcdn.com/live-hls/amlst:lovewindy-sd-9f2eb2997c4d02a6488366445f0ccb5b6f288d2a1144d9f25dc7ab87d48fa2e7_trns_h264/playlist.m3u8
+Sat Jan 11 02:50:06 CST 2025
+Sat Jan 11 02:50:23 CST 2025
+Sat Jan 11 02:52:30 CST 2025
+Sat Jan 11 02:53:00 CST 2025
+删除minion998 https://edge-hls.doppiocdn.live/hls/131654942/master/131654942_auto.m3u8
