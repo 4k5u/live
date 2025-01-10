@@ -396,3 +396,9 @@ Fri Jan 10 18:43:35 CST 2025
 Fri Jan 10 18:44:17 CST 2025
 Fri Jan 10 18:46:26 CST 2025
 Fri Jan 10 18:46:56 CST 2025
+Fri Jan 10 18:58:38 CST 2025
+Fri Jan 10 18:59:07 CST 2025
+添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Fri Jan 10 19:01:11 CST 2025
+Fri Jan 10 19:01:38 CST 2025
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
