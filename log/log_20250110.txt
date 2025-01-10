@@ -320,3 +320,10 @@ Fri Jan 10 15:26:46 CST 2025
 添加anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
 删除icubi69 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.GUsiHfsr4rWj.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0dVc2lIZnNyNHJXaiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNjI1MkFGNi0zOEYxLTRCOTgtOEM1Ri1EQ0YwRTI0NjlERkUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjQ3OTY0OCwiZXhwIjoxNzM2NDgwMjQ4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.RXS3ffP-1IQZloWFm6QNLzb3Y4OZ4NhMMHVZQ3SU0k2eahNbx5dlO0PpOc6YcM3Psg62qdmqilLfGfKjSt3Yl4Q3iRiafA9JnMtk444Zr0RI6iPsw29w-IVtJuQQPlkv
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加mode_bad https://edge13-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-adcd237b08128ccccfedff7d8e35583c8f0111b0755bad0bee58ef11cf1f2bd8_trns_h264/playlist.m3u8
+Fri Jan 10 15:38:49 CST 2025
+Fri Jan 10 15:39:08 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Fri Jan 10 15:41:21 CST 2025
+Fri Jan 10 15:41:51 CST 2025
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
