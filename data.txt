@@ -19,3 +19,4 @@ hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_play
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 oki_dokie https://edge13-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4719a5e205790f794c52ef725aec51107ebc8d356954a35cda6f85e80fd0972b_trns_h264/playlist.m3u8
 my_eyes_higher https://edge18-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-c2ba315e52406cb8ac38fca9a17750ac43315daea124b49c37e08fff8d366530_trns_h264/playlist.m3u8
+lovewindy https://edge26-sea.live.mmcdn.com/live-hls/amlst:lovewindy-sd-49eb30e25f27eebddcefcc7560b9774983b5f47a85156d5284cdb2e528c8aee2_trns_h264/playlist.m3u8
