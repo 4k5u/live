@@ -140,3 +140,7 @@ Sat Jan 11 05:29:59 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除oki_dokie https://edge13-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4719a5e205790f794c52ef725aec51107ebc8d356954a35cda6f85e80fd0972b_trns_h264/playlist.m3u8
 删除my_eyes_higher https://edge18-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-c2ba315e52406cb8ac38fca9a17750ac43315daea124b49c37e08fff8d366530_trns_h264/playlist.m3u8
+Sat Jan 11 05:39:16 CST 2025
+Sat Jan 11 05:39:25 CST 2025
+Sat Jan 11 05:41:30 CST 2025
+Sat Jan 11 05:41:59 CST 2025
