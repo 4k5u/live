@@ -419,3 +419,9 @@ Fri Jan 10 19:23:44 CST 2025
 删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除mode_bad https://edge13-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-adcd237b08128ccccfedff7d8e35583c8f0111b0755bad0bee58ef11cf1f2bd8_trns_h264/playlist.m3u8
+Fri Jan 10 19:30:43 CST 2025
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5CF4w5XAvR8X.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVDRjR3NVhBdlI4WCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMzM1Mzk2RS0wMkI2LTQzMkQtOUNFNS1CMjg0QzNDNDY3NUQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjUwODY2NSwiZXhwIjoxNzM2NTA5MjY1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.aO1R67tmX0L160cYSldbKCu0GPUHNbFioBHeIhh5E33wybttBa5GLgDpjW7jBH54Qk8n7pNY514fjFQPXxV6hQaaT4eLWtCVyjTmQI023mqp2KdppLgpdpA5GewkeT9m
+Fri Jan 10 19:31:24 CST 2025
+Fri Jan 10 19:33:25 CST 2025
+Fri Jan 10 19:33:54 CST 2025
+删除your_desssert https://edge3-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-0158c61a3517517b87bd6b8bbc7b2fba7a49c32dfe4b64bf3464a3ca9d9b73e0_trns_h264/playlist.m3u8
