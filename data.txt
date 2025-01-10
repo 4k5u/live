@@ -43,3 +43,5 @@ San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3
 glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.c3CG9dQDtpf3NTa7hyEFFJbuOf0DcLKWo4yam7NpHfWTO_z_S0qCgrUJdhIc6v1EdoijDrMXxyoD6k2j_D-jUtlxu0xiWTPMQ_0jTnbpvSsRhUQ-euoF7dLZ8IlWFZJQ
 kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+ad0res https://edge23-ash.live.mmcdn.com/live-hls/amlst:ad0res-sd-6b914ed68feb9652b8b723fa5bc398a856a4f8aa39dc4cedca9f115ad59b5415_trns_h264/playlist.m3u8
+leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5sTBBMrQ85QyYQSvPJKh2FfugwFdxx14Fi0n27pdVmmsiUU07a6oDFDjvXmKLUilQhYjxhL_-j23kms7vo3hG3U1v-rxHgXlSJeN1RlYoXIcFy5KHZ5SeWoik7-nygOz
