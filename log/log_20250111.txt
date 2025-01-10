@@ -84,3 +84,11 @@ Sat Jan 11 03:01:38 CST 2025
 Sat Jan 11 03:03:36 CST 2025
 Sat Jan 11 03:04:03 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加oki_dokie https://edge13-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4719a5e205790f794c52ef725aec51107ebc8d356954a35cda6f85e80fd0972b_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge18-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-c2ba315e52406cb8ac38fca9a17750ac43315daea124b49c37e08fff8d366530_trns_h264/playlist.m3u8
+Sat Jan 11 03:20:10 CST 2025
+Sat Jan 11 03:20:25 CST 2025
+Sat Jan 11 03:22:33 CST 2025
+Sat Jan 11 03:23:03 CST 2025
+删除flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JkgGs0DUSaAA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0prZ0dzMERVU2FBQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNkMzNzEzMi00MzZELTQ5Q0UtQTgwQy1BRUZEMzVGMTYyMUQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjQ5MTY3OSwiZXhwIjoxNzM2NDkyMjc5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Mnj5C8fMtaLdmoS0C_TO8fgrEJhXnm41DHObg_9a_qpmbRCuQabQrY0fCGynFwgP7Xrh3MF5V7dlAayGLBo-2jx1ggsOBeLORuc3Cznat5REpjriVbqzE8Uy06BU2afU
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
