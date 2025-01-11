@@ -172,3 +172,9 @@ Sun Jan 12 07:22:35 CST 2025
 Sun Jan 12 07:22:40 CST 2025
 Sun Jan 12 07:24:49 CST 2025
 Sun Jan 12 07:25:20 CST 2025
+添加oki_dokie https://edge3-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-73d4821e3c6dc6a720f734f15e6fb9d0459a1e7f8c4ceecc4127f17211f6355c_trns_h264/playlist.m3u8
+Sun Jan 12 07:39:18 CST 2025
+Sun Jan 12 07:39:23 CST 2025
+Sun Jan 12 07:41:22 CST 2025
+Sun Jan 12 07:41:48 CST 2025
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
