@@ -27,3 +27,4 @@ muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 moto5053 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.ZzPbRyiE4wgK.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9aelBiUnlpRTR3Z0siLCJleHAiOjE3MzY2MzQ5NTE3MzMsImlhdCI6MTczNjU5MTc1MX0.WrbZSR-EWmwM9lNluAOA-MVm-hLpoQSQnf2qQ9LvSwEeKLvVKbVJ1QQQ5Dc9AwSTy8fd4rDlM_eVok835AxOKaG8KaAbN_ErkzapzuJzXlybw_7ywh387OkxT94lLzdn
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 -ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
