@@ -209,3 +209,15 @@ Sat Jan 11 09:54:44 CST 2025
 删除kiyoko_rin https://edge11-chi.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-8e4742eac7ed1a0dc0dbf1633f7da3f82fa23c6504857e813164499d1d693829_trns_h264/playlist.m3u8
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Sat Jan 11 10:43:42 CST 2025
+Sat Jan 11 10:43:49 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.td9enV1xG-Ute2zg815Plo7iKIEagINcaMyMkrsMIDDvi3MoYGeCZdSrWvAq-EXzY09W_dZPZ8Lzx2__AuGcr9m4ItLO-GZltJyhTCvQpvLHtHcxfx82JVQcEtC0tyFg
+Sat Jan 11 10:46:00 CST 2025
+Sat Jan 11 10:46:27 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+删除_meganmeow_ https://edge4-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-32a44e89e8be4885fce323f59dce42c36a0230e25e4808b6541cb135165b09d4_trns_h264/playlist.m3u8
+删除mazzanti_ https://edge4-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-8d7f11d80efab47450c7ae0b1510597be957169f3a0bcc64fc919a9d06a450b5_trns_h264/playlist.m3u8
+删除my_eyes_higher https://edge5-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-9e4a480c8c26d3f22d736a465ea63b5c71643a8c6027a344d8fd44b917f2dbd2_trns_h264/playlist.m3u8
+删除hee_jeen https://edge5-mia.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-26760d9b40a22dadca3b58c617eefd38f22eb8eff86988637a07e74755e4cccd_trns_h264/playlist.m3u8
+删除amilia4u https://edge16-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-036897cf6fa4b571aaf4ef3a4d4fe85724f30801526f77bf2af8e36bb5e59419_trns_h264/playlist.m3u8
