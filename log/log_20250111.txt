@@ -586,3 +586,8 @@ Sat Jan 11 23:41:55 CST 2025
 删除ake_mi https://edge12-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-61a31abfd6a0e205689fdd738d0b510ae4587b522fa46e2d965c8d29cac08312_trns_h264/playlist.m3u8
 删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jykp3cVEfF7O0WXbyDDUlai1KGFO_2RxBMD0_wIExJbZHrhBX7N7GKTnX_MYUTNN5QSekpqu_jtqV2yxcLLmx08EcRXIO2gnZfLLTUWDRAo4QnV4VlawD9ic_OX5x7_K
 删除your_desssert https://edge12-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-8997d7ee4ff79855490880ef22c99fdb7ea201083ea61fa4849b436bd964ec0b_trns_h264/playlist.m3u8
+Sat Jan 11 23:50:02 CST 2025
+Sat Jan 11 23:50:37 CST 2025
+Sat Jan 11 23:52:47 CST 2025
+Sat Jan 11 23:53:18 CST 2025
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
