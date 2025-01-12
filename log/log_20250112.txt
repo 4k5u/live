@@ -411,3 +411,11 @@ Sun Jan 12 19:26:42 CST 2025
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
 删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Sun Jan 12 19:38:37 CST 2025
+Sun Jan 12 19:38:58 CST 2025
+Sun Jan 12 19:41:06 CST 2025
+添加chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzY3MjQ3NDIwOTMsImlhdCI6MTczNjY4MTU0Mn0.Fn9o6nCZUnjkkFfZXY8OOwwNZtYcQXbF5EIkLY_hAP__TVv0A0LAwvoQ_S2bbokrcwd0JW9FmQFX501lENejN4sNhRHcrp-szQZJHwujp_Vkx2tqBTtDMAZYMNAx0one
+Sun Jan 12 19:41:44 CST 2025
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除ake_mi https://edge10-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-bf61add6b6a219b72d393fb370ffb2100023e67f044b45bbb4dad775760ba0a5_trns_h264/playlist.m3u8
