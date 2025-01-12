@@ -331,3 +331,8 @@ Sun Jan 12 16:31:05 CST 2025
 Sun Jan 12 16:31:32 CST 2025
 删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+Sun Jan 12 16:43:33 CST 2025
+Sun Jan 12 16:43:46 CST 2025
+Sun Jan 12 16:45:55 CST 2025
+Sun Jan 12 16:46:25 CST 2025
+删除bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bve2VGU61bIx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2J2ZTJWR1U2MWJJeCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5ODkzMTlFQi1FQjcxLTQ3NUItOTJBMS1BNkYyQzk4M0Y5RUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjY1NTEyNiwiZXhwIjoxNzM2NjU1NzI2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.0ct-VLYdEHOf9YJ72jjdIsElhAohgjDN4zThNOkrJn_Bdia8D8x0iOqdtqkgnvoj2eE37zMtYstSkXP18lvwlfutwrxdC2Is1Msv_sayArHrNkFAAniS1U-EIlMBTa9x
