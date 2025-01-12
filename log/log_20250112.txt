@@ -357,3 +357,9 @@ Sun Jan 12 17:34:28 CST 2025
 Sun Jan 12 17:36:35 CST 2025
 Sun Jan 12 17:37:05 CST 2025
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加ake_mi https://edge10-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-bf61add6b6a219b72d393fb370ffb2100023e67f044b45bbb4dad775760ba0a5_trns_h264/playlist.m3u8
+Sun Jan 12 17:48:12 CST 2025
+Sun Jan 12 17:48:29 CST 2025
+Sun Jan 12 17:50:37 CST 2025
+Sun Jan 12 17:51:07 CST 2025
+删除your_desssert https://edge36-phx.live.mmcdn.com/live-hls/amlst:your_desssert-sd-35c187ee238d9ffd1cd44a3378e0bb6b240d0c7e5c42e95016bf36ccff3ac863_trns_h264/playlist.m3u8
