@@ -22,3 +22,4 @@ imissy0u https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nawJLG6F7gGRVbnsHNwvC33VxkjV0LVxeE_EaKUE5lJs3GXXUUtgnf8_f208eoDGZYdcMsKUZwo5xfTVFBsPB9-Yzi6HHkyDqcVrrxxX_fF3E1KpzFi2mR3MIvUamySC
 l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dtrltE9pQOnoLSIL9IXRVHH670usQekpL4ghFPHchvGukV834fb3OwGYsoKJCyUXM0-mQ0noBJ8dKgy1XN8PDIfpk_6kcHzcNt9OaXFMVw5oowP8QvXqfIG84C39-BXh
