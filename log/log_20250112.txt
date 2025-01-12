@@ -395,3 +395,12 @@ Sun Jan 12 18:54:31 CST 2025
 Sun Jan 12 18:54:58 CST 2025
 删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+Sun Jan 12 19:07:46 CST 2025
+Sun Jan 12 19:08:07 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.izvmeyEDJdMkV1-G8z-zfrSkFCPx83QwpRY0cGzUqbJAYAnq1mE8oZFR5fzWA_2xzgoIqWhHCj0A8JObEGgzWs53o7HQArKcvJRnFbUZ4qpcoiOHOC8uCbDGvHWnQyhx
+Sun Jan 12 19:10:24 CST 2025
+Sun Jan 12 19:10:54 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除your_desssert https://edge5-mia.live.mmcdn.com/live-hls/amlst:your_desssert-sd-4e436418ab14ef2357dfeea05b7e290a4f73f083dd9b6a7b633cf4f2f96ecc2e_trns_h264/playlist.m3u8
