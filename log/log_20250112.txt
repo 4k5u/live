@@ -245,3 +245,10 @@ Sun Jan 12 13:00:25 CST 2025
 Sun Jan 12 13:02:23 CST 2025
 Sun Jan 12 13:02:49 CST 2025
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Sun Jan 12 13:24:20 CST 2025
+Sun Jan 12 13:24:27 CST 2025
+Sun Jan 12 13:26:25 CST 2025
+Sun Jan 12 13:26:51 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.lT2rklNIBC9W8IZPMfZ0iCYl097cd10_jQDpu7a9gRWi9dY9DSa0lKniCzrZzq_N78pWhIk62skgX7Ki_wvEQLZBOH1s6-dktz2PS6OkwPbCYmhezGFp9aB6O4djGA-n
