@@ -504,3 +504,10 @@ Sun Jan 12 22:33:52 CST 2025
 Sun Jan 12 22:35:50 CST 2025
 Sun Jan 12 22:36:16 CST 2025
 添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+添加ad0res https://edge32-phx.live.mmcdn.com/live-hls/amlst:ad0res-sd-b22ccfa1d4b84e6985120e21ed47ff86ca38837efd03eeb403461868a54cc0c1_trns_h264/playlist.m3u8
+Sun Jan 12 22:48:13 CST 2025
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyRkY0Rjk4Ri00NzE0LTQyMjYtQUE2OS0xMDcwNTVGOEMzNzkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjY5MzMwNSwiZXhwIjoxNzM2NjkzOTA1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cbgN-rgJOjycHrGqLpA-yrdpla2lO0Q00tzlYgHrV_AVpLoDF4F66IkxJOWY7xXUa-II-k_THrFqJ7TeGBpU5i3z02ESbP33MaLGm4kdzXWZJAMtyTPRgT-WuX9PEeYa
+Sun Jan 12 22:48:50 CST 2025
+Sun Jan 12 22:50:49 CST 2025
+Sun Jan 12 22:51:16 CST 2025
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
