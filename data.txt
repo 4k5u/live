@@ -10,3 +10,4 @@ slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 rosyemily https://edge8-aus.live.mmcdn.com/live-hls/amlst:rosyemily-sd-dc0db78ec64ed8fccb07451d1f4e64e59bf1cef45116534ceea9f739dcc0c185_trns_h264/playlist.m3u8
 oki_dokie https://edge1-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5b51e9817c0abb17cd26bd7601f006b37afb8641467192af539f68be9443755f_trns_h264/playlist.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
