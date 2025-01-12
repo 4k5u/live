@@ -389,3 +389,9 @@ Sun Jan 12 18:40:50 CST 2025
 添加kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dtrltE9pQOnoLSIL9IXRVHH670usQekpL4ghFPHchvGukV834fb3OwGYsoKJCyUXM0-mQ0noBJ8dKgy1XN8PDIfpk_6kcHzcNt9OaXFMVw5oowP8QvXqfIG84C39-BXh
 Sun Jan 12 18:43:03 CST 2025
 Sun Jan 12 18:43:33 CST 2025
+Sun Jan 12 18:52:13 CST 2025
+Sun Jan 12 18:52:34 CST 2025
+Sun Jan 12 18:54:31 CST 2025
+Sun Jan 12 18:54:58 CST 2025
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
