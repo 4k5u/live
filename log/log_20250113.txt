@@ -41,3 +41,12 @@ Mon Jan 13 01:01:48 CST 2025
 删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
 删除172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+Mon Jan 13 01:18:21 CST 2025
+Mon Jan 13 01:18:46 CST 2025
+Mon Jan 13 01:20:49 CST 2025
+Mon Jan 13 01:21:18 CST 2025
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除wintersnowwin https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Lo1VOk9jVU8j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xvMVZPazlqVlU4aiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCREUxQUMxMS01N0E5LTRFQkYtQkQ2Ri1BNjU1MERFODYwNTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjY4NTk0NywiZXhwIjoxNzM2Njg2NTQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.awZZD9uZOvPGtRdhpUfcNysIXBUj_ofqJGUJ0K6yjKj21iXGtFYcTfOosjDUWe_SEPOIH66QD0IJItoyQgEEf2zJCl6rNT-mIdl46GTLJpH5rMjsLiVDwwzIJ7ZlDefb
+删除hee_jeen https://edge5-mia.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-b111bd1ea5218847399e14973440a02449a3fe9c9cd50c30121463f65dee08d9_trns_h264/playlist.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
