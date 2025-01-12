@@ -158,3 +158,10 @@ Mon Jan 13 05:59:45 CST 2025
 Mon Jan 13 06:01:53 CST 2025
 Mon Jan 13 06:02:23 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加rosyemily https://edge8-aus.live.mmcdn.com/live-hls/amlst:rosyemily-sd-dc0db78ec64ed8fccb07451d1f4e64e59bf1cef45116534ceea9f739dcc0c185_trns_h264/playlist.m3u8
+添加oki_dokie https://edge1-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5b51e9817c0abb17cd26bd7601f006b37afb8641467192af539f68be9443755f_trns_h264/playlist.m3u8
+Mon Jan 13 06:22:57 CST 2025
+Mon Jan 13 06:23:04 CST 2025
+Mon Jan 13 06:25:12 CST 2025
+Mon Jan 13 06:25:41 CST 2025
+删除lovewindy https://edge8-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-149f414c06d436a833730da0f165b0e053d9ab386b2debb0cd1d176425d9a7f7_trns_h264/playlist.m3u8
