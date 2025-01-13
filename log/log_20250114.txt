@@ -71,3 +71,9 @@ Tue Jan 14 03:00:11 CST 2025
 Tue Jan 14 03:02:19 CST 2025
 Tue Jan 14 03:02:48 CST 2025
 添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+Tue Jan 14 03:20:07 CST 2025
+Tue Jan 14 03:20:20 CST 2025
+Tue Jan 14 03:22:31 CST 2025
+Tue Jan 14 03:23:02 CST 2025
+删除Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+删除ad0res https://edge14-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-71f7c335362930f0cfe8427100ead568e1cc92a5482970e202e7fdc37e980710_trns_h264/playlist.m3u8
