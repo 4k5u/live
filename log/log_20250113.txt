@@ -312,3 +312,8 @@ Mon Jan 13 15:34:18 CST 2025
 Mon Jan 13 15:34:49 CST 2025
 添加anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加mode_bad https://edge3-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-66e4443eae421a480e6c94161ef28b64d284049ce754d2900b82d221829c6ab5_trns_h264/playlist.m3u8
+Mon Jan 13 15:48:32 CST 2025
+Mon Jan 13 15:48:43 CST 2025
+Mon Jan 13 15:50:51 CST 2025
+Mon Jan 13 15:51:21 CST 2025
