@@ -270,3 +270,7 @@ Mon Jan 13 13:26:22 CST 2025
 Mon Jan 13 13:26:52 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除amilia4u https://edge9-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-da82bd77b27a536ae71a60393030c5dcfa6cf02c761a6fa4bd122db2d9bb3085_trns_h264/playlist.m3u8
+Mon Jan 13 13:42:35 CST 2025
+Mon Jan 13 13:42:46 CST 2025
+Mon Jan 13 13:44:43 CST 2025
+Mon Jan 13 13:45:09 CST 2025
