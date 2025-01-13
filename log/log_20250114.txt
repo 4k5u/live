@@ -95,3 +95,11 @@ Tue Jan 14 04:01:52 CST 2025
 删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.w-8fqJ_Z8qD75sRWUY5xQazY_nVyWXlNIkm8adLZKQ0vcxB78VPOk0odLBYHJ7j8sNKI2qsbxf2LtH-Et7ZqPQjvhd9LYKveBmB3NBWTSFlxMvcEXmVagIoziQ7sJZzV
 删除dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.E-pXxFAAQLdOl-ZzdTbSLwI_JwnJ_gIhxvs2kcTYjlKYId-0cEG3EypT2x7TfRfNAmA6uLETwgqG3Puxu1_o5gsQtWQASiNuORSz3zDA_Num0vTnX5jPKV-nJ8vVVRXl
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+Tue Jan 14 04:23:55 CST 2025
+Tue Jan 14 04:24:04 CST 2025
+Tue Jan 14 04:28:38 CST 2025
+Tue Jan 14 04:29:09 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.eBxc3aR2XJmy.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VCeGMzYVIyWEpteSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGOTlGMjY3RS1GOEUzLTQyRTYtODlFRS0yOTQxRkJFODkwOUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjc4MTk3OCwiZXhwIjoxNzM2NzgyNTc4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cC3EBVhZ1hrZuzQZ82vmTuSWG_FrXVAn3mJi6x3qLG_jH_5Nezt1Xh68S1Yun1jCF-Q_HwTjBAd6587q3_udXF32-33RCuQysDMd79obAHQluUo9zCKvdk1pUpFHi2yL
+删除tw_Sutew https://edge-hls.doppiocdn.live/hls/104933496/master/104933496_auto.m3u8
