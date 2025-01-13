@@ -401,3 +401,10 @@ Mon Jan 13 19:33:34 CST 2025
 Mon Jan 13 19:34:05 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+添加lovewindy https://edge2-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-43d868640ff791332103cfd18e88abeec6499e7401952d02906574b03ec7938c_trns_h264/playlist.m3u8
+Mon Jan 13 19:42:09 CST 2025
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RDVGQ0U1Ni1FNEYyLTQwMzctQjA4Qi00RUUzMkE2RUU2QUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjc2ODU0NywiZXhwIjoxNzM2NzY5MTQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.eFVr8fdofQ118c9sssnTCaGDldSp17yXqLi-YOpKLJgFbxjL_r1Lm4RTzL_-HMCWGNul9ys7OFLSe0QyX7gV0snSc2dKS7ZNjGH3kcExl0LZ3-Vyd_c0pIGYg9CSh5ar
+Mon Jan 13 19:42:39 CST 2025
+Mon Jan 13 19:44:46 CST 2025
+Mon Jan 13 19:45:15 CST 2025
+添加-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
