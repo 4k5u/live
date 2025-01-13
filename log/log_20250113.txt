@@ -242,3 +242,10 @@ Mon Jan 13 12:00:11 CST 2025
 Mon Jan 13 12:00:20 CST 2025
 Mon Jan 13 12:02:24 CST 2025
 Mon Jan 13 12:02:53 CST 2025
+Mon Jan 13 12:30:29 CST 2025
+Mon Jan 13 12:30:38 CST 2025
+Mon Jan 13 12:32:47 CST 2025
+Mon Jan 13 12:33:17 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNEEwRDdBNC1GODM5LTQ3NEEtOURDRC00QTEwODg1Qzc3QzAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjY3NDQ1OSwiZXhwIjoxNzM2Njc1MDU5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.0QesusgsecetKvgq5gxGt2m7YTKqVa5_J4LnFagEaBXc3BBaKBkmQQPK33k0QKq7irZa4pP4yY_sJcAn9-D4kqTwJiguVBvovQTfKB-KKkcpHbUiRNhDlCgvt8L-CSk2
+删除rosyemily https://edge2-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-bda0a2e76a2d9ee4f44e7eda3a9818449fbdb9e73493a3224bc09d4218a0ea22_trns_h264/playlist.m3u8
