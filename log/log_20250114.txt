@@ -247,3 +247,8 @@ Tue Jan 14 13:42:39 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除amilia4u https://edge28-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-cb5f44cc50134b68b90d40e17241a3ebf82125bff08ca8c308460e965fa9036f_trns_h264/playlist.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Tue Jan 14 13:50:58 CST 2025
+Tue Jan 14 13:51:03 CST 2025
+Tue Jan 14 13:53:09 CST 2025
+Tue Jan 14 13:53:38 CST 2025
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
