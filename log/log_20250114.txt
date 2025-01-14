@@ -273,3 +273,9 @@ Tue Jan 14 14:39:50 CST 2025
 删除chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzY4NzIzOTM3MjksImlhdCI6MTczNjgyOTE5M30.TIL6WXpVvPJnMvqXFA8s8ea2OmRUGU6Y2y9bvQBJwPt_KXN0NXlHhKTFuYcDFOQfggEJamZG9tqPcf4Eoq1ysGXoy6yfhy-UhREoySlFba31R93wsenI-8AF3UGs2wdp
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Tue Jan 14 14:49:13 CST 2025
+Tue Jan 14 14:49:20 CST 2025
+Tue Jan 14 14:51:29 CST 2025
+Tue Jan 14 14:51:59 CST 2025
+添加Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+删除kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OWEZp6tLNurege_ZkqS1iBS50TTj4PAOsRFE2k50ubQdhdjBrVs-5cve7kQqVHAEF57f_DqMT4ZGqZ1Zg3xloSduMyJx9EWais77PG8hdoRue410eAXb6jsrvWZrSRyi
