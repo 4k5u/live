@@ -389,3 +389,9 @@ Tue Jan 14 18:49:59 CST 2025
 Tue Jan 14 18:52:05 CST 2025
 Tue Jan 14 18:52:35 CST 2025
 删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Tue Jan 14 18:59:32 CST 2025
+Tue Jan 14 18:59:57 CST 2025
+Tue Jan 14 19:02:06 CST 2025
+Tue Jan 14 19:02:37 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
