@@ -240,3 +240,10 @@ Tue Jan 14 13:26:14 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NjI3RTE3OS03MDUyLTRFNTEtQkE2Ri0zNEYxRTBBQTY3REIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjgyMTk4MywiZXhwIjoxNzM2ODIyNTgzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.sbG3yKI2ZsaWFL_xv2uZUsPAbTTyEa4WdE18GSN7Wj3m5iRxqERxNIIt-OMr5hyodZpeVmUZQs6gYSXlNrqnL_A_TgzviLuB8WhJDD1krsiVbnnNvstN8xhIUn89WY2P
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+Tue Jan 14 13:40:10 CST 2025
+Tue Jan 14 13:40:15 CST 2025
+Tue Jan 14 13:42:12 CST 2025
+Tue Jan 14 13:42:39 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除amilia4u https://edge28-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-cb5f44cc50134b68b90d40e17241a3ebf82125bff08ca8c308460e965fa9036f_trns_h264/playlist.m3u8
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
