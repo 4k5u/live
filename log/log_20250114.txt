@@ -384,3 +384,8 @@ Tue Jan 14 18:34:50 CST 2025
 Tue Jan 14 18:35:28 CST 2025
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Tue Jan 14 18:49:33 CST 2025
+Tue Jan 14 18:49:59 CST 2025
+Tue Jan 14 18:52:05 CST 2025
+Tue Jan 14 18:52:35 CST 2025
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
