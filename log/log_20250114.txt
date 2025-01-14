@@ -361,3 +361,10 @@ Tue Jan 14 17:43:43 CST 2025
 删除sexygamesx https://edge2-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-2d23484c843d59b62d2e157ea9f6768bdce3bbc3466610c2ef73ee3975dca603_trns_h264/playlist.m3u8
 删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
 删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
+添加sexygamesx https://edge3-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-962b5b7ac5525107c0609c27368f618f9cf3309128b131fd1199c56e76e6a9f5_trns_h264/playlist.m3u8
+Tue Jan 14 17:51:54 CST 2025
+Tue Jan 14 17:52:11 CST 2025
+Tue Jan 14 17:54:21 CST 2025
+Tue Jan 14 17:54:52 CST 2025
+删除chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzY4ODk3MDg2MzksImlhdCI6MTczNjg0NjUwOH0.PXDJYzzleEopy3SVAOd9rNfVY-Z7upAwvcLpnhENsjNvTvANsc-tBp64rT0ZDwNTe6xXFSVt0w8PACx3ni4arGI-lYyx6pmnYE5i0Px0FAjdXABLJ_HSl5CnOQkCP_jz
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
