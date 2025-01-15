@@ -183,3 +183,15 @@ Wed Jan 15 08:04:18 CST 2025
 添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除hee_jeen https://edge6-lax.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-ab14d87f8805a613d3e6e5ea260a3f593ef16c9918045b43f07947a0c1a3a913_trns_h264/playlist.m3u8
+添加_meganmeow_ https://edge29-phx.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-6cc2a3e5c063bc1bce19a14423e7bbdbfac766c6fe38633b0bb29ad0456011b7_trns_h264/playlist.m3u8
+添加oda_assuri https://edge12-aus.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-032a17626f51a1a38f25f842dd0b933c1dc9794adfc53b7220bd81ad6a2a1825_trns_h264/playlist.m3u8
+添加intim_mate https://edge16-lax.live.mmcdn.com/live-hls/amlst:intim_mate-sd-a829049fa5d6c0858bd2ed50d6a776f9d0f06ab5e8eedb2ea8a959d41a6b8a10_trns_h264/playlist.m3u8
+Wed Jan 15 09:49:34 CST 2025
+Wed Jan 15 09:49:43 CST 2025
+Wed Jan 15 09:51:42 CST 2025
+添加bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qvVYVUYPiOVp.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xdlZZVlVZUGlPVnAiLCJleHAiOjE3MzY5NDgxNDk4MjAsImlhdCI6MTczNjkwNDk0OX0.8uBhc6J3unbwPt5_IWuHB9AZ4DNy8qGP-mzlnEPVr2NALXgDD8l294cjNElEvAk61Ho-oFBP6HnLNRGEyfIpBrlVDQmseYXxag3PREAogBm-AiHskal_gv-d0dq01CCY
+Wed Jan 15 09:52:11 CST 2025
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
