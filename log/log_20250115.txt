@@ -322,3 +322,12 @@ Wed Jan 15 15:41:37 CST 2025
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除h920823 ?aid=null
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Wed Jan 15 15:49:57 CST 2025
+Wed Jan 15 15:50:06 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-14/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Mu3bQ4RfptDtPSadA0uloNPf4ZzKCMawrkLdsfLQeCyHtRaW-4bUAWwdqN9azoepIGFwF8YS5cKqpN6l5SOFVUbAaVJYjx-ydoqNRHFK2j5P7YcQujyNdvwsPwdSiR_T
+Wed Jan 15 15:52:21 CST 2025
+Wed Jan 15 15:52:52 CST 2025
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzY5NTM3NDg5NDMsImlhdCI6MTczNjkxMDU0OH0.1fmf_xeYPcF-PKYbHEyrM3O_BM3ha6vEEn4xhWq96S7eFQp8QQc-U740StkGCJYeCW3Cl6YEaFRUx1oI8EbvWuSXI91KB2RXRP1tMg-G2811r37hD00kUl40FDqROOij
