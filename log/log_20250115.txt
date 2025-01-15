@@ -205,3 +205,9 @@ Wed Jan 15 10:42:08 CST 2025
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除kiyoko_rin https://edge9-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-42e0dc7a1ab1d9bd2193e2b3dc1ac37ea43e941875887200d6acc46b43fef839_trns_h264/playlist.m3u8
 删除my_eyes_higher https://edge10-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-daa9490a1bde6f3348e443067de14765268c358881fe2b38de6fcb9ac577afe8_trns_h264/playlist.m3u8
+Wed Jan 15 11:00:55 CST 2025
+Wed Jan 15 11:01:04 CST 2025
+Wed Jan 15 11:03:02 CST 2025
+Wed Jan 15 11:03:29 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
