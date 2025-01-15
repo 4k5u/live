@@ -195,3 +195,13 @@ Wed Jan 15 09:52:11 CST 2025
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+Wed Jan 15 10:39:35 CST 2025
+Wed Jan 15 10:39:44 CST 2025
+Wed Jan 15 10:41:41 CST 2025
+Wed Jan 15 10:42:08 CST 2025
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除kiyoko_rin https://edge9-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-42e0dc7a1ab1d9bd2193e2b3dc1ac37ea43e941875887200d6acc46b43fef839_trns_h264/playlist.m3u8
+删除my_eyes_higher https://edge10-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-daa9490a1bde6f3348e443067de14765268c358881fe2b38de6fcb9ac577afe8_trns_h264/playlist.m3u8
