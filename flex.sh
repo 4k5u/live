@@ -10,7 +10,7 @@ password="$PASSWORD"
 m3u8site="$M3U8SITE"
 logfile="log/log_`date '+%Y%m%d'`.txt"
 #userIds=$1
-userIds="aesoon96 chitaya bada0629 jssisabel moto5053 yxyxyyy sumin2005 zoozoo1119 aesoon96 danhana yepyeppp dbzala yoda111 luvje000";
+userIds="chitaya moto5053 ggseol123 hj0011 N19g61m5apilut kook0613 jxxhxx1202 lovepit alswjd04 wjdwlsdud91 1toptoontv so2so2so jssisabel sumin2005 yxyxyyy bada0629 danhana yoda111 aesoon96 zoozoo1119 dbzala yepyeppp k19g61m1pzneds unauna99 zzudyy do2do2 sexyrain2918 love0410 likeastar77 yunini0624 luvje000";
 
 echo -e `date` >> $logfile
 
