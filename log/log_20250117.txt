@@ -187,3 +187,8 @@ Fri Jan 17 06:03:32 CST 2025
 Fri Jan 17 06:04:41 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除lovewindy https://edge24-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-77bef12c3904aa6c448e9b1620bd92f30e195586d3bccd77725ba75ea9e84903_trns_h264/playlist.m3u8
+Fri Jan 17 06:24:43 CST 2025
+Fri Jan 17 06:24:58 CST 2025
+Fri Jan 17 06:27:05 CST 2025
+Fri Jan 17 06:28:06 CST 2025
+删除hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YSYB8Ftfk8Ip.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lTWUI4RnRmazhJcCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEMTEzRTRBRS03ODE2LTQxRTAtOEEyNi1DNEE0RDQyOUM4NDgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzA0ODA3OCwiZXhwIjoxNzM3MDQ4Njc4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.7chuvKeLtPKt2a72b3F3ZvtMXui3TaSfUp4CDR8eE8ks-2RwJ62gDbzUo9unXv-OGzyvLdw5trHZ3Mei_3ghVkgPt14SzMPmoTRdrgdn9p9jbrhx-SfBSvFjJXhZa4fq
