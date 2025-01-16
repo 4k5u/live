@@ -200,3 +200,10 @@ Thu Jan 16 07:51:20 CST 2025
 Thu Jan 16 07:51:27 CST 2025
 Thu Jan 16 07:53:34 CST 2025
 Thu Jan 16 07:54:35 CST 2025
+添加oda_assuri https://edge9-chi.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-5e371b337f32cc3d23350a2b1476bb754e4f1139b76ad0da69adf0718b66532a_trns_h264/playlist.m3u8
+Thu Jan 16 08:39:18 CST 2025
+Thu Jan 16 08:39:25 CST 2025
+Thu Jan 16 08:41:32 CST 2025
+Thu Jan 16 08:42:33 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
