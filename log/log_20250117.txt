@@ -109,3 +109,8 @@ Fri Jan 17 02:53:27 CST 2025
 删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.tbXEeaFjjM5cXvDK3JSweaohiby_58f5ZDoiuCeir4FG8q7AfVMRCk9qSrN4il7TMiVWFnqQVuoGs-Xa6ODbH_FW9DwkF_-FTge7OsPqLJmDPZyuGDQMRtE01Kt0jrdR
 删除chzhffpt432 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Uze7QTP5a4t9.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1V6ZTdRVFA1YTR0OSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRkQ2MENGNy04NjY1LTQzRjEtOTg3Mi1BNjVFMzJGNDk5QjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzA0MDg1MCwiZXhwIjoxNzM3MDQxNDUwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.orF_0Lm5fPEa_fQ2Npnc4KvnyAsuYbwq0pEVjbehKXpB2oWGV0O7pi1h0DTXwYVGbw2S9FJPPGC2NqaXQQSbm1Vz__Xa2sHlC8Q79c8qDAe7UJxGuYtQogASqYyvitQ3
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+Fri Jan 17 03:00:09 CST 2025
+Fri Jan 17 03:00:38 CST 2025
+Fri Jan 17 03:02:37 CST 2025
+Fri Jan 17 03:03:34 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
