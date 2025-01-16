@@ -157,3 +157,9 @@ Fri Jan 17 04:48:37 CST 2025
 Fri Jan 17 04:50:44 CST 2025
 Fri Jan 17 04:51:46 CST 2025
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+Fri Jan 17 04:59:38 CST 2025
+Fri Jan 17 04:59:53 CST 2025
+Fri Jan 17 05:02:02 CST 2025
+Fri Jan 17 05:03:03 CST 2025
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除gkfnsus5573 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.4vTQkzhj8zas.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzR2VFFremhqOHphcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RDhFRUVBMS0wQjZELTQ2MTctODMzMy02ODU5MDc4MUIyNTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzA1MjMyNCwiZXhwIjoxNzM3MDUyOTI0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.MoLAq-hTGvnl85xyL8CHIRJxUkK0btvCde6rActl5k9nwVvFXq5IMXDMOT1g-2CV0w8ED1v2dtCdXhgD_8kwjP5TVt4Ew2FRT4LJmLwM3mfZCctBO7y2K5knjq8p_Y_O
