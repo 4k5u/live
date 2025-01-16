@@ -222,3 +222,11 @@ Fri Jan 17 07:40:09 CST 2025
 Fri Jan 17 07:42:11 CST 2025
 Fri Jan 17 07:43:19 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加oki_dokie https://edge29-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a6564ec8ef695ffee246fc1d63c50f916d56aa7d4349f89bbbc61e280f2dda7e_trns_h264/playlist.m3u8
+Fri Jan 17 07:51:12 CST 2025
+Fri Jan 17 07:51:21 CST 2025
+Fri Jan 17 07:53:26 CST 2025
+Fri Jan 17 07:54:36 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
