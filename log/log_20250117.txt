@@ -217,3 +217,8 @@ Fri Jan 17 07:27:56 CST 2025
 Fri Jan 17 07:30:06 CST 2025
 Fri Jan 17 07:31:09 CST 2025
 删除lovewindy https://edge24-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-54d711af12599bc4a54adf602f27e65b774600684efe43cb000910f6ad7a4df0_trns_h264/playlist.m3u8
+Fri Jan 17 07:39:58 CST 2025
+Fri Jan 17 07:40:09 CST 2025
+Fri Jan 17 07:42:11 CST 2025
+Fri Jan 17 07:43:19 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
