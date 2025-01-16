@@ -211,3 +211,9 @@ Fri Jan 17 07:12:03 CST 2025
 Fri Jan 17 07:13:05 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Fri Jan 17 07:27:40 CST 2025
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyODgxQ0UxQy05QkFELTQ1MzgtODQ0Ny1GNjAzMjdCOTEyNUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzA3MDA2NSwiZXhwIjoxNzM3MDcwNjY1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Z8OQLueRcV5gtqMdQIaBBCf22_fr1EVYeMVm2qgdXP0EHu3jzH3_jgrswVi2vSpC8PeynXrso9IHjGY4Yd_j8J2rcwIfYRMMOof-dVwL_QmvX7Mdy-SiLuqzjQ5DEzeJ
+Fri Jan 17 07:27:56 CST 2025
+Fri Jan 17 07:30:06 CST 2025
+Fri Jan 17 07:31:09 CST 2025
+删除lovewindy https://edge24-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-54d711af12599bc4a54adf602f27e65b774600684efe43cb000910f6ad7a4df0_trns_h264/playlist.m3u8
