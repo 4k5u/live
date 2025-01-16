@@ -379,3 +379,9 @@ Thu Jan 16 16:33:51 CST 2025
 删除bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
 删除foxylovesyou https://edge12-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-86dcc6a2c209e5dcbd51b607f3a2a2bddd067435c62fce4aa35f8c5374115d5f_trns_h264/playlist.m3u8
 删除chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzcwNTU0OTg3NzUsImlhdCI6MTczNzAxMjI5OH0.nAWvPjNfSngY1ks0EE6Nf_88V8W0zaLvw0fbieBsp3g5reN7diDO8J9G1iZ8-dKfmZ0DtHZ8T8tobIoqk3N0DQVEJ4NoJPc3vhw28Fgzt3pFNgFwF2Xx0UlsH3xJKPcx
+添加foxylovesyou https://edge14-mia.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-86dcc6a2c209e5dcbd51b607f3a2a2bddd067435c62fce4aa35f8c5374115d5f_trns_h264/playlist.m3u8
+Thu Jan 16 16:44:53 CST 2025
+Thu Jan 16 16:45:06 CST 2025
+Thu Jan 16 16:47:15 CST 2025
+Thu Jan 16 16:48:19 CST 2025
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
