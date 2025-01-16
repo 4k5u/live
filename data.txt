@@ -20,3 +20,4 @@ tjfflddl7 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzcwNDM1MjAyMzEsImlhdCI6MTczNzAwMDMyMH0.DDiaqrG6laTQ4jQYWBY3rPx9NV0s9-enUhRumXVNkYrPnMmUhVpb1BPhWUSQUDrFtHdZu_ydw5LU0olOH12fLTxQqAO6dI8Z_0FM1cN95MYM7uQzJ0o4koMctotFOHCh
 bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
