@@ -468,3 +468,9 @@ Fri Jan 17 17:27:20 CST 2025
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Fri Jan 17 17:39:54 CST 2025
+添加fjqwldus1998 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Uq01mbGRxGwN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1VxMDFtYkdSeEd3TiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNDRBNkYwMC1GMzNBLTRBRkYtQjM1QS02MTRDMDU0MUEzRTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzEwNjgwMywiZXhwIjoxNzM3MTA3NDAzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.hr6pGpRG80SPyjzRQkss0ddXbVOkLTaMVYMVcxTuWEWqlBEkFN006w8cHwce0yxgNTDMRHJBTHlIMaRSWlk_7DR6CKPxyd8CK2T2RdH0EtiWFirh4lw1VE62-mJJUIT3
+Fri Jan 17 17:40:34 CST 2025
+Fri Jan 17 17:42:44 CST 2025
+Fri Jan 17 17:43:47 CST 2025
+删除-ci_ci- https://edge-hls.doppiocdn.live/hls/144572178/master/144572178_auto.m3u8
