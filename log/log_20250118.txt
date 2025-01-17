@@ -143,3 +143,10 @@ Sat Jan 18 03:56:51 CST 2025
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除lovewindy https://edge6-mia.live.mmcdn.com/live-hls/amlst:lovewindy-sd-e66d216af862d803c11391f3ead8743c496a2615542f937b682260a5b7bad9c7_trns_h264/playlist.m3u8
+Sat Jan 18 04:20:39 CST 2025
+Sat Jan 18 04:21:05 CST 2025
+Sat Jan 18 04:23:11 CST 2025
+Sat Jan 18 04:24:14 CST 2025
+删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.cG9mMhN-T2bU7DJOeJMPT-tAuFI2xi6mK2A7S5PCMyMxV34asKw91FBxT-opF1jLGAypNnJ9bLJmsVkYZyvP4Bv3XTrALwWvybluRi7BApE0_SO-ar2e8QVZafXZhBJU
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+删除leeyuin1 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bsdut9FXp3gS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JzZHV0OUZYcDNnUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2OURFMzQ0Ni04Mzk2LTQwQzItQjY1Ny1GMUFGNUJDQjU5RkYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzEyNzU1NCwiZXhwIjoxNzM3MTI4MTU0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.moVRREY5FFB-9cqu-9vC6wBV7Ixpy_Cd2UO9bK5EE0aDYL6t618JhGGo4xfo1Eo0nlgGpNq0M7x-wV55ZfTQp5shc76zOY5_GxPQLrADm2J3lmfX4TkiP-mzwC9NlPho
