@@ -11,3 +11,5 @@ Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m
 my_eyes_higher https://edge11-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-bf407cb60c54d80dca62e0cc49bd0151c709cb29aaba7eedd637290c213d278e_trns_h264/playlist.m3u8
 rosyemily https://edge15-lax.live.mmcdn.com/live-hls/amlst:rosyemily-sd-b04c6a03ec1346b6dc474bd6fe70faf2430150d0b278175170f6490e845a3dee_trns_h264/playlist.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+hee_jeen https://edge16-lax.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-d5405b059267f107516cc51fc90eee8e2a04152f570aff808a42fee13db27aae_trns_h264/playlist.m3u8
+mazzanti_ https://edge7-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-341a91a627eb2722efd28f3632cb3344367efc6652cd605b140138d2de1d8ae1_trns_h264/playlist.m3u8
