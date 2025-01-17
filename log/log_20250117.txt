@@ -420,3 +420,9 @@ Fri Jan 17 15:53:58 CST 2025
 Fri Jan 17 15:55:02 CST 2025
 删除intim_mate https://edge11-mia.live.mmcdn.com/live-hls/amlst:intim_mate-sd-8a2af327e8266499d73be2a28e20f935aa5b27d20da4da0dbb761e24aad652c2_trns_h264/playlist.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Fri Jan 17 16:01:36 CST 2025
+添加mayonz https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qhLEZxB5WQ9A.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FoTEVaeEI1V1E5QSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2QjJBQzMyNy0wQTgwLTRCQUMtOERFNC03RUQ1RDAxMjhDOEUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzEwMDkwNiwiZXhwIjoxNzM3MTAxNTA2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.J4GOKhUG_3b3ge5Mxi9DS23V-E5Ym2Jb5KKpl4iB9mJb-Q2uu5mV384pc0P-UBiFlA9PGPji4fEYB7VicXdT2ilnCLJFriOuW1wJGrpVCfUM2g09gjCNY_KZjvK36wSW
+Fri Jan 17 16:02:05 CST 2025
+Fri Jan 17 16:04:13 CST 2025
+Fri Jan 17 16:05:16 CST 2025
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
