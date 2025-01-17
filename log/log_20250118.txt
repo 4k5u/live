@@ -124,3 +124,8 @@ Sat Jan 18 03:23:01 CST 2025
 删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OGByGsK8cTNIT9SW4dOcbV8IQ7MOpg-oK_ZwxqOAnLoiEMTuo_EFIoTykNl4L4dkjw2YNEJ5N_RS1IuDKNGnGF2kpJi3p_5_b8ODV7QpiFHyKtd4n-qz11MucKRjdBkV
 删除Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
+Sat Jan 18 03:31:35 CST 2025
+Sat Jan 18 03:32:04 CST 2025
+Sat Jan 18 03:34:10 CST 2025
+Sat Jan 18 03:35:12 CST 2025
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=null
