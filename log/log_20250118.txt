@@ -191,3 +191,11 @@ Sat Jan 18 05:59:24 CST 2025
 Sat Jan 18 06:01:36 CST 2025
 Sat Jan 18 06:02:44 CST 2025
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TQyFtyf2lSOk9SsoGo9JhC-AFLndwDJn-PFtoStMIgYOtYvLghbAJdqeqizwKmMqu29qsf7CoG7sQC8bJvEvXlBW7C3BIQJuGzVRc8E4B1c1fqtofs2t0svhtMmvAT0m
+添加rosyemily https://edge15-lax.live.mmcdn.com/live-hls/amlst:rosyemily-sd-b04c6a03ec1346b6dc474bd6fe70faf2430150d0b278175170f6490e845a3dee_trns_h264/playlist.m3u8
+Sat Jan 18 06:22:55 CST 2025
+Sat Jan 18 06:23:06 CST 2025
+Sat Jan 18 06:25:08 CST 2025
+Sat Jan 18 06:26:08 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除gkfnsus5573 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.4vTQkzhj8zas.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzR2VFFremhqOHphcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwRjY5RTdEMC1DQkU2LTQwODktOTRFOS01QUMxRDcwMzhDRjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzEyMTk3MSwiZXhwIjoxNzM3MTIyNTcxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.1WqoK0xoGkhuY9iBG1xhp_csS-krZrPrDDV6l9aKxLLBHAtTDz7HDsljLNW7BC-RXeCgfNFKtuKIr_nY7DR85QykNl4qzyRKk43hNUxIx70srlLCZJFpqXqtlwfWltUs
+删除lovewindy https://edge12-lax.live.mmcdn.com/live-hls/amlst:lovewindy-sd-fa10dcbbff404e7cb91db7744ed3e35fbbfaa6b4bd808792471335a5a608202e_trns_h264/playlist.m3u8
