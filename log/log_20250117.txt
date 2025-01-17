@@ -447,3 +447,9 @@ Fri Jan 17 16:48:47 CST 2025
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Fri Jan 17 16:58:17 CST 2025
+Fri Jan 17 16:58:50 CST 2025
+Fri Jan 17 17:00:57 CST 2025
+Fri Jan 17 17:01:58 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MDFCRjQzOS1GRUJDLTQ2MzctOTE2NS1CM0ZDNjVCMTNFQzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzEwMzUxNCwiZXhwIjoxNzM3MTA0MTE0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.t7iHtp-W5DNWXddYsK8TLXo6IZDT3gJDcjrD3lT_TxyhwfG_-iuIAXaL2lwAxtK-Q-qDODLE9o4QxrZqtxaVpAP_50e6Vsz74XI_O0vGp66THefY3yLNdu2d1ayHbR2j
