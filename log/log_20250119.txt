@@ -128,3 +128,11 @@ Sun Jan 19 03:40:15 CST 2025
 Sun Jan 19 03:40:43 CST 2025
 Sun Jan 19 03:42:42 CST 2025
 Sun Jan 19 03:43:39 CST 2025
+Sun Jan 19 03:50:45 CST 2025
+Sun Jan 19 03:51:13 CST 2025
+Sun Jan 19 03:53:19 CST 2025
+Sun Jan 19 03:54:21 CST 2025
+删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1wv2oepm3aSTymBB_0ee5bRv8YOOSzfHT_AB20cOr1GFPr0SIcB-od5qhjU0vq89T-Pgctimtz4i6ej-OH07YwMlxGSJSkfcZpZe6PzrvY3bNYj_ascdhlivPkhxxPru
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
