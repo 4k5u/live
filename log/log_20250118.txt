@@ -569,3 +569,14 @@ Sat Jan 18 19:25:06 CST 2025
 删除ake_mi https://edge7-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-ae59527f7ed2bcf0530a265f9713f30e42370369110d969975971176f630e8f0_trns_h264/playlist.m3u8
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+添加ad0res https://edge7-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-da9d2ad760cac2da97fd4f5313294929e07ba9a5a5ec8d1372011f42fe1e9cba_trns_h264/playlist.m3u8
+添加oki_dokie https://edge26-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-97f37bf6ea3ff06c36378d9ea639641bac4a92fe7ea7f537825807bf3d2debe0_trns_h264/playlist.m3u8
+Sat Jan 18 19:33:35 CST 2025
+Sat Jan 18 19:34:14 CST 2025
+Sat Jan 18 19:36:23 CST 2025
+Sat Jan 18 19:37:26 CST 2025
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除jinricp https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.v7Uq5t9Y8wqB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3Y3VXE1dDlZOHdxQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0RTdFNDg4RS1EMEQ0LTQ2REEtODZCOS0yQzA0ODY3MTIwNUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzE5NTk0NSwiZXhwIjoxNzM3MTk2NTQ1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.A5JvAXv7En-rBG9YJ482iWw3Gh2fFbe0c6bH-J9dt24MpbAfA_MtW2QTkwQjcRQ73cQotJXadcLU1-tQJuSRhdYvwfUKo4W_LvpqYWhqYXnDzIrazJaA4blLJcxYd1j4
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除ggseol123 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.3yciYT1M2dmR.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8zeWNpWVQxTTJkbVIiLCJleHAiOjE3MzcyNDEyNjQxNTcsImlhdCI6MTczNzE5ODA2NH0.uhr_VDCYq0QsmBUsvW_BtO-tl_FoxWP7C1Qalg3EiUeDzXIrLaojQBRKx0QZz8bfAERkEnLMSnq-Dum7Uif8zFMDkCFVWZXB67I_AXTNe0s_-E6loDfjTCOP63dtIeej
