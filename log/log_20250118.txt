@@ -288,3 +288,12 @@ Sat Jan 18 11:41:40 CST 2025
 Sat Jan 18 11:42:44 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Sat Jan 18 11:50:48 CST 2025
+Sat Jan 18 11:51:01 CST 2025
+Sat Jan 18 11:53:09 CST 2025
+Sat Jan 18 11:54:11 CST 2025
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除amilia4u https://edge14-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-9a9aec05f1f78a508be6c5e0c43a6ec4f4a3b5e29010ad6eda3a9b528090dca9_trns_h264/playlist.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
