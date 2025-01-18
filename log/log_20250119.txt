@@ -161,3 +161,9 @@ Sun Jan 19 04:43:44 CST 2025
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRTNEMkUwNi1COTEzLTQzRUYtOTAzQS04OEY3MDNDNzAwQzYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzIxNDc3MSwiZXhwIjoxNzM3MjE1MzcxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ULSGk9kwxjVCeteyM31VeTQ-AbGFADw1KeI85ZuBFrxKhnkHaVPo69G2rCp6eT9DRRnYJtYOJhvGoPfW84U68Spkc7hnpUCUwsclQ-4HSltEJ6iB2zbxOHvlIWeLjQhF
 删除minion998 https://edge-hls.doppiocdn.live/hls/131654942/master/131654942_auto.m3u8
+Sun Jan 19 04:51:17 CST 2025
+Sun Jan 19 04:51:39 CST 2025
+Sun Jan 19 04:53:38 CST 2025
+Sun Jan 19 04:54:35 CST 2025
+删除lovewindy https://edge11-atl.live.mmcdn.com/live-hls/amlst:lovewindy-sd-5bb3e89a5a70357c9fbcf375220a3ddfadb91adb582ad589aea2d2abacdb5e55_trns_h264/playlist.m3u8
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
