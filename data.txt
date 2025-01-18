@@ -40,3 +40,5 @@ qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
