@@ -292,3 +292,9 @@ Sun Jan 19 11:39:33 CST 2025
 添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除kiyoko_rin https://edge9-chi.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-cbb6e97061e6071fae2304399e8eb9a9a50f239f4e182e44caa8532a9931add7_trns_h264/playlist.m3u8
+Sun Jan 19 11:48:07 CST 2025
+Sun Jan 19 11:48:18 CST 2025
+Sun Jan 19 11:50:26 CST 2025
+Sun Jan 19 11:51:27 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8

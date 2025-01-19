@@ -27,3 +27,5 @@ tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
