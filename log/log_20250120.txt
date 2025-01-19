@@ -207,3 +207,8 @@ Mon Jan 20 06:51:06 CST 2025
 Mon Jan 20 06:53:13 CST 2025
 Mon Jan 20 06:54:15 CST 2025
 删除lovewindy https://edge4-mia.live.mmcdn.com/live-hls/amlst:lovewindy-sd-a268ecb4668e4afbc770e55e44cdce70518a484c1116a552796f8f73d2f9de02_trns_h264/playlist.m3u8
+Mon Jan 20 07:02:29 CST 2025
+Mon Jan 20 07:02:42 CST 2025
+Mon Jan 20 07:04:53 CST 2025
+Mon Jan 20 07:05:57 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
