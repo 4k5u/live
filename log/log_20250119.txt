@@ -284,3 +284,11 @@ Sun Jan 19 11:18:29 CST 2025
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4QzVFMUFERC00MTg0LTRBQjUtQjZDMC0yMDdGQzRGMUI4RjciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzIzNzAwOCwiZXhwIjoxNzM3MjM3NjA4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.q0UipfNuyHd5DkgPEhpHp_G7k9tjO1UqkVjmT1rz8QrnmJhbJEM8KxweEz31IZ1vSGdZtl6Q0du2WUFX4PxQIa7ExgTHtCq5GENTpK_-Y6fjyz-dSuhcrl5xX8h52064
 删除oki_dokie https://edge21-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1af4b96f014fd99bd65e6295ef9a77e06d7fa80605608c7de98b4a36f9d32263_trns_h264/playlist.m3u8
+Sun Jan 19 11:36:07 CST 2025
+Sun Jan 19 11:36:18 CST 2025
+Sun Jan 19 11:38:29 CST 2025
+Sun Jan 19 11:39:33 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除kiyoko_rin https://edge9-chi.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-cbb6e97061e6071fae2304399e8eb9a9a50f239f4e182e44caa8532a9931add7_trns_h264/playlist.m3u8
