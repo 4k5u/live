@@ -179,3 +179,8 @@ Mon Jan 20 05:36:21 CST 2025
 删除gkfnsus5573 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.4vTQkzhj8zas.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzR2VFFremhqOHphcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2NTk5NkQwRS0zQzVDLTRFNjItQjdEQy1FQTM4REY4RDk1MkUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzI5MDU2NiwiZXhwIjoxNzM3MjkxMTY2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.FTgc8RT9tFvZltGn-bXNpPJvRFIbi5SM8MDEK8hPfWdVwocvy-UwqlmJX2_5ylBFz3UC3F4GUvlrOpSVZn_FIUuSfJJPWJOrs4MasiOX9Axep6SgWwSykEROZ47UVPCi
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除lovewindy https://edge4-mia.live.mmcdn.com/live-hls/amlst:lovewindy-sd-b674b7abd9879f89b71ccf5caf9d06d2bf8e749323d2f2796e97ce6f5432132e_trns_h264/playlist.m3u8
+添加lovewindy https://edge4-mia.live.mmcdn.com/live-hls/amlst:lovewindy-sd-a268ecb4668e4afbc770e55e44cdce70518a484c1116a552796f8f73d2f9de02_trns_h264/playlist.m3u8
+Mon Jan 20 05:47:58 CST 2025
+Mon Jan 20 05:48:11 CST 2025
+Mon Jan 20 05:50:22 CST 2025
+Mon Jan 20 05:51:25 CST 2025
