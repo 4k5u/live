@@ -342,3 +342,9 @@ Sun Jan 19 13:36:05 CST 2025
 删除_meganmeow_ https://edge3-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-73aa3f0beeabbfb99b3d85c75b7b17c1252477d8179ac75263ad2fe6151fd1dd_trns_h264/playlist.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加ake_mi https://edge9-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-7ecc558cc4dcfd2463f16981cf00ec88d1153b5f9fc7490ee3199e025c72cdc3_trns_h264/playlist.m3u8
+Sun Jan 19 13:48:12 CST 2025
+Sun Jan 19 13:48:23 CST 2025
+Sun Jan 19 13:50:32 CST 2025
+Sun Jan 19 13:51:35 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
