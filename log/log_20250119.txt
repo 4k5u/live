@@ -469,3 +469,9 @@ Sun Jan 19 17:42:20 CST 2025
 Sun Jan 19 17:43:24 CST 2025
 删除oda_assuri https://edge21-ash.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-8c76cf47e47d64076b701e82f50a5765812d88292ead8b6b6c6d8f83bc230d3f_trns_h264/playlist.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+Sun Jan 19 17:50:02 CST 2025
+Sun Jan 19 17:50:23 CST 2025
+Sun Jan 19 17:52:19 CST 2025
+Sun Jan 19 17:53:14 CST 2025
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFRDdFNDNERC03QzNFLTQ5MzEtQkFCQS1EMkQzMkY0MEEyRUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzI3NTEzMSwiZXhwIjoxNzM3Mjc1NzMxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cEPashYRxVmZ5GaBOb5ime68sUA8br5TXPRZuwvLt_sZDxdTdWN2csE1fy1jR7Gp-oGOck2KHHMU9JvrbwZOFsPzgccyInqJWKRbqh5GGB9NgXczkx5x3Dj7WzO-x2hi
