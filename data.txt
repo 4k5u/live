@@ -27,3 +27,4 @@ gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playl
 Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
 SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
