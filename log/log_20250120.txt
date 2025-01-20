@@ -434,3 +434,9 @@ Mon Jan 20 16:49:19 CST 2025
 Mon Jan 20 16:50:16 CST 2025
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+Mon Jan 20 16:59:39 CST 2025
+Mon Jan 20 17:00:02 CST 2025
+Mon Jan 20 17:02:09 CST 2025
+Mon Jan 20 17:03:12 CST 2025
+添加Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
+删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
