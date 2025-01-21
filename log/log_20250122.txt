@@ -168,3 +168,8 @@ Wed Jan 22 04:45:34 CST 2025
 删除smile1001 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Aq2KeOmbMfIT.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0FxMktlT21iTWZJVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNEJBQTFGQi1FOUIwLTQ0OEEtQURDMS1FRjQyNEUzNTQwRDgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzQ4MTI2OSwiZXhwIjoxNzM3NDgxODY5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.sB8FTqtwE9g4O2Ha-hJ0tkUTwSVBj2vdUN3sQLvQQTf3z1gWp6mCMhHQqzk_KC1HjxL4iHLWVFu_vDqUhFgPgVHzshnAjYkSJ0bvtK2ovTcJWk4pHWIryWJ6APV3Tr4Y
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Wed Jan 22 04:58:18 CST 2025
+Wed Jan 22 04:58:23 CST 2025
+Wed Jan 22 05:00:30 CST 2025
+Wed Jan 22 05:01:33 CST 2025
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
