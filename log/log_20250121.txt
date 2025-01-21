@@ -282,3 +282,8 @@ Tue Jan 21 11:42:12 CST 2025
 Tue Jan 21 11:44:25 CST 2025
 Tue Jan 21 11:45:26 CST 2025
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Tue Jan 21 11:53:16 CST 2025
+Tue Jan 21 11:53:29 CST 2025
+Tue Jan 21 11:55:36 CST 2025
+Tue Jan 21 11:56:37 CST 2025
+删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
