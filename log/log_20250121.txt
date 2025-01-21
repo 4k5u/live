@@ -276,3 +276,9 @@ Tue Jan 21 11:30:23 CST 2025
 删除smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yxPJmNISkZDxPqxbRQuXzgKmJGUBmX19yF4iHzN56HE---CvMBwhBwypmDrFj_NDQ5-ObPjOmNOKzCpuA-k-vSJv6dJzETC5IwGH_Xy2iEdIWWryC13xDMonE96fszli
 删除homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGN0YxNzMyMC01MURBLTQ4RDUtODhDNi1GRjlDOTlCQ0UzNEYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzQxNDExNSwiZXhwIjoxNzM3NDE0NzE1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.R2nLbcxME3BWeo-cnpBWIc0dH4Vj1MLHm9KwMlpKkdVIDUem1xuQ3uN7IRZX-c-mYvyQJVmQJ__WKu8OwhARS9B6UOWwSuWddyXGX3Py_0Y0c8-YDU5R4927SVL_AF3u
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Tue Jan 21 11:41:59 CST 2025
+Tue Jan 21 11:42:12 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Tue Jan 21 11:44:25 CST 2025
+Tue Jan 21 11:45:26 CST 2025
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
