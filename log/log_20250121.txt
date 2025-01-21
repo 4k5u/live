@@ -405,3 +405,8 @@ Tue Jan 21 16:31:28 CST 2025
 删除moto5053 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.ZzPbRyiE4wgK.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9aelBiUnlpRTR3Z0siLCJleHAiOjE3Mzc0ODQzMzU4NDAsImlhdCI6MTczNzQ0MTEzNX0.nwj7gLf3uebjsgT7dRYUXNtXkly440hoMGcQErINTryamavASfNRD_71DeY2JU0Oh9DmeTGtflX7Ytk-bMvb1yDlUpaxSi3kPO1BaIsPJ2ptW5nWavmRUgQmrESNnpji
 删除Mia826 https://edge-hls.doppiocdn.live/hls/169138603/master/169138603_auto.m3u8
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Tue Jan 21 16:44:48 CST 2025
+Tue Jan 21 16:45:09 CST 2025
+Tue Jan 21 16:47:07 CST 2025
+添加moto5053 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.ZzPbRyiE4wgK.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9aelBiUnlpRTR3Z0siLCJleHAiOjE3Mzc0OTIwNDM0MjEsImlhdCI6MTczNzQ0ODg0M30.-jYZENtNijVdoU1jD1FXC7RfcR-jT7dnhBQdPoul2DbNnzQ9Abjn9sUhvom-CHoxnDaGuu4yImNuzgUJpPTMY3Svb-Bh0KCUMoz2ecLMbwyRGuTgM4yCU6z6mU7bj_1X
+Tue Jan 21 16:48:04 CST 2025
