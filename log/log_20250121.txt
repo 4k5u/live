@@ -380,3 +380,10 @@ Tue Jan 21 15:34:12 CST 2025
 添加anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
 删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Tue Jan 21 15:41:58 CST 2025
+添加tjfflddl7 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1WilnqP2iXF5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFXaWxucVAyaVhGNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2NTg1RTIwMC0zNUJFLTQ1MjgtQTFBRi01REZBQjQ3RUFFREEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzQ0NTMzMCwiZXhwIjoxNzM3NDQ1OTMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.OViH6BGByDmjZAvu5GNz6TDQ9p2KGhajL2ZO9pyDkLV4-40AUgWkFEo_Clmte7nyBnBIw16oUajOFDSnxDn8_MLZzetj8Bp8QBLfupWhGuIW5CNlKg_4GiysqEA2dPGP
+Tue Jan 21 15:42:19 CST 2025
+Tue Jan 21 15:44:27 CST 2025
+Tue Jan 21 15:45:29 CST 2025
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
