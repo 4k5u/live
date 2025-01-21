@@ -196,3 +196,9 @@ Wed Jan 22 05:59:39 CST 2025
 Wed Jan 22 06:01:47 CST 2025
 Wed Jan 22 06:02:48 CST 2025
 删除rosyemily https://edge11-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-ddcd77f985a8fc81b98697d7f5ff2c8974c4ab804b77a2cf11bddd2aa43609bd_trns_h264/playlist.m3u8
+添加oki_dokie https://edge16-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3c7008e57387f2e7a3571847ad70f0e429046f250eb0d17bc699c126db0b76f1_trns_h264/playlist.m3u8
+Wed Jan 22 06:23:50 CST 2025
+Wed Jan 22 06:23:57 CST 2025
+Wed Jan 22 06:25:55 CST 2025
+Wed Jan 22 06:26:49 CST 2025
+删除bo1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LSZ35tOUOeWf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xTWjM1dE9VT2VXZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0REVBNzhGNy0wNEYwLTQ5QTItODU0MC1ENDNFMkUxMTM2ODMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzQ1MTQ2MSwiZXhwIjoxNzM3NDUyMDYxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Zk-rFpZR8pjHK1VXK89xF6K8wpQU5D9tGHZcca1_WlVZDoqLUxZ70MpELGqOmXaHL4zjUT9DzEaZPdUIczpmLPt4GaNtfqzJ4lfwV_7pq1Cs8uBnyDgfRuIW_cWaREbo
