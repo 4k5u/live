@@ -180,3 +180,9 @@ Thu Jan 23 04:52:10 CST 2025
 Thu Jan 23 04:53:13 CST 2025
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3Mzc2MjAyNzIwOTksImlhdCI6MTczNzU3NzA3Mn0.xIJ6TyxcGQDO5eUhmwGazSqosnVBxTImAgRKg1HsyI0GGuNSrSXWREOII7LYN3l8mTbCt0IEEIsyNsCdkPcood_yY1dRAtAvtRr0yuVAUXxo8qiBwypIlDdboY32RCJ3
+Thu Jan 23 05:00:54 CST 2025
+Thu Jan 23 05:01:03 CST 2025
+Thu Jan 23 05:03:13 CST 2025
+添加chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3Mzc2MjAxODEwNzQsImlhdCI6MTczNzU3Njk4MX0.LRuKaNL0qE4rhUqTUCSHOk2UKQ2A97SP_kRcXCVNJRuMl-aa5XTovoIsYiQcJdu_y0QI2AV6bNsL6WWwyTtw_JVgeeAUIPLt91AWUZZwVDq7uv-wRDnUgRDLMfYgQJHy
+Thu Jan 23 05:04:18 CST 2025
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
