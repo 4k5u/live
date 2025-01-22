@@ -266,3 +266,11 @@ Wed Jan 22 11:06:37 CST 2025
 添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 删除oki_dokie https://edge16-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3c7008e57387f2e7a3571847ad70f0e429046f250eb0d17bc699c126db0b76f1_trns_h264/playlist.m3u8
+Wed Jan 22 11:31:33 CST 2025
+Wed Jan 22 11:31:42 CST 2025
+Wed Jan 22 11:33:50 CST 2025
+添加chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3Mzc1NTk4NDc1NjAsImlhdCI6MTczNzUxNjY0N30.TpdfxjQpLa-MV4-BIABKlPJJzYLrCXvdhyvamOJoCj1jdCrFgqXfwpkVRNB0FMzppCy3jnYOMOwqdbjqaYSXDg_nYLhbIxN74anXrQPDE0VlxiwPDbAdz-dxQngzchG6
+Wed Jan 22 11:35:03 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
