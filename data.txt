@@ -28,7 +28,6 @@ imsocutesexy https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 zmalqp6666 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1UyFzIChTltg.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFVeUZ6SUNoVGx0ZyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzRjAwODdGOS1BRjEzLTQ4MDktQjFDNC03N0Q2RjNEQUYyNUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzU1OTM1NywiZXhwIjoxNzM3NTU5OTU3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.T03TWAi1us3pFrad_KvpOU9R4uiBcWHJHSJzNLRp5dHTyd9qyjpxsBuE7bQW939aL1YR1e59xgYrtR9A9wD8_vYcg3jvSOG5iVMXD0TjVOJTEH9xSpeGAKDhQSKe8g0j
 Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
 -Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
-regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
 JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 ake_mi https://edge12-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-85a77d2d4155de8455de542ec630b65b3da50c95fcfa6b3d8cad6dbc4de7d13d_trns_h264/playlist.m3u8
@@ -48,3 +47,6 @@ jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/
 -Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+ad0res https://edge14-mia.live.mmcdn.com/live-hls/amlst:ad0res-sd-a77e5d9da55b3f4628d4cb223cb847c1eff3b9981dc8582f3f87dca0274f9553_trns_h264/playlist.m3u8
+hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.pEgtEaqZ5T1oB-I91XVieNsOcxjVuAzpSXaRjqFOS4BMITO2mLK9AIR8UBM9gKh7pN9XEQ1Wqi2-aW7vLZerRG1EuS_tvdBgaklagTVUR9UePE-_diPoSs7WRmuRsZAk
+syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
