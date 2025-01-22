@@ -315,3 +315,12 @@ Wed Jan 22 13:24:49 CST 2025
 Wed Jan 22 13:25:52 CST 2025
 删除suee2332 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vmp1QKeAFNdG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZtcDFRS2VBRk5kRyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNUQyM0U5OS1FODRFLTQ3MzMtQkZCMC04MUJGNjMzNDkyQzkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzUxMDE5NiwiZXhwIjoxNzM3NTEwNzk2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.z0eSDRR80mgsBGZzdXQG4ciHvo2N_oDalSjWK5sptW60GiZggxS9kGPd4L8HqmSeP4aI4P1iSofyuuNZeDh9KIPyZz2M9Zzc72B2wZ6RnnEPkk7-S1CxvmySeXO4K2UD
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+Wed Jan 22 13:41:16 CST 2025
+Wed Jan 22 13:41:27 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wjG4YouMO5ClPKpe-JlnttcTSg6FR-DyZTwtNjlFPCbjD0ywIk1Fm_wkurdDfRSOe25Gb39o9cS-hfIUQhaYeUctg_YroM8Z9wiiShV2hAdjczsxqt2TWhReQgN5-4LT
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+Wed Jan 22 13:43:36 CST 2025
+添加chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3Mzc1Njc1NDY4MjIsImlhdCI6MTczNzUyNDM0Nn0.TjL9QTOuOGN5H2kBmM-UJTB1KMMmg84TaP2JWOC5il6OgYbd6WuiwsoL8VxeEy6ORftpgDyBc60Nsc9vwCfY8wcxeUqtrpM1-lNLwNiXsvJe5nnc2Umhl_IMv0pRfljq
+Wed Jan 22 13:44:32 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
