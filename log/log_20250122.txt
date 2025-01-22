@@ -324,3 +324,9 @@ Wed Jan 22 13:43:36 CST 2025
 Wed Jan 22 13:44:32 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Wed Jan 22 13:53:07 CST 2025
+Wed Jan 22 13:53:18 CST 2025
+Wed Jan 22 13:55:25 CST 2025
+Wed Jan 22 13:56:28 CST 2025
+删除_meganmeow_ https://edge16-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-a16db712e20eb440eeb82a8432806579505695df8bb85c335daf54dbe99bb7f6_trns_h264/playlist.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
