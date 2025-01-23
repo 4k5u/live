@@ -183,3 +183,9 @@ Fri Jan 24 05:38:44 CST 2025
 Fri Jan 24 05:38:55 CST 2025
 Fri Jan 24 05:41:08 CST 2025
 Fri Jan 24 05:42:11 CST 2025
+Fri Jan 24 05:50:01 CST 2025
+Fri Jan 24 05:50:12 CST 2025
+Fri Jan 24 05:52:20 CST 2025
+Fri Jan 24 05:53:22 CST 2025
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
