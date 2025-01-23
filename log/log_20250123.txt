@@ -299,3 +299,9 @@ Thu Jan 23 11:38:11 CST 2025
 Thu Jan 23 11:40:19 CST 2025
 Thu Jan 23 11:41:20 CST 2025
 删除my_eyes_higher https://edge21-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8023fc8655dcc2ecda029a7708b2660e9427be725ef17bea6cf2e4f02b17702d_trns_h264/playlist.m3u8
+Thu Jan 23 11:49:21 CST 2025
+Thu Jan 23 11:49:30 CST 2025
+Thu Jan 23 11:51:45 CST 2025
+Thu Jan 23 11:52:48 CST 2025
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
