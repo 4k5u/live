@@ -334,3 +334,10 @@ Thu Jan 23 13:01:22 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除bo1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LSZ35tOUOeWf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xTWjM1dE9VT2VXZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzOTAzMTExNC05ODQyLTREMkEtQkFEQi05OEVGMUFFNzYxQzkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzUzOTU1NiwiZXhwIjoxNzM3NTQwMTU2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.G60CT3yq6yo-MHmi0DSmrSdBFV3VJjo7MWOg9kwaVhcKUMXSLfd-P5JfLyreGwwwGlGkP-BIRknU9FGbRj74ZVWkrPvWe8aDZP2pnINEHdghnC87Rhvzeh2fuxIwvo_3
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Thu Jan 23 13:21:32 CST 2025
+Thu Jan 23 13:21:43 CST 2025
+Thu Jan 23 13:23:56 CST 2025
+Thu Jan 23 13:24:59 CST 2025
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
