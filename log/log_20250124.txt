@@ -214,3 +214,11 @@ Fri Jan 24 06:51:46 CST 2025
 Fri Jan 24 06:53:59 CST 2025
 Fri Jan 24 06:55:03 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加oki_dokie https://edge28-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-22fb7aaf5672e865584db076270cf7102df42bcfb29c6aaf83e49611c01d6f74_trns_h264/playlist.m3u8
+添加sexygamesx https://edge25-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-5df8ae011f5ddd7eca0cce403abacfbdb6c9fad68a875daf66a64f8044516ff0_trns_h264/playlist.m3u8
+Fri Jan 24 07:10:17 CST 2025
+Fri Jan 24 07:10:28 CST 2025
+Fri Jan 24 07:12:47 CST 2025
+Fri Jan 24 07:13:58 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.rnWennlFRvABDI666-M7bRn_-Hp0zIhWzQuR9n0CBwHv4JtEs91dM17Jd1yS56Assj8PWLrzyhmYpxgAvpyYLkQh9YmQgVxX9yD-4azsnojxK6OxtFDyeJu7Lke9iA2a
