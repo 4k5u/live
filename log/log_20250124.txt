@@ -450,3 +450,12 @@ Fri Jan 24 18:36:20 CST 2025
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除your_desssert https://edge20-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-4f474fe8ece4b842f148d182c3a66245fceecfd50b2bc31485ba80d4a6bca674_trns_h264/playlist.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Fri Jan 24 18:48:57 CST 2025
+添加mscrew33 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DrcTv3I5inU3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0RyY1R2M0k1aW5VMyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1ODc3QTExQS0xRkJBLTRDRTEtQTMzRC0zRTgyQTlEQTY2OEYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzcxNTc0NywiZXhwIjoxNzM3NzE2MzQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.d_up9NshPELc-B6vChCRK5rdL6ssanHdrPwH9DzllmOs_WIe06AtSf9vTXf8z8GF481kKDJtJqVwoptmolQpwvhlRW7Ld37kemADIqpIsd45IF2Bg6KIKHBErG08RVKN
+Fri Jan 24 18:49:26 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dEOMLpn7PjPLdokJ7c0QyhxJWgcEvjiJveR5JtJqbNfiWvWGMapZH1pzO1OoYv73Nrl-0UW53a16tWQYNbnC4cgGalxKgrSez8seDjreHFLsFU1qVS08Q3v3jegfVDR2
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5IPoMGpMe5exHp5qYw67lQItjw3ZQbntCIoOQz16yf6zcwaMuWKV3u6pXVSGkse4mxR1svgEtYzXN9C5oZ2X0R4-jTVY4qcgS_3tUuDB6aanK6pX51n-oGr8fswDah6G
+Fri Jan 24 18:51:38 CST 2025
+Fri Jan 24 18:52:34 CST 2025
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
