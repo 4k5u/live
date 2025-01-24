@@ -183,3 +183,10 @@ Sat Jan 25 05:20:18 CST 2025
 Sat Jan 25 05:20:35 CST 2025
 Sat Jan 25 05:22:49 CST 2025
 Sat Jan 25 05:23:52 CST 2025
+Sat Jan 25 05:32:35 CST 2025
+Sat Jan 25 05:32:52 CST 2025
+添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.raCll7U_UVXnzzon0uwEMENBCqO6U_QqQVtJ430ywLV8dr0acHNV89qaP8HHycZ3HqZAlbdMjmcyodKXSBW1b--yW6MAddJKW5YXXFhsXOLxo_t7LF6mp8JBkclEqu4E
+Sat Jan 25 05:35:09 CST 2025
+添加jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.NDGWilrZ7OB0.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9OREdXaWxyWjdPQjAiLCJleHAiOjE3Mzc3OTY2MDY3NzIsImlhdCI6MTczNzc1MzQwNn0.eQpryr7iBoqR5iCGsrnyE28gM91WSZ81KcXfCoz4YLP0D_Yl0AU_u2DxlJrtNJ4VGNWkfN2h5v98xVUKi2bPvUGu2V-aNcEYs5zc0EeZfyI-Neh7qyFaTyUeZOPdvG-Z
+Sat Jan 25 05:36:13 CST 2025
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
