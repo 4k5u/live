@@ -304,3 +304,10 @@ Fri Jan 24 12:45:45 CST 2025
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除intim_mate https://edge18-lax.live.mmcdn.com/live-hls/amlst:intim_mate-sd-da51b59383d841b6b160f6df27a3af78d14b2d896910ea93eee724e0739d4c1e_trns_h264/playlist.m3u8
 删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+Fri Jan 24 12:57:55 CST 2025
+添加merryxmas77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WoO04uYmgtVV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dvTzA0dVltZ3RWViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2QzUyODE2My00QTg3LTQwOUItQjZGMS1EREVFMzMxNEIxM0UiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzY5NDY4MCwiZXhwIjoxNzM3Njk1MjgwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.bi-QaQnLi87MbvydGYbfkgdZPEjso2iv01fGijbOESYsodD9dOJexOD9AP7mgp-dY-nxEBy4hJRXS8BuWQXUNd2DC7uqS_0zC34iBjHQAblIhpZlUjYj5EVCWjmBBZGh
+Fri Jan 24 12:58:11 CST 2025
+Fri Jan 24 13:00:23 CST 2025
+Fri Jan 24 13:01:25 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
