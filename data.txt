@@ -18,3 +18,6 @@ miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 cuddles_me https://edge5-sea.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-e8c3625fe377b744eea1b4205e9323cad7f9b390fee2c55600e44014a4ba9f8e_trns_h264/playlist.m3u8
 chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3Mzc3Mzk1NzYxNTIsImlhdCI6MTczNzY5NjM3Nn0.GFdOzne4cY4Y09LrUmoVmYkeRi4BSqBu0sBbA99HwJ55L6vS8BLlO2Iy5IiyWH_8EB6kpWLYMC-McRzqVa0G8-cURj6J6qlr9BSjnuyeLXtfoVWTbvOVpbSlZZqFOD4V
+your_desssert https://edge13-lax.live.mmcdn.com/live-hls/amlst:your_desssert-sd-4f474fe8ece4b842f148d182c3a66245fceecfd50b2bc31485ba80d4a6bca674_trns_h264/playlist.m3u8
+Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
