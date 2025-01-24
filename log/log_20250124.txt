@@ -311,3 +311,10 @@ Fri Jan 24 13:00:23 CST 2025
 Fri Jan 24 13:01:25 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Fri Jan 24 13:21:37 CST 2025
+Fri Jan 24 13:21:50 CST 2025
+Fri Jan 24 13:23:55 CST 2025
+Fri Jan 24 13:24:54 CST 2025
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
