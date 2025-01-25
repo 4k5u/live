@@ -262,3 +262,11 @@ Sat Jan 25 09:48:24 CST 2025
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.raCll7U_UVXnzzon0uwEMENBCqO6U_QqQVtJ430ywLV8dr0acHNV89qaP8HHycZ3HqZAlbdMjmcyodKXSBW1b--yW6MAddJKW5YXXFhsXOLxo_t7LF6mp8JBkclEqu4E
 删除sexygamesx https://edge22-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-43b9c18168fcab8fa23e5c0238da820bd6ae6f341aed8a4783a28cd0c352beb7_trns_h264/playlist.m3u8
+Sat Jan 25 10:35:01 CST 2025
+Sat Jan 25 10:35:14 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ptkPYmRddzFp-nkqUtN41dV76FFziHcM8px0bUO3seWstIQDzPPJdjt8UfRfGQCrXvetxDww6xWdAYCEp39UM4lrFSgm3sdvpzugnJQFA0YZD7x9R9Micfymn73oISA9
+Sat Jan 25 10:37:22 CST 2025
+Sat Jan 25 10:38:20 CST 2025
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除taitehambelton https://edge11-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-4b6fee81816560461ad5f5f21ac0ca0a10d33f5090cdece8d10254e5746e6b03_trns_h264/playlist.m3u8
+删除merryxmas77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WoO04uYmgtVV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dvTzA0dVltZ3RWViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNDg4RjBGRS03MTY3LTQ2NTktQTk0QS1BRTZGN0MyRjk5QkYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzc2OTUwNywiZXhwIjoxNzM3NzcwMTA3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.X0gnJFkTgYYiVsrwTxs_UGfGpZK-FFKb0YnEGM2mTP-pA9YkGfWszEfEjkr7crmN3lDdcm_wZocxql758rlIz5ELnaRRywMJS2Qu3m03C7n_2SvjCaB9J-dDWKII9JX7
