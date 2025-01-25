@@ -151,3 +151,10 @@ Sun Jan 26 04:41:23 CST 2025
 Sun Jan 26 04:42:29 CST 2025
 删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+Sun Jan 26 04:49:58 CST 2025
+Sun Jan 26 04:50:11 CST 2025
+添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.p5zt35Olu_yZtsVjpeS_HM7ePUtQfbGrrQEc2neEtpKoBufIy_LD39wdeqFXFeM2dx4zz8Jaryq6Mg22jLHhKWfMHYHPUzgO1JnCVWgl7ttSVHeGe-aTaMEV5U58D2sI
+Sun Jan 26 04:52:30 CST 2025
+Sun Jan 26 04:53:35 CST 2025
+删除so2so2so https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.yaAVuhbt0PuZ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC95YUFWdWhidDBQdVoiLCJleHAiOjE3Mzc4NTI1ODE1MTksImlhdCI6MTczNzgwOTM4MX0.XbzrX-BtSgQ_2ndbn-x2s_olr5RlMq53o1H6508ZOY5lQkHzj-eUqFCkcE6WwASjN4tBw2VdTmQetMuZU4xvRT9Ta7Nu0l-KqNC_7gaVUlkrmGd-_bTOna5L8-2_GZ2L
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
