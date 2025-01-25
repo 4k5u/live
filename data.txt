@@ -24,3 +24,5 @@ hehe0000 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+oki_dokie https://edge16-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-36d0579fc8b7e4dd45a4de9373d59a6b8e919c88cb30bd746e7217c65f60e3d3_trns_h264/playlist.m3u8
+miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
