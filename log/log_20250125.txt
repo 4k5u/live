@@ -376,3 +376,10 @@ Sat Jan 25 14:44:57 CST 2025
 Sat Jan 25 14:47:14 CST 2025
 Sat Jan 25 14:48:18 CST 2025
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+Sat Jan 25 14:58:13 CST 2025
+Sat Jan 25 14:58:36 CST 2025
+Sat Jan 25 15:00:48 CST 2025
+Sat Jan 25 15:01:53 CST 2025
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除likeastar77 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.VFVqQVEaSfcJ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9WRlZxUVZFYVNmY0oiLCJleHAiOjE3Mzc4MjUzNzgzOTIsImlhdCI6MTczNzc4MjE3OH0.fG7H799RwjCofBU9wm0RXLRkjI-dBQPsVkp8uqOxmoxDuaWiv48FkIsE33K8eshgNu34bh8MDeeC1_vHRn5egyEb0F58MNmcUjwzbM_v9AGQ-E0ZgwqUMeIkXHvD80bh
+删除your_desssert https://edge6-aus.live.mmcdn.com/live-hls/amlst:your_desssert-sd-82f707d65a0d183a5e2529ea3ed03476c017de0b5e258fa514350f1711d9b0bd_trns_h264/playlist.m3u8
