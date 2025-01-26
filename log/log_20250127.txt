@@ -193,3 +193,7 @@ Mon Jan 27 06:53:31 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除rosyemily https://edge1-atl.live.mmcdn.com/live-hls/amlst:rosyemily-sd-b73f9002335c0288c61ac290572ee87197b0dcd4cd057da70d58c5e2985b52e1_trns_h264/playlist.m3u8
 删除sexygamesx https://edge28-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-5e2166bc6b95a500e2b95bbb3bc344da994e14c438f91135dcd0f7905b45853e_trns_h264/playlist.m3u8
+Mon Jan 27 07:01:15 CST 2025
+Mon Jan 27 07:01:26 CST 2025
+Mon Jan 27 07:03:37 CST 2025
+Mon Jan 27 07:04:39 CST 2025
