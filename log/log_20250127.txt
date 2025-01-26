@@ -135,3 +135,10 @@ Mon Jan 27 04:12:51 CST 2025
 删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除sexygamesx https://edge7-mia.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-ced7381ade5527c687088421d7c63ae3ef9d2cc271b87676295b31699be66a2f_trns_h264/playlist.m3u8
+Mon Jan 27 04:30:39 CST 2025
+Mon Jan 27 04:30:52 CST 2025
+Mon Jan 27 04:33:07 CST 2025
+Mon Jan 27 04:34:10 CST 2025
+删除yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1S4JHd7zTIwR.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFTNEpIZDd6VEl3UiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNUQ5MzUxOS1GNjQ0LTQ2NDAtQTQ0Ri01MzlGNzZBQTdEMDEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzg5MDUxMSwiZXhwIjoxNzM3ODkxMTExLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pakY4ko_oYXlSeG1bJk9CWloZbWNWZaKFouNe4lHJdj9tMXESFeeRMhfp6hEn4fHqjuJeUqKpfkZgXaXbWp0jQKEBISqaMxxhiOsduGIZTEXIVS-8JBV6k0LwSjVw-ym
+删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
