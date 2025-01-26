@@ -473,3 +473,11 @@ Sun Jan 26 18:51:59 CST 2025
 Sun Jan 26 18:53:59 CST 2025
 Sun Jan 26 18:54:53 CST 2025
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Sun Jan 26 19:04:49 CST 2025
+Sun Jan 26 19:05:14 CST 2025
+Sun Jan 26 19:07:25 CST 2025
+Sun Jan 26 19:08:27 CST 2025
+添加Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
+删除oki_dokie https://edge30-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8b42ffdf95a5a8f5bb38418a2fcb332444dfb50d30f9c081d6847dc5afe28b00_trns_h264/playlist.m3u8
