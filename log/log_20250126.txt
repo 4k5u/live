@@ -640,3 +640,9 @@ Sun Jan 26 23:39:35 CST 2025
 Sun Jan 26 23:41:49 CST 2025
 Sun Jan 26 23:42:53 CST 2025
 删除your_desssert https://edge28-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-c7a3fec3fd0f754841c2a23ce4f863f97c1b5b5d62d20f22e1e093bb2e2d7157_trns_h264/playlist.m3u8
+Sun Jan 26 23:49:47 CST 2025
+Sun Jan 26 23:50:53 CST 2025
+Sun Jan 26 23:53:02 CST 2025
+Sun Jan 26 23:54:03 CST 2025
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
