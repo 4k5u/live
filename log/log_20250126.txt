@@ -278,3 +278,9 @@ Sun Jan 26 11:33:37 CST 2025
 删除oki_dokie https://edge1-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6ecbf05d98029288daa10663d4c8737e1e47637cc12d052ff5c8b0cf7e6269b9_trns_h264/playlist.m3u8
 删除taitehambelton https://edge15-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-f25ec15f492c0bc2a877409dff9bfa458cd1886ae534d4bf931e36b874989fa1_trns_h264/playlist.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Sun Jan 26 11:43:41 CST 2025
+Sun Jan 26 11:43:52 CST 2025
+Sun Jan 26 11:46:00 CST 2025
+Sun Jan 26 11:47:01 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除my_eyes_higher https://edge17-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a6d72561b030502570fbef68547e421bd9ff5f87e6ff991fb9ed8b006b50551d_trns_h264/playlist.m3u8
