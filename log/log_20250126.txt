@@ -499,3 +499,12 @@ Sun Jan 26 19:32:54 CST 2025
 Sun Jan 26 19:35:14 CST 2025
 Sun Jan 26 19:36:17 CST 2025
 删除chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3Mzc5MjU3NjYyMTMsImlhdCI6MTczNzg4MjU2Nn0.J24WYMfubLwu5NvGZSniG0efxn6Fo8Fy434iTRdBBDeqAAn7XEjyTaAlJFbv88jdSwshF3btvWsuNk-TKfwR7I3EzkHASSpTAFHUSaCHF6eLw_-ZIB66ar3n48B6W-L2
+Sun Jan 26 19:48:02 CST 2025
+Sun Jan 26 19:48:37 CST 2025
+Sun Jan 26 19:50:51 CST 2025
+添加chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3Mzc5MzMzNDE0NjMsImlhdCI6MTczNzg5MDE0MX0.1PAa7lkY-uopZodXC5NzjWKZmwF2BUnLASsd2_FCG9ndY4wCAWZAz07kx0tRrcellwBQCCI5LWUzeHHKvkC1hzaWCG1w9fegfJk8P5kzvqLC-H1jzc9cKsS7GwV4TStg
+Sun Jan 26 19:51:55 CST 2025
+添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
+删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
