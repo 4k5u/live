@@ -253,3 +253,13 @@ Sun Jan 26 10:40:53 CST 2025
 删除kiyoko_rin https://edge16-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-c1d53141a897d5c91454e2d9b2a596ad2f2ae280d6c101d0eb964126f5379f10_trns_h264/playlist.m3u8
 删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sun Jan 26 11:02:08 CST 2025
+Sun Jan 26 11:02:17 CST 2025
+Sun Jan 26 11:04:31 CST 2025
+Sun Jan 26 11:05:34 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除mazzanti_ https://edge3-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-0d829d9fad1e9201929386c1def06e9826f3536e3077daf232a78258ab77502a_trns_h264/playlist.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
