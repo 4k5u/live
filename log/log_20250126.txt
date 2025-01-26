@@ -406,3 +406,9 @@ Sun Jan 26 16:44:22 CST 2025
 删除taitehambelton https://edge10-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-f25ec15f492c0bc2a877409dff9bfa458cd1886ae534d4bf931e36b874989fa1_trns_h264/playlist.m3u8
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除your_desssert https://edge13-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-75088cdf34b0dfb54bdab866f3ed197655fca58189a00152560e0d18a3ecde0e_trns_h264/playlist.m3u8
+Sun Jan 26 16:52:26 CST 2025
+Sun Jan 26 16:52:45 CST 2025
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
+Sun Jan 26 16:55:07 CST 2025
+Sun Jan 26 16:56:17 CST 2025
+删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
