@@ -148,3 +148,9 @@ Mon Jan 27 04:53:09 CST 2025
 Mon Jan 27 04:54:03 CST 2025
 删除hncsphj https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sxeVh17EklfW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3N4ZVZoMTdFa2xmVyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1Rjk4MkRGRi03OEMwLTQ2NkYtOUI3Ny1COUE4NTRDODFCOTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzg5Nzk5MywiZXhwIjoxNzM3ODk4NTkzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.4clUx70kaxYKXUivQFDnLPSOGT3sQGUgdMNQkmRouyi5niIPCUUWhY4_45PemKk08WarafocfWMXqKT3KTGv-AGqCnRcvQW5ah2NHLK6lJLjxSCra0ZdjdUX3992JbJH
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+添加sexygamesx https://edge28-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-5e2166bc6b95a500e2b95bbb3bc344da994e14c438f91135dcd0f7905b45853e_trns_h264/playlist.m3u8
+Mon Jan 27 05:02:09 CST 2025
+Mon Jan 27 05:02:20 CST 2025
+Mon Jan 27 05:04:34 CST 2025
+Mon Jan 27 05:05:38 CST 2025
+删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vvbCSifaVTgviHNm39KkG5fHhm1Yu2teFiPd_HOgHOMWAZ4kKm15gfEWXnJSyJi2hwcH8_vorZtKvWAFf3fq8OOKpBDToE4LLZ0XSDbMHkS8tnOUctzySCWeOOl5DqA5
