@@ -309,3 +309,10 @@ Sun Jan 26 12:44:48 CST 2025
 删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.XJmYy-grHdUmV_Q3Ex75_S3R0lO2G2wJt8Fshzq7_mAJ80-S_HjEMkQCJdbY3mIpGoP52HojQL39mFQT69E89oXTiK_KRpNcBYeYSKrfMA-BuC70mP9glv6QucJDT-Ge
 删除_meganmeow_ https://edge12-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-6459af9979be686750fe49956e19cdbaae1a6bf98c1851e16e8edce60e8c1130_trns_h264/playlist.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Sun Jan 26 12:52:37 CST 2025
+Sun Jan 26 12:52:48 CST 2025
+Sun Jan 26 12:55:02 CST 2025
+Sun Jan 26 12:56:05 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.paXuB1UXkBALONejM4b_WZfnqodlRsoSLbaDr0G2ItlbtKjYv3uGpjyhzOYLaboQ5aM9hb3rax1QoFIjvAgc3WuMIRDrMIX_csEjuwq1FGVKCyyWt7ngn6Y_aK0RoOTg
