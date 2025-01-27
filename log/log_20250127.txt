@@ -232,3 +232,13 @@ Mon Jan 27 09:52:20 CST 2025
 Mon Jan 27 09:54:53 CST 2025
 Mon Jan 27 09:55:57 CST 2025
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Mon Jan 27 10:41:37 CST 2025
+Mon Jan 27 10:41:50 CST 2025
+Mon Jan 27 10:44:04 CST 2025
+Mon Jan 27 10:45:09 CST 2025
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除fjqwldus1998 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Uq01mbGRxGwN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1VxMDFtYkdSeEd3TiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyRDlBMDgxRi0zMDMxLTRBQkItOUU5OC0zNDhDODRFQ0Y4OEYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzg5Mjc4NiwiZXhwIjoxNzM3ODkzMzg2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.EWTfo36pYAJ0eH2c7RsguCj1Ll13wktI3LPRzvIlu4TpcXKe05MsEZyQN67nWEpObwynBlXiGo03r5nqC8ibaDvIUCGRvt1I3p82jNZtuOaLbfAWcI4TAJFgZJAiKbic
+删除my_eyes_higher https://edge11-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-daf44c05ce127bb6160c8ce7e9d06b464bc63d31ff706241d2a5c6ac7f5f96f5_trns_h264/playlist.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除rosyemily https://edge18-mia.live.mmcdn.com/live-hls/amlst:rosyemily-sd-c1c2f33c6e433772d9f9ff0b8f1dbefc8d982cb25e8083fd41d815d2c933d0de_trns_h264/playlist.m3u8
