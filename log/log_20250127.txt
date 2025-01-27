@@ -271,3 +271,9 @@ Mon Jan 27 11:58:15 CST 2025
 Mon Jan 27 12:00:23 CST 2025
 Mon Jan 27 12:01:24 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Mon Jan 27 12:27:47 CST 2025
+添加tjfflddl7 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1WilnqP2iXF5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFXaWxucVAyaVhGNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMDc0NkNCQi02RjlELTQ0MEEtQjY2RS0xNUJCRjRERjM2QTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzk1MjA3OCwiZXhwIjoxNzM3OTUyNjc4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.F-XUDxllkhITR9PPTUYY28IaeFHDW3vT85f8drJWK204W969tppM53gEq0iOpb0xM3k7a0LBqIiCqUoqq9Z8qNCCVsWg--bPm5Ut0MFBBaFDOJsgZPAb84EbTcqfHXIZ
+Mon Jan 27 12:28:04 CST 2025
+Mon Jan 27 12:30:17 CST 2025
+Mon Jan 27 12:31:19 CST 2025
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
