@@ -459,3 +459,10 @@ Tue Jan 28 21:51:07 CST 2025
 Tue Jan 28 21:52:09 CST 2025
 删除chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzgxMDM2NzE2NzcsImlhdCI6MTczODA2MDQ3MX0.4XJIRrovsxd2z1mBJn5LdT6IRlE7LaM3W2hKgOIkUvgN_kafQvMf6a2wlz6mRyyAB6sLyoLBA0Qj2imCvRmnZ4vt6PpYlZ6e2ie0fwSgteQY9WbnzEPXMKr_Fv7vMXxh
 删除bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qvVYVUYPiOVp.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xdlZZVlVZUGlPVnAiLCJleHAiOjE3MzgxMDkxNjQzOTUsImlhdCI6MTczODA2NTk2NH0.9_lT71lthf45Q-0TyS9jf7DzlXPC4MK0UmiPsSowGatsI4PbJ4U-NuoYPvxyh6pfxDA6dgDwQhKy4DCM0qeib-S_PeNhWC15atipigzBPTRBJQk1y_ZTY9tBFlbkb6FB
+Tue Jan 28 21:59:31 CST 2025
+Tue Jan 28 22:00:07 CST 2025
+Tue Jan 28 22:02:08 CST 2025
+添加chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzgxMTQ4NTM3NjIsImlhdCI6MTczODA3MTY1M30.RUOCiv0uPGGOqc1tMm_8OjhQR78OWlKnnxxMFXIjxWR2go2D3rcTsP6X2f0AueiTHnepifX0OMwQp-8wHuJdienNCAl5piDe29FOekU4VFwUQ8pZ4tzuUjLNA5_WFJK7
+Tue Jan 28 22:03:06 CST 2025
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
