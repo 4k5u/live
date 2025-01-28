@@ -252,3 +252,8 @@ Tue Jan 28 13:01:24 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Tue Jan 28 13:21:02 CST 2025
+Tue Jan 28 13:21:11 CST 2025
+Tue Jan 28 13:23:25 CST 2025
+Tue Jan 28 13:24:28 CST 2025
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
