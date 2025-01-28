@@ -13,3 +13,5 @@ IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 taitehambelton https://edge11-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-c6d2bdfdb45d5884b2030867e107351c1f4d913a2326f1f989144e7af5ccc793_trns_h264/playlist.m3u8
+yxyxyyy https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.m8Q1Bw1bpBic.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9tOFExQncxYnBCaWMiLCJleHAiOjE3MzgwODcxNDQzNzcsImlhdCI6MTczODA0Mzk0NH0.B3Q-r5LgPiQPXDeCNpYDKTvvvnQowfAURBLpKomVjstbwtLvjEJs3wrXPSt3255OxCu6Jp7dTck-76f-dt1qgSUlHphGpejCZfiVa5EAsHNxIr4WUxGPHPRFxCUXD9MP
+miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
