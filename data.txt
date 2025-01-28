@@ -20,3 +20,4 @@ fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 niunew https://edge-hls.doppiocdn.live/hls/106158883/master/106158883_auto.m3u8
 anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
+hee_jeen https://edge15-phx.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-85a95fc3622dac8bf242963940507628cde12b3832eda077b86f4ad98c6d5515_trns_h264/playlist.m3u8
