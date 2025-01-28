@@ -319,3 +319,10 @@ Tue Jan 28 16:02:41 CST 2025
 Tue Jan 28 16:04:41 CST 2025
 Tue Jan 28 16:05:35 CST 2025
 删除dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.mRydkYlzSKZx8O0UhHA_g2fygAKP63ft9MN84xOt7DHTtS2rEDsukZIvg85oASNmUrh_mbffTfMu2axOq_SWyAgmHiX9y-7EBEyJ4e3Ddp1Q7TaU1dZyKgbh3ojP5Qc5
+添加ake_mi https://edge20-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-e8b7eeb5e741edbb722e429d5602c7b4118441c4f9fcd74448721c087cc5db01_trns_h264/playlist.m3u8
+Tue Jan 28 16:31:15 CST 2025
+添加mayonz https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qhLEZxB5WQ9A.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FoTEVaeEI1V1E5QSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGOUIxMkQ5RS04RDQ2LTQwQzgtQkQ2MS02RkQyQUIzNERDRjYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODA1MzA3OSwiZXhwIjoxNzM4MDUzNjc5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.xvViHQJyxf8DGrmuL2BTVZfxHb2p0SOnAowBVKT4BzkjSh9zIwBbUVRwuIW7kOne2DZldOG3C-ooAH_4X2lZQtwJeCde81YlWphPnBI5w7wlvSuCsrYCPVuWrplC5_Y2
+Tue Jan 28 16:31:32 CST 2025
+Tue Jan 28 16:33:43 CST 2025
+Tue Jan 28 16:34:45 CST 2025
+删除rosyemily https://edge28-ash.live.mmcdn.com/live-hls/amlst:rosyemily-sd-695e6c557cb67c3ef23d0648fc28c10898bd5450fd66582f32efbc1434f652f3_trns_h264/playlist.m3u8
