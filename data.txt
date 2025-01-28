@@ -24,3 +24,4 @@ vip000 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 ake_mi https://edge7-mia.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a54a1e8378536eb4e2e71d0140817cbfadb8366e9d24ea30c7df38039cf0b6b9_trns_h264/playlist.m3u8
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8

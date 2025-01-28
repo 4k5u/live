@@ -23,3 +23,8 @@ Wed Jan 29 00:34:47 CST 2025
 删除mizuki_aikawa_ii https://edge10-mia.live.mmcdn.com/live-hls/amlst:mizuki_aikawa_ii-sd-4273438c3fde5e6eea09b733f29f8251e5386c99d607c7fde8e29ba788936c1a_trns_h264/playlist.m3u8
 删除chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzgxMjIxMDU5NjksImlhdCI6MTczODA3ODkwNX0.DX9UshUlFNAszNSQLIiQC-W2k96SBwDfOU2ieikf_B2butZoOUeDEvUIxwBO2RIKDye3zVvA3nm4uvTlmYH6qEUYiis5QmBPE7OQId8aHVPePTn7397U6GNqMZBtqdra
 删除bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qvVYVUYPiOVp.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xdlZZVlVZUGlPVnAiLCJleHAiOjE3MzgxMjAyODMxMDUsImlhdCI6MTczODA3NzA4M30.Q721QaMhMmAeMGWqHi9_iperMmRIBXTkqH5Qr3peqdTj17zIENnxFOuxLqHD5i2Dqa8T9FvKqwLNd_oFo5kTEIWpS05k1D_XtyL9_rKtRRyh5pBZ-2eWFuXfIGgCR_mF
+Wed Jan 29 00:46:37 CST 2025
+Wed Jan 29 00:46:56 CST 2025
+Wed Jan 29 00:48:55 CST 2025
+Wed Jan 29 00:49:51 CST 2025
+添加badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
