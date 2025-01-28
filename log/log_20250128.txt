@@ -195,3 +195,11 @@ Tue Jan 28 09:52:26 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除sexygamesx https://edge13-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-f3e05abe329fad6154cd3c475839ce60a6b23203bd4ccb8097667b0752b50b58_trns_h264/playlist.m3u8
+Tue Jan 28 10:39:03 CST 2025
+Tue Jan 28 10:39:10 CST 2025
+添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jkz9auPokMFy-eeLpWoq_umOzmTDq4wtfcZ_SzfSGZIKPOuAwexJcqW7ZykoMgRaLQRo-mx7p_74yJUn1WZUQWW3AexFwEOf5qwVFwd8DKYykiZD1VUmQp6FT2vQjoCw
+Tue Jan 28 10:41:16 CST 2025
+Tue Jan 28 10:42:11 CST 2025
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
