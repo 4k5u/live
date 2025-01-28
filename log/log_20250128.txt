@@ -364,3 +364,10 @@ Tue Jan 28 18:02:45 CST 2025
 Tue Jan 28 18:04:59 CST 2025
 Tue Jan 28 18:06:02 CST 2025
 删除moto5053 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.ZzPbRyiE4wgK.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9aelBiUnlpRTR3Z0siLCJleHAiOjE3MzgwOTk4ODAxMTAsImlhdCI6MTczODA1NjY4MH0.D0PuhCcK0leu1t3V1G44gR8V-DHw2NSz34iItLvYZQl5oI8X6KHErrOldqihEx2BAVyHpjCIvdVnchIb0jaHmx5rIf0qB4IRGwncV7DS-KGYHSOn6Kq7Re7u3_bk9OYi
+Tue Jan 28 18:32:20 CST 2025
+Tue Jan 28 18:32:39 CST 2025
+Tue Jan 28 18:34:54 CST 2025
+添加moto5053 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.ZzPbRyiE4wgK.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9aelBiUnlpRTR3Z0siLCJleHAiOjE3MzgxMDAxMjMwOTUsImlhdCI6MTczODA1NjkyM30.HWa5d1Pfcg3Wg7HARc5nkE7_IZyVsp19NmDEH4Uo0qJq32gjzaQ0WZ3LBd5NkGLQzJa-pZ8ChyKFbYnkyH8EdcRO49uWUV3HFja9kod20p6cebASgGw1bhpHixMQH_Wr
+Tue Jan 28 18:36:01 CST 2025
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除oki_dokie https://edge25-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-311b4b4d63a4a52917acc141087a09c351ef6f0d696864352e7a8c61f14b121f_trns_h264/playlist.m3u8
