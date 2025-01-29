@@ -435,3 +435,12 @@ Wed Jan 29 21:08:57 CST 2025
 删除JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+添加ake_mi https://edge15-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-287017ce234b2bcd6620017886fe769233895029b5c521d946d8abfba351af26_trns_h264/playlist.m3u8
+Wed Jan 29 21:30:58 CST 2025
+Wed Jan 29 21:31:34 CST 2025
+Wed Jan 29 21:33:52 CST 2025
+Wed Jan 29 21:34:54 CST 2025
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+添加NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除foxylovesyou https://edge13-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-6fcfc65792ffc1ae0b3eed767126679069961981c5190c2ad70d7a2c29100bc0_trns_h264/playlist.m3u8
