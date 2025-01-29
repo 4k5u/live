@@ -483,3 +483,9 @@ Wed Jan 29 22:50:19 CST 2025
 Wed Jan 29 22:52:30 CST 2025
 Wed Jan 29 22:53:31 CST 2025
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Wed Jan 29 22:59:44 CST 2025
+Wed Jan 29 23:00:23 CST 2025
+Wed Jan 29 23:02:37 CST 2025
+Wed Jan 29 23:03:40 CST 2025
+删除ake_mi https://edge15-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-287017ce234b2bcd6620017886fe769233895029b5c521d946d8abfba351af26_trns_h264/playlist.m3u8
+删除NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
