@@ -191,3 +191,11 @@ Wed Jan 29 09:52:05 CST 2025
 Wed Jan 29 09:53:00 CST 2025
 删除zoahakdlf https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LGiwhOpsvff5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xHaXdoT3BzdmZmNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5QzgzNTJGOC1CNDZFLTQzNzYtQTVDQy05OThBRTM3OERFQUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODA1NjI3MCwiZXhwIjoxNzM4MDU2ODcwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.WGhCooG0mCZ5nms_BlKU2EbnKg7a1BSE5MNYtrEMLa5v1BhsQGh_IAsH5TfOMkMyy0v30XyQnIxPPwPamM9eeGuuNF9G3_loZyvuXdhcCZjBcQ_YkJ1TInqEeLY5eeNj
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+Wed Jan 29 10:38:39 CST 2025
+Wed Jan 29 10:38:44 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-14/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wdffA6oSgYGLBOs7ymFN_AZ3BhGMnPCDpRUfSmPvfHovxZ9pU4XuGW-HwbqkiGlGz-8Jej8dhkWlPfhMnRhQlzMCnelpt7BLKdBCmbHLH2UPGvuEUcJx2E3PjY49fiXh
+Wed Jan 29 10:40:51 CST 2025
+Wed Jan 29 10:41:45 CST 2025
+删除kiyoko_rin https://edge2-ash.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-77aa3c770b441a82f1db834669d675703253079bcfd7ff04b22e949170cd7116_trns_h264/playlist.m3u8
+删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
