@@ -444,3 +444,8 @@ Wed Jan 29 21:34:54 CST 2025
 添加NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
 添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除foxylovesyou https://edge13-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-6fcfc65792ffc1ae0b3eed767126679069961981c5190c2ad70d7a2c29100bc0_trns_h264/playlist.m3u8
+Wed Jan 29 21:42:26 CST 2025
+Wed Jan 29 21:43:00 CST 2025
+Wed Jan 29 21:45:11 CST 2025
+Wed Jan 29 21:46:12 CST 2025
+删除mayonz https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qhLEZxB5WQ9A.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FoTEVaeEI1V1E5QSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5QTZBRUI0MC1BQkEzLTRFRkUtOUE3Ri0xNDA3NzFCRjg4RkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODE0MjU5MiwiZXhwIjoxNzM4MTQzMTkyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.56XEJV9sOKxl09fu3m60pj38YfO37QOC9vb5RNnVCs3p0_jWj-qA9Wli2_9AvuiYLuHh6XbTn-ncePc7hbqHdxt9VN2vc26A9jzUiQ6JA2uqneto-fvacv8Ia9PLsK8P
