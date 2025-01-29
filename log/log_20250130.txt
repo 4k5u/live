@@ -143,3 +143,9 @@ Thu Jan 30 05:50:29 CST 2025
 Thu Jan 30 05:52:30 CST 2025
 Thu Jan 30 05:53:25 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Thu Jan 30 06:01:16 CST 2025
+Thu Jan 30 06:01:23 CST 2025
+添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VFRW6GJ7yhpj_p1rE6j55YC2d5k8P7kJHCmIJ-qLyQc99hRe-m0-E1mO_nB_lTexVqjpsoTNUCCTD7v6PGWuWHMqBkAArSPZuhpWOqFsIAlORdimIcAFSOiYBbz90nFY
+Thu Jan 30 06:03:44 CST 2025
+Thu Jan 30 06:04:48 CST 2025
+删除hee_jeen https://edge10-chi.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-345a972963d9c164dba1f8ec1eb5e56040a3f553711817bafe8400fd695c57e9_trns_h264/playlist.m3u8
