@@ -514,3 +514,9 @@ Wed Jan 29 23:44:43 CST 2025
 Wed Jan 29 23:45:38 CST 2025
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除iminako https://edge2-aus.live.mmcdn.com/live-hls/amlst:iminako-sd-093375f9a21c2491fd7b6ce9905713d96a0a09bc6c203855eb9dab45eafefa14_trns_h264/playlist.m3u8
+Wed Jan 29 23:52:12 CST 2025
+Wed Jan 29 23:52:45 CST 2025
+Wed Jan 29 23:54:59 CST 2025
+Wed Jan 29 23:56:03 CST 2025
+删除so2so2so https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.yaAVuhbt0PuZ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC95YUFWdWhidDBQdVoiLCJleHAiOjE3MzgxOTMyMTY4ODgsImlhdCI6MTczODE1MDAxNn0.uL1o3as4B2RiJQ-e-r-b0Lb6dxk_Vwni5WnCiHoPgOGAX09865uyotH5NCyTq4pI2n-tuMo31ye5-nPDthhsPRdzWXXHHEXHuPHY4j1Kixhr8yqFQy6jK3KsRC4AMagh
+删除bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qvVYVUYPiOVp.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xdlZZVlVZUGlPVnAiLCJleHAiOjE3MzgxOTkwNzM0ODQsImlhdCI6MTczODE1NTg3M30.cEwTQFZwWXEQJwKZpRgpILxdf-SPlcd61U7dTuIGnrVCnBe5kqqoaoHdE95sJasW6N0Rjfuozqp4xu1gBPf5ZJf4adpmAdpqBaWY0igcR4Xz9Dy18XaeAgOqLJei3YkL
