@@ -17,3 +17,4 @@ sksnrnrp11 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 iminako https://edge8-aus.live.mmcdn.com/live-hls/amlst:iminako-sd-887876cc58e7f8a90216a5325e816826039ca7d655b0c153533c79d86039ca1a_trns_h264/playlist.m3u8
+anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8

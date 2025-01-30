@@ -300,3 +300,8 @@ Thu Jan 30 14:58:19 CST 2025
 Thu Jan 30 15:00:28 CST 2025
 Thu Jan 30 15:01:30 CST 2025
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+Thu Jan 30 15:20:19 CST 2025
+Thu Jan 30 15:20:32 CST 2025
+Thu Jan 30 15:22:44 CST 2025
+Thu Jan 30 15:23:47 CST 2025
+添加anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
