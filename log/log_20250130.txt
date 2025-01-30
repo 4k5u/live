@@ -361,3 +361,8 @@ Thu Jan 30 17:42:25 CST 2025
 删除oda_assuri https://edge29-ash.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-21aecc0a43fdc5a06075cc323ccb8d45c96671ca6cda5a7c060abf02e634b0c7_trns_h264/playlist.m3u8
 删除smile1001 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Aq2KeOmbMfIT.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0FxMktlT21iTWZJVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyREJCOTRDNC04OEE0LTRENjgtQTEwRS1FRDQyQjRGRkJEMkEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODIxMTAxNywiZXhwIjoxNzM4MjExNjE3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.AYVWoRJkuHPEgB-bxK45w8iH7aVInYQwzlhaq4M8xof4SqNGGWyDLsog_0K_u0g5sCdGwbDwZ_rOo3vdnwaF77fc_yM6MGCjkA9L80C69NZKzcXotASwbD-DPQdghVll
 删除Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+Thu Jan 30 17:50:29 CST 2025
+Thu Jan 30 17:50:46 CST 2025
+Thu Jan 30 17:52:47 CST 2025
+Thu Jan 30 17:53:43 CST 2025
+删除foxylovesyou https://edge24-ash.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-2bf1f5c50607da46d02a857b118a17864ec9fd171119cc31210391faafc0f9f7_trns_h264/playlist.m3u8
