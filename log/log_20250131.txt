@@ -133,3 +133,8 @@ Fri Jan 31 04:59:40 CST 2025
 Fri Jan 31 05:01:49 CST 2025
 Fri Jan 31 05:02:53 CST 2025
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Fri Jan 31 05:21:54 CST 2025
+Fri Jan 31 05:22:05 CST 2025
+Fri Jan 31 05:24:16 CST 2025
+Fri Jan 31 05:25:17 CST 2025
+删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.iCofkJJSDy9F_dJEdh5r1Jcysd17GBzEwb1OFgQllmq9Vp5b2mcswDwm1CIGaBZ85u_Nb9YyNcESaBXofth5lznAdFwKUocNmMYPAwxY0usE39KW1yOSjeO82jXrlNUm
