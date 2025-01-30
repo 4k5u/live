@@ -266,3 +266,8 @@ Thu Jan 30 13:26:26 CST 2025
 删除sexygamesx https://edge8-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-aa95fd7d74d1c6f6c9a4354a016d25fb434e8609417d5247e455c724b08c45e6_trns_h264/playlist.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Thu Jan 30 13:41:08 CST 2025
+Thu Jan 30 13:41:17 CST 2025
+Thu Jan 30 13:43:19 CST 2025
+Thu Jan 30 13:44:16 CST 2025
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
