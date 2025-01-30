@@ -294,3 +294,9 @@ Thu Jan 30 14:49:46 CST 2025
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+添加iminako https://edge8-aus.live.mmcdn.com/live-hls/amlst:iminako-sd-887876cc58e7f8a90216a5325e816826039ca7d655b0c153533c79d86039ca1a_trns_h264/playlist.m3u8
+Thu Jan 30 14:58:06 CST 2025
+Thu Jan 30 14:58:19 CST 2025
+Thu Jan 30 15:00:28 CST 2025
+Thu Jan 30 15:01:30 CST 2025
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
