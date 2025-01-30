@@ -168,3 +168,9 @@ Fri Jan 31 06:51:23 CST 2025
 Fri Jan 31 06:51:34 CST 2025
 Fri Jan 31 06:53:44 CST 2025
 Fri Jan 31 06:54:45 CST 2025
+添加my_eyes_higher https://edge1-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2b3a7c314ece51fb53a0bff30bcb8fb46ae436d17b8770f89c748c32c92d8e85_trns_h264/playlist.m3u8
+Fri Jan 31 07:09:36 CST 2025
+Fri Jan 31 07:09:47 CST 2025
+Fri Jan 31 07:11:49 CST 2025
+Fri Jan 31 07:12:46 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
