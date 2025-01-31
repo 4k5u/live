@@ -140,3 +140,8 @@ Sat Feb 1 04:50:36 CST 2025
 Sat Feb 1 04:51:39 CST 2025
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENjk3MTdDOC1GNkEwLTQ5Q0QtQkVCNS1BQTUwRTY4RDJGN0UiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODMzODY3MiwiZXhwIjoxNzM4MzM5MjcyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.QdOk7VIPbvQJ0MxUexsbuw4bEN2NwEcb4XH8Rliv1lIo5fQrNpu1dAOzuU-MZW4SFGS4fD46-ijT5gkczB3D3E8WpvvCMN70eQOEtbg1CkAejXz54eO7mIbu2tUiv02P
+添加my_eyes_higher https://edge6-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d181d0096cd3311661356c402be7ab6b65d11332cca51fa4f3bffc3940125dec_trns_h264/playlist.m3u8
+Sat Feb 1 04:59:19 CST 2025
+Sat Feb 1 04:59:28 CST 2025
+Sat Feb 1 05:01:43 CST 2025
+Sat Feb 1 05:02:47 CST 2025
