@@ -491,3 +491,11 @@ Fri Jan 31 21:42:56 CST 2025
 Fri Jan 31 21:45:01 CST 2025
 Fri Jan 31 21:45:56 CST 2025
 添加NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
+Fri Jan 31 21:52:47 CST 2025
+Fri Jan 31 21:53:44 CST 2025
+Fri Jan 31 21:55:58 CST 2025
+Fri Jan 31 21:57:01 CST 2025
+添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
+删除your_desssert https://edge17-aus.live.mmcdn.com/live-hls/amlst:your_desssert-sd-42067e4a7465e3ec51efeef7b2fdfbb096c5c012ac52c1113d880adcc03640b7_trns_h264/playlist.m3u8
+删除so2so2so https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.yaAVuhbt0PuZ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC95YUFWdWhidDBQdVoiLCJleHAiOjE3MzgzNzE1MjIwNTAsImlhdCI6MTczODMyODMyMn0.fspe2M5gOQLJqceJWkC1Bdj9HdeuuZxrAgVyLRp8RW-D9d1gdYs_X8X6ktNN1NVw5lLlcMM_xdWQd6vz8hmd-6mQ27AqGxBXPrxf49fJ9FCRjKYuQGB8b2Z3qRsowkR0
+删除bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qvVYVUYPiOVp.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xdlZZVlVZUGlPVnAiLCJleHAiOjE3MzgzNzE2OTI4OTUsImlhdCI6MTczODMyODQ5Mn0.bIOWU24LCCbQn_pm6dW_ZKJ3w75TckeNy09hygNuQ-H_tJuPsgfq-3SbmK4uNma3N9XdiDMvmXVPcqKV9p_Uh5_J-wuxEEKpThsRqF2BDa3ptKM5MhIr5NKJelEyQel-
