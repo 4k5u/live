@@ -111,3 +111,11 @@ Sat Feb 1 03:41:24 CST 2025
 Sat Feb 1 03:43:36 CST 2025
 Sat Feb 1 03:44:41 CST 2025
 添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+Sat Feb 1 03:52:28 CST 2025
+Sat Feb 1 03:52:45 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Iaaf61wPsxOIcukrs6dfznWsJRhp3X6Yyz716_Qqsrfa41iQ69GhSbNoEHp04w_KXZ01ZaMWZGLK4paJZtXJzF_lGNXZCbfUnPEtsC73fN9ucQ24tQX4tN1kanlfZmpS
+Sat Feb 1 03:54:51 CST 2025
+Sat Feb 1 03:55:47 CST 2025
+删除rosyemily https://edge18-mia.live.mmcdn.com/live-hls/amlst:rosyemily-sd-c90a681420d3b9ab4b638e40bde1b9b0138b55ec0c36fc1a358939edf660c87f_trns_h264/playlist.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Tmdgus5411 ?aid=null
