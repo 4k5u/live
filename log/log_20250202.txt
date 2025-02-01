@@ -194,3 +194,12 @@ Sun Feb 2 06:03:02 CST 2025
 Sun Feb 2 06:03:59 CST 2025
 删除likeastar77 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.VFVqQVEaSfcJ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9WRlZxUVZFYVNmY0oiLCJleHAiOjE3Mzg0Njc4MzY3NjcsImlhdCI6MTczODQyNDYzNn0.vm0s7XFeItgbKgUGjFjqJjecb_aeosAq1d8He5J9DCGsGp5ystcEekDkAOLyy0eziU_MICLOYEv7UiRLNQqj5ctO-WYVLqJh_njf83X4xTSlYax5scIMR3S2pLM0VONz
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+添加oki_dokie https://edge11-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f30f92e617fda7ef5492d60a11d291031ffb9f51ae04893936432157cc430ad8_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge35-phx.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-4dce1c17cd6c82fa10d373e64f72da1952f0f424d99bd7b70eff3f22801ee61f_trns_h264/playlist.m3u8
+Sun Feb 2 06:25:23 CST 2025
+Sun Feb 2 06:25:32 CST 2025
+Sun Feb 2 06:27:34 CST 2025
+Sun Feb 2 06:28:30 CST 2025
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除smile1001 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Aq2KeOmbMfIT.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0FxMktlT21iTWZJVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNDBCMzA5RC02Q0Y2LTQ3QzItQUM4Ri0wQTNDREY2QjA2RjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODQyMzU3NSwiZXhwIjoxNzM4NDI0MTc1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.610-VVzolVlKT8og454l-PyihVkj-FzF0UgQmUBDrktxK4M5eh9YNmbj1di_TcR7Fy4jpbh46NEiz8RYfJM42x3V66v3AzGiTLn_b4fzVazhOI2pQFKRGMOwdsKJKQg0
