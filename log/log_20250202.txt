@@ -203,3 +203,9 @@ Sun Feb 2 06:28:30 CST 2025
 添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除smile1001 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Aq2KeOmbMfIT.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0FxMktlT21iTWZJVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNDBCMzA5RC02Q0Y2LTQ3QzItQUM4Ri0wQTNDREY2QjA2RjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODQyMzU3NSwiZXhwIjoxNzM4NDI0MTc1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.610-VVzolVlKT8og454l-PyihVkj-FzF0UgQmUBDrktxK4M5eh9YNmbj1di_TcR7Fy4jpbh46NEiz8RYfJM42x3V66v3AzGiTLn_b4fzVazhOI2pQFKRGMOwdsKJKQg0
+Sun Feb 2 06:40:05 CST 2025
+Sun Feb 2 06:40:14 CST 2025
+添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-20/auth_master_playlist.m3u8?aid=null
+Sun Feb 2 06:42:34 CST 2025
+Sun Feb 2 06:43:38 CST 2025
+删除honey_pinkgreen https://edge2-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-306210ce638cd971561def22ddc6a8f0868208390f30d4cefc110b08763e262d_trns_h264/playlist.m3u8
