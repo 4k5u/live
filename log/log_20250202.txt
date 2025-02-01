@@ -209,3 +209,8 @@ Sun Feb 2 06:40:14 CST 2025
 Sun Feb 2 06:42:34 CST 2025
 Sun Feb 2 06:43:38 CST 2025
 删除honey_pinkgreen https://edge2-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-306210ce638cd971561def22ddc6a8f0868208390f30d4cefc110b08763e262d_trns_h264/playlist.m3u8
+Sun Feb 2 06:52:28 CST 2025
+Sun Feb 2 06:52:35 CST 2025
+Sun Feb 2 06:54:36 CST 2025
+Sun Feb 2 06:55:30 CST 2025
+删除lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFBGqUtHSQ1T.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQkdxVXRIU1ExVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NDNBNUY0RC1DMDlGLTQzQzktQjlDMy1CMjg4OTdEQTUwRkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODQxMzM4NCwiZXhwIjoxNzM4NDEzOTg0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.F9_w183s3_BqGSqweSCU_l5aL1IrJR5D_bA0kmJugj4ClquC08p7v8jBE_cDW2_d7KKnEe01aZxORfJNYcDYCcK2iGoakrHZki1sUmTvQ4B0lYdaQBFiY_DtJMZ_Vt1b
