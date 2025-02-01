@@ -246,3 +246,9 @@ Sat Feb 1 11:50:32 CST 2025
 Sat Feb 1 11:51:36 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除my_eyes_higher https://edge6-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d181d0096cd3311661356c402be7ab6b65d11332cca51fa4f3bffc3940125dec_trns_h264/playlist.m3u8
+添加taitehambelton https://edge10-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-58622ef8f9502f385f12e658471d4557adb24cb16df6ce2c3c0b09776d2701c4_trns_h264/playlist.m3u8
+Sat Feb 1 11:59:22 CST 2025
+Sat Feb 1 11:59:33 CST 2025
+Sat Feb 1 12:01:45 CST 2025
+Sat Feb 1 12:02:45 CST 2025
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
