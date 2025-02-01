@@ -14,7 +14,6 @@ _meganmeow_ https://edge16-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-511b
 oki_dokie https://edge11-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f30f92e617fda7ef5492d60a11d291031ffb9f51ae04893936432157cc430ad8_trns_h264/playlist.m3u8
 mazzanti_ https://edge35-phx.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-4dce1c17cd6c82fa10d373e64f72da1952f0f424d99bd7b70eff3f22801ee61f_trns_h264/playlist.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
-TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
