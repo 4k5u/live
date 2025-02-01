@@ -175,3 +175,8 @@ Sun Feb 2 05:30:30 CST 2025
 删除y0ur1n12486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uP0ebsrg23GF.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VQMGVic3JnMjNHRiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyODZDNkMwOS1EQTBFLTRGNUItOThCOC00MDY3NjhDMUEzRDIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODQxNzI0NCwiZXhwIjoxNzM4NDE3ODQ0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.KY8Gx_UewB2xnUcUEguvyy-eJOok6xW2xhQToslvw-TBNNN3ytRATUhuQEAnNgEzTVq9g-uxJLXCufS0DrJc5MjXtDz_T77zxlpiRn9phr-70j83Ri6buPLqkyGnzHqM
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=null
+Sun Feb 2 05:38:06 CST 2025
+Sun Feb 2 05:38:15 CST 2025
+Sun Feb 2 05:40:15 CST 2025
+Sun Feb 2 05:41:10 CST 2025
+删除mazzanti_ https://edge10-mia.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-4dce1c17cd6c82fa10d373e64f72da1952f0f424d99bd7b70eff3f22801ee61f_trns_h264/playlist.m3u8
