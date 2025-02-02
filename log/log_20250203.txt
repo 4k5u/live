@@ -69,3 +69,13 @@ Mon Feb 3 02:02:10 CST 2025
 Mon Feb 3 02:03:13 CST 2025
 添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3pZnsx6Jcwvl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNwWm5zeDZKY3d2bCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDN0M3NDgyRS1GMURBLTQyNjktQTY2OS0wOEZFRjA0MTUyQTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODUwNjE1NiwiZXhwIjoxNzM4NTA2NzU2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.MlISfEvY2nc6dt5fGX6kTjLxY9Nm-lAVsK5-bymmojIjllhfCrEeJnwwTWsWTjbHBs2R7YsguafIa7-7g8FVR7KtVuIduitGUV-YVm_5W9TW-2zPlvTDDcgCRNI5YJYl
+添加kiyoko_rin https://edge15-mia.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-2541ad9d8a98e37e82528ece4d75ba764ef1856a579deb9e8faac28514a7a6ee_trns_h264/playlist.m3u8
+Mon Feb 3 02:31:10 CST 2025
+Mon Feb 3 02:31:33 CST 2025
+Mon Feb 3 02:33:47 CST 2025
+Mon Feb 3 02:34:53 CST 2025
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除mizuki_aikawa_ii https://edge4-mia.live.mmcdn.com/live-hls/amlst:mizuki_aikawa_ii-sd-8df48e3c9fd5c4a9b3b1c25f9177ede5fbd3d305949fecdc8c24da2fbd6e08a1_trns_h264/playlist.m3u8
+删除purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.u7whk9uvCEDTqbjm2U9ATyQcsy1GFN0BGITPIdeXgWgH3SgxkIT6Kl37gtJNzH9gN37Z1lWozQfFq2Ny3-0-6X_4JPLlRfw2Svm7LBeVSqx22id3kcUbUOPRte37fg13
+删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.4cTQ332unmxOeDJ-TFKoSPRZI660M_e4kU0N94GWJi0fPOSjWjBi5mVwjW-C2QEP-ksSasEhEZ3lfTCKxaxb3CJHYeay1CNS9YCdYawihvTifQr8z36a1LICbbKdI1Qf
