@@ -162,3 +162,9 @@ Mon Feb 3 05:30:38 CST 2025
 Mon Feb 3 05:32:50 CST 2025
 Mon Feb 3 05:33:51 CST 2025
 删除honey_pinkgreen https://edge2-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-0beee4c0a0a8d99880633ae93968b50c9e70834744cc5a864f917a0672ad8755_trns_h264/playlist.m3u8
+Mon Feb 3 05:41:46 CST 2025
+Mon Feb 3 05:41:53 CST 2025
+Mon Feb 3 05:44:08 CST 2025
+Mon Feb 3 05:45:12 CST 2025
+删除rosyemily https://edge8-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-f087d5d715896d75e468a022b512a7827d322db4df5ab7b6c6ea1965d5640a88_trns_h264/playlist.m3u8
+删除oki_dokie https://edge25-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d062bf5a6dd267fe1c64d66a4c658b72fc888fe3b639b6ba0509a86bdd5439c6_trns_h264/playlist.m3u8
