@@ -495,3 +495,9 @@ Sun Feb 2 19:32:37 CST 2025
 Sun Feb 2 19:33:39 CST 2025
 删除ake_mi https://edge16-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-7d726439a95e0313fde9b6a2016ce97d27af9c94c4c9bc2aa99c7d042abdfb75_trns_h264/playlist.m3u8
 删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dv9uth71MWS_9t46mBAdSo7p-jIAUQf-1tbYDmqqMNDKXpw7oiFZO8px3gAWXHa4eyYskWOashnwwQ-PqDLYKpLlZinaNI94fCPYU_tdMNskUKQGRrTqX2lhQSs5gGIO
+Sun Feb 2 19:40:32 CST 2025
+添加leeyuin1 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bsdut9FXp3gS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JzZHV0OUZYcDNnUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MUExRjkyQi01MTg0LTQ5MjQtQkI2NS1DQUU4QTc2QjBGM0YiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODQ5NjQ1MCwiZXhwIjoxNzM4NDk3MDUwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.l6ZAY-5Ylm_WgfdFzKdOUJD2sZp_uPMiR2_TVfFKdMdelXFGv3T3OdFdBCZrGKu2epriNRLHUS8IJFF1p70gbzQRAnkTq3PcjJcKDP0g0_LRwP9YwopjL_Yp1YhdLW45
+Sun Feb 2 19:41:17 CST 2025
+Sun Feb 2 19:43:28 CST 2025
+Sun Feb 2 19:44:30 CST 2025
+删除oki_dokie https://edge7-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-77eead906bd8176d382670022edcc6d2f028cdf7d4757787f03aa5a54cc11677_trns_h264/playlist.m3u8
