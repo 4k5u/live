@@ -373,3 +373,9 @@ Sun Feb 2 15:21:44 CST 2025
 Sun Feb 2 15:22:46 CST 2025
 删除icubi69 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.GUsiHfsr4rWj.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0dVc2lIZnNyNHJXaiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQzAxMjEwMC04N0Y0LTRCNjQtQUJEMC1FRDlCRkY0OUJBQzEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODQ2MTI0MCwiZXhwIjoxNzM4NDYxODQwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ta30-ebzYQsoMjxEPbOrT7g0suZRfxZCmPU_5mDE2ZFn3tfQuNLRmZrWxI2HNVeIdM9BJ4igICHNhYM4uyzx38PopHgpMl925E5nyMBDFgwxrQyU0IJ7flBxUk-fow4F
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+Sun Feb 2 15:30:09 CST 2025
+Sun Feb 2 15:30:29 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-dR-E7ffOJcqlFSrIPRjdu6zPva3bbx3VR7tAcys3kmA9Xf4NaJ5UqLrDnfXuYE0A_QNTJUa2ZE8toNm6XI86H-f_s8NWDNf9qPhqR-ez8gHZ6dTn7gwHYttChsa3ZaI
+Sun Feb 2 15:32:48 CST 2025
+Sun Feb 2 15:33:52 CST 2025
+删除your_desssert https://edge12-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b0ff7b644fbe0997a46c93d8277459890f762dc2e4d2052b7a250658f7beba03_trns_h264/playlist.m3u8
