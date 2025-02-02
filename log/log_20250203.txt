@@ -139,3 +139,8 @@ Mon Feb 3 04:33:17 CST 2025
 Mon Feb 3 04:34:19 CST 2025
 删除gkfnsus5573 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.4vTQkzhj8zas.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzR2VFFremhqOHphcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNjYwRTFDQy05QUFDLTQ2RTItODU5MC1GMUEzNEJGRDU4ODciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODUwNDkwMywiZXhwIjoxNzM4NTA1NTAzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.HmDOzNgKBI_CyfFQfrhRsFXKjesFKlo2-0KulqV0hfvztLZzVJoj9Ny3xM0rsjekZd2j49jO5KJ2vr53XxGKRIW94-s7JUdkfMrrByGGLPpAgidizRudDJvBf9ySwmhm
 删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+添加my_eyes_higher https://edge11-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d935f3ff6ef18caa86f6bbfc180329f5503db8ccebf8b11564bddd9947c1c75e_trns_h264/playlist.m3u8
+Mon Feb 3 04:43:00 CST 2025
+Mon Feb 3 04:43:09 CST 2025
+Mon Feb 3 04:45:08 CST 2025
+Mon Feb 3 04:46:03 CST 2025
