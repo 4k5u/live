@@ -182,3 +182,10 @@ Mon Feb 3 06:22:15 CST 2025
 删除kiyoko_rin https://edge15-mia.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-2541ad9d8a98e37e82528ece4d75ba764ef1856a579deb9e8faac28514a7a6ee_trns_h264/playlist.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除angzzi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HeKqF8h74ivt.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hlS3FGOGg3NGl2dCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MDQ3MTE4Ny0xMkVELTRGMTgtQTI2QS0yNDU2NkU2RkE1QjEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODUyNTI0NCwiZXhwIjoxNzM4NTI1ODQ0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.FyEw6TXjOs7CRTKKOAgnvVHhmQXo_q6619I9BNEo8GKlcDRtuMTGrSerMWLSKVDgoeowxF_4q9Pvyk-PpdUBfuQ28Ac-2NGJ5nyBOaVnSFXXtUw25rtBrKjREw52uksd
+添加oki_dokie https://edge11-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a924a8ef956b3b06ddfe6a34704c24dc61d929b9a74af4ae4f7c15dad5eb01f9_trns_h264/playlist.m3u8
+添加kiyoko_rin https://edge28-atl.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-be65db518d0aa1ef775c2110831714bbbdb58244689ae140c008188e9b2f95ea_trns_h264/playlist.m3u8
+Mon Feb 3 06:34:27 CST 2025
+Mon Feb 3 06:34:36 CST 2025
+Mon Feb 3 06:36:52 CST 2025
+Mon Feb 3 06:37:55 CST 2025
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
