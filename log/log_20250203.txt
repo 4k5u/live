@@ -414,3 +414,10 @@ Mon Feb 3 17:44:25 CST 2025
 删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
 删除Tmdgus5411 ?aid=null
+Mon Feb 3 17:51:20 CST 2025
+Mon Feb 3 17:51:47 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Mon Feb 3 17:54:07 CST 2025
+添加so2so2so https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.yaAVuhbt0PuZ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC95YUFWdWhidDBQdVoiLCJleHAiOjE3Mzg2MTk2NzEzMjAsImlhdCI6MTczODU3NjQ3MX0.fr1llNfmMF9RMBHtBzKRWkVsCMJ3xNzUplWORNe_QrnXexs9EdicHuptWBR2V3JvGP867sqyjMUFqC7ywx6GSWpzGHVMfOT56IVCHlzibYCA2sZp9z5WJlvzZzxY_mvz
+Mon Feb 3 17:55:13 CST 2025
+删除sexygamesx https://edge6-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-eaf6e263378122ad34f78591e5b456ffd0af14fb80757a87cc9af3b3e598683d_trns_h264/playlist.m3u8
