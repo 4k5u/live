@@ -301,3 +301,12 @@ Mon Feb 3 13:42:56 CST 2025
 Mon Feb 3 13:43:51 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加sexygamesx https://edge6-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-eaf6e263378122ad34f78591e5b456ffd0af14fb80757a87cc9af3b3e598683d_trns_h264/playlist.m3u8
+Mon Feb 3 13:52:00 CST 2025
+Mon Feb 3 13:52:15 CST 2025
+Mon Feb 3 13:54:17 CST 2025
+Mon Feb 3 13:55:13 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3Mzg1Njc1MTUxNTgsImlhdCI6MTczODUyNDMxNX0.9QjwEF9DGn2o0srsZmeM-d6PwRGmJ_fvQqC90v1ls2_GUYVvF8_HNWz1dOuLLIIvXAzz776q5jXyZe1Lj6zPJqJy4FL4c1Y2dCL_1XtbefdW5bd57B9rpD3wA7Cb0NlG
+删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
