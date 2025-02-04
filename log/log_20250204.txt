@@ -264,3 +264,9 @@ Tue Feb 4 12:29:28 CST 2025
 删除dusqhfk456 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.QYFiD5L3joGH.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1FZRmlENUwzam9HSCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMUY5MTUyQi0xRTVCLTQyOTMtQjJFNi02OEY4NzAwM0ZDQUQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODYyNzI5OCwiZXhwIjoxNzM4NjI3ODk4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Qwu-7D1x3zAafcZqRcHnoGtFmcaGFehERSRJQ-GRFWL8JG1a1mRPLXaIn-j-aJvzWtTQ_5a9_c0sWIytnqJ2v6J1rQt6OY7JcfB7CbW3_sSUfA7tA_o648L_902CftyY
 删除taitehambelton https://edge12-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-221f55cadb1e73f1d6ecefd8aff4357e4c1393e27f32c6a722f627547ecab0be_trns_h264/playlist.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Tue Feb 4 12:41:57 CST 2025
+Tue Feb 4 12:42:12 CST 2025
+Tue Feb 4 12:44:16 CST 2025
+Tue Feb 4 12:45:14 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
