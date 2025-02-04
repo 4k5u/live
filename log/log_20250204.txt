@@ -354,3 +354,8 @@ Tue Feb 4 15:27:41 CST 2025
 添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 删除hehe0000 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FY710smfpq6g.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZZNzEwc21mcHE2ZyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5OTBBOTJBMy04RkI2LTQzODktQTJGNC1DOTkyMDQxOTZFNDkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODY0MzE1NiwiZXhwIjoxNzM4NjQzNzU2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.3PFzlvduqqe6GJ1vgjpYpVGqKeJ8F8Qo5ogJdbZ4PCT7xCWqtBm1a0LwtsQVnR_PsyCB5fxJmVYfM7-vvi8miVOT203N1LwBpiEWp5VnvESbV08UfW4lnkCV4yemHD9E
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+添加mode_bad https://edge8-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-57410bbc4db36a76431c7128499f4b33e81d6aeec0c76861046d11f01fa8662d_trns_h264/playlist.m3u8
+Tue Feb 4 15:38:36 CST 2025
+Tue Feb 4 15:38:51 CST 2025
+Tue Feb 4 15:41:05 CST 2025
+Tue Feb 4 15:42:08 CST 2025
