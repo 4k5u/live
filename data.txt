@@ -18,3 +18,5 @@ tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
