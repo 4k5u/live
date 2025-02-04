@@ -228,3 +228,13 @@ Tue Feb 4 11:04:55 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Tue Feb 4 11:28:37 CST 2025
+Tue Feb 4 11:28:50 CST 2025
+Tue Feb 4 11:30:50 CST 2025
+Tue Feb 4 11:31:44 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNzlGN0U5RC0yNTc5LTQ0NDYtQjdFRS05NjAzRkYxNjZGRUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODYyMDEzMiwiZXhwIjoxNzM4NjIwNzMyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.vu5YWx3QkPYkVByaw9pmWUlpGPOL5xEhlOXewgYXtvdS9udc8iiwca-VSzGUBUk_pbXjS2xuV24O3FbPmKdlLKOgJvuZpSok96HCdqTyGsNvEjNuaSywVynqG-f5MnR6
+删除oki_dokie https://edge9-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-28e3899111270dfeb6142fd38923da3da5ba9dc316ddaf619eefcaa177f9228b_trns_h264/playlist.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
