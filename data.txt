@@ -24,3 +24,4 @@ Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 taitehambelton https://edge16-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-221f55cadb1e73f1d6ecefd8aff4357e4c1393e27f32c6a722f627547ecab0be_trns_h264/playlist.m3u8
 Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
