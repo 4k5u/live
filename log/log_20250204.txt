@@ -481,3 +481,9 @@ Tue Feb 4 19:35:36 CST 2025
 Tue Feb 4 19:36:33 CST 2025
 删除ake_mi https://edge4-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-ec47a845c9ac126dcde89760dd6f9cfaa9813adea9c40c783438c6228da7a63a_trns_h264/playlist.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Tue Feb 4 19:43:13 CST 2025
+添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.8WqyIGVxAwT0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzhXcXlJR1Z4QXdUMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJERUUwMkE3QS05QTJDLTQ2N0EtQjRCOC1FRTk0NTE5OTY3MzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODY2OTQxOCwiZXhwIjoxNzM4NjcwMDE4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.XkdpvL05bYIagucdWQ5IYWAsG2wPRunAHhe8F9iWDZh-sx2O4wn-6R9wc0ZvDvirkN10BVBztWQsN7RGe_5DwOw2Q0M_mLblGu143tFCUWDd05RtO3lGOWDW7TrZwo6b
+Tue Feb 4 19:44:17 CST 2025
+Tue Feb 4 19:46:29 CST 2025
+Tue Feb 4 19:47:32 CST 2025
+删除mode_bad https://edge27-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-39cb3a9dc9772e49b5d7b83f0b3d38cb2594196f88c85ac1a27c4ecc250c6764_trns_h264/playlist.m3u8
