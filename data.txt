@@ -23,3 +23,4 @@ foxylovesyou https://edge20-chi.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-3a
 luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3Mzg3ODY5OTcwMjYsImlhdCI6MTczODc0Mzc5N30.lAD1zekW0EkrXxkIP7NaCwnK5vOyH4tk93a6CnZc3U-RFOr9meJWpWaviZY-AtwbAFsQvfQIz0Aegq96JHKRVnMUx7YNowWRAkEgfJv7RyLxo-Pj47ganSgxWEMOdFaS
 EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
