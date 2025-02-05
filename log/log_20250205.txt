@@ -324,3 +324,8 @@ Wed Feb 5 14:48:45 CST 2025
 Wed Feb 5 14:49:51 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+Wed Feb 5 14:58:13 CST 2025
+Wed Feb 5 14:58:38 CST 2025
+Wed Feb 5 15:00:45 CST 2025
+Wed Feb 5 15:01:47 CST 2025
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
