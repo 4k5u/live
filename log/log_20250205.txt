@@ -316,3 +316,11 @@ Wed Feb 5 14:31:43 CST 2025
 删除intim_mate https://edge3-chi.live.mmcdn.com/live-hls/amlst:intim_mate-sd-fba8912bc999ea221d27b0eeea8ebd3687d22d4124d9d872da514c0ac5dabba1_trns_h264/playlist.m3u8
 删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+添加_meganmeow_ https://edge1-mia.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-edbefdc746f60a54903616916ee929203de5b6c15d6c266c72e0ce51b9025f3d_trns_h264/playlist.m3u8
+Wed Feb 5 14:45:59 CST 2025
+Wed Feb 5 14:46:24 CST 2025
+添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Wed Feb 5 14:48:45 CST 2025
+Wed Feb 5 14:49:51 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
