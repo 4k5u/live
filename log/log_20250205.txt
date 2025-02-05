@@ -245,3 +245,8 @@ Wed Feb 5 11:41:34 CST 2025
 删除kiyoko_rin https://edge7-chi.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-b2f56a7a5f9745c4e0e8530d78445b39b74b2a6e3eeb0c54cb8f196e0af20b5c_trns_h264/playlist.m3u8
 删除my_eyes_higher https://edge7-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-92027319cae6bb86460a23df872ea7f46c12d20545feb03c5f45500dd8adab71_trns_h264/playlist.m3u8
 删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.hoOZ-AUZvotS8q15JxiGap3metXN2zHRoU_-484aXdiosW0kxwyTbhfiYi5YiPIYhA59uNNKXjSF6gG_5LeD-2TYQatk4XJ21k9J4n6OP0b_jPeXt9OesKt4QBGYguKt
+Wed Feb 5 11:49:26 CST 2025
+Wed Feb 5 11:49:43 CST 2025
+Wed Feb 5 11:51:43 CST 2025
+Wed Feb 5 11:52:38 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
