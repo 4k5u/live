@@ -166,3 +166,10 @@ Thu Feb 6 05:59:52 CST 2025
 Thu Feb 6 06:00:02 CST 2025
 Thu Feb 6 06:02:22 CST 2025
 Thu Feb 6 06:03:31 CST 2025
+添加oki_dokie https://edge5-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6dfc49e8a3565ce79f03f32748bce3fe4ee6aac7fadce4132bdc08e1cb6112e7_trns_h264/playlist.m3u8
+Thu Feb 6 06:26:13 CST 2025
+Thu Feb 6 06:26:23 CST 2025
+Thu Feb 6 06:28:39 CST 2025
+Thu Feb 6 06:29:46 CST 2025
+删除Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除kiyoko_rin https://edge18-aus.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-5b03f3151da3220bb8b1a876a93024ae20089f20efc4007e5cad0830293cd57c_trns_h264/playlist.m3u8
