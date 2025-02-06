@@ -23,3 +23,4 @@ Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3
 Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
 Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3Mzg4Njk3NzM0MTMsImlhdCI6MTczODgyNjU3M30.VsH59rNLzp60GpMmUd3VSvq3Zf6U5uRo-OKvimupkkHDGczSnhyo7ejmDipOTkX3OgMsD9MZx_xpi6D8jftHZUr7HH19xKkp_gzAcOgIw9daiXRyAo_YkxVDgONSfzbP
