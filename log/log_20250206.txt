@@ -391,3 +391,8 @@ Thu Feb 6 17:30:33 CST 2025
 删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
 删除mode_bad https://edge29-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-a83d7f970f419019ca7e3d34caa69cebd2866bae3735f613e27d4156f3ee4c7d_trns_h264/playlist.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Thu Feb 6 17:40:07 CST 2025
+Thu Feb 6 17:40:28 CST 2025
+Thu Feb 6 17:42:40 CST 2025
+Thu Feb 6 17:43:42 CST 2025
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
