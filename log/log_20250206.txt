@@ -325,3 +325,11 @@ Thu Feb 6 14:36:31 CST 2025
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+Thu Feb 6 14:50:57 CST 2025
+Thu Feb 6 14:51:12 CST 2025
+添加yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Pf0K40U4LZLdud4ZZxewy4LerLy9gUgKT0YRsuV2VlIv5qt2yjXtUhr204om7563PhggNWpMSZ6EOSirlOO5gQftKsW-M0xZOrY8SrvXX-LCUC_WQHjqAJFGLQLypBd0
+Thu Feb 6 14:53:30 CST 2025
+Thu Feb 6 14:54:33 CST 2025
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除intim_mate https://edge1-lax.live.mmcdn.com/live-hls/amlst:intim_mate-sd-7e5bba2e1b2e4d0dc927e84ca3325569697fa1b7eda8f4a4887c4cb62f00b5ab_trns_h264/playlist.m3u8
+删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
