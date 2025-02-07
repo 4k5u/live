@@ -178,3 +178,8 @@ Sat Feb 8 06:42:46 CST 2025
 Sat Feb 8 06:43:49 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sat Feb 8 06:52:28 CST 2025
+Sat Feb 8 06:52:41 CST 2025
+Sat Feb 8 06:54:42 CST 2025
+Sat Feb 8 06:55:37 CST 2025
+删除gkfnsus5573 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.4vTQkzhj8zas.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzR2VFFremhqOHphcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwNjM3REQ5OC1FRkMwLTQ5MUItOEVGMC04NDUwRjk3OEQ4MzEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODk0MTY4MywiZXhwIjoxNzM4OTQyMjgzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9._n2VDzQaOZuJ6-xbvasx-OkRAPLstvcfeD0sDFFJYk_VuC-Y-JTjqZ4CA4FQJT3ezFOhbbH9fQT-QX5Dqne43S-5t7c2_c8jmRHTh7WbPURvatBYRWk2OY8piY9zTEgy
