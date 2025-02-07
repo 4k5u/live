@@ -404,3 +404,10 @@ Fri Feb 7 16:33:50 CST 2025
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Fri Feb 7 16:45:00 CST 2025
+Fri Feb 7 16:45:25 CST 2025
+Fri Feb 7 16:47:38 CST 2025
+Fri Feb 7 16:48:43 CST 2025
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除iminako https://edge6-mia.live.mmcdn.com/live-hls/amlst:iminako-sd-579c86fbc0a9f75b84df3a59263482ba169fe4dfcbf52aaf982dfd4f842a92cd_trns_h264/playlist.m3u8
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
