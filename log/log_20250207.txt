@@ -375,3 +375,9 @@ Fri Feb 7 15:25:52 CST 2025
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Fri Feb 7 15:32:30 CST 2025
+Fri Feb 7 15:32:51 CST 2025
+Fri Feb 7 15:34:51 CST 2025
+Fri Feb 7 15:35:46 CST 2025
+删除intim_mate https://edge14-mia.live.mmcdn.com/live-hls/amlst:intim_mate-sd-92f0363a6dd83465d2be4eb19789de492c64b6fd909ff1933a8569cb997d5314_trns_h264/playlist.m3u8
+删除taitehambelton https://edge13-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-93dd262d4da9efccf7eca47acec2b232f9e6f74493c35bf21899c699a7de2596_trns_h264/playlist.m3u8
