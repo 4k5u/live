@@ -22,3 +22,6 @@ hehe0000 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 taitehambelton https://edge13-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-93dd262d4da9efccf7eca47acec2b232f9e6f74493c35bf21899c699a7de2596_trns_h264/playlist.m3u8
+100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRUI2RjEyNS01RkVDLTQxREEtODYyMy1FOEFGNUJCQUI2QzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODkwNzUzNSwiZXhwIjoxNzM4OTA4MTM1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.xBOGwF8R2SVBFyoKdFf-pzkVDC_Y75JgwBCadzNA4yMsXQW1x5o-x0QZJvVZghXnAZGBh30X-ftU2riLGc_e4kOqlcsmzgJZyC8sgm5CbFWSIRIjx-hjYvdabVuIWf92
+Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
