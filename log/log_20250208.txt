@@ -320,3 +320,11 @@ Sat Feb 8 13:22:03 CST 2025
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加ake_mi https://edge1-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2898d837f9b5a6669daf4cb030119181d093b6f93b95f088fc8d0289513e311d_trns_h264/playlist.m3u8
+Sat Feb 8 13:32:54 CST 2025
+添加dusqhfk456 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.QYFiD5L3joGH.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1FZRmlENUwzam9HSCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMTczQ0Q5MC1DNjhGLTRFMDItOTAxMi1BRDc3MUFFQjhDQTQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODk5Mjc3OSwiZXhwIjoxNzM4OTkzMzc5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.RZ8EehRSo8TKUPzx-EetC2ZU97lJuoDHt5ilMKN5AtoySLKL5ybtTKngQS73S45TE2mluASGonu8cblrcd5j_D93hk5w5qGlGz7vBTAtqXyFGZHtDWB6Wso-h-N5Kg-n
+Sat Feb 8 13:33:18 CST 2025
+Sat Feb 8 13:35:30 CST 2025
+Sat Feb 8 13:36:34 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
