@@ -13,3 +13,5 @@ slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3MzkwOTI2NzYwODksImlhdCI6MTczOTA0OTQ3Nn0.wGAj6vGswyqhFGpBDaTBk-xGAosKzOprN4KiGRc7AZPD5HDOFHb6KOl9HukPiNNlx38uzayML3HdgU3L6k7w4Oec9cwu0nsDCw7YT9i-KIYogi0UGk16UW-B60wP1gLe
 _meganmeow_ https://edge2-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-350b785a26b73bad5fc13bb93990c109978e27a43dca423378fc22c8f70e2065_trns_h264/playlist.m3u8
 my_eyes_higher https://edge28-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1ac396dbadcc25cc662a44ca8694c35b79bee5b68fb1d5b9c9f14e79cc33678b_trns_h264/playlist.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
