@@ -44,3 +44,8 @@ Sun Feb 9 01:22:52 CST 2025
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qvVYVUYPiOVp.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xdlZZVlVZUGlPVnAiLCJleHAiOjE3MzkwNzM3NDM2NjYsImlhdCI6MTczOTAzMDU0M30.rdklOTgY4oCs5t8WFSx20LukcmTQW_ZmVd6aaNj5-_XwPRnOkf0kr6IZNKZo-SVD75dEjuAQR7oCj6G9HGYMv9K9s_tQvh-K4WhRFcLA2kfvs9qs7_5Y3BSlBvoCTO6q
+添加ad0res https://edge21-ash.live.mmcdn.com/live-hls/amlst:ad0res-sd-da85e117608d949e4391a8a565b6ffa52b55ad587dccd89587e8cd63bc03248c_trns_h264/playlist.m3u8
+Sun Feb 9 01:31:07 CST 2025
+Sun Feb 9 01:31:48 CST 2025
+Sun Feb 9 01:34:03 CST 2025
+Sun Feb 9 01:35:09 CST 2025
