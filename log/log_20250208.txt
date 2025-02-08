@@ -328,3 +328,9 @@ Sat Feb 8 13:35:30 CST 2025
 Sat Feb 8 13:36:34 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Sat Feb 8 13:48:25 CST 2025
+Sat Feb 8 13:48:46 CST 2025
+Sat Feb 8 13:50:56 CST 2025
+Sat Feb 8 13:52:00 CST 2025
+删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NUY0Q0VBRC03MjI1LTQ2MjQtQUREOC0wRTg3MTNGMTY3RUQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODk2NTAyNSwiZXhwIjoxNzM4OTY1NjI1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.sv96zVCUr3iMjJuMgusnb-5EwNssIflt6IY9crLVQanctWYI5R4GwmQV1S6I7Qd5lEDllegyUM5cEFYCYcgw7OoR-GmOxN-ChgtA8LVrF-2fYDh2pOOsgc9Ui8AMHLWM
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
