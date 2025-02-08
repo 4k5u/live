@@ -467,3 +467,8 @@ Sat Feb 8 18:44:17 CST 2025
 删除oki_dokie https://edge16-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c7cee4f2492fdd09accdd70e96a6a8786b2809e87ddb82386349d138b08591ee_trns_h264/playlist.m3u8
 删除taitehambelton https://edge5-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b6bdb94f52f4e081fc7728722b4beb854694bc4387c5d6f0cda3929d20609735_trns_h264/playlist.m3u8
 删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+Sat Feb 8 18:51:41 CST 2025
+Sat Feb 8 18:52:16 CST 2025
+Sat Feb 8 18:54:31 CST 2025
+Sat Feb 8 18:55:35 CST 2025
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
