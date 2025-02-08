@@ -256,3 +256,9 @@ Sat Feb 8 11:32:08 CST 2025
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Sat Feb 8 11:40:57 CST 2025
+Sat Feb 8 11:41:14 CST 2025
+Sat Feb 8 11:43:29 CST 2025
+Sat Feb 8 11:44:33 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除taitehambelton https://edge19-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b6bdb94f52f4e081fc7728722b4beb854694bc4387c5d6f0cda3929d20609735_trns_h264/playlist.m3u8
