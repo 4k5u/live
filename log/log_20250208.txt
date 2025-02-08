@@ -262,3 +262,11 @@ Sat Feb 8 11:43:29 CST 2025
 Sat Feb 8 11:44:33 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除taitehambelton https://edge19-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b6bdb94f52f4e081fc7728722b4beb854694bc4387c5d6f0cda3929d20609735_trns_h264/playlist.m3u8
+Sat Feb 8 11:52:30 CST 2025
+Sat Feb 8 11:52:45 CST 2025
+Sat Feb 8 11:54:44 CST 2025
+Sat Feb 8 11:55:39 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5QTcwQzAzNy01M0Q5LTQyMzAtQTFDRS01OTIyQjA0RTNGMTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODk1OTg0NywiZXhwIjoxNzM4OTYwNDQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ZA489_LdA-g42-AtWo9_Sr9-oLU69-VXzeOX3o8jZN-RmDTDqATIIQ-KDF7kmY7KV8ngDSM4cxYp-M1tc0e02LjGi4JcWDyQOXaGUe6GIAGHRD8i9jrn3UyHo-BJOvrj
+删除_meganmeow_ https://edge4-mia.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-1a3b3747ed7f2541f3c3adb125bc9b5111363d0736d456268f9058ca629869b7_trns_h264/playlist.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
