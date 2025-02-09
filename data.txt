@@ -32,3 +32,7 @@ kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_play
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+ake_mi https://edge10-mia.live.mmcdn.com/live-hls/amlst:ake_mi-sd-b8a97a1bdf04ac179557a280d20277d30aededec7d4609572bacc59c2b4f29f5_trns_h264/playlist.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8

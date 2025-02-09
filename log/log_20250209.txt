@@ -320,3 +320,11 @@ Sun Feb 9 13:38:53 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除hehe0000 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FY710smfpq6g.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZZNzEwc21mcHE2ZyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NUEzNzY3MS0xMjJFLTRBMDctQjY4OC1DMjY3ODFBQTdFMkEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTA2NjEzOSwiZXhwIjoxNzM5MDY2NzM5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.DyffnuExdzWPR9Lo-90ezFihmVG_FiyYZfKCuC8DWDUlJj6ERIBPv3AvSBzCuZKnyiTRAhF6ou42ECmSSyk0sQRs84mdt8pfdXoLuBXbTTRwTPh8IFbPtYbs1XXeg2Nf
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加ake_mi https://edge10-mia.live.mmcdn.com/live-hls/amlst:ake_mi-sd-b8a97a1bdf04ac179557a280d20277d30aededec7d4609572bacc59c2b4f29f5_trns_h264/playlist.m3u8
+Sun Feb 9 13:48:28 CST 2025
+Sun Feb 9 13:48:47 CST 2025
+Sun Feb 9 13:50:59 CST 2025
+Sun Feb 9 13:52:02 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
