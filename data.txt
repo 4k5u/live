@@ -13,3 +13,4 @@ _meganmeow_ https://edge2-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-350b7
 my_eyes_higher https://edge28-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1ac396dbadcc25cc662a44ca8694c35b79bee5b68fb1d5b9c9f14e79cc33678b_trns_h264/playlist.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.uIek5B6RvM0qlBCeZPQFp-WHKsqPeELdlKy73R6gLA4R8jIjeGfqUkXKvur3MJgWGsUnQ5GCmEJRZ0eSgwn5w-37pZK66t0l0VfIt3FJjYYT0XsmJFRHHij6VF6VTtfZ
