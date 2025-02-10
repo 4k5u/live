@@ -30,3 +30,12 @@ Tue Feb 11 00:49:04 CST 2025
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+Tue Feb 11 00:58:17 CST 2025
+Tue Feb 11 00:59:00 CST 2025
+Tue Feb 11 01:01:15 CST 2025
+Tue Feb 11 01:02:20 CST 2025
+删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.i2TQNQa0Pw6X_03w6mMs2xDDPO8x_ms-P9aS5Ff0r1-QnMGK9A3166i-iGohTVuLP23vMMRA5inwppl1WRODTm6alAOTGW_FIdnhG6bV8GoWONHfGzv1l19ZZdB5Gftv
+删除dks2003 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ejL6YF0BUhNG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VqTDZZRjBCVWhORyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQkFCOUREQi1BQ0Q2LTRGQUYtQTQ0NS1CQkYzQjREQjZENDIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTE5MTE3NSwiZXhwIjoxNzM5MTkxNzc1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.VLFnZg_S5KfyV84fNG1v1ZBrkFzRcejeBAhXaiA6kadFZ3FTdNmiMry2FGGrNiu4Vs6RlnYyeH1k11LGCuJ0FHMN7PV6pMllk0iPilPstP-ndsr3Jg--rZeQ3YV_5CNZ
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除Tmdgus5411 ?aid=null
