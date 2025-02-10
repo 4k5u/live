@@ -8,3 +8,4 @@ slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 oki_dokie https://edge12-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-09388ee74f5c6e55845709497b43d3625255656b92e964de3a94afe629b580ec_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
+morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
