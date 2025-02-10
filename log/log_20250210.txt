@@ -370,3 +370,14 @@ Mon Feb 10 16:01:36 CST 2025
 Mon Feb 10 16:02:08 CST 2025
 Mon Feb 10 16:04:21 CST 2025
 Mon Feb 10 16:05:24 CST 2025
+添加mode_bad https://edge6-mia.live.mmcdn.com/live-hls/amlst:mode_bad-sd-032963398837ba1d016dbe57d76e378fbaccf4c70cf26391c2a2aa600b152c8d_trns_h264/playlist.m3u8
+Mon Feb 10 16:32:52 CST 2025
+Mon Feb 10 16:33:19 CST 2025
+添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.i2TQNQa0Pw6X_03w6mMs2xDDPO8x_ms-P9aS5Ff0r1-QnMGK9A3166i-iGohTVuLP23vMMRA5inwppl1WRODTm6alAOTGW_FIdnhG6bV8GoWONHfGzv1l19ZZdB5Gftv
+Mon Feb 10 16:35:39 CST 2025
+Mon Feb 10 16:36:42 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qvVYVUYPiOVp.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xdlZZVlVZUGlPVnAiLCJleHAiOjE3MzkyMDM1MzAwODMsImlhdCI6MTczOTE2MDMzMH0.poU4sQoOMraQzzn2PCt7yKZj5Y1JYSXwHdiMmAO6PuyrF6X7o24HI1xgfXyBgGdrUuj1sqUO5D4OHOkgbn_lkNsA8FmJtbR-K8Hn09wR8nqE61_MifZAc4KsFD086qv6
+删除merryxmas77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WoO04uYmgtVV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dvTzA0dVltZ3RWViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyRjNDMzlGQS0zOTlELTQ0RDItOEY2Ny1DMzNFM0FBNjJCQzEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTE2NDMxNiwiZXhwIjoxNzM5MTY0OTE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.14ioaDsMhs-UK7KnaP7ih1jRjRMA3m3A_2dwhLgQopGihN8CRH4U7_7V97hxGAWWCSsAL5YmiGT_lXorkyBrt_FW-jy_hnu1P7p2C23A2RR5jnzceIXwaZ1J2rBVrnFS
+删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
