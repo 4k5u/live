@@ -253,3 +253,10 @@ Mon Feb 10 11:19:35 CST 2025
 删除oki_dokie https://edge17-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-669fca605af0cf0b2426f756c325eaaec494534877295290bb7534983c229f9c_trns_h264/playlist.m3u8
 删除intim_mate https://edge12-chi.live.mmcdn.com/live-hls/amlst:intim_mate-sd-1eb8cc58a3c1e5e6852f5e3ce65b8566783bea4125e101aaae63ea974f03c7be_trns_h264/playlist.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+Mon Feb 10 11:40:37 CST 2025
+Mon Feb 10 11:40:48 CST 2025
+Mon Feb 10 11:43:02 CST 2025
+Mon Feb 10 11:44:06 CST 2025
+删除my_eyes_higher https://edge11-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-eb3e0d6861ad012a7717a34105f62ccdd44201b31f0a989b5c6c51254b29c979_trns_h264/playlist.m3u8
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
