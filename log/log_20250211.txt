@@ -89,3 +89,9 @@ Tue Feb 11 02:37:23 CST 2025
 删除sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Fu6YDNo--WF1yfOcrK1c3M1JzJdjPV8bW9ATTm9nnpX_7Qesvy-8a2UCcigFNTKj3t76tX_l5jJujuZzScXIoFkG-hhhB_zWdjJYIbkGFapp8wfzqUiv2x_kZr59Gdlv
 删除aeaei5082 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WcNLsDunMT6i.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1djTkxzRHVuTVQ2aSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NDAxQjQzNy1DOUE5LTQ4MTItQjZFRi03NDI2MUJBNDEzQ0YiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTIwNTg5NiwiZXhwIjoxNzM5MjA2NDk2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2BCeKpLcLUQlV-4LLENN7P2nl0OeFjoETg2g_9OyojdBGTy3-NnmJRLXTcf2Evhva78QsqD0OvrZ5s-n1nP59upxc4LuI6Q1Oo3S6KDiwboL313Ks6K11Qrf4o6yex2_
 删除Tmdgus5411 ?aid=null
+Tue Feb 11 02:49:06 CST 2025
+Tue Feb 11 02:49:23 CST 2025
+Tue Feb 11 02:51:44 CST 2025
+Tue Feb 11 02:52:58 CST 2025
+删除purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HVcURU2BLgLZNSQh4k82B7VRtgpB9C5CUUghs_AkJ9CbNt-yP1uQ8ZHMVF2v5ETqC-Ogz7OvUUDQoPYsnCu12RayZ1wiceqRM0U0GgyktLglaH6FApJK1dGF7Y4l00n5
+删除niunew https://edge-hls.doppiocdn.live/hls/106158883/master/106158883_auto.m3u8
