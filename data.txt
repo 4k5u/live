@@ -9,3 +9,4 @@ oki_dokie https://edge12-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-09388ee7
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
