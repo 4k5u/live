@@ -263,3 +263,10 @@ Wed Feb 12 13:23:20 CST 2025
 Wed Feb 12 13:25:30 CST 2025
 Wed Feb 12 13:26:33 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Wed Feb 12 13:40:50 CST 2025
+Wed Feb 12 13:41:14 CST 2025
+Wed Feb 12 13:43:25 CST 2025
+Wed Feb 12 13:44:28 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
