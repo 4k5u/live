@@ -341,3 +341,10 @@ Wed Feb 12 16:32:06 CST 2025
 Wed Feb 12 16:34:30 CST 2025
 Wed Feb 12 16:35:34 CST 2025
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Wed Feb 12 16:48:18 CST 2025
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uaY2fROazwjw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VhWTJmUk9hendqdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3OEM4QkM0Qi0yNTZFLTQ2RjItQTI5Qy1GNzk2ODkyMUY0NzYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTM1MDEwNywiZXhwIjoxNzM5MzUwNzA3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.TjeDyM1qaCWooSFtkrZS7CRGdAHyiEQqGuIp-PkdapIl2zvEaycDXMF8zSoQoWI9HFB3y0KusdFxFX4dU8IXr9Ri9K5Zn6znNNKhV6n2N0YARoE4m1hc-wP9Y-avf51i
+Wed Feb 12 16:48:45 CST 2025
+Wed Feb 12 16:50:59 CST 2025
+Wed Feb 12 16:52:05 CST 2025
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.FzoEOiTsJvTvY9ux2X6LcggNVj3BS4P-LtL5EURteYiLd8UxucmCTouW30NoyAtncuQo05MCINHcmQcEDfA5MxH1bSY_c7cUPp2vUtjaNWyOstRhilTrqhluaed6ckfv
