@@ -18,3 +18,4 @@ suee2332 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 foxylovesyou https://edge4-chi.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-76e0ee760b336916732d245f43e8b67e3fe146eb62ea8f71b4a3b4703aac67a8_trns_h264/playlist.m3u8
+luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3MzkzOTA1NDQ1NTUsImlhdCI6MTczOTM0NzM0NH0._0J9dbIRoU9TSgpNXkzQiLzhKUGoVfeUv_8lzk7TpSvQiyHDTXQ6zyNJjcmLTYLSZKtSGhrtfLfA0NE74Pstl528MyrFQ84cev7EAXKmh-vREhBHULta0Z3oENvSlYZU
