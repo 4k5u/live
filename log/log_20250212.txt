@@ -258,3 +258,8 @@ Wed Feb 12 13:00:57 CST 2025
 Wed Feb 12 13:02:00 CST 2025
 删除bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qvVYVUYPiOVp.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xdlZZVlVZUGlPVnAiLCJleHAiOjE3MzkzNDQ1MDU2OTEsImlhdCI6MTczOTMwMTMwNX0.uCcuA_o-swygaqYnvVBgUoiEtH4394jsm_yuBKkXlgjYOfyvjWfTVj5FqOqNq-_RmY77YMG7G5PjdUjWFGGtgwRgRx5OPWiGwBxG5jiduh346NhpRSwFmJGIrOP3h8e6
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+Wed Feb 12 13:22:56 CST 2025
+Wed Feb 12 13:23:20 CST 2025
+Wed Feb 12 13:25:30 CST 2025
+Wed Feb 12 13:26:33 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
