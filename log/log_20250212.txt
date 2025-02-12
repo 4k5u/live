@@ -225,3 +225,9 @@ Wed Feb 12 11:45:05 CST 2025
 Wed Feb 12 11:47:26 CST 2025
 Wed Feb 12 11:48:35 CST 2025
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+添加amilia4u https://edge15-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-29d0c7f712790bce04b4b1f871ccce8d84ca0008245f4a5758f6b0d3aa02a3d5_trns_h264/playlist.m3u8
+Wed Feb 12 11:58:11 CST 2025
+Wed Feb 12 11:58:22 CST 2025
+Wed Feb 12 12:00:32 CST 2025
+Wed Feb 12 12:01:35 CST 2025
+添加Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
