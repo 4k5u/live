@@ -493,3 +493,9 @@ Thu Feb 13 19:36:01 CST 2025
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除your_desssert https://edge6-lax.live.mmcdn.com/live-hls/amlst:your_desssert-sd-84e9fef3799af89fd6e29552e4f261c8ef70970556d256810b1f987ddafde3b1_trns_h264/playlist.m3u8
 删除EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Thu Feb 13 19:42:56 CST 2025
+Thu Feb 13 19:43:47 CST 2025
+Thu Feb 13 19:46:03 CST 2025
+添加jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.NDGWilrZ7OB0.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9OREdXaWxyWjdPQjAiLCJleHAiOjE3Mzk0ODk4MTg1NjUsImlhdCI6MTczOTQ0NjYxOH0.RjAtW_mG3nTmBGcI-awJs-K-W9LKGESFHUAaYVknx6ojNQizlJJJ7XkoMIsRkFEVFGK9T0AuQtX1ynyqq5xg_8kJ-1Pgtzhfz90qeO8VzoxdhD65tbogygUgvpObeLY7
+Thu Feb 13 19:47:11 CST 2025
+删除foxylovesyou https://edge16-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-bef1993640de55c66eb9db4dd928ec2d767a935be60baa134ff4354d418f5b3a_trns_h264/playlist.m3u8
