@@ -382,3 +382,8 @@ Thu Feb 13 15:52:42 CST 2025
 删除ake_mi https://edge2-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-075d12ae2cb0d3d3e5f3d2764b645c86d5e552a409982e8cab625e385c331751_trns_h264/playlist.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Thu Feb 13 15:59:59 CST 2025
+Thu Feb 13 16:00:27 CST 2025
+Thu Feb 13 16:02:27 CST 2025
+Thu Feb 13 16:03:22 CST 2025
+删除Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
