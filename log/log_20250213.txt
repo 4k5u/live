@@ -236,3 +236,12 @@ Thu Feb 13 10:45:32 CST 2025
 添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Thu Feb 13 11:04:32 CST 2025
+Thu Feb 13 11:04:39 CST 2025
+Thu Feb 13 11:06:53 CST 2025
+Thu Feb 13 11:07:59 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除oki_dokie https://edge4-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-548b9b2f2300f9c18658561a87d7d34fa1dbeac4d05c8c9a215bf056809197f5_trns_h264/playlist.m3u8
