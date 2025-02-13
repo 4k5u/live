@@ -21,3 +21,4 @@ pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qvVYVUYPiOVp.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xdlZZVlVZUGlPVnAiLCJleHAiOjE3Mzk0NjcyOTM4NzMsImlhdCI6MTczOTQyNDA5M30.i8YKKrcn9DNdnFN9edeyoRphZKM64z_9nzXo2Eoenh-bn6-PYAk_EkULci4ZyH2RslpDIiuDFrRw72TR5253K9R3PgtPjYFtBif_wyVxxt6HGCQ77-XIXdhB4Y6oYqd2
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
