@@ -356,3 +356,13 @@ Thu Feb 13 15:02:57 CST 2025
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加taitehambelton https://edge6-mia.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-daddff53db72a742d3eca217648e06f076d1385bb55363ca96750d2d60ac566a_trns_h264/playlist.m3u8
+Thu Feb 13 15:21:33 CST 2025
+添加suee2332 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vmp1QKeAFNdG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZtcDFRS2VBRk5kRyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0QkJGRTM5OC1FQUE4LTRBRTktOEE2Ri02NjE4Q0Y5RENBM0MiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTQzMTMxMiwiZXhwIjoxNzM5NDMxOTEyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.YXMOyH02_TlCrFftn6eyN8SIxFnSLunPeNm7f0Ni7S2TKyMwYkxenEFutHIqcxPNAPBgFPbhAkeI27CZByR27zdDwa-9D7q4s98uJhbaCWggrMWGn1rOdsh98NsdmNcR
+Thu Feb 13 15:22:03 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.To6E2aRTlK4zCKwtEaPjroj5AT6IofQ8MktsPqKnZf4BsMQcJgGn5-QTanmoO_wHVmUcyx5ERKeCvZZMnicU6kad35KAkW-HJyVKlad_ixOWLqhEicCs-RGxu34HuVze
+Thu Feb 13 15:24:22 CST 2025
+Thu Feb 13 15:25:25 CST 2025
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.w6nuJPYSGHTHxzdZhhngf4zZoYL4iBY81RP1c4Eb_BgeSgCfc3aeLR7IzNFN8mHHdkoLe2qoKd3GRJ_b2xVFQrh6p2OI1NVNhlC2MogKL9u9voFi6s9n22-XOZqMz_Ae
