@@ -366,3 +366,11 @@ Fri Feb 14 15:46:53 CST 2025
 删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加mode_bad https://edge10-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-62f3ebd64d968fe27628d62dd9defdeba9f79607358e8885248bc5cafe8850f7_trns_h264/playlist.m3u8
+Fri Feb 14 15:58:10 CST 2025
+Fri Feb 14 15:58:29 CST 2025
+Fri Feb 14 16:00:43 CST 2025
+Fri Feb 14 16:01:47 CST 2025
+添加anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除merryxmas77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WoO04uYmgtVV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dvTzA0dVltZ3RWViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQkZFMEE5OS0zRkU0LTQ5OTAtODNGNC1ERTI0MUU1RTJDRjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTUwOTA5NiwiZXhwIjoxNzM5NTA5Njk2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gxlW9DZh0C3p8tRHYAdqXGrDePXm7I6DqqGU0ezO85bf0QEwu_90anty4gM8oVEom2gT2xzFypPPApQ7oQ7sqsKOasa111G3upbkhrPmU9SKxYDd9X2XBROWhbIIumdQ
