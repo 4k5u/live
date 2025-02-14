@@ -273,3 +273,9 @@ Fri Feb 14 12:47:26 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Fri Feb 14 12:58:09 CST 2025
+添加merryxmas77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WoO04uYmgtVV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dvTzA0dVltZ3RWViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQkZFMEE5OS0zRkU0LTQ5OTAtODNGNC1ERTI0MUU1RTJDRjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTUwOTA5NiwiZXhwIjoxNzM5NTA5Njk2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gxlW9DZh0C3p8tRHYAdqXGrDePXm7I6DqqGU0ezO85bf0QEwu_90anty4gM8oVEom2gT2xzFypPPApQ7oQ7sqsKOasa111G3upbkhrPmU9SKxYDd9X2XBROWhbIIumdQ
+Fri Feb 14 12:58:25 CST 2025
+Fri Feb 14 13:00:38 CST 2025
+Fri Feb 14 13:01:42 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
