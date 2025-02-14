@@ -562,3 +562,9 @@ Fri Feb 14 21:49:26 CST 2025
 添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ri45v7w51ogng2VJGAirQxmQgMsCVC90DiAeXda5f5JIdixXj-D1B7UqKEfBm3ESOr0xU2NiIBVgh9o4hwAb09jVnIj-NNcr9VmOwj9w50XYhrS_jSe1FKirGydXuu_Q
 Fri Feb 14 21:51:46 CST 2025
 Fri Feb 14 21:52:51 CST 2025
+Fri Feb 14 21:59:34 CST 2025
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3pZnsx6Jcwvl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNwWm5zeDZKY3d2bCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQUM0ODczRC00MTgyLTRBODEtQTEyRS1EOUY4OTNCRDdBQUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTU0MTU4NCwiZXhwIjoxNzM5NTQyMTg0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.GOJOkO2Y_DjOLAWUNqwOE6P5n4nNYgd_mSAF2WKJbUv1Xg4PpRN3HyKwip0dDmi6c-9K6TjQUvWqH68uysh8NnuJaXxc7crZbdJAzCUY3_KoTUxAqYEJ4UbkECQ7o4-0
+Fri Feb 14 22:00:45 CST 2025
+Fri Feb 14 22:02:49 CST 2025
+Fri Feb 14 22:03:50 CST 2025
+删除alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WCn-ihHQDOKZAukSrw9mR9EtvRYbGdio42HNMwVJa5d8W5LpPpJijCMNN_J753Zqrzo3LS1wf2aGr_dx61sZmETmBYl0kGRV3R2CdHZ779vkIb-D-GVHrCTSPuV7ntUr
