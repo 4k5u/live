@@ -490,3 +490,8 @@ Fri Feb 14 19:35:38 CST 2025
 Fri Feb 14 19:36:34 CST 2025
 添加supassra_sp https://edge-hls.doppiocdn.live/hls/170047493/master/170047493_auto.m3u8
 删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+Fri Feb 14 19:43:08 CST 2025
+Fri Feb 14 19:44:05 CST 2025
+Fri Feb 14 19:46:08 CST 2025
+Fri Feb 14 19:47:06 CST 2025
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
