@@ -495,3 +495,9 @@ Fri Feb 14 19:44:05 CST 2025
 Fri Feb 14 19:46:08 CST 2025
 Fri Feb 14 19:47:06 CST 2025
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Fri Feb 14 19:58:20 CST 2025
+Fri Feb 14 19:59:17 CST 2025
+Fri Feb 14 20:01:30 CST 2025
+Fri Feb 14 20:02:33 CST 2025
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
