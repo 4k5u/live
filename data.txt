@@ -12,3 +12,4 @@ ake_mi https://edge12-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a2fe7baa9a09d5
 oki_dokie https://edge26-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4295b51578f24bfc4d60721a334e242743e354bb3394ebd5246de079fa8917d4_trns_h264/playlist.m3u8
 mazzanti_ https://edge7-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-098f75b52eeae1f854433f2494ffacb6da7e026c7189d22d4814e19c55e3a974_trns_h264/playlist.m3u8
 cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
