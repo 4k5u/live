@@ -593,3 +593,10 @@ Sat Feb 15 22:40:00 CST 2025
 Sat Feb 15 22:42:18 CST 2025
 Sat Feb 15 22:43:22 CST 2025
 添加anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
+添加oki_dokie https://edge1-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1c32618d2623d27cef105de14d4bda34aed7e0529a444709c697b9f3a5138547_trns_h264/playlist.m3u8
+Sat Feb 15 22:50:28 CST 2025
+Sat Feb 15 22:51:29 CST 2025
+Sat Feb 15 22:53:29 CST 2025
+Sat Feb 15 22:54:24 CST 2025
+删除sksnrnrp11 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.cJT1cq2UIBfX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2NKVDFjcTJVSUJmWCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNUI5RjhEMi0xMDAwLTRGNzctODA1Ni1BNDc1OTJGRkIxNTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTYxMzczNiwiZXhwIjoxNzM5NjE0MzM2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.nl4RBiTZ3wsfkFasp03NpEf9dYPAGfI4Kcmc3cXsHAjol_c9Y1FDoNGg1EAo8LnlGKx56u0K31QLDT5leksDWRSbaLacyYnCrlIc8Z9kbqHbgrfkh-Bg6HKpwvfb5puD
+删除NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
