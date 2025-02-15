@@ -471,3 +471,12 @@ Sat Feb 15 19:19:39 CST 2025
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uaY2fROazwjw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VhWTJmUk9hendqdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MjkzMzUzRS1DNThELTRGMDgtODFGNC0yRkM5ODU5QjI0RDMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTYwMjE4NywiZXhwIjoxNzM5NjAyNzg3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.YLAj8_mZk0hR4pj2WmsDGHMtZjJS4L8wGzR1MIzXWEQoA8KbV_AcAXy12HYG2NI116xm3ehSL4WbUrkl-njqjdDXika57RFztvWPvHibGGIKIcMy55t4xahP5VExdOPv
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+Sat Feb 15 19:28:25 CST 2025
+Sat Feb 15 19:29:02 CST 2025
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
+Sat Feb 15 19:31:21 CST 2025
+Sat Feb 15 19:32:25 CST 2025
+添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+删除so2so2so https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.yaAVuhbt0PuZ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC95YUFWdWhidDBQdVoiLCJleHAiOjE3Mzk2NDkwMTI0MDYsImlhdCI6MTczOTYwNTgxMn0.tlzBPr-8vrYbiBHP_ALC3CiUTlk6JuMC0Ks1kE7QjPF2s3AxOf1PTvkyA3whWYEK_FVyE9WjCPeWNHEoX_wz4-v0hg4f97R2Px9g4cnJPmHa0IrjxXozF9caRbMPSeKR
+删除Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
+删除ad0res https://edge9-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-04721aae6db7a50710f287cb373a29980e7f1a5e167dd21a27ec3ed0e41ebdbf_trns_h264/playlist.m3u8
