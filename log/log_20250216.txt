@@ -115,3 +115,10 @@ Sun Feb 16 03:34:09 CST 2025
 删除1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ujd6f0F-WHcIRGGiSHtFgBRYCiFdSjjrabWsp5uckJnRNg9J8nW4vtIZ5wNpVf0pJux2B9Bp1EfPuIGEm0ilrkcVki0bf33GFa7KyxK_1iFc05Hoi5mE6eW5kaWsxqG7
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
+Sun Feb 16 03:41:24 CST 2025
+Sun Feb 16 03:41:44 CST 2025
+Sun Feb 16 03:43:47 CST 2025
+Sun Feb 16 03:44:44 CST 2025
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+删除thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2eHBj0oVOIpp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJlSEJqMG9WT0lwcCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NUU5ODBFRi03MTRBLTQzNzUtQUMzOS05NTgzODk0NUIyNzciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTY0NDk5NiwiZXhwIjoxNzM5NjQ1NTk2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.nDNHrXTEYV4u1vVldDMVl76Bd0q7pxjOcvBE9C3Hj8-xgHTxeV8fhYkyXorHl-ZH4z1aRwoyE4vHAHjUl0At7QNh42EEbVKWf1eO9LB8S9PXPAKKVuR6x0bEYKHHRYTB
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
