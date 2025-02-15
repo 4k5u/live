@@ -55,3 +55,5 @@ Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_au
 172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
+dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.hcw-tm8ORSJmFWwHSHVWlTzrsEgAWkvlC3hmgSt_EbP0FqrKi4MkPnKkLCHrjQWXwx7cAlS_sDAnqiBR2-uSzcKwpk3TvZ2b_FDNyiUCbgG479IdxdL58K8oFCM3ipHr
+anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
