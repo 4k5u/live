@@ -354,3 +354,12 @@ Sun Feb 16 15:38:44 CST 2025
 Sun Feb 16 15:40:59 CST 2025
 Sun Feb 16 15:42:02 CST 2025
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加sexygamesx https://edge29-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-084ab16609d7918964daa3f11c1c6a32d8534aaee805559efc7f892101b25f1f_trns_h264/playlist.m3u8
+Sun Feb 16 15:49:44 CST 2025
+Sun Feb 16 15:50:01 CST 2025
+Sun Feb 16 15:52:16 CST 2025
+Sun Feb 16 15:53:19 CST 2025
+删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vU-HzKfx-3QJDp-Uz-vF5cuGPa9SpjItvJqsJxsXNwAdGKh2molasTqQy2tYSx5XyqxpFaCh3Z-GDvg1b3ZiZs_c_6x0RnHPkkxu2V1MqtDAeKhAMVzyHb-ENYLt9Ls6
+删除oki_dokie https://edge32-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-06b3968bfbfdbd0e6f24971ed1d474fb5bb533efddbdb63ed75cef89c30276e3_trns_h264/playlist.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
