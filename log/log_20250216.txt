@@ -621,3 +621,10 @@ Sun Feb 16 23:42:41 CST 2025
 删除dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.4Zbi2KYgcucswwRqmWN-AuoV_fW8VfkAOy_GTqF_aCghKuO8wkBoNuKt2PWvyk1mlmIowcPVaY9syG3QzGITz8Kr9EJo6Yu6w1arnlgGXann9QOeWltqC_tANCMoSdwc
 删除172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+Sun Feb 16 23:49:59 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCREQ3MkI5NS05Qzk0LTRFNzctOEVFRi00MzVBQTI2NEI1MEYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTcyMTAzOCwiZXhwIjoxNzM5NzIxNjM4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.53O5eDexK0vyiWhcCaQOwhOgi8K5cXdg7SsGPcRUb0VpoScYCgOj5fVK2Vksc3Ya3vjltv9LHWqMb7wZDWRsVYNwPNvunoZu0hpB_lpXcYjLHb-5DFJp3-mmHn8RCAQD
+Sun Feb 16 23:50:53 CST 2025
+Sun Feb 16 23:53:06 CST 2025
+Sun Feb 16 23:54:09 CST 2025
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除big541 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ReBNFfzDCRxNzgoKFfWBQLGnDdnpWUHWxJcv1Z8W7-eBkjQE73Ar4tPW1wHOgn_cvAR63TYcTkrLD7Rp0iTzseUzURyMAH_WtodG3kxBngtjgFaCLKtag9wER2ZUe698
