@@ -278,3 +278,10 @@ Sun Feb 16 12:44:37 CST 2025
 Sun Feb 16 12:45:41 CST 2025
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+添加amilia4u https://edge15-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-6f7de2a499a6e5ebb371fefa1534976aca91eb128a50a7fe33a9a0b4f87393e3_trns_h264/playlist.m3u8
+Sun Feb 16 12:58:33 CST 2025
+Sun Feb 16 12:58:48 CST 2025
+Sun Feb 16 13:00:50 CST 2025
+Sun Feb 16 13:01:46 CST 2025
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
