@@ -371,3 +371,12 @@ Sun Feb 16 16:03:34 CST 2025
 Sun Feb 16 16:04:29 CST 2025
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Sun Feb 16 16:28:34 CST 2025
+Sun Feb 16 16:28:53 CST 2025
+添加yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KrAu0fRzDMhz5eA9QGRYIbQJZqguDff3LH4-BsMf8a285mpGKpjk2cCvUlf4ZLoc8NJFZLol8mf8clZmK2_5PFG8qrDcFIIQ-pzrSDkskfAbxhf6ZiweKI_jaHdZBCSu
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9OBgDsLblxKGf5EDIAfbGlpbe2s3Z6ybHesG1gNmfFjDfUUxKJVM8aFmHabn_Kp8wu-hxInGOBpoGGio6FZ_R-C8JG45V9ezXbmMsmdxQ6uL2tBcCvh0Z49ZyCM_eedq
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.SCXO4Ny0SrAJz34FwGuxJjR94dpm5GDSBIJZpxD_eg4cE0mmGIylN_WsEGOv3l782_bf3UydVBHq2ikHk5T3fLtKgA6nK6xeGLgFPpDCRGWITr54AUm6BjIorDgr1_qH
+Sun Feb 16 16:31:23 CST 2025
+Sun Feb 16 16:32:25 CST 2025
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除amilia4u https://edge15-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-6f7de2a499a6e5ebb371fefa1534976aca91eb128a50a7fe33a9a0b4f87393e3_trns_h264/playlist.m3u8
