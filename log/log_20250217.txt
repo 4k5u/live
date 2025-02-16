@@ -32,3 +32,12 @@ Mon Feb 17 01:01:16 CST 2025
 Mon Feb 17 01:02:18 CST 2025
 添加Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
+添加ad0res https://edge6-phx.live.mmcdn.com/live-hls/amlst:ad0res-sd-7b63e805ab37d11025e6d6397592e3ff8640738f67f961b76f535052f2ab4a99_trns_h264/playlist.m3u8
+Mon Feb 17 01:21:04 CST 2025
+Mon Feb 17 01:21:35 CST 2025
+Mon Feb 17 01:23:35 CST 2025
+Mon Feb 17 01:24:29 CST 2025
+添加tw_Sutew https://edge-hls.doppiocdn.live/hls/104933496/master/104933496_auto.m3u8
+删除rosyemily https://edge8-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-2376c19e62f530c0a465b83055be5faa7ff7086ed8977c38717eb8e0620e3152_trns_h264/playlist.m3u8
+删除angzzi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HeKqF8h74ivt.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hlS3FGOGg3NGl2dCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MjAzRkVCOC0xMzIxLTQwQzQtQjBBOS0yREIwNjk4OEEwMjEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTcwNTk2MywiZXhwIjoxNzM5NzA2NTYzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.eByF-KMKbQ1ye7DmhyHp4lxZy8eEyl0hHpE68uv0MfWRowt9nLwUGiAdjQYUy2jLGlA9I0YOq4NW5mWOkoPM-sxm8cbmJ1K0XaDl8zeqbePLEfSeWBSpt9TRsZgwTXx9
+删除your_desssert https://edge7-lax.live.mmcdn.com/live-hls/amlst:your_desssert-sd-e1694efc188da33b5da7777e55acee423cb988abf0f5bc587129b216d734bf71_trns_h264/playlist.m3u8
