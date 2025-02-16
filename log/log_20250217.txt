@@ -163,3 +163,8 @@ Mon Feb 17 06:26:56 CST 2025
 添加chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3Mzk3ODcyMDcxODcsImlhdCI6MTczOTc0NDAwN30.n_fBq5XWrQkPmuwEjbDC2wbMUHIr5l8ABkB14o1Mng89Fu_gH2Xucrd9SP5EX3A2FNCZeaFUM5Ew9g9hEJPw2H83Y-1Ze1Ac1RNYiK8FYZsmsgGHV3REzBti_2zy5irH
 Mon Feb 17 06:27:57 CST 2025
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Mon Feb 17 06:40:47 CST 2025
+Mon Feb 17 06:40:56 CST 2025
+Mon Feb 17 06:42:57 CST 2025
+Mon Feb 17 06:43:51 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
