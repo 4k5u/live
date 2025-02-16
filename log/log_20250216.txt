@@ -348,3 +348,9 @@ Sun Feb 16 15:26:55 CST 2025
 删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
 删除hncsphj https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sxeVh17EklfW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3N4ZVZoMTdFa2xmVyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1N0QwM0JFRC01RDgxLTQzNzEtOTBGQi1BMTI5RkQzOTREOEEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTY4MzMzNywiZXhwIjoxNzM5NjgzOTM3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.dCwjtsAtZpNuBg42mTHflh4zZVkyliRZB415_w26VG_KSnEF1GjsTMi41Vyy3e-VPb86czy3RPfu47pViZOgTcE6XR0RGvBhgTjQM2TUR0oZMsIcwObtDGnP9dpXan2M
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加mode_bad https://edge15-mia.live.mmcdn.com/live-hls/amlst:mode_bad-sd-d708daf40b8e8f72a0493e8d19f333ce76924349d644078c2c7b7519df52cca0_trns_h264/playlist.m3u8
+Sun Feb 16 15:38:27 CST 2025
+Sun Feb 16 15:38:44 CST 2025
+Sun Feb 16 15:40:59 CST 2025
+Sun Feb 16 15:42:02 CST 2025
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
