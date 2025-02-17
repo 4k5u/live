@@ -226,3 +226,12 @@ Mon Feb 17 10:58:25 CST 2025
 添加Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Mon Feb 17 11:26:49 CST 2025
+Mon Feb 17 11:26:58 CST 2025
+Mon Feb 17 11:29:11 CST 2025
+Mon Feb 17 11:30:14 CST 2025
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o3SzXcbVZfOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL28zU3pYY2JWWmZPbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MzFGMEFFQS1EQzVGLTQ1Q0MtQjhFMS03RjdCNTMzRTRFNTkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTc0MjYwNSwiZXhwIjoxNzM5NzQzMjA1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ExRp2yUTgezLB6UpMuIfAVn7Su2CXOm_vuP9PZFlASm6boVKQ7CboG5vlfnqYaxWEk-6ug5OmwhURo1niix9A-1iLG7kBGxzUMJD-K_iH1GVyYncKP4hfv5-WduV_-ed
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除oki_dokie https://edge28-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c1f355604d99c15307fbdc45053b29175b309cc1f6760aa91f3bab71a3383fa9_trns_h264/playlist.m3u8
+删除intim_mate https://edge8-aus.live.mmcdn.com/live-hls/amlst:intim_mate-sd-382d14b13f084b66a9e0ef867c60e2a0c691ce9634f54f21cad4f7df7766d091_trns_h264/playlist.m3u8
