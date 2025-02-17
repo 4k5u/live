@@ -235,3 +235,8 @@ Mon Feb 17 11:30:14 CST 2025
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除oki_dokie https://edge28-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c1f355604d99c15307fbdc45053b29175b309cc1f6760aa91f3bab71a3383fa9_trns_h264/playlist.m3u8
 删除intim_mate https://edge8-aus.live.mmcdn.com/live-hls/amlst:intim_mate-sd-382d14b13f084b66a9e0ef867c60e2a0c691ce9634f54f21cad4f7df7766d091_trns_h264/playlist.m3u8
+Mon Feb 17 11:44:34 CST 2025
+Mon Feb 17 11:44:43 CST 2025
+Mon Feb 17 11:46:57 CST 2025
+Mon Feb 17 11:48:00 CST 2025
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
