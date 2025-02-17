@@ -192,3 +192,8 @@ Mon Feb 17 07:50:41 CST 2025
 Mon Feb 17 07:52:51 CST 2025
 Mon Feb 17 07:53:53 CST 2025
 删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+Mon Feb 17 08:02:34 CST 2025
+Mon Feb 17 08:02:41 CST 2025
+Mon Feb 17 08:04:41 CST 2025
+Mon Feb 17 08:05:36 CST 2025
+添加Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
