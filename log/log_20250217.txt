@@ -288,3 +288,10 @@ Mon Feb 17 13:27:55 CST 2025
 删除Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+Mon Feb 17 13:42:19 CST 2025
+Mon Feb 17 13:42:34 CST 2025
+Mon Feb 17 13:44:36 CST 2025
+Mon Feb 17 13:45:32 CST 2025
+添加Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
