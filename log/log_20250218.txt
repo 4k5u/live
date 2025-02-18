@@ -408,3 +408,9 @@ Tue Feb 18 17:43:26 CST 2025
 Tue Feb 18 17:44:25 CST 2025
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+Tue Feb 18 17:52:38 CST 2025
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5CF4w5XAvR8X.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVDRjR3NVhBdlI4WCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEODc4QkQ2Ny1EQkFFLTQ0NDUtQTQxQS0xNTQ4NTY3QkUyNTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTg3MjM2MCwiZXhwIjoxNzM5ODcyOTYwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Py6aaU8Q5UnCcfrw2fXu8Bm2DxEa38HMEte6UNEjarIyyV8A4J2ntlqJYBDEzPgV2QkbBst--1jX_0iWGd_F-6BZoSegiD_rttI1D7iFlkjIyju7Da9B8A0_PueMjdhp
+Tue Feb 18 17:53:11 CST 2025
+Tue Feb 18 17:55:11 CST 2025
+Tue Feb 18 17:56:05 CST 2025
+删除Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
