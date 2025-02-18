@@ -349,3 +349,9 @@ Tue Feb 18 15:34:54 CST 2025
 Tue Feb 18 15:36:01 CST 2025
 删除amilia4u https://edge15-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-6b424f2447ac1ed0b57f686f5a0ce3893d04f2e5e06bb1bc14bc2b898c789f8d_trns_h264/playlist.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加mode_bad https://edge7-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-4ada388d9d21301b7ea4ea8e1d0e8ac4efcf0ea030d64011b7fddc20e76d1e84_trns_h264/playlist.m3u8
+Tue Feb 18 15:48:27 CST 2025
+Tue Feb 18 15:48:46 CST 2025
+Tue Feb 18 15:51:00 CST 2025
+Tue Feb 18 15:52:04 CST 2025
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
