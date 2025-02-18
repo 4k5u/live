@@ -197,3 +197,9 @@ Wed Feb 19 06:26:26 CST 2025
 Wed Feb 19 06:28:45 CST 2025
 Wed Feb 19 06:29:50 CST 2025
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+Wed Feb 19 06:41:22 CST 2025
+Wed Feb 19 06:41:29 CST 2025
+Wed Feb 19 06:43:43 CST 2025
+Wed Feb 19 06:44:48 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Xaq7FoZPLJwoF5E8qpijMUbuwoi6i_8OBDU1QTXyCxLryBUBgDcW3dOeHuIdzKMcbBr_KP9OFiDqk6FmxYr64jD1K0ypuGg6YQxv1B4JogADabIqMj5LVEQWml5qBnnH
