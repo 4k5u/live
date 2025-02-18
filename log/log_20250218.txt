@@ -327,3 +327,10 @@ Tue Feb 18 14:49:36 CST 2025
 Tue Feb 18 14:50:42 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加your_desssert https://edge9-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-0297b3e9603bc8c8b5aae662dd7646bed2d5afbbaa99ceaa8b403ec25391b8f7_trns_h264/playlist.m3u8
+Tue Feb 18 14:58:05 CST 2025
+添加pandaclass https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.GMk1ztsWuU2f.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0dNazF6dHNXdVUyZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4QTQwNzA0NS1FNkY2LTQ1RjItODFEMi0wNzc3RkQ0NEQ2RjgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTg2MTg5MiwiZXhwIjoxNzM5ODYyNDkyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.5_PfOkrjhv8W2K-v-_AEYMfM11fT5kvU5k1xpmmW6C0D9UluOrq8qU5uFRbYDZ2V-bIEpMnN6aTIDq0sTOF3tCGk5Q3waiHMj2vZWFw-jhiVdn5yLRw-f36E9B_-l6dK
+Tue Feb 18 14:58:23 CST 2025
+Tue Feb 18 15:00:40 CST 2025
+Tue Feb 18 15:01:45 CST 2025
+添加supassra_sp https://edge-hls.doppiocdn.live/hls/170047493/master/170047493_auto.m3u8
