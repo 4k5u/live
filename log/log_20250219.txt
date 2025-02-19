@@ -344,3 +344,12 @@ Wed Feb 19 14:59:26 CST 2025
 Wed Feb 19 15:01:47 CST 2025
 Wed Feb 19 15:02:51 CST 2025
 添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Wed Feb 19 15:22:11 CST 2025
+添加jinricp https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.v7Uq5t9Y8wqB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3Y3VXE1dDlZOHdxQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3ODZCMzUxQS1FRUVGLTRFNzQtQjY1RS1BNzFBM0Y2REQ1MDQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTk0OTc0MCwiZXhwIjoxNzM5OTUwMzQwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.kfnihYbFV5KHGRaFqx1-HAH2ueth9yY7X6kHpE7G6_rZjv_WPSTP2nwOjBOHlWNvYTA1LEJaBdOxdLrZpQSJERn7Z2eY2pwxnIFudSCbe4Vxu6b_v4oITVF2mr02fVXL
+Wed Feb 19 15:22:33 CST 2025
+添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KyEMZ0JzhSueq6Bi5M3Z9mJfY7isEIvA3JNTPePrmEn_xjYpA98LZGg4bDlvMR9NB_DCc0-uLZ7GFiTQ_2ZHTiqfsK82FfK1T-BNB79-JMpOvDZjsjCFOwoiVg719fEc
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.LyJjZj7KRkJA3teuo26hYISywHbP5AYydpXg4vFvlIcZL-PxKgnkPaeaSurPNMqpqpDWVmocOmtiHxkjCptYF8Ouii55uCQEkCFcvahSVROaFaTdxa-jgYdYL-cI2Fmr
+Wed Feb 19 15:24:59 CST 2025
+Wed Feb 19 15:26:03 CST 2025
+添加Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+删除asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
