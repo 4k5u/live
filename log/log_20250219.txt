@@ -261,3 +261,8 @@ Wed Feb 19 11:16:50 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMzVCNjA2NC01MTUyLTQyMTMtQkEwQi1ERkZBQjdDN0Y3MkIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTkwODM3MSwiZXhwIjoxNzM5OTA4OTcxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.9vTf9dloj9zlocfiQqKlhgqhpzjnXapFWDtzmKoofPcO_8zOpi-5ed6OMYmO7FQjq165IgIPwhToQbeoRKJo7NexHkH_v5xWELBdwdBHWAyu7Inxc5b9d0opdLPQARLc
 删除oki_dokie https://edge7-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8ebf28efa7f25f4370f5c03afc129647983c965c156454ca0b53dcf3e7aad8eb_trns_h264/playlist.m3u8
+Wed Feb 19 11:42:39 CST 2025
+Wed Feb 19 11:42:46 CST 2025
+Wed Feb 19 11:45:01 CST 2025
+Wed Feb 19 11:46:05 CST 2025
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
