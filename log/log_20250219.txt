@@ -408,3 +408,10 @@ Wed Feb 19 17:33:55 CST 2025
 删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Wed Feb 19 17:42:45 CST 2025
+Wed Feb 19 17:43:11 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Wed Feb 19 17:45:31 CST 2025
+添加ggseol123 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.3yciYT1M2dmR.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8zeWNpWVQxTTJkbVIiLCJleHAiOjE3NDAwMDEwMjQ3NzUsImlhdCI6MTczOTk1NzgyNH0.WCUfxnebCnS5o1j1ZPK0BLTrluexHRR8p7Lpf84J0AgVSGjNOjWvZ0Ujpd5VfL96m1_nDxwGXKvAligdcIdmoCCj5bE2-XgmWgIwDc0sHr_iaFgTW4RoC19FcNjyFL8v
+Wed Feb 19 17:46:37 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
