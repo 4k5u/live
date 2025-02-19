@@ -361,3 +361,7 @@ Wed Feb 19 15:43:19 CST 2025
 删除gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.L7G5FNnChiBwjdx6VT7j8KHAy3MthwfIHHaEB4IwH18UtXTTd_NAt08auMoICSC6r_k6kg5609sIS17ROZqUYt319Bd4S1FSuVLMTB35ClUuDxkF6VNh9-Xh-qFNW_wV
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Wed Feb 19 15:50:13 CST 2025
+Wed Feb 19 15:50:32 CST 2025
+Wed Feb 19 15:52:46 CST 2025
+Wed Feb 19 15:53:49 CST 2025
