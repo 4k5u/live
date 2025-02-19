@@ -329,3 +329,11 @@ Wed Feb 19 14:34:43 CST 2025
 删除intim_mate https://edge2-lax.live.mmcdn.com/live-hls/amlst:intim_mate-sd-4edb3bde1bc8d055a7d759e1fcf70656b6feabd37b10bc7180bda12d9f93a806_trns_h264/playlist.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+Wed Feb 19 14:47:20 CST 2025
+Wed Feb 19 14:47:37 CST 2025
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GSjJFko0p5vmjxqXNTxs_4V_VJOq7miu-c8NRzovh1lPon_Ujm4Ochi3vXXqpauCi0Di1v-5M3pntC4I8QVtqva34ZZdw-AB-yI2nlKpbJxM1RAlwLsCRApOZ1ILRRf3
+Wed Feb 19 14:49:57 CST 2025
+添加so2so2so https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.yaAVuhbt0PuZ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC95YUFWdWhidDBQdVoiLCJleHAiOjE3Mzk5OTA2ODAyMjUsImlhdCI6MTczOTk0NzQ4MH0.3HpkBnojJFtJEmxb6vkPrNwUXoQIeLnPEc5LXzF9fx6-dxExIkGOv4E1iyvJR-AZP2prvqDduLkmVPPJLnbJ11hfQqsVNdEQ8qt0OfIJ0XoLhWcRlC0qX6-dsw4cr6PU
+Wed Feb 19 14:51:05 CST 2025
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
