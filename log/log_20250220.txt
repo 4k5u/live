@@ -484,3 +484,11 @@ Thu Feb 20 19:34:31 CST 2025
 Thu Feb 20 19:35:37 CST 2025
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除supassra_sp https://edge-hls.doppiocdn.live/hls/170047493/master/170047493_auto.m3u8
+添加oki_dokie https://edge2-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e615a0fecef57d2006cf7aae13108e2a0af4a563857eb87ac91e4e7275f39eda_trns_h264/playlist.m3u8
+Thu Feb 20 19:41:48 CST 2025
+Thu Feb 20 19:42:39 CST 2025
+Thu Feb 20 19:44:55 CST 2025
+Thu Feb 20 19:45:59 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除your_desssert https://edge14-aus.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b4549207b4d02bea52db443cd940e277a76a72ee9602360da7212a59e219de71_trns_h264/playlist.m3u8
+删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
