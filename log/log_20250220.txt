@@ -633,3 +633,12 @@ Thu Feb 20 23:30:19 CST 2025
 删除yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vPGocKyxXhRAVbukFIFyyGK_9PlC-3j6FoIUCM_v12PoXp51ZifBHlXPeO_8CtQbrlrMim7YhcVXatKMG5g3W1rHx7X8GLkRtokp-ZtBbeqyf7MmyiapwhWi6fMockQ4
 删除Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 删除dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.rcZ4BCiid5hroom4f3Mxz4keFNAgNQHe4q5E5_s6jJV5IBwQwAvNCGSSLLnfKHsVHoFIXGL9SFUL7n6Bzx9Ec3d16x_xczOZ7LYe8y91ORH4pH8wzScX-5wBo-ZPWPYZ
+Thu Feb 20 23:42:18 CST 2025
+Thu Feb 20 23:43:30 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.2cHJIa7ZX7rOjSasplgYucnyRf0fFVG3BfpNEASDB1nfom15tJ0GeIaq_CKoxeBlalqODj9Ms8yZGPIIk882Yld_Il1jmyxiTisfrcvRRGk-4LmXQhPhlpmPOm_MqX9C
+Thu Feb 20 23:45:54 CST 2025
+Thu Feb 20 23:46:59 CST 2025
+添加bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+添加-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+删除jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.NDGWilrZ7OB0.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9OREdXaWxyWjdPQjAiLCJleHAiOjE3NDAxMDU3OTY5NjEsImlhdCI6MTc0MDA2MjU5Nn0.gYFydeIm7eCXYkw_E-uUF8klvGnvPJFIvA3P-ZRYpTWGoYttVhcwDSciHCWJNk7fXhIahOnEd8mOrXeKilqkcLqr2DzoyapEZyw-BaPGcw4SS-3sfZ1xn-WARICkUtcH
