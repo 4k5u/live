@@ -24,7 +24,6 @@ tyy750ii https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQkY0RURDNS02RUU4LTQyOUMtOEM1Mi1BOEU2QzIwRTc1MUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDA1MTA5MCwiZXhwIjoxNzQwMDUxNjkwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.H0OQaGbt5g4otQspEDFCW3O5NRlzea5GkUV2ZFYneG53QIMLbNTwVqiY7Wtajwx-pL_fQ74gPskbe-OjHc1XqU0nHtTD1wokWByEVDmBq5m_qVWb3wYm_XSXVuMMKhiv
 oki_dokie https://edge2-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e615a0fecef57d2006cf7aae13108e2a0af4a563857eb87ac91e4e7275f39eda_trns_h264/playlist.m3u8
 sumin2005 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.197bGtZC9JUk.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8xOTdiR3RaQzlKVWsiLCJleHAiOjE3NDAwOTU1MTM3ODQsImlhdCI6MTc0MDA1MjMxM30.yzP7w207q3QIz_Z2EaCIeANd5BShofCNJqRUL5Z5hQ2wQGzB2hGOrYzdhm2CmnpZLNr2tyS1K9V5BwEblWlsJyXd6m_bD9B6rktOCjtRaXeqU1z8SnFjucKxnpCZ44Qy
-Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
 nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 your_desssert https://edge2-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-76e05cea50dd4ae47e0633b55b84acd42bbaba0810d795153ab009391530d8b8_trns_h264/playlist.m3u8
@@ -69,3 +68,8 @@ jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
 JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 -M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+ad0res https://edge4-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-06397f1da37e8f3f5b59c178a5cb79a0a59c5ed265d6eee74cfdb1a0056fd71b_trns_h264/playlist.m3u8
+jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.NDGWilrZ7OB0.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9OREdXaWxyWjdPQjAiLCJleHAiOjE3NDAxMDU3OTY5NjEsImlhdCI6MTc0MDA2MjU5Nn0.gYFydeIm7eCXYkw_E-uUF8klvGnvPJFIvA3P-ZRYpTWGoYttVhcwDSciHCWJNk7fXhIahOnEd8mOrXeKilqkcLqr2DzoyapEZyw-BaPGcw4SS-3sfZ1xn-WARICkUtcH
+Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
