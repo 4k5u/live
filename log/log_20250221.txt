@@ -198,3 +198,10 @@ Fri Feb 21 06:27:13 CST 2025
 Fri Feb 21 06:28:09 CST 2025
 删除oki_dokie https://edge2-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6626d040054b934645a999905f3dc27cc7a450639f4f39960d44de29e7c66f78_trns_h264/playlist.m3u8
 删除honey_pinkgreen https://edge27-atl.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-75845d1ed57739b1307aaca370699faa1dfb44bdd3c3554deba00ff8277b295b_trns_h264/playlist.m3u8
+Fri Feb 21 06:41:10 CST 2025
+Fri Feb 21 06:41:21 CST 2025
+Fri Feb 21 06:43:35 CST 2025
+Fri Feb 21 06:44:39 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除gkfnsus5573 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.4vTQkzhj8zas.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzR2VFFremhqOHphcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNTJBQUQ5MS0zNjMzLTQyOUItOUFEMS1GQTY4ODQxM0QwODAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDA1ODQxNSwiZXhwIjoxNzQwMDU5MDE1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.RchYMACfeRbdIfaq2gZRXjC2KXNMCTneBQlahMa-bgRH102Zm2ly8-KnD9A0871FmfhWdAeV_xVGZdXdIy2RQbq-9xNG-3tSqwWRezfOsEHNKK3kOkDNPqfx71i_-aZ1
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
