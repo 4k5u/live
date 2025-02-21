@@ -229,3 +229,7 @@ Fri Feb 21 07:50:50 CST 2025
 Fri Feb 21 07:51:57 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除lovewindy https://edge28-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-80e46ba1d7f035e660c5cb24bdf668a1f84050a37198610f90a9f1cee776bd18_trns_h264/playlist.m3u8
+Fri Feb 21 07:59:47 CST 2025
+Fri Feb 21 07:59:56 CST 2025
+Fri Feb 21 08:01:59 CST 2025
+Fri Feb 21 08:02:55 CST 2025
