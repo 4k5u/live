@@ -109,3 +109,12 @@ Sat Feb 22 02:53:39 CST 2025
 删除hee_jeen https://edge3-chi.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-edac9b1bf98cf9b4e60bd35df512d35598a9f1f59182abd0998787e2189254dc_trns_h264/playlist.m3u8
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 删除Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+Sat Feb 22 03:01:14 CST 2025
+Sat Feb 22 03:01:33 CST 2025
+Sat Feb 22 03:03:35 CST 2025
+Sat Feb 22 03:04:32 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.XtRLqliAgbOt5O0Ol7uS70TaPkNn8-fwsZHhkqUlTGBx4y4Bx7cvyqq2-yt-L4ZsGMo8QnPTs-FFYo9K6OfSsePysIGT5B6L6ahM4NX2dP699OS2DFQEc0r7_oN-BtLZ
+删除roaaa10 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1PKNr6dpNRwt.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFQS05yNmRwTlJ3dCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRTM0Q0Q3Qi01RTQxLTQ1NTctOTFCMi00NUI5MDZGQjlFM0EiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDE1MTQwOSwiZXhwIjoxNzQwMTUyMDA5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.67s7IhjoFsNLM_DEW1b8tHPozvF3ZsD_qv9--MJUZtNGfsvbq41TtzgUMFgTszb99vxlqP3i83u0v_9s4nY6KvEjH5xIp8HWRxFGIRr7_2x-ipiCdsv13HYjPoZLDTQE
+删除ad0res https://edge2-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-b679687de133b9b3ddbc401008837e228d811a4167f35566824708d3fc417940_trns_h264/playlist.m3u8
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
