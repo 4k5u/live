@@ -283,3 +283,9 @@ Fri Feb 21 11:41:56 CST 2025
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+Fri Feb 21 11:49:46 CST 2025
+Fri Feb 21 11:49:57 CST 2025
+Fri Feb 21 11:52:13 CST 2025
+Fri Feb 21 11:53:18 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
