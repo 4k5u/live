@@ -342,3 +342,10 @@ Fri Feb 21 13:27:45 CST 2025
 添加bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 删除likeastar77 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.VFVqQVEaSfcJ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9WRlZxUVZFYVNmY0oiLCJleHAiOjE3NDAxNTU0Njc3MzEsImlhdCI6MTc0MDExMjI2N30.FR-FzZwhCThs0f5S6phPFrZZOgqvHR4f3EzwSF4AkEVi7Oxbrbzln9SI64LN0tCrK6O7v_NlXF--3rAb9Qh3Lm70R2bUAsHeAqyxt9BKSZJfbSMKGI0u_U9x6eOaqdsi
+添加ake_mi https://edge19-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c5f3b49d306df40311e31693b232bfe1ebc889bca785a646358f3e1f6287fd2f_trns_h264/playlist.m3u8
+Fri Feb 21 13:41:12 CST 2025
+Fri Feb 21 13:41:31 CST 2025
+Fri Feb 21 13:43:46 CST 2025
+Fri Feb 21 13:44:51 CST 2025
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8

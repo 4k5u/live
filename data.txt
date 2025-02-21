@@ -19,3 +19,6 @@ tjfflddl7 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
+ake_mi https://edge19-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c5f3b49d306df40311e31693b232bfe1ebc889bca785a646358f3e1f6287fd2f_trns_h264/playlist.m3u8
+miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
