@@ -496,3 +496,9 @@ Fri Feb 21 18:38:28 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除mode_bad https://edge10-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-b229d5dc42b257133a9ae3b1a0c71a63093c7f9b739b69e0cf09188801da4d62_trns_h264/playlist.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Fri Feb 21 18:49:09 CST 2025
+Fri Feb 21 18:49:42 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.74wNKlpNZhBAVaYMEJ49DOmu1hVOQZ2LgKSpFp18MVyRd8nXx2wCZXBkQCj-NwiTM6s6FCxsreTdULPgb7Qp-BfH9MdRsOt5ZixaaEEgmMlypJUtSBFc0Niye152iNDd
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Fri Feb 21 18:52:01 CST 2025
+Fri Feb 21 18:53:02 CST 2025
