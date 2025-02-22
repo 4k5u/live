@@ -156,3 +156,10 @@ Sun Feb 23 04:42:02 CST 2025
 添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.qVIhNp0ZUJuHof7XMcFguGarEQ2SNKb1WCPOwB4T74wAybtF2zDhC-eVZ1b6TmJmuwQUXH2NeV5ET5NzPc0ahYmmzVdH3Gb7VblOpBy61NbAzRhiZHLftQvb8ZlSfKZI
 Sun Feb 23 04:44:25 CST 2025
 Sun Feb 23 04:45:29 CST 2025
+添加mazzanti_ https://edge10-mia.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-df05c0782880f5fbea05b7ea03f9fbc7c2779394f5e64da7aa660200b805d049_trns_h264/playlist.m3u8
+Sun Feb 23 04:52:43 CST 2025
+Sun Feb 23 04:52:58 CST 2025
+Sun Feb 23 04:55:14 CST 2025
+Sun Feb 23 04:56:17 CST 2025
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
