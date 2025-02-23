@@ -19,3 +19,4 @@ mscrew33 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
 cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
+mazzanti_ https://edge2-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-d03431f2ada990e927669cc9ff0f5179160cc6c46ed51c85cede8fee7f62bd7f_trns_h264/playlist.m3u8
