@@ -432,3 +432,11 @@ Sun Feb 23 17:43:48 CST 2025
 删除tjfflddl7 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1WilnqP2iXF5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFXaWxucVAyaVhGNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4QUZEODRFQy01MTE0LTQ3NjMtQTI4My1FREY0QkI0QkM3MDciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDI4NjcwMiwiZXhwIjoxNzQwMjg3MzAyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.U7paEdSW8n-LKjpkfWqi1uIBF9lqvcbO5VfFDWjrsfoaluc77aNIZSBPoHy0OYjph1qjNgDwgohpLJf_EaAU1UGvlW893LxXBZ36xifZaDjHedsXfV3tQsVHcYwn6Toe
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
+Sun Feb 23 17:51:20 CST 2025
+Sun Feb 23 17:51:46 CST 2025
+Sun Feb 23 17:54:02 CST 2025
+Sun Feb 23 17:55:08 CST 2025
+添加Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
+删除ad0res https://edge26-ash.live.mmcdn.com/live-hls/amlst:ad0res-sd-1cfe2ff49271faaf6189104e1838602a60340db71707eba8655140582d920e56_trns_h264/playlist.m3u8
