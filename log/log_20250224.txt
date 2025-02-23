@@ -107,3 +107,8 @@ Mon Feb 24 02:48:41 CST 2025
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 删除ad0res https://edge13-atl.live.mmcdn.com/live-hls/amlst:ad0res-sd-64bc3b3928fc69416c3865391551f125c6fc8fa887d69772c327278aca6f7dca_trns_h264/playlist.m3u8
 删除iminako https://edge18-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-74c021ae096690d2a784136617481e8619895886bae87ccc3afb54b898412e36_trns_h264/playlist.m3u8
+Mon Feb 24 02:58:15 CST 2025
+Mon Feb 24 02:58:28 CST 2025
+Mon Feb 24 03:00:30 CST 2025
+Mon Feb 24 03:01:26 CST 2025
+删除purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.qRNLGtMi78XWv_LWQG_Mb-tw491Jqfb1bd78-bqgvA7Qu54i6ysyOqEQ_s5ni9PKxEsJYAWsHjgDLsNpAKqsgg7MT4Whv3IrsDQNfl22yo5rliX072z835SJacAQLLql
