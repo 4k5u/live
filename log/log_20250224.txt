@@ -395,3 +395,9 @@ Mon Feb 24 17:35:04 CST 2025
 Mon Feb 24 17:36:00 CST 2025
 删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+Mon Feb 24 17:49:10 CST 2025
+Mon Feb 24 17:49:31 CST 2025
+Mon Feb 24 17:51:32 CST 2025
+Mon Feb 24 17:52:27 CST 2025
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除oki_dokie https://edge27-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7e157d328e553ef6000eeefbf518bad3415f13201b44d20c5af6ef91b09b0d40_trns_h264/playlist.m3u8
