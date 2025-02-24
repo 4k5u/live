@@ -286,3 +286,10 @@ Mon Feb 24 13:00:45 CST 2025
 Mon Feb 24 13:01:47 CST 2025
 删除my_eyes_higher https://edge3-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f71a8edfb00742641f7c05b9ed1d086e5f4047d032ea219308837ec6b6658664_trns_h264/playlist.m3u8
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+Mon Feb 24 13:22:56 CST 2025
+Mon Feb 24 13:23:13 CST 2025
+Mon Feb 24 13:25:29 CST 2025
+Mon Feb 24 13:26:33 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
