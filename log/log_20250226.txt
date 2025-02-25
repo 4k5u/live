@@ -58,3 +58,9 @@ Wed Feb 26 01:46:40 CST 2025
 删除rosyemily https://edge17-mia.live.mmcdn.com/live-hls/amlst:rosyemily-sd-ce0f69b26fdfee4f7968d2707240696ba2edd64048d700edace39474e46600c9_trns_h264/playlist.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Wed Feb 26 01:58:11 CST 2025
+添加hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YSYB8Ftfk8Ip.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lTWUI4RnRmazhJcCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyOUY2QTIzOS02QjhELTQ4NTMtODMzMi01RjNERTY4Qzc2QTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDUwNjI5OCwiZXhwIjoxNzQwNTA2ODk4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.R21XhjDPnG7p0OK1Inn2IxV1OvAA6tYG_1BYL3T91LOiBJwVT9jqhnBv26aOC-yP4obJXz-9_YAl7Wg-fJFxzL5yuvDmyJQKu_8knXc7oe-jkSPolbC1qHpF2BmNIVWT
+Wed Feb 26 01:58:39 CST 2025
+Wed Feb 26 02:00:59 CST 2025
+Wed Feb 26 02:02:03 CST 2025
+添加badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
