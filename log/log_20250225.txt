@@ -357,3 +357,9 @@ Tue Feb 25 15:26:50 CST 2025
 Tue Feb 25 15:27:53 CST 2025
 删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HGS6Bo8ePpr1YPnAwQ_ozjqYZdSuW0e9NOBQU6sPGEP9D_Jp0L2XRJCDcD3rCbEB7QXpDpdp0JjYYprd3wleeWIDKS-5O5uxtmVAdlK349DQSYT5mb8YX3a33RpJOO9m
+Tue Feb 25 15:38:50 CST 2025
+Tue Feb 25 15:39:09 CST 2025
+Tue Feb 25 15:41:25 CST 2025
+Tue Feb 25 15:42:27 CST 2025
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除likeastar77 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.VFVqQVEaSfcJ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9WRlZxUVZFYVNmY0oiLCJleHAiOjE3NDA1MDY1NTE1MTQsImlhdCI6MTc0MDQ2MzM1MX0.Gz0W7aRAUYipYpYkRLFVidnIZDrdUP1kn33jkMm0nfLQ3yXVEPpzMiaHdU_1BrVLjFqmRaXJsB4JBXVOeCF2OZkN9xTClOKzjWSdBlyG3I0T4Hm5dqLVAR8JEeSV615x
