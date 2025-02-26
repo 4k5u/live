@@ -190,3 +190,8 @@ Thu Feb 27 07:26:36 CST 2025
 Thu Feb 27 07:27:40 CST 2025
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Thu Feb 27 07:42:33 CST 2025
+Thu Feb 27 07:42:38 CST 2025
+Thu Feb 27 07:44:41 CST 2025
+Thu Feb 27 07:45:37 CST 2025
+删除mizuki_aikawa_ii https://edge2-lax.live.mmcdn.com/live-hls/amlst:mizuki_aikawa_ii-sd-ea92f46f8a6b795753003a045dac8bb7bd4901c24b9d00a29330586bf10643eb_trns_h264/playlist.m3u8
