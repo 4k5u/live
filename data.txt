@@ -3,7 +3,6 @@ sexymin12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 taitehambelton https://edge18-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-2941d06ebf74449fe71043fb856bd0e86da394a4f68b6d340e0f53ed6e91ce62_trns_h264/playlist.m3u8
 _meganmeow_ https://edge10-mia.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-75a5a67bf00c0bcef4623959bcf9047aa3b9a739802ced6955ed7e9c26b7750f_trns_h264/playlist.m3u8
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
-tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
@@ -13,3 +12,4 @@ bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
 Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
