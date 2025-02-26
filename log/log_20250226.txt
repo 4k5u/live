@@ -414,3 +414,9 @@ Wed Feb 26 18:50:26 CST 2025
 删除Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 删除honey_pinkgreen https://edge19-ash.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-85f17adf01b06e6110947ae6bf55052f02614c272caa85972f713e141ec7c6f1_trns_h264/playlist.m3u8
 删除likeastar77 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.VFVqQVEaSfcJ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9WRlZxUVZFYVNmY0oiLCJleHAiOjE3NDA2MDQ5MTU4NjEsImlhdCI6MTc0MDU2MTcxNX0.l4OkS2T0omo4ZNzGzO50I5Cd9XLP_Bs--Bm34yilCKqzq0oVdVxoWuPhJTF0SCJjiAQRctdA6tfHQ3OmkExcMkiAPn_QGIEXPVpXbOQKxvUoYhXkBSBXamYTIITZXCT6
+Wed Feb 26 18:58:23 CST 2025
+Wed Feb 26 18:58:48 CST 2025
+Wed Feb 26 19:01:02 CST 2025
+添加likeastar77 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.VFVqQVEaSfcJ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9WRlZxUVZFYVNmY0oiLCJleHAiOjE3NDA2MDg0NzgwOTcsImlhdCI6MTc0MDU2NTI3OH0.gIoZjoe4tnmmHXII4_rISQLMo_oD_IUkoc5sX1vw8Ntmf1bBcqmk1OjQKZgRtJ4FeQuTHBfxuP96IpiEKrm8y8uWFlFpPUhiN3Y7BQE6sYV-i1LqmjPyBVdTuYPH0awT
+Wed Feb 26 19:02:09 CST 2025
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
