@@ -10,3 +10,4 @@ TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u
 mizuki_aikawa_ii https://edge2-lax.live.mmcdn.com/live-hls/amlst:mizuki_aikawa_ii-sd-ea92f46f8a6b795753003a045dac8bb7bd4901c24b9d00a29330586bf10643eb_trns_h264/playlist.m3u8
 gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zL1hKR8K_l2GB7fGCSLeyuxYSizXqAc1dNPCcjUhu60sWGsT9nb80posa_D3CP48_qGefTz-kWPy28ZZVM3LMvr9pqCCLXYP-O8o5h1T0gjiO70EK9EEg-9D4WMnszGq
 hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.NDzb1XOACkfyoNIhaxLYv7P0Cth1A9F_KYOre9Xz--xV6rEZMPquwbZOh3h9-f7wTdkoLtJsG-w4tojB-sIJMD3idkMA6FT00IdzUJHeTFwXYXAKBO30gC0eViHbyenY
+San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
