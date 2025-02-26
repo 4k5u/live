@@ -267,3 +267,10 @@ Wed Feb 26 13:27:59 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+添加ake_mi https://edge4-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-6dd24eb02674d070797bc4a088ccb25f6ec141999e58c8ef25e78950a63ade39_trns_h264/playlist.m3u8
+Wed Feb 26 13:41:47 CST 2025
+Wed Feb 26 13:41:56 CST 2025
+Wed Feb 26 13:44:12 CST 2025
+Wed Feb 26 13:45:16 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8

@@ -22,3 +22,6 @@ foxylovesyou https://edge3-chi.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-495
 my_eyes_higher https://edge18-mia.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-46c397f87d3816e37343dc4f714e51b27e1be433ffa5d532708d020a86ba34da_trns_h264/playlist.m3u8
 bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+ake_mi https://edge4-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-6dd24eb02674d070797bc4a088ccb25f6ec141999e58c8ef25e78950a63ade39_trns_h264/playlist.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
