@@ -272,3 +272,10 @@ Thu Feb 27 12:49:16 CST 2025
 Thu Feb 27 12:50:25 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除_meganmeow_ https://edge25-sea.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-23eceb5b4c286723f8fcb1093b8a6dfb286fad7742433cf564f020a35dc13bea_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge4-chi.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-ca4d83357b65b214fcdea163f7a55843057c51e620d997af899a9f13a2756db0_trns_h264/playlist.m3u8
+Thu Feb 27 12:58:14 CST 2025
+Thu Feb 27 12:58:21 CST 2025
+Thu Feb 27 13:00:41 CST 2025
+Thu Feb 27 13:01:50 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
