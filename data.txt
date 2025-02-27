@@ -18,7 +18,6 @@ sexygamesx https://edge12-mia.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-369f56
 oki_dokie https://edge7-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a2ebcb0d1772cc04d9889278cd1b351fa9e66e15960e15245531dd3f5e5d761d_trns_h264/playlist.m3u8
 uoan2xoak3j0skq https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FHLaTfUZ9rJV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZITGFUZlVaOXJKViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQzExNTI3Ny1DRTk2LTQyMDQtOTQwRC0xMUREQTU5NDc3NTkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDYzMDY5MCwiZXhwIjoxNzQwNjMxMjkwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.zoy6RzT7nYeLT9KQD8pFywIuj-BnzaRnzNcRaHb5NBg9f9DuxQMEwfxOskezsF70kR4jprsRoZdGeMk3dODrcGtOCDfmt6oxL4UNl_LVaxBMUPGPj_1K2dFdHLrv2HxH
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
-morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 foxylovesyou https://edge4-chi.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-ca4d83357b65b214fcdea163f7a55843057c51e620d997af899a9f13a2756db0_trns_h264/playlist.m3u8
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
@@ -31,3 +30,6 @@ Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3
 Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRjFBNDU0Ny04RDA2LTQ4N0MtQjU3NC0wRUVFQzFCNDQ3NTkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDYzNTkwNSwiZXhwIjoxNzQwNjM2NTA1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.xUSzGdiHVKSj2UnopNzed-s9fVo64ZbVDYHgY82erCWu5Z5QUDJ34yEOcQOZKGnAD2a51TgLbMqr40wAZkgk2WzQxcUhOeX9vWUF8YO8bUl4EajVH7eqI8ys4mGLHeBr
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
