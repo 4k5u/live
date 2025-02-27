@@ -266,3 +266,9 @@ Thu Feb 27 12:35:04 CST 2025
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+Thu Feb 27 12:46:48 CST 2025
+Thu Feb 27 12:46:55 CST 2025
+Thu Feb 27 12:49:16 CST 2025
+Thu Feb 27 12:50:25 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除_meganmeow_ https://edge25-sea.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-23eceb5b4c286723f8fcb1093b8a6dfb286fad7742433cf564f020a35dc13bea_trns_h264/playlist.m3u8
