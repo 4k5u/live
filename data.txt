@@ -13,3 +13,4 @@ TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u
 oki_dokie https://edge10-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cc38139800c0eefdaf39e30f088c1971fc4c0b509dc3abb036e2ec248d9967e2_trns_h264/playlist.m3u8
 mazzanti_ https://edge19-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-939ec43837b75fc7c13af2d3f300ed28bf8a9c881a2226b0348351ef7c9abad3_trns_h264/playlist.m3u8
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
