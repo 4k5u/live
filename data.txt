@@ -8,3 +8,8 @@ TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u
 taitehambelton https://edge23-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-a07d109e4ef27ba6d1f2ad4362b6c9b6a17368b8c673162a3505b776c643c9d2_trns_h264/playlist.m3u8
 icubi69 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.GUsiHfsr4rWj.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0dVc2lIZnNyNHJXaiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQkM2MURBRS0zQzcxLTQ0QjEtOUYxNy1FODhCNzAwNDZFRkUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDcwNzcxNCwiZXhwIjoxNzQwNzA4MzE0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.FmpIi0LG-6c2UL_BX7DIxrhU36kXwZRNRHgkPF6rQLul2DaLGvSOi0ZnT81x88aRLyUMBybBDYvGcIWYlK1oWmIdped4RVvoDxXwBIc6EvlEerN7dMOOF_AszggTwWoB
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
