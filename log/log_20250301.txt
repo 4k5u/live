@@ -26,3 +26,9 @@ Sat Mar 1 00:50:43 CST 2025
 删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vtGAvE-GZVuI1XqPQqEbHYpzzkAk6KfX-isNH9sM9gLgYJOAQts8fmG2ga03pL0ykMWbO33s1XIOV81q2UTtzE4ekiYOUKguTnneaSBbNxn-pJ2SzryEwkm8w25U_hDp
 删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
 删除Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
+添加hee_jeen https://edge2-chi.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-27cbc0fda1173fb4b960822ea9f658c5a8d9a6850bc9c062c1320da39835b690_trns_h264/playlist.m3u8
+Sat Mar 1 00:58:28 CST 2025
+Sat Mar 1 00:59:09 CST 2025
+Sat Mar 1 01:01:23 CST 2025
+Sat Mar 1 01:02:26 CST 2025
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
