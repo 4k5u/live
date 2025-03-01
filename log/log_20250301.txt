@@ -537,3 +537,11 @@ Sat Mar 1 21:40:34 CST 2025
 Sat Mar 1 21:42:57 CST 2025
 添加jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.NDGWilrZ7OB0.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9OREdXaWxyWjdPQjAiLCJleHAiOjE3NDA4Nzk1MzEwNTgsImlhdCI6MTc0MDgzNjMzMX0.Kto7Uq2in2TEoIncqiil14tV6erzErnlJ4J3H5syjqYfdJkIVZ882s3jZGCPdyiQDfOsDKCWxfysmFTxuNxD5-LhDvPr2lLgwqdQVjNC1m36xuJUbUpb79iDHeSrqfc9
 Sat Mar 1 21:44:06 CST 2025
+Sat Mar 1 21:50:53 CST 2025
+Sat Mar 1 21:51:48 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Sat Mar 1 21:53:55 CST 2025
+Sat Mar 1 21:54:51 CST 2025
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除likeastar77 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.VFVqQVEaSfcJ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9WRlZxUVZFYVNmY0oiLCJleHAiOjE3NDA4NzA2OTcwNzUsImlhdCI6MTc0MDgyNzQ5N30.hRAWnAEm_H_R00jPejAltv220i0DlW6got30aegSzAOFdB9cuC47NI_oV8G0hYSJcUhAuMxyzLE7ddggApHk403e6huFKnXNVMq2EmCPSGr30RG6x30lG0cVPtwDEqBZ
+删除172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
