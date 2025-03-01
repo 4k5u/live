@@ -386,3 +386,11 @@ Sat Mar 1 16:48:27 CST 2025
 Sat Mar 1 16:49:31 CST 2025
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除ake_mi https://edge4-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-81746f38304a3f769ca58b6498ff28253246c19d4b263efeaccfb196c1f32cec_trns_h264/playlist.m3u8
+Sat Mar 1 16:58:09 CST 2025
+Sat Mar 1 16:58:35 CST 2025
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+Sat Mar 1 17:00:55 CST 2025
+Sat Mar 1 17:01:58 CST 2025
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
