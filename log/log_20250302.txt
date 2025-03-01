@@ -57,3 +57,11 @@ Sun Mar 2 01:52:05 CST 2025
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Sun Mar 2 01:59:41 CST 2025
+Sun Mar 2 02:00:08 CST 2025
+Sun Mar 2 02:02:10 CST 2025
+Sun Mar 2 02:03:04 CST 2025
+添加bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+添加Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+删除jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.NDGWilrZ7OB0.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9OREdXaWxyWjdPQjAiLCJleHAiOjE3NDA4Nzk1MzEwNTgsImlhdCI6MTc0MDgzNjMzMX0.Kto7Uq2in2TEoIncqiil14tV6erzErnlJ4J3H5syjqYfdJkIVZ882s3jZGCPdyiQDfOsDKCWxfysmFTxuNxD5-LhDvPr2lLgwqdQVjNC1m36xuJUbUpb79iDHeSrqfc9
+删除JayPope https://edge-hls.doppiocdn.live/hls/118239468/master/118239468_auto.m3u8
