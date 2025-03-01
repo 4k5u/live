@@ -366,3 +366,15 @@ Sat Mar 1 16:02:17 CST 2025
 Sat Mar 1 16:03:20 CST 2025
 添加bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加your_desssert https://edge13-lax.live.mmcdn.com/live-hls/amlst:your_desssert-sd-6b6cae056d743ff675817db8d0e65fa98689135a0a0d5f68b9cdae053173b39a_trns_h264/playlist.m3u8
+Sat Mar 1 16:30:44 CST 2025
+Sat Mar 1 16:31:07 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.SYShPyuCeaFd3qsVazdYqFWuBi-MeyZS5q3qQZFApwsqZHYvbqSDLUWoZNj0PsdDu4X_7jTCNXMW3Rak9SCbWRRSOOed_LMs4c6EGlD0nSmyQNLyv01mUm6UC7ua2Mis
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dSv1UepgICoum47ocq6PA21FQbeAB6mUSsWiLFzkbBcNVSkn0LbwuUPQzzWGhpIa7j4K2uYRmUEa5t9JEzC_rIRz3w6JQSV3Hdy867mOF4KHErNP-r7ZspKV30kNDGHH
+Sat Mar 1 16:33:24 CST 2025
+Sat Mar 1 16:34:18 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.12AuD30VZPOmYR07tX_3FKgRnx7dF8H9rqJy88IeuSNujNFByehk5dZgVMtXMYKi7nwgADzf5fuHjC4eSjBaMcfIYqnRmMeCwW1sDzHoqFEQ1JsQpsTAP5Kg7oNfx5qt
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.CA2cFNDtqgVkw2PilUpqZg_2WPKAbzKVm_0Vz6qk9jI2xs_ZCXOlRj4rS0NXVWzHdYVqlzVpyhHGestb4azDVKUeyNt9nL5p4G_87BZm4QiNt6StFgHC7Aij9jc2P5H_
+删除bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
