@@ -151,3 +151,8 @@ Sun Mar 2 05:21:45 CST 2025
 删除hncsphj https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sxeVh17EklfW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3N4ZVZoMTdFa2xmVyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNUUxM0M5NS1FOUY1LTQ3RDEtQUY4OS05RDc4N0U2MENCMEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDg1ODY5OSwiZXhwIjoxNzQwODU5Mjk5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.fYyDqZmrYfklcPITRdbfwG3N87K2TMBGcB6r83NRkvSbp32so30jH6b9r7TWRfbCDbDhBXSLZCLHzIydA4RMZeC4SQNKGA1fx2-xLRx4oICMk3hKKMoAoSjM4IPTu8yV
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+添加mazzanti_ https://edge11-mia.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-23ed61c18cbb8197a4292c9b19f04e2c60b3c636c860b81fe6215efe5b21ad78_trns_h264/playlist.m3u8
+Sun Mar 2 05:31:51 CST 2025
+Sun Mar 2 05:32:02 CST 2025
+Sun Mar 2 05:34:17 CST 2025
+Sun Mar 2 05:35:21 CST 2025
