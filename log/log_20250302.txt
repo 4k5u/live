@@ -177,3 +177,9 @@ Sun Mar 2 06:38:01 CST 2025
 Sun Mar 2 06:38:57 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.BvHWYB-aOSRvnvD83LeUuZrBZYvlcZ84ITbRQVJvA0inVwsy_t9j03P2eJKOsd0SmcQNMdXB1bhQOoH4a5oBS584VSoiz4XVRB34VfsyW0fgfWVN_EP-PWd8Ew2P4d4c
+Sun Mar 2 06:48:56 CST 2025
+Sun Mar 2 06:49:07 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Sun Mar 2 06:51:29 CST 2025
+Sun Mar 2 06:52:33 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
