@@ -12,3 +12,4 @@ dusqhfk456 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 sexygamesx https://edge30-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-4f0954ed22f7b765275e5a9d36e622a858f8f06252637a82f371707f9d75c68e_trns_h264/playlist.m3u8
 mazzanti_ https://edge11-mia.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-23ed61c18cbb8197a4292c9b19f04e2c60b3c636c860b81fe6215efe5b21ad78_trns_h264/playlist.m3u8
+_meganmeow_ https://edge23-sea.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-6c15f58a888ff134b13f278fd57c4356a6c669a52e521956042a1b1dabe2f3f4_trns_h264/playlist.m3u8
