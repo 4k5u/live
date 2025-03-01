@@ -200,3 +200,10 @@ Sun Mar 2 07:42:42 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除sexygamesx https://edge30-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-4f0954ed22f7b765275e5a9d36e622a858f8f06252637a82f371707f9d75c68e_trns_h264/playlist.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Sun Mar 2 07:50:35 CST 2025
+Sun Mar 2 07:50:42 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Sun Mar 2 07:53:03 CST 2025
+Sun Mar 2 07:54:07 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
