@@ -550,3 +550,8 @@ Sun Mar 2 21:43:43 CST 2025
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 添加jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+Sun Mar 2 21:50:23 CST 2025
+添加eli05021212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.N95Vb4kgMeCB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL045NVZiNGtnTWVDQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMDAwQjEyMC0zMTU3LTQ1M0EtQjQ5My0xQjEyQkM5NTJFREMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDkyMzQzNiwiZXhwIjoxNzQwOTI0MDM2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.l9st2RhAwArMCvvoooSUDQUbTDj5AIfTP9lEtuMExBV9TXoFWQuQubac0nA-h_cyZLil-0dPX4JtMrE5S6KziwalPJGSoYBO5Yrera5Rrdo-9u534OVF48YL-aCrvCsN
+Sun Mar 2 21:51:33 CST 2025
+Sun Mar 2 21:53:35 CST 2025
+Sun Mar 2 21:54:31 CST 2025
