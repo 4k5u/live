@@ -162,3 +162,11 @@ Mon Mar 3 05:22:56 CST 2025
 Mon Mar 3 05:25:10 CST 2025
 Mon Mar 3 05:26:15 CST 2025
 删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.udR86xIC1WDGTJp864p1dfyQtU_tMJM4nVJRL4lq05Z0JBlqgrNMTBNDjC3Nv4a9MKhJyYmdHALtbWWHiI4zmUhfW9NcaHEYEYhOi4s_147v_bhmnSxt80gIxxHgE-3L
+添加mazzanti_ https://edge13-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-fc2a543441d99ff68270a544b6acb5e2293d0b82be095351826a6e8b7319b8e2_trns_h264/playlist.m3u8
+Mon Mar 3 05:39:01 CST 2025
+Mon Mar 3 05:39:10 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GHzjZ6RTG5js5ljRy9dmBoDDTf0uxI627J8jy64bkeMF1euOuScmJwog4U85LYS0IUr7lgD1XvT00-VhoWslWntaXgO2redThL0H3B21QC_ruq3Qgrbg3Bzrvzn9ndgE
+Mon Mar 3 05:41:18 CST 2025
+Mon Mar 3 05:42:14 CST 2025
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
