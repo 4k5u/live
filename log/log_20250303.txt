@@ -64,3 +64,8 @@ Mon Mar 3 01:37:29 CST 2025
 删除gyg4618 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Klh5zfAoMIRP.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tsaDV6ZkFvTUlSUCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMzRGMkM2OC0wRkI3LTQ3NTktOTQ2OC1BMUU4QkJBQjkwOTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDkxOTAzOSwiZXhwIjoxNzQwOTE5NjM5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.efZO59A_c4Ra0h3y4djD6e1BWszC7p-50AA_T0jeYV7R2EqcswgPVkHjwf6h--SEIUjkWuJec24uObmpMbgAnMuNm3zdLfkq5uCgjWk6u3WaIXLVzA6gF6eygwiSdrFB
 删除your_desssert https://edge3-lax.live.mmcdn.com/live-hls/amlst:your_desssert-sd-9a1f234d7ca150b0d56259a5f6ea97394baba15dd058a1fc9f024536dbd510a8_trns_h264/playlist.m3u8
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+添加ad0res https://edge5-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-20491a2acb48372d216a8840812b121dc63e795db42e6029f096d76f12ef8816_trns_h264/playlist.m3u8
+Mon Mar 3 01:48:14 CST 2025
+Mon Mar 3 01:48:51 CST 2025
+Mon Mar 3 01:51:05 CST 2025
+Mon Mar 3 01:52:11 CST 2025

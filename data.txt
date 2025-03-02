@@ -35,3 +35,4 @@ honey_pinkgreen https://edge13-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen
 Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+ad0res https://edge5-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-20491a2acb48372d216a8840812b121dc63e795db42e6029f096d76f12ef8816_trns_h264/playlist.m3u8
