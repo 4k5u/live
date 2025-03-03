@@ -358,3 +358,11 @@ Mon Mar 3 16:35:40 CST 2025
 Mon Mar 3 16:37:47 CST 2025
 Mon Mar 3 16:38:43 CST 2025
 添加zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Mon Mar 3 16:50:59 CST 2025
+添加100042 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WLl5DW7Jd3tv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dMbDVEVzdKZDN0diIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1M0Q5QzJCNi0xQTE2LTQyNzUtQUY4MC0xMzc4NDA4QjYzQUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDk5MTg2MCwiZXhwIjoxNzQwOTkyNDYwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Na025apQgL9JU_BEjBQ7fmb5uG-Uv59gH98EMtjb4VRvqWzFaNCDaMF464IErVxai41z0OE9cZUWJXEeKkjYk0zAdZnkQ8p__TtddrOeL3qD2dd5x96ix0MY1AMzypCE
+Mon Mar 3 16:51:31 CST 2025
+Mon Mar 3 16:54:10 CST 2025
+Mon Mar 3 16:55:38 CST 2025
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除your_desssert https://edge27-phx.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b453c6c06e1c8bf51434a17e04696aad6ed8d02c62dd86f59e4521ae60bc8df9_trns_h264/playlist.m3u8
