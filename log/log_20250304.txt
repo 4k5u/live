@@ -275,3 +275,9 @@ Tue Mar 4 13:45:20 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Tue Mar 4 13:53:08 CST 2025
+Tue Mar 4 13:53:22 CST 2025
+Tue Mar 4 13:55:36 CST 2025
+Tue Mar 4 13:56:39 CST 2025
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
