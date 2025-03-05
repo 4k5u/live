@@ -162,3 +162,8 @@ Thu Mar 6 06:34:49 CST 2025
 Thu Mar 6 06:35:52 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+Thu Mar 6 06:48:38 CST 2025
+Thu Mar 6 06:48:45 CST 2025
+Thu Mar 6 06:50:49 CST 2025
+Thu Mar 6 06:51:44 CST 2025
+删除hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YSYB8Ftfk8Ip.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lTWUI4RnRmazhJcCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NDhDRDg0Qi05QTI1LTQzOUUtODkyMy04NDZDRDhGQjBDRkIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTE5MzgzOSwiZXhwIjoxNzQxMTk0NDM5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.MlBTcP2LDK4AGCljfdhJTbuGQJbzbdy0S2Rono1fnpyoZKxVXlANojbfYa4iJai9fk0YsagPwVB2c96IIQefnyyExgd505YtYlEf-B4PQXjxlnDd17bKSVld2jwv5Xkh
