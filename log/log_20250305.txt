@@ -272,3 +272,18 @@ Wed Mar 5 13:00:28 CST 2025
 Wed Mar 5 13:01:25 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
+添加oki_dokie https://edge17-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-658593834e2e385f994a2b5ee49978b1411a757780a7ec4d3a3cd1325e3f8816_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge6-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-8fa81b66824ac36944ae867eea2361213026cd6a73ce3062de3616b4a1a6f87f_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge18-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-406e4d65a73c6fb7e78eb29e4d21160e59a6100f82e97414610a15787d8679bb_trns_h264/playlist.m3u8
+Wed Mar 5 13:23:44 CST 2025
+添加merryxmas77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WoO04uYmgtVV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dvTzA0dVltZ3RWViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJERDczNTkwRi00Nzc4LTQ4MDItQjBBRC00OTExNUMxRkVGOUYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTE1MjIzMSwiZXhwIjoxNzQxMTUyODMxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.SA29BGnkzDXg_nA9wijikxe1oO1W4HImv3oyQEiO_iSLafQKWryhYdMmhJozmzEz6QVZSh-CWwbhGSMzn49ZxwpMwe-XZbgSd9D1yj02FN3snf0ErxEJGjT60MHQEEMN
+Wed Mar 5 13:23:59 CST 2025
+Wed Mar 5 13:26:00 CST 2025
+Wed Mar 5 13:26:56 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
