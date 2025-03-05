@@ -230,3 +230,12 @@ Wed Mar 5 11:00:27 CST 2025
 添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 删除hee_jeen https://edge14-ash.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-c41bd1920565e03a8d953126632e3599d8b0a751b8298df75419a49b021c7e65_trns_h264/playlist.m3u8
 删除Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+Wed Mar 5 11:29:20 CST 2025
+Wed Mar 5 11:29:30 CST 2025
+Wed Mar 5 11:31:45 CST 2025
+Wed Mar 5 11:32:48 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
