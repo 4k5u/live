@@ -607,3 +607,12 @@ Thu Mar 6 23:30:55 CST 2025
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.sNU77_YQnjiBE1akrg0Exk-IeMNOlUOFe31RDURp9swXf17mnWsbCLVLJq_PWOyp2WTmIwHOOam-_jsRcXPGkkA2arXXArJjarirUoCPHlxy6SWKiOgv0pHGuVKhaEzP
+添加ake_mi https://edge28-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-5d0d287d1132781dc0c6599804ac58418cabb16f8572df5f5a8c1e0d432a33cc_trns_h264/playlist.m3u8
+Thu Mar 6 23:43:31 CST 2025
+Thu Mar 6 23:44:34 CST 2025
+Thu Mar 6 23:46:53 CST 2025
+Thu Mar 6 23:47:59 CST 2025
+删除honey_pinkgreen https://edge14-atl.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-fecae678dee7988a387842701125c164193a8a2a55bbff0649a836966509d468_trns_h264/playlist.m3u8
+删除dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.U-aEglh2mxJlhPSivCx1MVDbj-UVw8EkrZkuLurZFVXLHqanzmqJB0K6Muc_rS3nJrARGN3pYqzTi4N6B4rVzQOhhXZouh1WwR7th5zA4WLIZBgpA52AHQYyRGvNQ4hN
+删除oki_dokie https://edge8-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e88a34b77974046e65ada173e22aa2d79b85b5e1d40ac6a520c40dc84e62310f_trns_h264/playlist.m3u8
+删除your_desssert https://edge22-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b647bd7e5fcd6dc2a597a6e259f5ae5bbba7fedaaa6c627b33ce25231dc8af70_trns_h264/playlist.m3u8
