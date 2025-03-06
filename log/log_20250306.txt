@@ -365,3 +365,10 @@ Thu Mar 6 16:35:06 CST 2025
 Thu Mar 6 16:36:10 CST 2025
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Thu Mar 6 16:52:36 CST 2025
+Thu Mar 6 16:52:55 CST 2025
+Thu Mar 6 16:55:14 CST 2025
+Thu Mar 6 16:56:19 CST 2025
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
