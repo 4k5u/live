@@ -8,3 +8,4 @@ roaaa10 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 oki_dokie https://edge1-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0cd7b987db68d97c87401dbc483a62f69b5a11c2de0db56d5307d627b15a14a2_trns_h264/playlist.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+asian_divaa https://edge2-aus.live.mmcdn.com/live-hls/amlst:asian_divaa-sd-d70666a906dfb03b580e4aefaafa618183fc2e40216a652af8c03b57e23b80e9_trns_h264/playlist.m3u8
