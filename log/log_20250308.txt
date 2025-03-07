@@ -58,3 +58,8 @@ Sat Mar 8 01:52:02 CST 2025
 添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+Sat Mar 8 01:59:08 CST 2025
+Sat Mar 8 01:59:51 CST 2025
+Sat Mar 8 02:02:06 CST 2025
+Sat Mar 8 02:03:10 CST 2025
+删除day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hMtc2fTcTr5P.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hNdGMyZlRjVHI1UCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NzY3NzA2MS0xNERDLTQ1NzUtOTM2NS0zMzlFRUUwMTk5RUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTM1MzM0MywiZXhwIjoxNzQxMzUzOTQzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.6UgJh3OVcEjIQUTX9WSLGCrItsxOTFj0ziwuIY30yXaL7ANACHBR_phWFOmzJF-UpIzcS3LkTzT9Qt0p7jZ5v5A77o7qyE0R_h804AV-USLEkYqdf68BPyKRZdgaw92R
