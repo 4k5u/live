@@ -289,3 +289,13 @@ Fri Mar 7 13:03:18 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+添加my_eyes_higher https://edge14-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a14cc81cb24eea4600c22e72f9be878a8438c2e5a35d324606670e06a8ff6220_trns_h264/playlist.m3u8
+Fri Mar 7 13:24:11 CST 2025
+添加merryxmas77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WoO04uYmgtVV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dvTzA0dVltZ3RWViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RENGQkRCOS1EOURGLTQ4RDEtOUYyQi1GODkxNTZCRkI0ODQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTMyNTA2MCwiZXhwIjoxNzQxMzI1NjYwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.kuWWMT409W2vqtOZ-m6CaHF_KOkJ4cXC1kH4VboXong8tkC0DvkZnQgfgL8vercEpBnyG7t6Giupsklso8DtFYreRHS0dFVH5tgoT8RHk-faWaG99W1znFE1EFbs_lxh
+Fri Mar 7 13:24:33 CST 2025
+Fri Mar 7 13:26:35 CST 2025
+Fri Mar 7 13:27:31 CST 2025
+添加bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
