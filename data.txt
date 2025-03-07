@@ -13,3 +13,4 @@ gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_pl
 mazzanti_ https://edge25-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-b06f2add96d5fc38a49e14fa67307479da0657d8838fb870059545dc791e69bc_trns_h264/playlist.m3u8
 _meganmeow_ https://edge17-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-6b654108bb84973d31314d9cecfb46a1424144da34b981fde9621013772d57d9_trns_h264/playlist.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
