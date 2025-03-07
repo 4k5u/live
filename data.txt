@@ -6,8 +6,6 @@ icubi69 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
-Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
-__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 taitehambelton https://edge17-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-ea38ab676e1340f0702924d8f6de066bd364e337f4c6da5fe9a854228f0e6abd_trns_h264/playlist.m3u8
 green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFC1eSatgATs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQzFlU2F0Z0FUcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEMEVBMDAzOC04MTZELTRBRkItQTlEMy1DODI4N0FBNzc1MzAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTMxODczMiwiZXhwIjoxNzQxMzE5MzMyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.bFDh5szewD2_PvDGfy8WwDY9XQp_jW7tr1fRULcWGa63avOHgnCbrJ3CqkwRsZ53ewZwmX-8GYfBTCx_YL-bhP7QVk8HOXMHGiDmEpFbZgebZLSjEMC21pmBYDOthEcl
@@ -30,7 +28,6 @@ merryxmas77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
-mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
@@ -40,3 +37,7 @@ flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxRTlCNjg4Ri0zRjFBLTQ2Q0QtQjA5Mi00ODIyRkZERUFDODYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTMyODk3MCwiZXhwIjoxNzQxMzI5NTcwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.kGvGxbkAsXGnAI14pa5WFMvqHpNlp_xydxK79Yj4gXT5PaTxuM2AKcCdJQURxYc52HaDwtPdrM7S9X9JMsnDstOYhTC2xXaOzk7c08Iytcbcbak-pdBF0anmA4hSRVhI
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+your_desssert https://edge23-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b7d0f4390a5ee4f85e4c8d53383e011cba862a384ab4f2ed8a28b826331646f9_trns_h264/playlist.m3u8
+h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
