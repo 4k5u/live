@@ -256,3 +256,8 @@ Fri Mar 7 11:42:21 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除oki_dokie https://edge8-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0cd7b987db68d97c87401dbc483a62f69b5a11c2de0db56d5307d627b15a14a2_trns_h264/playlist.m3u8
+Fri Mar 7 11:53:16 CST 2025
+Fri Mar 7 11:53:25 CST 2025
+Fri Mar 7 11:55:26 CST 2025
+Fri Mar 7 11:56:21 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
