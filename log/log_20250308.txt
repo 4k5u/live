@@ -339,3 +339,12 @@ Sat Mar 8 13:38:45 CST 2025
 Sat Mar 8 13:40:47 CST 2025
 Sat Mar 8 13:41:43 CST 2025
 删除intim_mate https://edge3-chi.live.mmcdn.com/live-hls/amlst:intim_mate-sd-f2a9659e243c468976c7986b06b5c135ac79ab7eb139873cfdb6920e0a8d7a0c_trns_h264/playlist.m3u8
+添加taitehambelton https://edge15-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-2f6eeda1b7316e575d1a609b21f1c9933ef5480efd16bd0a5691b7aa247af642_trns_h264/playlist.m3u8
+Sat Mar 8 13:49:46 CST 2025
+Sat Mar 8 13:50:05 CST 2025
+Sat Mar 8 13:52:07 CST 2025
+Sat Mar 8 13:53:03 CST 2025
+添加Chaddy-12 https://edge-hls.doppiocdn.live/hls/157214549/master/157214549_auto.m3u8
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
