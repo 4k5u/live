@@ -265,3 +265,10 @@ Sat Mar 8 11:43:20 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除sexygamesx https://edge2-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-836eb5dd20b371ccffd54cdf287f1a4a6ca633389b5cf935ef985fe3b629820b_trns_h264/playlist.m3u8
 删除kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.czKFw4EMwkJ2xpCMCCDnrnX2R6qXWx4j5QwSDxptNqYw1CFmctrVrRFwzfWv0MiGVCiKHHWyvj531R2eIDN86QiUh2GmF4svA1Du0iYFRpeMHzhocxH7nNRXLsD69XdD
+添加taitehambelton https://edge24-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-f6a387d02127db3e23f6c8b0e287825c286e2beba6805090e9b19921319b2bf6_trns_h264/playlist.m3u8
+Sat Mar 8 11:50:00 CST 2025
+Sat Mar 8 11:50:09 CST 2025
+Sat Mar 8 11:52:13 CST 2025
+Sat Mar 8 11:53:09 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
