@@ -469,3 +469,10 @@ Sat Mar 8 18:02:24 CST 2025
 添加likeastar77 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.VFVqQVEaSfcJ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9WRlZxUVZFYVNmY0oiLCJleHAiOjE3NDE0NzExNzc5MjIsImlhdCI6MTc0MTQyNzk3N30.qOZ0Xuxautg9JLLuZ9xvJDR0JxQ60_qCzzuf1SSCT7uavKKKH86KCH4aR_dKN3blIp0u9JO26QdcT3iRAFlcX-sUYpwGQhlrtDmwDCyGXn3VmfBrzKnf07pFThQuQ_gw
 Sat Mar 8 18:03:31 CST 2025
 添加Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+添加your_desssert https://edge13-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-6f6b6267b1b2c9980aef62522e1fa9d5d411a6d3a537f679589950ad0fe0beb9_trns_h264/playlist.m3u8
+Sat Mar 8 18:21:56 CST 2025
+Sat Mar 8 18:22:29 CST 2025
+Sat Mar 8 18:24:45 CST 2025
+Sat Mar 8 18:25:49 CST 2025
+删除oki_dokie https://edge2-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-aefe22be5e74b0434fda50df16d9ee3328367b1b8c7eff4292a30dd8be35279e_trns_h264/playlist.m3u8
+删除iminako https://edge18-lax.live.mmcdn.com/live-hls/amlst:iminako-sd-b0865cc3863b694ba9bc7c01f1c740b676a8062af5c99470e5e4726f737060fb_trns_h264/playlist.m3u8
