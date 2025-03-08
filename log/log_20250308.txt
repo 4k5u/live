@@ -237,3 +237,8 @@ Sat Mar 8 10:40:23 CST 2025
 添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除taitehambelton https://edge10-sea.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-7d19ec312f6182af70122a2f56635a96e8a6c6340de1ba4f6fe9ae63d77579f9_trns_h264/playlist.m3u8
+Sat Mar 8 10:51:01 CST 2025
+Sat Mar 8 10:51:10 CST 2025
+Sat Mar 8 10:53:13 CST 2025
+Sat Mar 8 10:54:08 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
