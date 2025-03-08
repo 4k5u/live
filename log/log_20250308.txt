@@ -289,3 +289,8 @@ Sat Mar 8 12:28:40 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 添加regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sat Mar 8 12:38:55 CST 2025
+Sat Mar 8 12:39:08 CST 2025
+Sat Mar 8 12:41:09 CST 2025
+Sat Mar 8 12:42:03 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
