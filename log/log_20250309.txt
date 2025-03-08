@@ -175,3 +175,10 @@ Sun Mar 9 07:02:04 CST 2025
 Sun Mar 9 07:02:58 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加sexygamesx https://edge23-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-9d9b381d85b6d239ee581ac19a1f403341c4735788fa1ac53f423a15fa3c2c4b_trns_h264/playlist.m3u8
+Sun Mar 9 07:20:54 CST 2025
+Sun Mar 9 07:21:03 CST 2025
+Sun Mar 9 07:23:16 CST 2025
+Sun Mar 9 07:24:19 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除1919152 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.liq5h4G1zrFc.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2xpcTVoNEcxenJGYyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMjY0OTIzNi0xOTU2LTRFQzktQUZCRS05RkRDQjAwQTkzOTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTQ2ODk3NywiZXhwIjoxNzQxNDY5NTc3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.VcPC_uk0jbb6XCoK3xTE4h5xCo5pBzOk2i-xUFAVryDQcaTFy08Q1Az6H4GZ1sNRy8_TCYLmTd0eMoIycwwYo7gIf0ElF0QRWS0van2GE5BBepLPEI7QJGSVj7pzcdmZ
