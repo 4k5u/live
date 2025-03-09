@@ -197,3 +197,9 @@ Mon Mar 10 07:19:24 CST 2025
 Mon Mar 10 07:19:29 CST 2025
 Mon Mar 10 07:21:46 CST 2025
 Mon Mar 10 07:22:49 CST 2025
+添加oki_dokie https://edge9-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d4b692b3ba48f3dfb920506e929151295fff440c82a2f232d42a6cfec64a1ab6_trns_h264/playlist.m3u8
+Mon Mar 10 07:30:32 CST 2025
+Mon Mar 10 07:30:37 CST 2025
+Mon Mar 10 07:32:54 CST 2025
+Mon Mar 10 07:33:57 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
