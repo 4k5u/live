@@ -232,3 +232,10 @@ Sun Mar 9 11:04:23 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ihs5BQ6EbCAl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2loczVCUTZFYkNBbCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGRTJEOTIxRC1EOTY3LTRCMkYtODdEQi0wOUI2MDQ1Rjk3RTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTQ2OTk3NiwiZXhwIjoxNzQxNDcwNTc2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.BPBmIKQ-kxmZQO0RNESBVAOOdzSOBd_aHglf3TZfb6vWGy4IPnxHZ37giLk9MbespAjyRTDCkzP51-gccVC4zJlPB1PFd6UT6lhVY7snUZ79S4GWC0ZP9vwiIGf-CW-q
 删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+Sun Mar 9 11:25:05 CST 2025
+Sun Mar 9 11:25:12 CST 2025
+Sun Mar 9 11:27:28 CST 2025
+Sun Mar 9 11:28:34 CST 2025
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除oki_dokie https://edge24-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6be467e3178f395210df1c04e6e78b13991c1648b9ed8b02830d23a0ec3aa24a_trns_h264/playlist.m3u8
