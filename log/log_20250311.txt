@@ -95,3 +95,12 @@ Tue Mar 11 03:01:14 CST 2025
 Tue Mar 11 03:02:09 CST 2025
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 删除shuiduoduo-xz https://edge-hls.doppiocdn.live/hls/138805661/master/138805661_auto.m3u8
+Tue Mar 11 03:20:49 CST 2025
+Tue Mar 11 03:21:06 CST 2025
+Tue Mar 11 03:23:23 CST 2025
+Tue Mar 11 03:24:27 CST 2025
+添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0UEwLu0oZXQz9i79AoxmZuiRh077kBKdEg_F0VGzTbpZwr5rCaSpV0kziS_-nxujMMs_Aj-yyAnwlGP_DEwHt3QGp_IJLRF_s5kQTdyOLpLzu16NWsIPTDpDH0srhoTJ
+删除yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNkYwRjdENC0zQTNGLTREODctQUQ5Ni03NTFGMERENTYzMUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTYwODE3MywiZXhwIjoxNzQxNjA4NzczLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.YD4bzffjgmU0N2UB4A99Yr3qJTD7aqg8A0asBNRnyheOVsJUaLOfxNZ9MX0K4SGhLw9R2jgo4e0Lc75Ew6fHoRvT-hkKjhIQYvQ-qY5I4DX9QL3KFDqUqGdwLestQkCN
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除ake_mi https://edge7-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c4a2815d1929ef999c64bd935e7f8f8b6b8466157f306be73954d5ef85f4249e_trns_h264/playlist.m3u8
