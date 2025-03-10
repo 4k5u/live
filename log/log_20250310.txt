@@ -242,3 +242,9 @@ Mon Mar 10 10:49:35 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNkZDNDQ0Ny0yRTY2LTQzNDUtQjQ3MS1BRTM5NDNCM0E4QzEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTQ0MzU1OCwiZXhwIjoxNzQxNDQ0MTU4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.r2v8zwgoq-0W7kHDDzF_o56Ju0NRTy10IdWmJiGdZEMLEEYLhMAbYDX8e4hPPN6Ye3kC9g_Vat6CeA4gE3914A49qAEGz_PGIaAzut6EGG0TxyMVHGpEyWuXPTUqLrJR
 删除oki_dokie https://edge9-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d4b692b3ba48f3dfb920506e929151295fff440c82a2f232d42a6cfec64a1ab6_trns_h264/playlist.m3u8
+Mon Mar 10 10:58:18 CST 2025
+Mon Mar 10 10:58:25 CST 2025
+Mon Mar 10 11:00:28 CST 2025
+Mon Mar 10 11:01:24 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
