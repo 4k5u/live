@@ -18,7 +18,5 @@ hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 ake_mi https://edge7-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c4a2815d1929ef999c64bd935e7f8f8b6b8466157f306be73954d5ef85f4249e_trns_h264/playlist.m3u8
-syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
-shuiduoduo-xz https://edge-hls.doppiocdn.live/hls/138805661/master/138805661_auto.m3u8
