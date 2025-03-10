@@ -390,3 +390,8 @@ Mon Mar 10 15:23:01 CST 2025
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+Mon Mar 10 15:29:58 CST 2025
+Mon Mar 10 15:30:15 CST 2025
+Mon Mar 10 15:32:35 CST 2025
+添加alswjd04 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.7Hkmd6ZMGtFC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC83SGttZDZaTUd0RkMiLCJleHAiOjE3NDE2MzQ5NTk4MDYsImlhdCI6MTc0MTU5MTc1OX0.rgqq0FEkWsu-D9-3GY-ZJ3h21leD0izW9rS2nD-nhBIb84e9vYr5d0WTmh_cJLAYuRXJq3PwUfkZGYJ6ix28x-xogHw9fm-pfy_vAPM16oOS1sS_uS3n2cvvLlmKi_6l
+Mon Mar 10 15:33:44 CST 2025
