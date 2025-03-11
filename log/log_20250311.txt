@@ -384,3 +384,11 @@ Tue Mar 11 17:45:43 CST 2025
 添加zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除foxylovesyou https://edge2-chi.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-86b664f12e76da2c1a1d2a0b4afda3056613cc2cc8ce49c29233c4c67cdfb999_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge2-chi.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-2d25b7dea43018aac3b2d4ef31684c6cb01b8a79ded6c0bf7746a4cf25b03c97_trns_h264/playlist.m3u8
+Tue Mar 11 17:53:09 CST 2025
+Tue Mar 11 17:53:39 CST 2025
+Tue Mar 11 17:55:55 CST 2025
+Tue Mar 11 17:56:58 CST 2025
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
+删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.D86tXIyDA6z07Cst5-CXM0-DuqiYFVOTy1f1sHcIlnWvC6cFAlyDytwSOGyfnpSZCrO_vBuxSW7qE2B5trrujAuLu5rPkTSptBzxqFWSBSKAXR2VjiSc6XhFa3dpkzaO
