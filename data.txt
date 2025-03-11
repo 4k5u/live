@@ -4,7 +4,6 @@ flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 oda_assuri https://edge12-lax.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-57a7f88d74835765b1ff0f3ebb0e8a85cf2a73e01e9e88afb6b7047f3b75b3ed_trns_h264/playlist.m3u8
 sexygamesx https://edge4-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-91033e9a3c7875bfe5d9015cdf0fd4e845a99d5016ca0f2f9e789b6579a432fb_trns_h264/playlist.m3u8
-taitehambelton https://edge23-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-d0d6214b37f7dd04284a56f961166497ced0d5a42bc161925214871d18d33bb0_trns_h264/playlist.m3u8
 kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.lJEdJomvXT_IkVrrRh321QMZhGRc-DAdYtF3h-PcGqgZeKxyZBmdnFwaEmqePz_HBQNAXf9TbPEUCCpPJdO7kw7I6N1sXIynfyHywUAsvbsJiCseaPtm_OXcbwkouW_y
 TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
