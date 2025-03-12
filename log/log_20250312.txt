@@ -213,3 +213,14 @@ Wed Mar 12 10:16:21 CST 2025
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除hee_jeen https://edge8-chi.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-bbc9883a6d7a8755d5ea2e2aa8193f09da63118e92f0154ed0a43938a1c3273b_trns_h264/playlist.m3u8
+Wed Mar 12 11:06:41 CST 2025
+Wed Mar 12 11:06:52 CST 2025
+Wed Mar 12 11:09:09 CST 2025
+添加likeastar77 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.VFVqQVEaSfcJ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9WRlZxUVZFYVNmY0oiLCJleHAiOjE3NDE3OTA0MTE0MDQsImlhdCI6MTc0MTc0NzIxMX0._OhoYBeHR8gOPI3aDYsYPzCUfuu_9hyJ4PV1pKx34qGfHkkuVMQUNPYBW-9rn49g5zKrIFIWRP_TLlb87BuWBIjBWGqBm2nDFDPlEmegNMWywtg07L6G9pG4yjwnfLhY
+Wed Mar 12 11:10:16 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除sexygamesx https://edge29-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-f26cd83a92711424b0cf3b5a92bfd5b08edecefc1e26c51a7620236ef349576c_trns_h264/playlist.m3u8
+删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
