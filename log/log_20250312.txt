@@ -259,3 +259,10 @@ Wed Mar 12 12:29:15 CST 2025
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Wed Mar 12 12:46:02 CST 2025
+添加tjfflddl7 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1WilnqP2iXF5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFXaWxucVAyaVhGNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MTQ4NTA5NC0zRjBFLTREMUUtOEY2Qy0wNUM3NEM4OTVDQzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTc1NDc2OSwiZXhwIjoxNzQxNzU1MzY5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.v_uuqdIFj5qB4_HCmYuz_3NmivlE9NuAdIFvRTAAuMG9oU1X4IipofmEDEDlQsr8LUflZi3uXD8m9I3W7Df0LFmwO7K2TU6dKNE-LmHIFhMF3yFY6axhv-vCy-JZ_Xgg
+Wed Mar 12 12:46:20 CST 2025
+Wed Mar 12 12:48:35 CST 2025
+Wed Mar 12 12:49:39 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除likeastar77 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.VFVqQVEaSfcJ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9WRlZxUVZFYVNmY0oiLCJleHAiOjE3NDE3OTA0MTE0MDQsImlhdCI6MTc0MTc0NzIxMX0._OhoYBeHR8gOPI3aDYsYPzCUfuu_9hyJ4PV1pKx34qGfHkkuVMQUNPYBW-9rn49g5zKrIFIWRP_TLlb87BuWBIjBWGqBm2nDFDPlEmegNMWywtg07L6G9pG4yjwnfLhY
