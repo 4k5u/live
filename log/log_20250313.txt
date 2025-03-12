@@ -138,3 +138,8 @@ Thu Mar 13 05:22:51 CST 2025
 Thu Mar 13 05:23:56 CST 2025
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Thu Mar 13 05:33:47 CST 2025
+Thu Mar 13 05:34:00 CST 2025
+Thu Mar 13 05:36:18 CST 2025
+Thu Mar 13 05:37:23 CST 2025
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
