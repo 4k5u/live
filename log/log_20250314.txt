@@ -170,3 +170,9 @@ Fri Mar 14 05:23:03 CST 2025
 Fri Mar 14 05:24:07 CST 2025
 添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 删除hncsphj https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sxeVh17EklfW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3N4ZVZoMTdFa2xmVyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxOEI1NjI4NS1CRDI1LTRFQTQtOTU0RC01QkQ3MDZFODVEQ0YiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTg5MzQ1NiwiZXhwIjoxNzQxODk0MDU2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.0VbqCgBlm9BWgaPj_6zfpT4TPI6aK6vgzh627w2N3vagRSQPt4ZNIj43_lQd9p0U39SkWCWhm-WSXPITvB8GuUXMUO1MMWHnHMz4CFkfq0_1zCcOde3ODBFmsQVWVAq7
+Fri Mar 14 05:32:54 CST 2025
+Fri Mar 14 05:33:05 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jn8GxeIv4b75wblTKL6yF0JUxRiMGmFqXzOFX7n6G69VTqHMEyT197E7tfK0yw_5x9cUQvcLAN4yJODtNmjyH0Aes3q6OnM6v9XVVdvwMCpilawBHcNN3V80N3z3DE6T
+Fri Mar 14 05:35:27 CST 2025
+Fri Mar 14 05:36:32 CST 2025
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
