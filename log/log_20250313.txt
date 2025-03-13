@@ -545,3 +545,11 @@ Thu Mar 13 21:46:07 CST 2025
 删除Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除Tmdgus5411 ?aid=null
+Thu Mar 13 21:52:44 CST 2025
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFBGqUtHSQ1T.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQkdxVXRIU1ExVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NTg0ODQ3QS0zRTdFLTRENzItQTA5My05NzgzMDI4QzUxQzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTg3NDAwMywiZXhwIjoxNzQxODc0NjAzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.lUIGkkoguCqdHrIqXzvnwy8RjKSNyNS1VZ2EEfWGD_yUHM-4Jyr_lKCMQzCl4MZrC7HGM56jFGY6gsvHOM6sZffUkRwAiUgCoBfpbqxNQOTlm38hqrfsKflKH_E64N5i
+Thu Mar 13 21:54:04 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Thu Mar 13 21:56:27 CST 2025
+Thu Mar 13 21:57:33 CST 2025
+添加-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
