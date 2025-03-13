@@ -379,3 +379,12 @@ Thu Mar 13 17:26:05 CST 2025
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除oki_dokie https://edge25-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9033d8a0f268c82d8ef50e9bcbf52f39456180e1df6c2293439fd950040dfcbb_trns_h264/playlist.m3u8
+添加asian_divaa https://edge4-lax.live.mmcdn.com/live-hls/amlst:asian_divaa-sd-60aee29d77dd89a1ce23fb21b59cfd9b9df6df0644a9f66d1cdfb18d63f1d611_trns_h264/playlist.m3u8
+Thu Mar 13 17:42:49 CST 2025
+Thu Mar 13 17:43:06 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ZyL-TWZza5CSbiiDaDdUSw26vM99lBGdVMfLA3A2aJZBxFM-qWnzNM7bwaZbH-uzNtTDlmvvoFSiY84LqYp-5wq6HQ9icHibZFlwrc8reNSVz9PHjNN53eZnINad6zzw
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._MKkd7eIt8uTiJZQE0bmYkGS82NLSjknCiSAfx3kvXiItqE58oZQQrkqqDb08KG2ANtRWrMrwEu2h-1V4Qh1JJQ1URQFVJUhUlKvTg0d5ve3OwQMMK0SOTW2Uw5dGZnf
+Thu Mar 13 17:45:21 CST 2025
+Thu Mar 13 17:46:17 CST 2025
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除ake_mi https://edge18-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-7c076a2871c62acd7121dfeb0baf5a6439e9b027eafd853b9fc72c4ffabb8954_trns_h264/playlist.m3u8
