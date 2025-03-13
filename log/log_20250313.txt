@@ -185,3 +185,9 @@ Thu Mar 13 07:43:51 CST 2025
 Thu Mar 13 07:44:55 CST 2025
 添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 删除big541 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vbc7hRSWMD1RO8EelFYIEpWWrN6S4uzVY7_qowKMiqMRu89pwujNqT2gGBSps0treflOJZR_hyijrz5HFn5uHa9M2qDOYaB6-ESAFjEAR1YNv_c19wiAOTTP-mDCW_0V
+Thu Mar 13 07:52:35 CST 2025
+Thu Mar 13 07:52:46 CST 2025
+Thu Mar 13 07:55:00 CST 2025
+Thu Mar 13 07:56:04 CST 2025
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.X9PIhJWm1H1-6CXPAy1OJsRU_aDqzJs4BFRq6YmbKqNri5C7li3bU3Mpdyl1tr1SHruVnT0CvEETLGZCv9yrZ_MJhLOnbLNCAjQ3M9q7XYDBFpV9TCBQStDfR6zsb44M
+删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
