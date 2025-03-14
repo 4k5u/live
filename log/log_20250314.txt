@@ -292,3 +292,8 @@ Fri Mar 14 12:28:56 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除cuddles_me https://edge22-atl.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-91fe0f9e64250310d2bbc9e6ab66c3d89de130758e3efa4a1fee1a16bd2a3f7f_trns_h264/playlist.m3u8
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+Fri Mar 14 12:44:06 CST 2025
+Fri Mar 14 12:44:23 CST 2025
+Fri Mar 14 12:46:39 CST 2025
+Fri Mar 14 12:47:43 CST 2025
+删除taitehambelton https://edge18-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-4578910e84a58074538a7def012ee4a30fc34014259804a6908e5e1cab77cca5_trns_h264/playlist.m3u8
