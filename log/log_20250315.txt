@@ -144,3 +144,10 @@ Sat Mar 15 04:58:40 CST 2025
 Sat Mar 15 05:00:55 CST 2025
 Sat Mar 15 05:01:59 CST 2025
 删除iminako https://edge13-aus.live.mmcdn.com/live-hls/amlst:iminako-sd-011440da844e9df2fe3cb11c47b16d69b30beab780c9c7a3717df4791703ded5_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge2-sea.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7fbcaf822d55f52c9458e03d18be6e05f019ae6b0f67a2ca8e192c5fa249ba7c_trns_h264/playlist.m3u8
+Sat Mar 15 05:23:08 CST 2025
+Sat Mar 15 05:23:21 CST 2025
+Sat Mar 15 05:25:23 CST 2025
+Sat Mar 15 05:26:17 CST 2025
+删除oki_dokie https://edge15-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-93e53a2d2000500ffed47721cd2b97ee29656f649d11a0892b90950480258fc5_trns_h264/playlist.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
