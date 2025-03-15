@@ -338,3 +338,11 @@ Sat Mar 15 15:01:21 CST 2025
 Sat Mar 15 15:02:25 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wjdMsDD4sMy8Cf0icansWbZKH75d8vUlU6zgT44G2MbZ9QTV-bD_Qq-YEtHJtLRcgGdJdjERCXmqpvO3m_Kt36WmlE3tIjA2folxPyXbVSZk0k7PqT6ZdYMdodDKI4rV
+添加mode_bad https://edge4-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-cbfa0e7379afc1b357f127f1f95909daa0dc3a1af7e22902c5a03fc2743303ea_trns_h264/playlist.m3u8
+Sat Mar 15 15:21:37 CST 2025
+添加pandaclass https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.GMk1ztsWuU2f.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0dNazF6dHNXdVUyZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyRUFERUIzRS1ERDlCLTQ3NDMtQjA4Ri0yQURFNDQxMEFGRTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjAyMzMwNiwiZXhwIjoxNzQyMDIzOTA2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.h6A2-lb6i4u0r5_8GgunBqaPT6e3Sk-sQfjCa3k42tgEg8zV4F04H1VxjX8xeGUN97DPNhITqNVa8-2DCt--oAI0SfcGiy_EOAgwt-mT5vpW3abq2A5g3koYhQ4XXUMb
+Sat Mar 15 15:21:57 CST 2025
+Sat Mar 15 15:24:12 CST 2025
+Sat Mar 15 15:25:15 CST 2025
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zq2cx_qMr5nDsJfNS3vudihqIenOocm4P4dytaaErUAuc5WuUGsUg6L_a_aGIh3YnZZQwEkEKljKHGCLKU7Hi6mwZzMYcERcP3rjdalz9jcwTRWoMBnHqWjRpvz65wWS
