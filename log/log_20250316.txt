@@ -82,3 +82,9 @@ Sun Mar 16 02:53:21 CST 2025
 删除iminako https://edge13-atl.live.mmcdn.com/live-hls/amlst:iminako-sd-a8b66f1917002a78b004658ebff30a7fde3545a6708f055279c0c09e8f035bd4_trns_h264/playlist.m3u8
 删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 删除Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+Sun Mar 16 03:00:47 CST 2025
+Sun Mar 16 03:01:10 CST 2025
+Sun Mar 16 03:04:14 CST 2025
+Sun Mar 16 03:05:32 CST 2025
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除IsMiMi https://edge-hls.doppiocdn.live/hls/52028289/master/52028289_auto.m3u8
