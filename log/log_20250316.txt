@@ -131,3 +131,10 @@ Sun Mar 16 04:48:18 CST 2025
 Sun Mar 16 04:48:37 CST 2025
 Sun Mar 16 04:50:39 CST 2025
 Sun Mar 16 04:51:33 CST 2025
+添加oki_dokie https://edge17-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-31de02fb1319a7f55f5be63944e27e57ba26bd52dfa4c0a31592c4aad7a1377c_trns_h264/playlist.m3u8
+Sun Mar 16 04:59:24 CST 2025
+Sun Mar 16 04:59:41 CST 2025
+Sun Mar 16 05:02:00 CST 2025
+Sun Mar 16 05:03:06 CST 2025
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+删除lorins2002 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OPUbbOR049f0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09QVWJiT1IwNDlmMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1ODJBREU0OS1DNURDLTRBREMtQjg4Qy05QTY2OERDOUQ3RDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjA2ODQ0MywiZXhwIjoxNzQyMDY5MDQzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Q-cVQJyU87LZxYE58SCLjdIwfjbp8W7pw1k7wD7kr3Qiz81e4cTn10hPm7iZtU7rc0cNbnHY2QzYHqoRoug6gAcxY58YwJCZHBFU8lMMlHBl-TpCnaHadPUL5LjMSnFV
