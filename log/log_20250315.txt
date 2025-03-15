@@ -534,3 +534,14 @@ Sat Mar 15 21:52:59 CST 2025
 Sat Mar 15 21:55:15 CST 2025
 Sat Mar 15 21:56:20 CST 2025
 删除honey_pinkgreen https://edge26-ash.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-776c1b9e47d515252d67ad0ee4a50fa67efb4f026f1ae0c9e518881d0117c94d_trns_h264/playlist.m3u8
+添加ake_mi https://edge3-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-26d6f4c72e7e43bcae30ccd7d05fde966293da45d9526112495459ede60df8fc_trns_h264/playlist.m3u8
+Sat Mar 15 22:10:01 CST 2025
+添加vvvvvv11 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.l5768UwWA5EA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2w1NzY4VXdXQTVFQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyRUUwNEQ0OC0yODJDLTQzQTEtODgwNS1GRkZDQjIzMDgxRTQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjA0Nzg0OCwiZXhwIjoxNzQyMDQ4NDQ4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Q_cWedzZ2IXF_lgpALQJNjePHzgUcboAvilJ9Dmovn8E6lHDnf1yezLQ5qURZjJyv1Hq1vDnjmZNcJ-pQfy8v-WCStTYe0DtuSepS6WXPHvFyaFpcxIGEOnVCy2lR67_
+Sat Mar 15 22:11:01 CST 2025
+添加big541 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dSE7VTOT1LEp50qYmJZlzyfQm_-dVsNJgiZGTMdOJ67YAQB4TF_SOAtH3ki15u7wGiENAmMSsMSXkncIFVXGGNAvH1511Xs-iG0PZRzP6KMWhFyyukGQsTLLhW6VvcYY
+Sat Mar 15 22:13:23 CST 2025
+Sat Mar 15 22:14:28 CST 2025
+添加Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.XjFjir58bjtDsEfrjHosHCxpgmNzftvBCOR4YT3YjexLcXpx3aTYExnN_Dmi1x7XLRRcG7pYjXHVNQL6v7X44z040x-cEcEWj9yovfUZ7CDO0KXSq62FPdvUsJ20JerD
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
