@@ -469,3 +469,9 @@ Sat Mar 15 19:43:54 CST 2025
 Sat Mar 15 19:45:02 CST 2025
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除ad0res https://edge12-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-9e344b7ca6ae98082d761b8c1047fe1599965836976737781eccb62b32af9451_trns_h264/playlist.m3u8
+添加ad0res https://edge12-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-9e344b7ca6ae98082d761b8c1047fe1599965836976737781eccb62b32af9451_trns_h264/playlist.m3u8
+添加your_desssert https://edge6-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-2d917c4cdbb3f02d4befd7441faf933fe3bb700692192f12eea0145cb205bae4_trns_h264/playlist.m3u8
+Sat Mar 15 19:52:08 CST 2025
+Sat Mar 15 19:52:53 CST 2025
+Sat Mar 15 19:55:10 CST 2025
+Sat Mar 15 19:56:15 CST 2025
