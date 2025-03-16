@@ -357,3 +357,11 @@ Sun Mar 16 15:41:09 CST 2025
 Sun Mar 16 15:42:13 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Sun Mar 16 15:50:11 CST 2025
+Sun Mar 16 15:50:29 CST 2025
+添加kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-eI5Zeln7hzvOcH2eV7-EpVQyHqSZVgg5y6IdnZrzBXq7I-6H3S3nR7kgssXyi28Pc8EqW4h--lHjyh60Gh-uAIBQroo69gYJ-f_0QmJBjgsOY_oE80n_Sibv-mKXZmr
+添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-Wk93BdCRSoLeqAvTIyIBroy3PiL3Q1sCC9NfP_1jupMAgc5oPkdZBMN-ieQk2MFzA9X5ceSIZJ06mCCtR0b2kmuAcz_PjHKJubH8WQELoRk1s7NMYRkF7miptaanVOq
+Sun Mar 16 15:52:56 CST 2025
+添加so2so2so https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.yaAVuhbt0PuZ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC95YUFWdWhidDBQdVoiLCJleHAiOjE3NDIxNTQxODc5OTMsImlhdCI6MTc0MjExMDk4N30.WdZBkCnZNehTtS9njSJcO0NLSmK3WxoHAiKd1mdwYAWx4-ZHC-E-jNYIq0OGS00P9_MriEZxuk9NxYd_XhD6Qk8fukOiOZwq8HxYRZuLhXkncQbrnRAFaPWgOcrbiZdv
+Sun Mar 16 15:54:02 CST 2025
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
