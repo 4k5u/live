@@ -18,7 +18,6 @@ tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m
 zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
-amilia4u https://edge4-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-f5e3acfb8aa43b94d4a478be979eed03ae4ffff78850ed62c02769b098e56c61_trns_h264/playlist.m3u8
 my_eyes_higher https://edge18-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f17b668b0d850ab68a3be5c3ba927efe02cb818ebb1c16e66fc2eca1285b8a51_trns_h264/playlist.m3u8
 yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.qex1tAa7Elc51T4N4rgRwpNpLh9kznYNTMja8w35mVfp-32pu7Cm4EsDv2EGddyES0ICb6yajJYoUgkmmlknXGoHrR4OuEs21vPDKH08i5x2EgEsFbeUPiuTQ1i37xJ5
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
