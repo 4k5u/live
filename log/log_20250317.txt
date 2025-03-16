@@ -113,3 +113,9 @@ Mon Mar 17 03:46:03 CST 2025
 删除IsMiMi https://edge-hls.doppiocdn.live/hls/52028289/master/52028289_auto.m3u8
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加sexygamesx https://edge27-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-a68bf0e4c1c2f24a02e3d42cf11b6dc743a46b5dede818c5b6070b526bb77082_trns_h264/playlist.m3u8
+Mon Mar 17 03:58:15 CST 2025
+Mon Mar 17 03:58:30 CST 2025
+Mon Mar 17 04:00:47 CST 2025
+Mon Mar 17 04:01:53 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
