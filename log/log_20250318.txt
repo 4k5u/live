@@ -218,3 +218,10 @@ Tue Mar 18 11:12:24 CST 2025
 添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+Tue Mar 18 11:42:58 CST 2025
+Tue Mar 18 11:43:05 CST 2025
+Tue Mar 18 11:45:08 CST 2025
+Tue Mar 18 11:46:05 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除oki_dokie https://edge16-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-968d87ea64e4224667919259ce30b8c3319138513412dc9fdaa867a9b101264a_trns_h264/playlist.m3u8
+删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
