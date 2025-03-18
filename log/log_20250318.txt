@@ -319,3 +319,14 @@ Tue Mar 18 15:52:40 CST 2025
 Tue Mar 18 15:54:49 CST 2025
 Tue Mar 18 15:55:45 CST 2025
 删除kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._fy17OAWqfh39dtiYWk-xEyuPhZaXLqb3Mv8XLYUhDpcLP3DzBVn2rLGDNZDJwAbtEjXZId4HemYRIo_gkGrVBUrMQkV-qYtKWBLHqWm6jpt_XUZyuCN4j6X2ba3-smC
+添加ake_mi https://edge14-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2282cc82804290373bfa8646f0b4e501dac1d250d6562dc6e7ed2a2e0b906949_trns_h264/playlist.m3u8
+Tue Mar 18 16:28:57 CST 2025
+Tue Mar 18 16:29:14 CST 2025
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
+Tue Mar 18 16:31:38 CST 2025
+Tue Mar 18 16:32:42 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
