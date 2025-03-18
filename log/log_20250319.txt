@@ -130,3 +130,8 @@ Wed Mar 19 04:42:12 CST 2025
 Wed Mar 19 04:44:29 CST 2025
 Wed Mar 19 04:45:34 CST 2025
 删除oki_dokie https://edge28-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-00ec4df714d87af6e8052ba41805789e83c9cfff314cd3339a76b0f34d7e0ef2_trns_h264/playlist.m3u8
+Wed Mar 19 04:53:19 CST 2025
+Wed Mar 19 04:53:34 CST 2025
+Wed Mar 19 04:55:56 CST 2025
+Wed Mar 19 04:57:02 CST 2025
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
