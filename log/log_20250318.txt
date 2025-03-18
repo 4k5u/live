@@ -390,3 +390,11 @@ Tue Mar 18 18:30:11 CST 2025
 删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Tue Mar 18 18:45:08 CST 2025
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNkM5MzRCOC03MTJGLTREOEYtQTRFRi1EOTJDQTZFRkY2RUQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjI5NDcwOSwiZXhwIjoxNzQyMjk1MzA5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.H7vKNnwE6ths_osA__E3-vgietyBxxJvR-6MReSw9aVVLc1BLJ3e2Eij-M_KkT-_gSCX5oiMe0R6e_mvZkrRYKzSbF8mJbrIewwPw0O0ttz5te5FRxFVRzrhX8Cv8TiU
+Tue Mar 18 18:45:53 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Tue Mar 18 18:48:01 CST 2025
+添加ggseol123 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.3yciYT1M2dmR.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8zeWNpWVQxTTJkbVIiLCJleHAiOjE3NDIzMzc2NTAwMTksImlhdCI6MTc0MjI5NDQ1MH0.H2t5_h5Y8IkzYrjdXlROyqqjB_9hvy-LWYnPOdPbih4sPkBiZ2-ypsDAeOR8USk4pyeK2LBIRDULQRG124Isw8gFULwdbEk4peX5oDUyKDOlGweZVUXngn8xO8Jl2AQu
+Tue Mar 18 18:48:59 CST 2025
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
