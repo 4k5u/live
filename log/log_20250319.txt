@@ -638,3 +638,8 @@ Wed Mar 19 23:47:55 CST 2025
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+添加oki_dokie https://edge23-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-283ad535207a9f5f76885d438d6a9ddccc95f96faf7ebebf96d51a6bba0223ca_trns_h264/playlist.m3u8
+Wed Mar 19 23:58:11 CST 2025
+添加qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFRkU0QzZBOC1GNDUwLTRDREUtQjJENC05Mzc1OTFBMEEyMjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjM5OTkyNiwiZXhwIjoxNzQyNDAwNTI2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.3ObBmg3SPrHhSpXgexZT-KnOfKH9bygqQt1n3R3WqRvsp4vyELC4Cqrfv36rrfuYoMFcu0AtprVfSO9M9J9b0_Ouwc875Fd6U57cG6BKASiZh_eNPwP5AhE7z0xrvpS3
+Wed Mar 19 23:59:11 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
