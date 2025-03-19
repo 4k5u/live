@@ -116,3 +116,10 @@ Thu Mar 20 03:41:33 CST 2025
 Thu Mar 20 03:43:47 CST 2025
 Thu Mar 20 03:44:50 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加_meganmeow_ https://edge6-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-e272f934f91262a653161866e4135cbf93264faa8dbc8fbb770c7043cfff9ee0_trns_h264/playlist.m3u8
+Thu Mar 20 03:58:05 CST 2025
+Thu Mar 20 03:58:24 CST 2025
+Thu Mar 20 04:00:26 CST 2025
+Thu Mar 20 04:01:21 CST 2025
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除lorins2002 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OPUbbOR049f0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09QVWJiT1IwNDlmMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFRDFBMjk1Ri02QjEwLTQxMDctQTZCMy00NDRCNEVGNzAxODkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjQwOTIxNiwiZXhwIjoxNzQyNDA5ODE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qQDyF_AUPT4lwB8u8xAvmkaQdUPu8T1C0Xotci1fT4hJqvsDIzsyP8IzsAPK_MYSb1lxXEg0tu4Kxks3n0FTUG4ZQyDaDwx1AwN-GPbAM0mtzXuNzmlB9dHF79HsUwg-
