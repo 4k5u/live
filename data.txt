@@ -11,3 +11,5 @@ LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m
 oki_dokie https://edge15-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8ea29ee3ab0fa83c118020819464f9e6a5bcca3227fd15071f44e4e4c4748cfe_trns_h264/playlist.m3u8
 _meganmeow_ https://edge6-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-e272f934f91262a653161866e4135cbf93264faa8dbc8fbb770c7043cfff9ee0_trns_h264/playlist.m3u8
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
