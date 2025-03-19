@@ -158,3 +158,8 @@ Thu Mar 20 05:54:21 CST 2025
 Thu Mar 20 05:55:25 CST 2025
 添加bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Thu Mar 20 06:10:33 CST 2025
+Thu Mar 20 06:10:42 CST 2025
+Thu Mar 20 06:12:58 CST 2025
+Thu Mar 20 06:14:02 CST 2025
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
