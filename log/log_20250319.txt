@@ -228,3 +228,8 @@ Wed Mar 19 11:44:53 CST 2025
 添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除oki_dokie https://edge28-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c23882637639a3129b0b76f1e292cf0afc950be8d2b5ba8a72a870c2ac593eb5_trns_h264/playlist.m3u8
+Wed Mar 19 11:54:46 CST 2025
+Wed Mar 19 11:54:55 CST 2025
+Wed Mar 19 11:56:57 CST 2025
+Wed Mar 19 11:57:52 CST 2025
+添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
