@@ -161,3 +161,8 @@ Fri Mar 21 05:42:03 CST 2025
 Fri Mar 21 05:43:07 CST 2025
 删除oki_dokie https://edge28-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9bc86224709c70e67c8d78a25cdb3fdfe9d35c974f3ba51a4c9f473d86d48032_trns_h264/playlist.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Fri Mar 21 05:51:10 CST 2025
+Fri Mar 21 05:51:19 CST 2025
+Fri Mar 21 05:53:38 CST 2025
+Fri Mar 21 05:54:44 CST 2025
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
