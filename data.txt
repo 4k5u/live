@@ -21,3 +21,5 @@ bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
 zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+amilia4u https://edge18-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-e1aa77c59b209041af9219a6dd4a6f770857d4890332caac77abadda8372de26_trns_h264/playlist.m3u8
+sexygamesx https://edge19-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-781c6335fde4319d379d04d15f42d92a161ba70ca83d4785f41831676a39033e_trns_h264/playlist.m3u8
