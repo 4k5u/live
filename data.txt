@@ -15,3 +15,4 @@ sexygamesx https://edge4-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-fcbba77
 gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zU3TlfVZuPlO2b4YUTW77k_6g4V-ALYUUQzrhjj2KUcScMJY1VUcf1v4t9YfRHdkJaxQx6wTYX-MVcq7aEiUjhWyjMi_rkrJ47-gD2IykV_9FKtj-PQQt-b46WXMIHx_
 oki_dokie https://edge6-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e1b3740fd2526200c0ab69be52b572ccd81f63f67c2c1e1d7d029c3922e3555d_trns_h264/playlist.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
