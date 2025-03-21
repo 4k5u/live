@@ -136,3 +136,10 @@ Sat Mar 22 04:44:04 CST 2025
 Sat Mar 22 04:45:00 CST 2025
 删除oki_dokie https://edge27-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3d100b568488e3dcd2c75a23186314c4a76f302138513508246f57ef2d52af3c_trns_h264/playlist.m3u8
 删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.hap_5U7tZT5wFz7AtAVv88Byu84PTjLFk6Jelcj2E9xjfNV0HwQ7hqBvBMb3Xw_RwEIhd6jbxZFRijDMazpSj3YRh_PRU4c7iifoyKIotOovC0_B1YBvky3SBQJfu__m
+Sat Mar 22 04:53:15 CST 2025
+Sat Mar 22 04:53:26 CST 2025
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wza77IeMkcBSkQcCpC293kaSRHrGyuXgDoCyGGxUi4hSD-fAHd1XkDOH5cGoQeKe1VfZFGIardNnDrYjtxKHXfMiI0dah1z1zcuSnDpQe5c_56lNBkuDQbkXZOwaNdEw
+Sat Mar 22 04:55:36 CST 2025
+Sat Mar 22 04:56:31 CST 2025
+删除yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1S4JHd7zTIwR.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFTNEpIZDd6VEl3UiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNjA5N0NDQi00QzA2LTQ4QzItODM3My02MzU0RjRFMkEyNkEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjU1Mzg4NiwiZXhwIjoxNzQyNTU0NDg2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.nNnrPVSV-yc3KgDSnhd-I8-_HkkCXsR3ECMfOMBQs4UWkNLdIHnr5KJUJ2_WwjYHg4Q-KqA-2lxEQzu6H74EWgfCAUFbnHra07woGgaZN0NxCBdhZzT1RFsKLFmA6fqM
+删除IsMiMi https://edge-hls.doppiocdn.live/hls/52028289/master/52028289_auto.m3u8
