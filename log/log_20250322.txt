@@ -568,3 +568,9 @@ Sat Mar 22 23:29:27 CST 2025
 删除oki_dokie https://edge19-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a7a7f4232bec50565fbc2a072e4f34409341c9b0157c8a3ce7981b864f934fdb_trns_h264/playlist.m3u8
 删除insgirl https://edge-hls.doppiocdn.live/hls/72418042/master/72418042_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+添加oki_dokie https://edge15-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0cb3b0a534c27a79da0b0d08bb22e506b078deab6811305a0fb171d3d875e611_trns_h264/playlist.m3u8
+Sat Mar 22 23:39:10 CST 2025
+Sat Mar 22 23:39:53 CST 2025
+Sat Mar 22 23:42:10 CST 2025
+Sat Mar 22 23:43:14 CST 2025
+删除hee_jeen https://edge5-chi.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-e78f8bf9f54a40062c06fe97ebc199f8ca9642d2d285d10baa27b16aa6f3f33a_trns_h264/playlist.m3u8
