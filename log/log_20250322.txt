@@ -390,3 +390,9 @@ Sat Mar 22 17:43:27 CST 2025
 Sat Mar 22 17:44:22 CST 2025
 删除4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1op0J38Qa4u6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFvcDBKMzhRYTR1NiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MTFFMjQ3Qi1GRTI4LTRDRDMtQTk0Ni04OUYxOTE0MDNBRkIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjYxNzQ5NCwiZXhwIjoxNzQyNjE4MDk0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.X7ROYuKgpqpSP3b3G1UBsDA7x7JodgDVvBbDS8ITLhI5i1IWhXKeCd1VfkP-gYN8FyYP_pE4QVXHIA1lGHUUpg-azloNkd2Eox9ZVPqq7rvN66z-z2fXCGBn4vEoSEIa
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Sat Mar 22 17:52:14 CST 2025
+Sat Mar 22 17:52:37 CST 2025
+Sat Mar 22 17:54:38 CST 2025
+Sat Mar 22 17:55:33 CST 2025
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.BQqXaIsv1AD5677tn1f481DzTrwwO7eYVBlwhWXP5iSaShGoouYbVsrBho_WdUifNO0rggyQrtX8v1bscWqduLQVtJnWi921PRaWlTa3Ho6cTEJXlvSR0ADOnKMPwdKd
