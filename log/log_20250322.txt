@@ -384,3 +384,9 @@ Sat Mar 22 17:28:25 CST 2025
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Sat Mar 22 17:41:01 CST 2025
+Sat Mar 22 17:41:24 CST 2025
+Sat Mar 22 17:43:27 CST 2025
+Sat Mar 22 17:44:22 CST 2025
+删除4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1op0J38Qa4u6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFvcDBKMzhRYTR1NiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MTFFMjQ3Qi1GRTI4LTRDRDMtQTk0Ni04OUYxOTE0MDNBRkIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjYxNzQ5NCwiZXhwIjoxNzQyNjE4MDk0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.X7ROYuKgpqpSP3b3G1UBsDA7x7JodgDVvBbDS8ITLhI5i1IWhXKeCd1VfkP-gYN8FyYP_pE4QVXHIA1lGHUUpg-azloNkd2Eox9ZVPqq7rvN66z-z2fXCGBn4vEoSEIa
+删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
