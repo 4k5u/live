@@ -109,3 +109,10 @@ Sun Mar 23 03:32:38 CST 2025
 添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
 Sun Mar 23 03:34:46 CST 2025
 Sun Mar 23 03:35:41 CST 2025
+Sun Mar 23 03:48:22 CST 2025
+Sun Mar 23 03:48:49 CST 2025
+Sun Mar 23 03:51:04 CST 2025
+Sun Mar 23 03:52:07 CST 2025
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除tw_Sutew https://edge-hls.doppiocdn.live/hls/104933496/master/104933496_auto.m3u8
