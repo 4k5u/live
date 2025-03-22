@@ -45,3 +45,9 @@ Sun Mar 23 01:23:23 CST 2025
 删除flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.2IlNPDcpbnltf8Dobjnfonh4rUiar2bIdAZrlhmzm6LUy_eKGUmwbhNVsHXvCL3StGGKQLMPe-c2ysPaqV3bPRbY9yY5r0pi-TM75NinBkNk0FJFust5lk1lrZMO7i78
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+Sun Mar 23 01:32:21 CST 2025
+Sun Mar 23 01:32:52 CST 2025
+Sun Mar 23 01:35:09 CST 2025
+Sun Mar 23 01:36:13 CST 2025
+删除rosyemily https://edge23-phx.live.mmcdn.com/live-hls/amlst:rosyemily-sd-e735d867ac61b1f753d39318c0c7f2a42e2a49fded973747e6fd7418fe77d5d1_trns_h264/playlist.m3u8
+删除vip000 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.q7FxMQlWCNPG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3E3RnhNUWxXQ05QRyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQUNCQjJENy03MEJGLTQ0MzYtOTBDNy00QTQ2QTE2QkNBQkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjY1OTM0OSwiZXhwIjoxNzQyNjU5OTQ5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.JNF19YsGAKy_jP8BCeZS1xOcxWSPkup4a_IHvLc4ncf9tPk6JEhx643sVfHz4v0InkQVbiuunAB5CLWUOnpJzQ6aem_f-8D0IVHNpivv4CUTvO_H2lTXPcvhVEqeWJbT
