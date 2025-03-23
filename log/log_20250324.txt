@@ -142,3 +142,10 @@ Mon Mar 24 05:21:07 CST 2025
 Mon Mar 24 05:21:14 CST 2025
 Mon Mar 24 05:23:30 CST 2025
 Mon Mar 24 05:24:34 CST 2025
+添加oki_dokie https://edge8-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-df98c7270cd730b2e0f5800d0e6f6f56afd3970dc5efee1885d04ac31006453b_trns_h264/playlist.m3u8
+Mon Mar 24 05:33:11 CST 2025
+Mon Mar 24 05:33:18 CST 2025
+Mon Mar 24 05:35:33 CST 2025
+Mon Mar 24 05:36:41 CST 2025
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
