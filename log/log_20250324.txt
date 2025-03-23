@@ -78,3 +78,11 @@ Mon Mar 24 02:40:53 CST 2025
 删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7RzqDD4HG1RaDVCP4Z6snmGvwJlm1jSkEONKjggQUh7D0-oj6XvKCzVd96hW9tPygFQHxW9JM0pBUhalTnh4DBEI1WbPlbJpAHHz4uxRcm7EuLbEtkzaO1T8O2xZM1r7
 删除bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+Mon Mar 24 02:49:48 CST 2025
+Mon Mar 24 02:50:01 CST 2025
+Mon Mar 24 02:52:22 CST 2025
+Mon Mar 24 02:53:28 CST 2025
+添加bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Vez16f2pJp-4UaU3dNQ3BaIb0-BSqHhK3KLZ8uF3U7KrmwYYgtVa_PzhEjXyflooMRIPovNS0zkLGruZYia06LmUYgywvjYmIOIZ0P_XYPfLjEiryMipMxJNLYkR9b4W
+删除roaaa10 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1PKNr6dpNRwt.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFQS05yNmRwTlJ3dCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMkU5Q0U3OS1BNTk0LTRFQjQtODQ0MC0zODNBQUIyMDc3QUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjczNjY4OSwiZXhwIjoxNzQyNzM3Mjg5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.85m0ufBZ0k4NzDRtfDZML_nX3xFZOM0WBV4y4_vm_9mhHR7VFKOn_HoXNU7drADBKZ4oClXkJcjYAoM11xa0yBCvHLHZH_GeRl_9oYKV1n8gB70XC-9aZBpQ0w-KnJe2
+删除purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._GHpCJIbJmvGW2GUIU-6mKiU0pKyCEMcTDxm1VVhm5BkGs7gQOQeHB_L5bqFALWGYBAR1SwvvJ1bL3UfcqMGHMPNKyyeFrg6yByCjhpzF5u5H4Dwap_w9-Iy2dnz2-lo
