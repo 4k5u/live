@@ -12,3 +12,5 @@ anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 mazzanti_ https://edge19-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-b1b4ebc8d1b2a813517a47ea40456d78c3cf78a0313b60500a8050cf1253720a_trns_h264/playlist.m3u8
+honey_pinkgreen https://edge25-ash.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-e37d4f733506e3565aa383af63924743fb0f2b517ed096f19339b5036cd75803_trns_h264/playlist.m3u8
+sexygamesx https://edge24-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-34ae284c678a95018e1bcdc9999f9d75175da3bea0e18e40063e7297a6ed261b_trns_h264/playlist.m3u8
