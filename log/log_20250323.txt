@@ -441,3 +441,9 @@ Sun Mar 23 19:32:49 CST 2025
 Sun Mar 23 19:33:52 CST 2025
 删除mode_bad https://edge5-sea.live.mmcdn.com/live-hls/amlst:mode_bad-sd-4f941fce0b9ad5e0461fa5648b045272bb5aea3fd9977112066bdf1743e8eacb_trns_h264/playlist.m3u8
 删除oki_dokie https://edge25-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8da598123060bc49f7bb1dd487749715a5c60bb7b144367de4949125b4dac7ff_trns_h264/playlist.m3u8
+Sun Mar 23 19:42:09 CST 2025
+Sun Mar 23 19:42:50 CST 2025
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.hjYn3q__MqURu1AWXKRrDZgdhReIePcFuNzEWJuw6qH1uyZQxfCIX04UMrpmgqTeQ_0O_AiRNjfDxFXhikPvRDKO9LIsoPiiP6udHmpti5QCq8XYgN_dABP5l3OE_8ja
+Sun Mar 23 19:44:57 CST 2025
+Sun Mar 23 19:45:52 CST 2025
+删除rosyemily https://edge11-mia.live.mmcdn.com/live-hls/amlst:rosyemily-sd-59a1b5f1951da35ef494dd092ac1c74c3c5b3dc11e4fc897bf79cfbcdcb50a73_trns_h264/playlist.m3u8
