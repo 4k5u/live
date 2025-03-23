@@ -286,3 +286,10 @@ Sun Mar 23 13:44:32 CST 2025
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除amilia4u https://edge23-ash.live.mmcdn.com/live-hls/amlst:amilia4u-sd-cbdcbb47b4194a7c301e8668ca91aacb24c36cde54c58a4e8e9353e864af3c00_trns_h264/playlist.m3u8
+Sun Mar 23 13:52:30 CST 2025
+Sun Mar 23 13:52:49 CST 2025
+Sun Mar 23 13:54:51 CST 2025
+Sun Mar 23 13:55:46 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
