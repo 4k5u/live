@@ -165,3 +165,8 @@ Mon Mar 24 06:25:53 CST 2025
 Mon Mar 24 06:28:12 CST 2025
 Mon Mar 24 06:29:20 CST 2025
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Mon Mar 24 06:42:52 CST 2025
+添加ioibibi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.66exLzO8T9sb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzY2ZXhMek84VDlzYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RUNDMzI4Qi04ODBBLTRGQjUtQjY2OC0yQjhDNURENDU4REUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0Mjc2OTc3NiwiZXhwIjoxNzQyNzcwMzc2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Z1esNPsDPemzWtrWbu_WMw7PGyiA3FUuzxDibarfns3gOgbpg5X35MAmQENTqw9NhL6j-2JWH5p3OYXKOaUfnC9uQAPoNYLH5_3XVJkgvjEyVLoPpnPEObLyTpuJweNN
+Mon Mar 24 06:43:04 CST 2025
+Mon Mar 24 06:45:08 CST 2025
+Mon Mar 24 06:46:02 CST 2025
