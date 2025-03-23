@@ -238,3 +238,10 @@ Sun Mar 23 11:42:50 CST 2025
 Sun Mar 23 11:43:00 CST 2025
 Sun Mar 23 11:45:03 CST 2025
 Sun Mar 23 11:45:59 CST 2025
+Sun Mar 23 11:58:07 CST 2025
+添加merryxmas77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WoO04uYmgtVV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dvTzA0dVltZ3RWViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMTNFQTM2NS0zQTc3LTRCQTctQTJEOC1GRUIwQUQ3N0FDMDEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjcwMjI5MCwiZXhwIjoxNzQyNzAyODkwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.i4INT6iuC7ie9LVp92yEJ_nHZpSBmOIbR9WKpnZYEpg9SJm_C0qfndxPAjr3qZeVQ4fAPX49P2iGAR_yWyBie6mmSWq51zK1zvG03N5vD9sKef3OrrvpEcCPYyAiFs4W
+Sun Mar 23 11:58:20 CST 2025
+Sun Mar 23 12:00:42 CST 2025
+Sun Mar 23 12:01:52 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.4xP-fZPZ7JtfXkFH5lifO4Rfbs1WGqa8R7whQoc2gs3Z_rhN3M7Uy1nvWZg44bu1uk-Fknn3lQK68w_GO1aa-iW3Um6Dmcqg82uztI5Ysem7NET33TuoPaxJ5SpDuvEO
