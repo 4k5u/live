@@ -10,7 +10,6 @@ starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
-oki_dokie https://edge15-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d718ba64101b203c72aeb140e07eda94cb2d883de4e2a6994b31ddd136ee0878_trns_h264/playlist.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 sexygamesx https://edge24-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-23557bad94f719bcedc16bcd97d8bcab6ae3356c1a3e66b6d4af098f7a9748d2_trns_h264/playlist.m3u8
 bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
