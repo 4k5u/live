@@ -353,3 +353,10 @@ Mon Mar 24 15:51:59 CST 2025
 Mon Mar 24 15:54:19 CST 2025
 Mon Mar 24 15:55:26 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Mon Mar 24 16:15:03 CST 2025
+Mon Mar 24 16:15:23 CST 2025
+Mon Mar 24 16:17:25 CST 2025
+Mon Mar 24 16:18:21 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
