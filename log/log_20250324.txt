@@ -257,3 +257,11 @@ Mon Mar 24 12:34:16 CST 2025
 删除taitehambelton https://edge1-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-243c2d09dec0cd792b857b7bf81ab1e6bcca7e8ffc02b42b95ffee3eeaf4c035_trns_h264/playlist.m3u8
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+添加oki_dokie https://edge9-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-04c2a910a463a35f541f69844b94f523700f750f27e82b661de1391e80a49652_trns_h264/playlist.m3u8
+Mon Mar 24 12:47:22 CST 2025
+Mon Mar 24 12:47:33 CST 2025
+Mon Mar 24 12:49:36 CST 2025
+Mon Mar 24 12:50:31 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
