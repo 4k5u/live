@@ -16,3 +16,4 @@ fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 oki_dokie https://edge6-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d1b70d0d27929942aeb3e7a8167ef70cabfb8eb95254dca74d68e220cfccded9_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
