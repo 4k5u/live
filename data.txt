@@ -7,14 +7,5 @@ jeehyeoun https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_pla
 zoahakdlf https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LGiwhOpsvff5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xHaXdoT3BzdmZmNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQkRDRjE2Ri1DRTdFLTQyOEYtQUQwMC0yNTM1OEQwOTQ1NzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjkxNDAxMiwiZXhwIjoxNzQyOTE0NjEyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qEWT9zwmA2oVTgnpdBalNyZFntDq0jie8tGhKTJh2zF_q9AZdRFxWX_UJS8Uoicg1LcpZlDfdDy8koRxOwfiWWF8pRkrq828WduUlCxiEoVZlLCJ9FPagnwjl77dVfsq
 oki_dokie https://edge4-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-516322eb35c0d9a557407b00965eda0dfbb578960e54156c4be952aee7656938_trns_h264/playlist.m3u8
 bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
--ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
--ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
--ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
--ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
--ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
--ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
--ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 hncsphj https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sxeVh17EklfW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3N4ZVZoMTdFa2xmVyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MUQ3QzcxMy04MkIzLTQ5RDQtOENCNy0xRUFEMTUzQjJDMTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjkzNDI5MSwiZXhwIjoxNzQyOTM0ODkxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.GOh0x1MAOs8ONJMjoW8jkpU9munCy3NhASTjFbcalpL2e8uTC_nr13k0oy_o4BqrjDL6R5c2G8banHbJxyqPGEPG_tzHsQ5RmnBHY5KHZkDtMX-JKfro_HO3gBvk7oXI
--ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
--ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
