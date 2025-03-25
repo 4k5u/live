@@ -443,3 +443,8 @@ Tue Mar 25 19:49:24 CST 2025
 Tue Mar 25 19:51:39 CST 2025
 Tue Mar 25 19:52:45 CST 2025
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+添加rosyemily https://edge7-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-490bfb20dfec149fc15c799d6f2a78347c4babd2e5eac6a1867b447388a44bf6_trns_h264/playlist.m3u8
+Tue Mar 25 19:59:31 CST 2025
+Tue Mar 25 20:00:28 CST 2025
+Tue Mar 25 20:02:45 CST 2025
+Tue Mar 25 20:03:50 CST 2025
