@@ -375,3 +375,11 @@ Tue Mar 25 17:46:28 CST 2025
 Tue Mar 25 17:47:26 CST 2025
 删除mode_bad https://edge18-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-9fc05e086a6c0e8731d2ec29b414aaef8873b3fd8bcb828cbcf1c2f22c5d3b54_trns_h264/playlist.m3u8
 删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Tue Mar 25 17:58:21 CST 2025
+Tue Mar 25 17:58:44 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Tue Mar 25 18:01:03 CST 2025
+添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3NDI5Mzg4Mjk2NjMsImlhdCI6MTc0Mjg5NTYyOX0.E5k60oggqYrsVj3SKEWtZTjK04ofGNAsa3W3qI2WT3FQJTQXQBTZwyr1rWFnMwx9JpBxqQQ4CRkQCTZg5Q9Aihksg3zudRM6pkS8iyVgO_MroyobJzvbAdfmomhMvx9v
+Tue Mar 25 18:02:09 CST 2025
+删除oki_dokie https://edge7-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f1893574d10764a3e5af5c56d089cb6c02b37ed57acad92be55a0384777f0a05_trns_h264/playlist.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
