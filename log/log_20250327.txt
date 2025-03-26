@@ -61,3 +61,11 @@ Thu Mar 27 01:38:23 CST 2025
 Thu Mar 27 01:40:39 CST 2025
 Thu Mar 27 01:41:44 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Thu Mar 27 01:48:53 CST 2025
+Thu Mar 27 01:49:28 CST 2025
+Thu Mar 27 01:51:45 CST 2025
+Thu Mar 27 01:52:49 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除ake_mi https://edge6-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-ff9eb7c5b7ab9daae3c0108578c60a8c3f064b53938f944e84438fc1fde9bddb_trns_h264/playlist.m3u8
+删除NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
