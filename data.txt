@@ -11,3 +11,4 @@ honey_pinkgreen https://edge18-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen
 minion998 https://edge-hls.doppiocdn.live/hls/131654942/master/131654942_auto.m3u8
 oki_dokie https://edge27-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-378df25a5e40f90b6edd2a745ba38d33e00b89c2ff9deb5c3aebdd6094c9e28a_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
