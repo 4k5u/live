@@ -339,3 +339,13 @@ Wed Mar 26 14:57:09 CST 2025
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 删除oki_dokie https://edge23-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-b9310d561c13f404adf21d9f9fcd165332cfda1900e4493c13ce93f43fb8acb8_trns_h264/playlist.m3u8
+添加oki_dokie https://edge1-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-79c365c958f1b9d4d66f0962df6cbc328a5beba1a79dcd44160878ce57dc839f_trns_h264/playlist.m3u8
+添加mode_bad https://edge14-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-64fbe7e89d22eb4e9a0bb44ca04a1e71b87f9b160514041d3915872dacc4a92c_trns_h264/playlist.m3u8
+Wed Mar 26 15:20:58 CST 2025
+Wed Mar 26 15:21:17 CST 2025
+添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.y2ZFz7jMk7LEwa_pAlq10-WB5cgFiyCcCS0sq9LCAPAhIE0s0D9Kzpn9mzX9B0L0pduGNxRthO0WD5xyvO8To-LAW_UAFLAdgYXS8okAg3inz17XfSZw9qSAEU8aHms1
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gyhKPRlD9cVDjJVJbtKl9ziAFxqnnBIATZXLdqGCNIP9kf1ZHkpMgK7LYW4wEmUQk1HjpOWSjGDiPLTw2a6Bi75tBU-G3FHtKW6TwN5jsPMktfjbExHkG5-QCCAb55P8
+Wed Mar 26 15:23:39 CST 2025
+Wed Mar 26 15:24:39 CST 2025
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
