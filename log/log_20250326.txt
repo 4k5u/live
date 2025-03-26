@@ -349,3 +349,9 @@ Wed Mar 26 15:23:39 CST 2025
 Wed Mar 26 15:24:39 CST 2025
 添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
+Wed Mar 26 15:34:42 CST 2025
+Wed Mar 26 15:35:02 CST 2025
+Wed Mar 26 15:37:19 CST 2025
+Wed Mar 26 15:38:24 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
