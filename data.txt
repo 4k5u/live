@@ -15,3 +15,4 @@ Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m
 _meganmeow_ https://edge24-phx.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-9cf2d6cf3de8c6696173cb995bd2c58e33909d08393f7111eb202dc11f32b157_trns_h264/playlist.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 honey_pinkgreen https://edge18-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-1a087dc5f912c3d3cb042fd4c91f2bf2e27b864f067753dcc9b8ff7972cea4bb_trns_h264/playlist.m3u8
+minion998 https://edge-hls.doppiocdn.live/hls/131654942/master/131654942_auto.m3u8
