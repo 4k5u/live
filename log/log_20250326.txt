@@ -329,3 +329,13 @@ Wed Mar 26 14:40:01 CST 2025
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+Wed Mar 26 14:53:21 CST 2025
+Wed Mar 26 14:53:40 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Wed Mar 26 14:56:05 CST 2025
+Wed Mar 26 14:57:09 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除oki_dokie https://edge23-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-b9310d561c13f404adf21d9f9fcd165332cfda1900e4493c13ce93f43fb8acb8_trns_h264/playlist.m3u8
