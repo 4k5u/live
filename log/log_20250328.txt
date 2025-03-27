@@ -115,3 +115,8 @@ Fri Mar 28 03:21:46 CST 2025
 删除big541 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0Tg4DCe7uy1mT2ua9saqLwuam4xi1QJbyNCNJYz4bnK0nfvHZNzjq9be74Ti3q2ebeerbClPYuOE0GQpesDpble-Pvs0I-FtRtz6Os_oAg6IiJ48Gy77mg-VDcYi1YV0
 删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 删除TuyetNhi2k6 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+Fri Mar 28 03:29:26 CST 2025
+Fri Mar 28 03:29:45 CST 2025
+Fri Mar 28 03:32:01 CST 2025
+Fri Mar 28 03:33:13 CST 2025
+删除Tmdgus5411 ?aid=null
