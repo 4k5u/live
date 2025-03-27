@@ -141,3 +141,9 @@ Fri Mar 28 04:23:19 CST 2025
 Fri Mar 28 04:23:30 CST 2025
 Fri Mar 28 04:25:46 CST 2025
 Fri Mar 28 04:26:50 CST 2025
+Fri Mar 28 04:41:53 CST 2025
+Fri Mar 28 04:42:00 CST 2025
+Fri Mar 28 04:44:17 CST 2025
+Fri Mar 28 04:45:21 CST 2025
+删除roaaa10 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1PKNr6dpNRwt.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFQS05yNmRwTlJ3dCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMEExRERDOC1FQjM4LTQxREMtOTYyMi00QzEwOTg0N0RFRjkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzA5MTEzMywiZXhwIjoxNzQzMDkxNzMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ACEIz6ZLU9-5JVx-F9sxvebpAD9qNk8qsmLY68bEna3YvPN50rAFcfohEY-FrA994SVyjIBOXcT8v7tgzmxTX754hH-D_OV4DOjk_-Pub9ZPBohUdjQhKdLy88ALVL26
+删除oki_dokie https://edge2-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-050bb2cc57f102938a7b973deb30a4c3dbb19c2d11560aadd9344250bc46cf79_trns_h264/playlist.m3u8
