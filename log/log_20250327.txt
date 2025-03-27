@@ -441,3 +441,11 @@ Thu Mar 27 18:49:26 CST 2025
 删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 删除dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.euDykyFaRaHjKRdtOHZRSfROLIW65bLjoH_LvysEK4cCkTMCZPeJlqv3LKr-DhrccMJhA4eJ3NwE4pQNSlmU-XbWcQ8xdNaVQ3t2l_7FJtzWNVtaG2BHNWuVYAOP7djq
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加rosyemily https://edge8-aus.live.mmcdn.com/live-hls/amlst:rosyemily-sd-7441323d56d34e8b817c59c052ce83621ba5fe60794b28e4852c9198cc954e19_trns_h264/playlist.m3u8
+Thu Mar 27 18:58:16 CST 2025
+添加onlyone521 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.97A1pgl7L5ot.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzk3QTFwZ2w3TDVvdCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMEEwMDc0RS00QkMzLTRGNUYtQTM0Qy05NzhGQzhGRTdBQjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzA3MzEwNSwiZXhwIjoxNzQzMDczNzA1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.6ey5QWJjbrWQ0pmJU1vj2iZkQMdNCoEwa_qSSueulflV_EmhLT5Wzs-fBDhy0kxoCaqRZP2qCels9jQrdD5IOSAWHHysmxajRXtwFFy8z6LhPixBOp9ePHyJGqIImBii
+Thu Mar 27 18:58:40 CST 2025
+Thu Mar 27 19:00:48 CST 2025
+Thu Mar 27 19:01:48 CST 2025
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除ad0res https://edge8-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-afbb997949b598b010e108c9ca9afb8b92cd8b0650e2a2804efe40d9f21ea28a_trns_h264/playlist.m3u8
