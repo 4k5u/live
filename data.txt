@@ -4,7 +4,6 @@ angelovo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 oda_assuri https://edge4-sea.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-77686e4037745ee77d88dd8b3816a79a3e44e1bc4e2b5341b341f396144f6455_trns_h264/playlist.m3u8
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
-alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 oki_dokie https://edge18-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a72470301e34a67ebcb5051f793d6dd38e3f52892e7191581b4be513de0d3264_trns_h264/playlist.m3u8
