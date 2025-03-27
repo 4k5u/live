@@ -189,3 +189,8 @@ Fri Mar 28 06:45:05 CST 2025
 Fri Mar 28 06:46:04 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除Tmdgus5411 ?aid=null
+Fri Mar 28 06:58:29 CST 2025
+Fri Mar 28 06:58:40 CST 2025
+Fri Mar 28 07:00:43 CST 2025
+Fri Mar 28 07:01:38 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
