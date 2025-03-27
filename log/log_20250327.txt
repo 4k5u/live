@@ -213,3 +213,9 @@ Thu Mar 27 07:51:42 CST 2025
 Thu Mar 27 07:53:45 CST 2025
 Thu Mar 27 07:54:40 CST 2025
 删除honey_pinkgreen https://edge18-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-1a087dc5f912c3d3cb042fd4c91f2bf2e27b864f067753dcc9b8ff7972cea4bb_trns_h264/playlist.m3u8
+添加oda_assuri https://edge4-sea.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-77686e4037745ee77d88dd8b3816a79a3e44e1bc4e2b5341b341f396144f6455_trns_h264/playlist.m3u8
+Thu Mar 27 08:42:31 CST 2025
+Thu Mar 27 08:42:38 CST 2025
+Thu Mar 27 08:44:39 CST 2025
+Thu Mar 27 08:45:34 CST 2025
+删除minion998 https://edge-hls.doppiocdn.live/hls/131654942/master/131654942_auto.m3u8
