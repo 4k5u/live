@@ -474,3 +474,12 @@ Thu Mar 27 19:47:37 CST 2025
 删除foxylovesyou https://edge2-chi.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-6c0e693e6d7d5753eb60bfd50f7eaed097e6d5eec0087f2519d8d0b9b87aa361_trns_h264/playlist.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+添加foxylovesyou https://edge25-ash.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-e2fb6b2f00f0c51e7494dd0589cada211680954d8f63605bc11025e429c5c7da_trns_h264/playlist.m3u8
+Thu Mar 27 20:01:41 CST 2025
+Thu Mar 27 20:02:14 CST 2025
+Thu Mar 27 20:04:30 CST 2025
+Thu Mar 27 20:05:35 CST 2025
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
