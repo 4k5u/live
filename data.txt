@@ -15,3 +15,4 @@ oki_dokie https://edge6-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a2d29b582
 namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+mazzanti_ https://edge3-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-159d2cf48b2c26827aa86844597bbdb37c586fc397d16de6540df2af7b0d2f9a_trns_h264/playlist.m3u8
