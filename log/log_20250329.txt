@@ -142,3 +142,8 @@ Sat Mar 29 04:33:11 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除oki_dokie https://edge6-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a2d29b582a4c946ccf9712687801448d7ff246a0f99f4d4303c54d48b33a2777_trns_h264/playlist.m3u8
 删除namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+添加_meganmeow_ https://edge1-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-dc392ff71885c3b4b4b76270b702c018d3cfd94b7f10cff24ff9364697709e55_trns_h264/playlist.m3u8
+Sat Mar 29 04:44:10 CST 2025
+Sat Mar 29 04:44:19 CST 2025
+Sat Mar 29 04:46:23 CST 2025
+Sat Mar 29 04:47:19 CST 2025
