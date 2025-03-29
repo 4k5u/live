@@ -56,3 +56,14 @@ Sun Mar 30 01:37:38 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KPEYm5zoQni9NKQ9-t1uvvDgXFx7G_p6XN-oVjdy0aRqooW9P4vpGctV95J302_3JpiwkwTbGF3105WPL_oiUmWYLy5gYoXNkeDrAimaFuVNWo1aY-wYZiroESbIyDoQ
+Sun Mar 30 01:49:01 CST 2025
+Sun Mar 30 01:49:30 CST 2025
+Sun Mar 30 01:51:45 CST 2025
+Sun Mar 30 01:52:48 CST 2025
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
