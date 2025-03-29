@@ -172,3 +172,10 @@ Sun Mar 30 06:26:16 CST 2025
 Sun Mar 30 06:28:32 CST 2025
 Sun Mar 30 06:29:36 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加oki_dokie https://edge3-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-36681d0366fc384ad3f9919003cc9544fea485a0152bbfcd2c8635eaa3233622_trns_h264/playlist.m3u8
+Sun Mar 30 06:41:15 CST 2025
+Sun Mar 30 06:41:19 CST 2025
+Sun Mar 30 06:43:34 CST 2025
+Sun Mar 30 06:44:38 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除mazzanti_ https://edge6-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-3c6b08a0e63d0df97b8c356e8a0bcc51a8880a4ad06bf05439ea193874a88efd_trns_h264/playlist.m3u8
