@@ -261,3 +261,11 @@ Sat Mar 29 12:46:59 CST 2025
 Sat Mar 29 12:49:15 CST 2025
 Sat Mar 29 12:50:19 CST 2025
 添加zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+添加amilia4u https://edge6-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-fdc0740140cf57ab560610f496ef4fa7c441626d85346893df10908da5e05b6c_trns_h264/playlist.m3u8
+Sat Mar 29 12:58:11 CST 2025
+Sat Mar 29 12:58:22 CST 2025
+Sat Mar 29 13:00:39 CST 2025
+Sat Mar 29 13:01:43 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
