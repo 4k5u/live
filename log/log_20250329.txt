@@ -233,3 +233,13 @@ Sat Mar 29 11:02:39 CST 2025
 删除_meganmeow_ https://edge1-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-dc392ff71885c3b4b4b76270b702c018d3cfd94b7f10cff24ff9364697709e55_trns_h264/playlist.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除sexygamesx https://edge1-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-c7630ad3663c137445b81b2c2c62536bc88fc85c93ecbd00027ee54f9c6dc5b7_trns_h264/playlist.m3u8
+Sat Mar 29 11:35:48 CST 2025
+Sat Mar 29 11:35:57 CST 2025
+Sat Mar 29 11:37:59 CST 2025
+Sat Mar 29 11:38:55 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除oki_dokie https://edge28-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2f17c41d13b28afd6d0b7c86a335aebcd72d43ce8e92d7e8a7c05fe9ad41cb71_trns_h264/playlist.m3u8
