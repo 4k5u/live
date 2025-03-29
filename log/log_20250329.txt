@@ -243,3 +243,8 @@ Sat Mar 29 11:38:55 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除oki_dokie https://edge28-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2f17c41d13b28afd6d0b7c86a335aebcd72d43ce8e92d7e8a7c05fe9ad41cb71_trns_h264/playlist.m3u8
+Sat Mar 29 11:52:09 CST 2025
+Sat Mar 29 11:52:18 CST 2025
+Sat Mar 29 11:54:34 CST 2025
+Sat Mar 29 11:55:38 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
