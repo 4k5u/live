@@ -8,3 +8,5 @@ hee_jeen https://edge5-mia.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-1f966d27ee9
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 oki_dokie https://edge3-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-36681d0366fc384ad3f9919003cc9544fea485a0152bbfcd2c8635eaa3233622_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
