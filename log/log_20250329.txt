@@ -402,3 +402,10 @@ Sat Mar 29 17:43:30 CST 2025
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Sat Mar 29 17:51:59 CST 2025
+Sat Mar 29 17:52:20 CST 2025
+Sat Mar 29 17:54:33 CST 2025
+Sat Mar 29 17:55:37 CST 2025
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+删除dign1461 ?aid=null
