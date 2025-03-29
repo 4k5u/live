@@ -349,3 +349,11 @@ Sat Mar 29 15:48:45 CST 2025
 添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
 Sat Mar 29 15:51:06 CST 2025
 Sat Mar 29 15:52:09 CST 2025
+Sat Mar 29 15:59:31 CST 2025
+Sat Mar 29 15:59:51 CST 2025
+Sat Mar 29 16:02:09 CST 2025
+Sat Mar 29 16:03:13 CST 2025
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
