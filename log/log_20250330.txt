@@ -249,3 +249,9 @@ Sun Mar 30 12:33:47 CST 2025
 Sun Mar 30 12:34:42 CST 2025
 添加bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sun Mar 30 12:47:50 CST 2025
+Sun Mar 30 12:48:01 CST 2025
+Sun Mar 30 12:50:17 CST 2025
+Sun Mar 30 12:51:23 CST 2025
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GFY2kQhsteKMpSRHaR7cLRb41kflNw6l7M18xLCs-TRc6TYSFDG89pXb25E5N5rLh8qljFbvM7Ya5Mdt6a9C7VnCnnX2tv0-dJhe5bTEoRPODXvz3sVpjxvHqFSXZT4Q
