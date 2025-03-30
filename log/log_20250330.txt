@@ -201,3 +201,14 @@ Sun Mar 30 07:58:12 CST 2025
 Sun Mar 30 07:58:15 CST 2025
 Sun Mar 30 08:00:29 CST 2025
 Sun Mar 30 08:01:32 CST 2025
+Sun Mar 30 09:59:47 CST 2025
+添加mini2121 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1u11fmixb4Ms.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzF1MTFmbWl4YjRNcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCRjJEMTU0OS0zQTk2LTRBRjItQTcyNy04NEE3ODlGREY1QTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzI5OTk4NywiZXhwIjoxNzQzMzAwNTg3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.9CwFjxAu88BXFK5smJf_I9xKkyLpHIEY6FBNsiIGpxaN_FnqXPuD-vwTsEdQeuiUoXRSdKL6_vQyp-_K75-mdI8S1YFUtzyBOZe8uLTt_6sFTy2e-zwnxL80jwfOl_gC
+Sun Mar 30 09:59:54 CST 2025
+添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.45KchMf7UpkPznZyGO7nlPRg6cEnv335V9h6jgwIwL3iw-4YHYLp7cYU5mz2tW9ULMAHg7OyrbzZonF_Jkptap00Ktc4cUjjfZp7T63HyVQXPdlmh0S6mkJC_lp60pMT
+Sun Mar 30 10:02:20 CST 2025
+Sun Mar 30 10:03:28 CST 2025
+添加ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ddooyaa%22%2C%22channel_id%22%3A442709328%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1743301411%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.242.135%22%2C%22version%22%3A2%7D&sig=4bc2284e67b60f5fcaed036733799442a5420367&allow_source=true&allow_audio_only=true
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除_meganmeow_ https://edge11-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-7c936dbb6450d72c413e819987de70d1b88ba1321ac41e7eef4282b5aee91bba_trns_h264/playlist.m3u8
+删除hee_jeen https://edge5-mia.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-1f966d27ee9d7ec800dee31a00378bb3ee1011952740ab216cb72a19c052a433_trns_h264/playlist.m3u8
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
