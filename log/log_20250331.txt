@@ -157,3 +157,8 @@ Mon Mar 31 05:58:16 CST 2025
 Mon Mar 31 06:00:26 CST 2025
 Mon Mar 31 06:01:28 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Mon Mar 31 06:22:08 CST 2025
+Mon Mar 31 06:22:11 CST 2025
+Mon Mar 31 06:24:28 CST 2025
+Mon Mar 31 06:25:32 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
