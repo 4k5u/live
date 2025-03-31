@@ -106,3 +106,8 @@ Tue Apr 1 03:56:31 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 删除oki_dokie https://edge25-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ec3710403dc1444e1f837ad924c886c162be343b34580d20352ad18e9f866f93_trns_h264/playlist.m3u8
+添加oki_dokie https://edge25-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6af79db9accbafe8ec374322baacd38910122a74c4b107525b554297a270e20b_trns_h264/playlist.m3u8
+Tue Apr 1 04:24:33 CST 2025
+Tue Apr 1 04:24:44 CST 2025
+Tue Apr 1 04:27:01 CST 2025
+Tue Apr 1 04:28:08 CST 2025
