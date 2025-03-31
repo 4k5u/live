@@ -19,3 +19,5 @@ y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playli
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 oki_dokie https://edge27-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-980589681ff16b9910cb5e17faace4ef6a1b3c60f9c29f1d742e5904a49b4823_trns_h264/playlist.m3u8
+taitehambelton https://edge15-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-5a51ee3c1f7111266223381e1d2869469c24886c0689c8d74cb7173a25f7c8b6_trns_h264/playlist.m3u8
+chitaya https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.IBwkEHSOzcPc.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9JQndrRUhTT3pjUGMiLCJleHAiOjE3NDM0NTgzODU0NjgsImlhdCI6MTc0MzQxNTE4NX0.fsPUkx4jRb3pAw8iLorgeR397kAW2oeoKH9ryRdrzTZgyJEuDf_Ba-XVrjIGMnPuFMKk0W0Q8eLw0ko3aPOJ9-PBGSeYNPvYKzhPNntwEEhnpfQ4iRzWqSKTXN0PZzMT
