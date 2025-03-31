@@ -4,7 +4,7 @@ San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3
 LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBOEFBMjMwNi0wMzlDLTREMzktQUZBMi01QUM0ODJBNjdERTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzQ0MTcyNSwiZXhwIjoxNzQzNDQyMzI1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.J75Vtok5W_N4pQmN45yNtU_vSBNjXrhtgpB4xYjKky1OMbNPp84A4Q0eNCOVVOyhPDmDAtnyIJZpsxO0SawNEZeymQCnpnHRqjAu02oEGHThamtNBldS9LTS9eamYKdb
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
-Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 oki_dokie https://edge16-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-191739d0fdcfd802122867909ad2cfdb4606edd2722911be2380b8fc77a171e9_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 hee_jeen https://edge12-mia.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-a3d0213935418cb67afc8069f9943dc673c88ef09c3b0502569864a8fb361fd1_trns_h264/playlist.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
