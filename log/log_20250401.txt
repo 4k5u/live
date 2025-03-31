@@ -165,3 +165,8 @@ Tue Apr 1 07:27:22 CST 2025
 Tue Apr 1 07:28:27 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+Tue Apr 1 07:40:49 CST 2025
+Tue Apr 1 07:40:54 CST 2025
+Tue Apr 1 07:42:57 CST 2025
+Tue Apr 1 07:43:53 CST 2025
+删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
