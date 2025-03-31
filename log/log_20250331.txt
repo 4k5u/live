@@ -193,3 +193,14 @@ Mon Mar 31 07:59:25 CST 2025
 Mon Mar 31 08:01:40 CST 2025
 Mon Mar 31 08:02:44 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加oda_assuri https://edge2-atl.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-176e269130816dc21f7a70766da598250934f1a62199b5d5b49f518e88e425ec_trns_h264/playlist.m3u8
+Mon Mar 31 10:06:07 CST 2025
+添加mini2121 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1u11fmixb4Ms.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzF1MTFmbWl4YjRNcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNjYwNzY1Ri05QjAyLTQ3NjYtOUJFNi05RTU1ODRBRDJEM0EiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzM4Njc2OCwiZXhwIjoxNzQzMzg3MzY4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2CxhnKyQ2Eo7SOJ_AKqo7hUyhPKeOcfVagkgjygbR0goZuVvrbDfyCr9rMbu3ETAYVl3pxQtwaavamaBwqRnRn_4K1fNXR7f1_oAMCd2-5WGvWeuNfET7WbDlLTyVASX
+Mon Mar 31 10:06:17 CST 2025
+Mon Mar 31 10:08:32 CST 2025
+Mon Mar 31 10:09:36 CST 2025
+添加ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ddooyaa%22%2C%22channel_id%22%3A442709328%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1743388178%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.228.78%22%2C%22version%22%3A2%7D&sig=65407046efecf087e36538ddbd3229e8ee913c21&allow_source=true&allow_audio_only=true
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
