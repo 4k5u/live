@@ -363,3 +363,12 @@ Tue Apr 1 17:35:25 CST 2025
 删除oki_dokie https://edge13-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e4fcfdcf7c21987112ddf6f078c67f296ea7bc7810b4b0e8b6d14b31af9c5851_trns_h264/playlist.m3u8
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除sexygamesx https://edge27-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-c310cd3c321c4d390f15123b68ea4788e7cfdcf9f066734f19f45b12866a23aa_trns_h264/playlist.m3u8
+Tue Apr 1 17:45:31 CST 2025
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5CF4w5XAvR8X.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVDRjR3NVhBdlI4WCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMTZFQzZDNS02MDIzLTQ0M0UtQjU2QS03QTI4M0MzMDI3NzciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzUwMDc0MCwiZXhwIjoxNzQzNTAxMzQwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.mcpjuvN4b1nU3_Pdwev_csEBVMQ4NqcZnh8W6EVqYj1V1EYDhnONPkv7LZjhDY63nU6FeA058T7YNx9aMNv9FFhFiwYylx6GV1nHB7YBTKEWBEHEaZSJ6j7--iz_ugoe
+Tue Apr 1 17:46:08 CST 2025
+Tue Apr 1 17:48:23 CST 2025
+Tue Apr 1 17:49:27 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
