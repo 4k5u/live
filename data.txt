@@ -3,7 +3,6 @@ howru010 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 bo1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YaadnkvDdaQS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lhYWRua3ZEZGFRUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwNTg2OEZFQy1GN0ZDLTQwNjktQjJEMS1EMkM0NUE5RjkwNDQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzUxNDQzMCwiZXhwIjoxNzQzNTE1MDMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.KHgF5epr_lDrq-8sbtsbUOfYdNIGghLEBIUeWHBmTj2zimrrD8yee93c4cBiVVp6FzWhXmUEpbXZqC3ZjyJzrdDoWYvX6lTOEt9usg8_VEv_mvzHAzjHGLp--WTMUaB5
 San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 oki_dokie https://edge10-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-167b310a59d2b60a120e5fed64e42b823b97c1b8f1c7135b3ff42eebb9f11a14_trns_h264/playlist.m3u8
-Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 lovewindy https://edge2-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-1e912051421ecbe2a6b192454963f9908a8ecfad9f87a363551eb145b6d39ae4_trns_h264/playlist.m3u8
 l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 IsMiMi https://edge-hls.doppiocdn.live/hls/52028289/master/52028289_auto.m3u8
