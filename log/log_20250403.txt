@@ -201,3 +201,9 @@ Thu Apr 3 07:42:21 CST 2025
 Thu Apr 3 07:43:25 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Thu Apr 3 07:51:30 CST 2025
+Thu Apr 3 07:51:35 CST 2025
+Thu Apr 3 07:53:50 CST 2025
+Thu Apr 3 07:54:55 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
