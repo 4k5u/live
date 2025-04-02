@@ -394,3 +394,8 @@ Wed Apr 2 18:50:06 CST 2025
 删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
 删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Wed Apr 2 18:58:32 CST 2025
+Wed Apr 2 18:58:59 CST 2025
+Wed Apr 2 19:01:17 CST 2025
+添加likeastar77 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.VFVqQVEaSfcJ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9WRlZxUVZFYVNmY0oiLCJleHAiOjE3NDM2MzM4MjQzMjMsImlhdCI6MTc0MzU5MDYyNH0.q2A5KQyK8HdrvMgsRY37re5hUdnXjRFeD9imJzzSz3ZSKG1OPBsMlREI3P1_-hMmxhFadN0hoCr40wqPFBy1beda4JXEWkIks4C9Z8n_Ry_JYNliKl3BI2ohwKD3ulO3
+Wed Apr 2 19:02:24 CST 2025
