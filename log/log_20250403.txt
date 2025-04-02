@@ -194,3 +194,10 @@ Thu Apr 3 07:28:12 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除oki_dokie https://edge9-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0d90f983bab308bb8e5d6576a0adf685a936d5b84f7c4e877aa1e9f6fe118065_trns_h264/playlist.m3u8
 删除1919152 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.liq5h4G1zrFc.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2xpcTVoNEcxenJGYyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxRjI3REFFRC0yNDhBLTQ4MEMtQTVBRi1CMDUwQkEzMUY5MDgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzYyNTQzOSwiZXhwIjoxNzQzNjI2MDM5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.h3nVg3d1HyHe2FMH0Dof12jItXLAJYgDtTyFiuJVKTx_3I1Itvf9OxvhSHOFjIeilGfg2m38YM8L4337smetD4M4O1hGRiqQ6LvHFrhoOHXLy7Kj4yxfFJSPYXP55g5f
+添加oki_dokie https://edge16-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0d90f983bab308bb8e5d6576a0adf685a936d5b84f7c4e877aa1e9f6fe118065_trns_h264/playlist.m3u8
+Thu Apr 3 07:39:59 CST 2025
+Thu Apr 3 07:40:04 CST 2025
+Thu Apr 3 07:42:21 CST 2025
+Thu Apr 3 07:43:25 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8

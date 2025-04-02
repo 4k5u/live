@@ -15,3 +15,6 @@ Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+oki_dokie https://edge16-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0d90f983bab308bb8e5d6576a0adf685a936d5b84f7c4e877aa1e9f6fe118065_trns_h264/playlist.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
