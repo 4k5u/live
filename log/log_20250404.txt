@@ -162,3 +162,8 @@ Fri Apr 4 05:51:27 CST 2025
 Fri Apr 4 05:53:29 CST 2025
 Fri Apr 4 05:54:24 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Fri Apr 4 06:08:42 CST 2025
+Fri Apr 4 06:08:53 CST 2025
+Fri Apr 4 06:11:09 CST 2025
+Fri Apr 4 06:12:14 CST 2025
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
