@@ -489,3 +489,9 @@ Thu Apr 3 19:44:28 CST 2025
 添加Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
 删除taitehambelton https://edge13-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-8571ec0ffc402beb20d54a9b94f258fd78e80e17dceff2093ebf21da65fb8172_trns_h264/playlist.m3u8
 删除peichen6699 https://edge-hls.doppiocdn.live/hls/160752369/master/160752369_auto.m3u8
+Thu Apr 3 19:51:26 CST 2025
+添加chuing77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.gUQbsLrJkOhk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2dVUWJzTHJKa09oayIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5OTFENzFCRi1FRjdDLTQ3QzUtQUNGNS1BNzJCNkJDNTgzODEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzY4MTA5NywiZXhwIjoxNzQzNjgxNjk3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Xu4PTvOOdUpPfb31eGYu3dBiFcwNqFO1f7eeBxSxgkHM74crbcZkxzy4PEQg89o_AJgqVX-NAN9t4n0EH2HFG2pr5qaxuW1ncMI2xlqclAI7fs7lJc7-e1Sxpo_Znbuv
+Thu Apr 3 19:52:10 CST 2025
+Thu Apr 3 19:54:28 CST 2025
+Thu Apr 3 19:55:31 CST 2025
+删除foxylovesyou https://edge13-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-1075f981e4a8a8c8795868cb0a7106c07c3378cd132c305db39e4b317742943c_trns_h264/playlist.m3u8
