@@ -253,3 +253,9 @@ Thu Apr 3 11:50:11 CST 2025
 添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加taitehambelton https://edge1-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-8571ec0ffc402beb20d54a9b94f258fd78e80e17dceff2093ebf21da65fb8172_trns_h264/playlist.m3u8
+Thu Apr 3 11:59:36 CST 2025
+Thu Apr 3 11:59:45 CST 2025
+Thu Apr 3 12:01:49 CST 2025
+Thu Apr 3 12:02:44 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8

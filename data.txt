@@ -16,3 +16,5 @@ Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+taitehambelton https://edge1-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-8571ec0ffc402beb20d54a9b94f258fd78e80e17dceff2093ebf21da65fb8172_trns_h264/playlist.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
