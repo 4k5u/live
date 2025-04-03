@@ -14,7 +14,6 @@ tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 taitehambelton https://edge1-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-8571ec0ffc402beb20d54a9b94f258fd78e80e17dceff2093ebf21da65fb8172_trns_h264/playlist.m3u8
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
-amilia4u https://edge17-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-d1c90ca0b5064123a41819d0f401f08b5a230efb141294c79aca9180096ebc57_trns_h264/playlist.m3u8
 4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1op0J38Qa4u6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFvcDBKMzhRYTR1NiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NjNBMzUxOC04RUJGLTQyQzAtQjY0MC00RDcxODIzMjc5ODciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzY1NDczNywiZXhwIjoxNzQzNjU1MzM3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.R0UZUSGGHdvWj8LZ9ctoeTgl8bzQ7IkXKdV2x22M2NJ-syFzJdDpXmcjYKk7ZpI7xKfC2IIfY2YaEFOnOaOgsM37JesIsyMVEN-ZEAlroDROD8YUGVsJupPJhWI3ZVXW
 uoan2xoak3j0skq https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FHLaTfUZ9rJV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZITGFUZlVaOXJKViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MjhEQTk0RC0wODdCLTRCRjMtQjdFMy03RkQ0MUEzMDVFMDIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzY1NDc0NiwiZXhwIjoxNzQzNjU1MzQ2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.JYDgb_oJGwBXcSjH93JHZxISK3tSeD-1r9-k_rpLZUZd-MdZRFIR48pZ8R3aGSZRc4KL9fkQG6xNxX0c7uHhPvQRZ0o6fQmb-vm_wTjQf9poZ96TJ5veOX8Unuvprjx7
 bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
@@ -22,3 +21,6 @@ bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+oki_dokie https://edge7-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-236c98b625bf22ee9b24bd764a2c667c083fa6b466451dab77f57044ee7ca583_trns_h264/playlist.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
