@@ -217,3 +217,24 @@ Thu Apr 3 08:46:49 CST 2025
 删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.K38xR3BDAH6XZxw_Mg7iCIl6J8UC3lD16NcQWP-QCcvN-IMpM_HxxDzoFXeNfXTyE-18vIpwiip1hshmDd1ei_snB9HyaQeHugXm58YQlOsjfiBTlkOdAvsR-K25z7vA
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Thu Apr 3 10:18:56 CST 2025
+添加mini2121 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1u11fmixb4Ms.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzF1MTFmbWl4YjRNcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQzkzNkI2MC0wRUUyLTQyQjYtOUMwOC01QkI3MjYwRjQ5NjkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzY0Njc0MSwiZXhwIjoxNzQzNjQ3MzQxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pkMrqNM506uLnYu44eArSbT50yDbFQ3UbrdhnCjJhWey5rV_n9_xKccOSkOUOT54kFeY1Aqsjcc5ehA4GAXp2ShVCmEtUAzf3qsRonm1IdAvrK_OZqnKotIF0JWRIhWD
+Thu Apr 3 10:19:08 CST 2025
+Thu Apr 3 10:21:23 CST 2025
+Thu Apr 3 10:22:27 CST 2025
+添加ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ddooyaa%22%2C%22channel_id%22%3A442709328%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1743648149%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.227.105%22%2C%22version%22%3A2%7D&sig=2d3cc43eff8745361510a64a60835ce706ab0dd3&allow_source=true&allow_audio_only=true
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除oki_dokie https://edge16-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0d90f983bab308bb8e5d6576a0adf685a936d5b84f7c4e877aa1e9f6fe118065_trns_h264/playlist.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
