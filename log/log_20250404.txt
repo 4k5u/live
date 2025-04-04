@@ -364,3 +364,9 @@ Fri Apr 4 15:48:22 CST 2025
 Fri Apr 4 15:50:38 CST 2025
 Fri Apr 4 15:51:43 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Fri Apr 4 15:59:25 CST 2025
+Fri Apr 4 15:59:44 CST 2025
+Fri Apr 4 16:01:59 CST 2025
+Fri Apr 4 16:03:02 CST 2025
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
