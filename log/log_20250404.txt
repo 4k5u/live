@@ -400,3 +400,9 @@ Fri Apr 4 17:27:08 CST 2025
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+Fri Apr 4 17:42:01 CST 2025
+Fri Apr 4 17:42:18 CST 2025
+Fri Apr 4 17:44:20 CST 2025
+Fri Apr 4 17:45:16 CST 2025
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+删除amilia4u https://edge2-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-0a5b2c3df9d0c0cfdb13bd02d889620c3c0421c0347e1ecbc10af217adef5a3b_trns_h264/playlist.m3u8
