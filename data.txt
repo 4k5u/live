@@ -9,7 +9,6 @@ TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u
 oki_dokie https://edge1-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-188d8dd86f61d4dfdcbbf19374e023666122001cf35e17f2958e54393c387cf0_trns_h264/playlist.m3u8
 _meganmeow_ https://edge3-sea.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-d516e0f6fdb3b44a9c70acac284d221f26ab0791e40ee1fdd9d9c5f12e2fd075_trns_h264/playlist.m3u8
 LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
-Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 mazzanti_ https://edge9-phx.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-2e246862d84366b8fa5f8b96871e2607300bbafc404887422a52d0359014e90c_trns_h264/playlist.m3u8
 Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
