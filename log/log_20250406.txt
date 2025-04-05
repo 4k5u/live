@@ -74,3 +74,13 @@ Sun Apr 6 02:35:51 CST 2025
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Br8UkqrPjLa_BnwA2xzqGdZ0r_wmkslxyMImnvixZurSv0J4mXxT7WL2_y7eKmm9gnXKiHnp6cnHlPc1ymKk2RjoMa81TMpgwZCBk9XDX9hX02-_GMpC17FFl5XOeOYt
 删除oki_dokie https://edge6-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cd0af3f99c67825726c0320b884f84a1766d6ffa904cec1594efa0983b1cc21f_trns_h264/playlist.m3u8
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+添加oki_dokie https://edge9-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-13d95df8efb595becde3d0a846ea0382319d52f730c364e5dfc83968bfb63bca_trns_h264/playlist.m3u8
+Sun Apr 6 02:49:18 CST 2025
+Sun Apr 6 02:49:37 CST 2025
+Sun Apr 6 02:51:47 CST 2025
+Sun Apr 6 02:52:48 CST 2025
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除howru010 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.tbx1hnezY0m2.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3RieDFobmV6WTBtMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NkVGMjgzMi1BMTQ5LTQ0QTMtQTM3Ny03MUY3RDA1NDRCNjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0Mzg1Njk2MywiZXhwIjoxNzQzODU3NTYzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.UV7eDakJ50BupZ1W9f20PxdEXK1xzaHEliSJ4OS27Fss6nFJCwjTFrxslSDTJjSX28CLP84DDcafMIx1WHjsBcKOBD9ymwXYYPHZzMLnJVzPqWnogmsZaxuDbi9ooPKS
+删除namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.lgFi2iG-Y-WXlTz_jg6bux_w2YFhcwp6pSVSt-vaIkep1g-r2-2m8ev-6kgFC3JqsmfMI7_yMZWPpK3Pb8cffsWQi_2gYox9dsheNPlULDNuyZrQcVDTiKzsYvKgiT28
+删除insgirl https://edge-hls.doppiocdn.live/hls/72418042/master/72418042_auto.m3u8
