@@ -259,3 +259,11 @@ Sat Apr 5 11:46:09 CST 2025
 删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 删除sexygamesx https://edge26-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-ee882422a595c0c1abb259c453398f28e4fb2954904ed95325ced40d829e1bf2_trns_h264/playlist.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Sat Apr 5 11:58:21 CST 2025
+Sat Apr 5 11:58:30 CST 2025
+Sat Apr 5 12:00:45 CST 2025
+Sat Apr 5 12:01:48 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
