@@ -23,7 +23,6 @@ uoan2xoak3j0skq https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 oki_dokie https://edge6-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d4113993527123f00d5a89e27827d70a6d8551e100774c797aafe16ae1f4bdd0_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
-N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
@@ -31,4 +30,6 @@ amilia4u https://edge9-sea.live.mmcdn.com/live-hls/amlst:amilia4u-sd-e63467a5a2b
 my_eyes_higher https://edge9-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-613c3ed456d91e24322422d96b2f309cd360fe9986fddcbfdb3ad14bb7a1c698_trns_h264/playlist.m3u8
 __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENzkyMzUwMS1FMzFFLTQ1Q0YtOUFCOS0xRDQ5NUEwMzYyREYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzgzMTczOSwiZXhwIjoxNzQzODMyMzM5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-MtHJstnOBRxTKLEQnZBdWh4Ve82SJIzmaP2awGmQh-Vmfz0MN46qAKfU2mjOzw2eH87fisifR_EcwEM7Z7sive5HcadiY6IEy4Hdp9xMI93hxvSWNcSaR2jLCvTnpjw
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
