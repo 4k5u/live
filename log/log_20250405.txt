@@ -215,3 +215,9 @@ Sat Apr 5 07:51:30 CST 2025
 Sat Apr 5 07:53:45 CST 2025
 Sat Apr 5 07:54:48 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加oda_assuri https://edge2-aus.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-616226a26acd66efb54ee5cf2012bfc514d715eaff92a34de12a3257d578bf2e_trns_h264/playlist.m3u8
+Sat Apr 5 08:41:21 CST 2025
+Sat Apr 5 08:41:31 CST 2025
+添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jh3t_TDAAtae3VIv-miLVwunIoeS1pUJP6jkdnrDI00HoYmgpgBAarzAjlB_KLQLKq87zi1Ti_h61H4thtIsRlPNQcu_3hh0_UjCxG3yevsWLJLGOtOC09fTs2SvoXt1
+Sat Apr 5 08:43:50 CST 2025
+Sat Apr 5 08:44:49 CST 2025
