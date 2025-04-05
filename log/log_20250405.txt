@@ -388,3 +388,11 @@ Sat Apr 5 15:53:39 CST 2025
 Sat Apr 5 15:54:34 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Sat Apr 5 16:11:00 CST 2025
+添加mayonz https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qhLEZxB5WQ9A.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FoTEVaeEI1V1E5QSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCOTdFQjI2MC0yNUE4LTQ1NUEtOEQwNS0yOTVDQ0Q2NEM3OUQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0Mzg0MDY3NSwiZXhwIjoxNzQzODQxMjc1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.VhJLqyzXgQEBc1To5yswpB5H7bKA0fwJDUskkOSy5hYyjhyv8FhGRxyTGdGFPAF6frQX9Mh1oLSI2vhUiuuK7ArhFR7v1ausmrM-D6fvAQ_Y6kQC6nUEa_23P0Xt2B8M
+Sat Apr 5 16:11:26 CST 2025
+Sat Apr 5 16:13:27 CST 2025
+Sat Apr 5 16:14:22 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+删除bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
