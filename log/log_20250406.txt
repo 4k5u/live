@@ -190,3 +190,13 @@ Sun Apr 6 07:52:42 CST 2025
 Sun Apr 6 07:54:44 CST 2025
 Sun Apr 6 07:55:40 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加oda_assuri https://edge6-lax.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-2e1de04a9da8124386961aae313093f9072890aa820c2d4537fc304e98c16082_trns_h264/playlist.m3u8
+Sun Apr 6 08:44:40 CST 2025
+Sun Apr 6 08:44:45 CST 2025
+添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ce4wFZrkrT9qgxS6SyhdZxt8K_VcUyKUhCLt__0XxccKYtf07V2lXqKc-8Lvg1aqH0yvHmPHUlgyTdxw9xU1uYzIvITlRnPK74dmjjdl2ItURPLdzF3brzK8o3c-Wrww
+Sun Apr 6 08:46:53 CST 2025
+Sun Apr 6 08:47:49 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除oki_dokie https://edge11-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-13875f16019878bc6886318d5c7591f27d144cdf0d18d91a339144fd81474023_trns_h264/playlist.m3u8
