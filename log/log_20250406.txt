@@ -350,3 +350,8 @@ Sun Apr 6 16:31:32 CST 2025
 Sun Apr 6 16:32:32 CST 2025
 删除oki_dokie https://edge5-mia.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5ab97a0176f8beec4d924cc24ab52e040a18eac8fb3a4e32c2d5258b82471565_trns_h264/playlist.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Sun Apr 6 16:46:15 CST 2025
+Sun Apr 6 16:46:38 CST 2025
+Sun Apr 6 16:48:40 CST 2025
+Sun Apr 6 16:49:35 CST 2025
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
