@@ -135,3 +135,12 @@ Mon Apr 7 03:43:04 CST 2025
 Mon Apr 7 03:45:18 CST 2025
 Mon Apr 7 03:46:20 CST 2025
 删除bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+添加_meganmeow_ https://edge9-sea.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-0477134bc99ebc48cb28249825a18dd42215562cf78cc64e922609524ea80243_trns_h264/playlist.m3u8
+Mon Apr 7 03:58:19 CST 2025
+Mon Apr 7 03:58:28 CST 2025
+Mon Apr 7 04:00:30 CST 2025
+Mon Apr 7 04:01:24 CST 2025
+添加bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+删除lovewindy https://edge30-atl.live.mmcdn.com/live-hls/amlst:lovewindy-sd-35d25bc84ee93fedf100c88a8ea1519473a41cc1d320a724681ab027aab2afae_trns_h264/playlist.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除eli05021212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.AurE0JJeNO7J.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F1ckUwSkplTk83SiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMTBDQzA1Ny1GMkVCLTRGM0EtQUREQi1FRUY4NjY5RjQxMDciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0Mzk1NTI1NywiZXhwIjoxNzQzOTU1ODU3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.3ev07tFTb8mQUb3pB8B9Hs1_NvnZ0i-WgdToiIBAUekH-dBeeMUSZu848Z6Ot3gH-gtr09c4QFKFSpSPoy0LEnPGa7lMhyPJW7d7vqeBG9oZtM7UsC-K6A3oT01F0czB
