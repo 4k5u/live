@@ -556,3 +556,12 @@ Sun Apr 6 23:24:33 CST 2025
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
 删除IsMiMi https://edge-hls.doppiocdn.live/hls/52028289/master/52028289_auto.m3u8
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+添加oki_dokie https://edge13-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-033b463e80cf880308e6e9f6d3ffa46d4fb75e6db83af57381c14cf1a0aed10e_trns_h264/playlist.m3u8
+Sun Apr 6 23:33:29 CST 2025
+Sun Apr 6 23:34:20 CST 2025
+Sun Apr 6 23:36:21 CST 2025
+Sun Apr 6 23:37:15 CST 2025
+添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+添加badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+添加IsMiMi https://edge-hls.doppiocdn.live/hls/52028289/master/52028289_auto.m3u8
+删除namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.g91L4ErXdW0TiOg7PQcJn18fxW-QELXvsHSXttp2Lh4BCsb1HXbhqzJWXL8UvBQvRH6b2WySp6fhpvadMZYGg-vdrbT8sxnsVCqScbble_RU6hT02k32bReH9QkihOQP
