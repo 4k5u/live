@@ -183,3 +183,8 @@ Mon Apr 7 05:45:08 CST 2025
 Mon Apr 7 05:46:11 CST 2025
 添加bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加oki_dokie https://edge8-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e91aea9f593b8ce4346aa9d520e792a9a2b4d45ac872cfd91e872f0c9c5b1798_trns_h264/playlist.m3u8
+Mon Apr 7 05:58:26 CST 2025
+Mon Apr 7 05:58:33 CST 2025
+Mon Apr 7 06:00:35 CST 2025
+Mon Apr 7 06:01:31 CST 2025
