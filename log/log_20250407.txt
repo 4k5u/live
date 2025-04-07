@@ -394,3 +394,7 @@ Mon Apr 7 17:34:22 CST 2025
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除mode_bad https://edge15-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-f3a9e27b9d1d81a56d0871c94f774e31df20e4d097e50103a620f8c252fa85d0_trns_h264/playlist.m3u8
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Mon Apr 7 17:46:15 CST 2025
+Mon Apr 7 17:46:48 CST 2025
+Mon Apr 7 17:48:49 CST 2025
+Mon Apr 7 17:49:43 CST 2025
