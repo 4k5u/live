@@ -511,3 +511,10 @@ Mon Apr 7 21:36:59 CST 2025
 删除luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3NDQwNTc1MDQ5MzQsImlhdCI6MTc0NDAxNDMwNH0.dm4vGih7BQqduP-HmC-gKHD8GtzsLvU7-asAguDPHmFATRZlDf4Odho1hA_HroxP3dfJ5TM5VK-O2De-4PeSKJChSkCBrT7STUTKUspIIk_i6V0NfxQK4I6qxqBdmkOL
 删除ake_mi https://edge18-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a3011b74e76f4b8cef655c2b3c0290b7cfdce4192c1a6fa969cec0f9adb02d7e_trns_h264/playlist.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Mon Apr 7 21:50:53 CST 2025
+Mon Apr 7 21:52:13 CST 2025
+Mon Apr 7 21:54:25 CST 2025
+Mon Apr 7 21:55:26 CST 2025
+添加jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
