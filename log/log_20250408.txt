@@ -139,3 +139,9 @@ Tue Apr 8 05:53:54 CST 2025
 Tue Apr 8 05:53:59 CST 2025
 Tue Apr 8 05:56:16 CST 2025
 Tue Apr 8 05:57:22 CST 2025
+添加oki_dokie https://edge27-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a7efdb6bf665b9c2dc0336c480b6747ec9c1ca31b80529a6d06bfe1bba5ddce5_trns_h264/playlist.m3u8
+Tue Apr 8 06:21:16 CST 2025
+Tue Apr 8 06:21:21 CST 2025
+Tue Apr 8 06:23:34 CST 2025
+Tue Apr 8 06:24:38 CST 2025
+删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMDlGM0E5Ni01NTNDLTQxQzYtQTY0My1GODIxODg2REU2ODkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDAzOTY3NiwiZXhwIjoxNzQ0MDQwMjc2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.E0jAJnR6D3VwJeYNpmqotHr4iDW0wuJ2xXsrjTRnYK3gK2dfMkTXkg0ztwBlRPw66pq9F8L3b_UKn0h5_lQqN-Kd8B8OPlAvjwzqYyifmirjgVZRRJEoE9ZORA00o-_T
