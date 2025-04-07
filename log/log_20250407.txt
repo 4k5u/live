@@ -285,3 +285,12 @@ Mon Apr 7 12:58:48 CST 2025
 Mon Apr 7 13:01:00 CST 2025
 Mon Apr 7 13:02:01 CST 2025
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加foxylovesyou https://edge6-chi.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-e8fc2ca6a72508fc83964f0c2a4d011f0b1df5fd09a95657e18c264428dd2aba_trns_h264/playlist.m3u8
+Mon Apr 7 13:26:25 CST 2025
+添加qkrchfhd90 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.QI6mPunEFUdF.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1FJNm1QdW5FRlVkRiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4M0YwOTM3Ri0zNzczLTQyREMtQTRCOS0zM0EzNDJENjY5QjAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDAwMzU5MiwiZXhwIjoxNzQ0MDA0MTkyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ryI8-Q-9AE2tU3x-U57Yl09A9vIsUgDCKzQxY5PdefKtmjlyYIGtNbTprFrPQTmw0X1cCfrsdMXYuzBn_yrvOVgF3M9x9lezjwcCYQlgRG5XGcHJ9OFdkr3nje0bQgF9
+Mon Apr 7 13:26:45 CST 2025
+Mon Apr 7 13:29:00 CST 2025
+Mon Apr 7 13:30:03 CST 2025
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
