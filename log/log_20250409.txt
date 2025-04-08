@@ -192,3 +192,9 @@ Wed Apr 9 07:29:32 CST 2025
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+Wed Apr 9 07:40:33 CST 2025
+Wed Apr 9 07:40:42 CST 2025
+Wed Apr 9 07:42:45 CST 2025
+Wed Apr 9 07:43:40 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
