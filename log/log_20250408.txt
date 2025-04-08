@@ -351,3 +351,10 @@ Tue Apr 8 17:28:53 CST 2025
 删除bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
 删除qkrchfhd90 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.QI6mPunEFUdF.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1FJNm1QdW5FRlVkRiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQUVEOTgxQy1GODEzLTRBQzgtODU0RS0xNkM2OUE4QTA1QjMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDA4OTg5MSwiZXhwIjoxNzQ0MDkwNDkxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.lBM7OmvNsESspIIhAcya29083G6E22FFSgc38tVxY8eH8maUJP8D23HwRC2gapBKEn4w-ABZ4hGpC5K1o0yqnWJhwUCOH3_RW7S8XzbD78FahzT645d1MayEFxrVhDK5
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加taitehambelton https://edge14-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-d9770beb6ee9544e85804b0dedb41e177cac4abce2b7038b508ccf44f620c666_trns_h264/playlist.m3u8
+Tue Apr 8 17:43:14 CST 2025
+Tue Apr 8 17:43:39 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wuJ43QHJ4QNQsKr_p5_Aa_vKhlkTliCer6htfswDB552xOPI7i1hay866_gIS8DqzvAhw4-Rwt1zoesT2dMT4EQJSsWYNPdozgw7YN1dBF8zz98HqPo-qVHE-Bg7L-On
+Tue Apr 8 17:45:56 CST 2025
+Tue Apr 8 17:46:56 CST 2025
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
