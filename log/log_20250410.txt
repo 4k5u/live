@@ -177,3 +177,9 @@ Thu Apr 10 06:44:23 CST 2025
 Thu Apr 10 06:45:19 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+Thu Apr 10 06:58:03 CST 2025
+Thu Apr 10 06:58:12 CST 2025
+Thu Apr 10 07:00:30 CST 2025
+Thu Apr 10 07:01:37 CST 2025
+添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+删除angelovo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HyyFpA45AdNS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0h5eUZwQTQ1QWROUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQUY2QTU0Qy1EQjFCLTQzMTQtODYxMS01QzFEMTg1RUU0MjAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDIyNjMzMywiZXhwIjoxNzQ0MjI2OTMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.EQX8lqM3fqWBWtlacdNH7cLVecDNvhJ7S9_PFP1xHu29QTq_8aZYoFrm8F9GGTZ9maXb1YKIhQi1H2TO_Ok2s4x6PosFT2IOCvkc68ZrszKBYGd1NSQDHhgyo4Bzxbmz
