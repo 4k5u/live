@@ -207,3 +207,13 @@ Thu Apr 10 08:48:33 CST 2025
 删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OornNhoXVcFh6S-arPyuarSmRpD5TkOxMLoflV5oyjhjuXRPzGzUWNAW4fzpj__272epydyPcqb29oTerw1GVNBoMIilQh45JfcCgV4gLCiHLPx3uFTuprBR3pXDC_08
 删除kiriko_chan https://edge24-chi.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-3dd54b1ca40fe446382aeba7e598256d1da0fe6f2c814b96d9e1075887b0e2dd_trns_h264/playlist.m3u8
 删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
+添加kiriko_chan https://edge16-aus.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-712699fc2bdbd5ae32a5d694950216d37a990b75545acf8bdbcdc6f343395f6d_trns_h264/playlist.m3u8
+Thu Apr 10 10:19:43 CST 2025
+添加mini2121 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1u11fmixb4Ms.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzF1MTFmbWl4YjRNcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3REIzMjk1Ni0zNEM0LTQyM0MtQjQ4NC1BRkU0QjJFQjk4QzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDI1MTU4NiwiZXhwIjoxNzQ0MjUyMTg2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.sfRJj48qsOhyN3sAtArjwS1wDGj_pplM7p1DQ1gpHljiiineDERlRPrHQbeQVCMaPdl3ZrOhAHx9i5_cxtZnSMWkbuTsiXv8YrZzaZMZbrUhva3Bf6NQULzhguYYJkuv
+Thu Apr 10 10:19:55 CST 2025
+Thu Apr 10 10:21:59 CST 2025
+Thu Apr 10 10:22:56 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
