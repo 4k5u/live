@@ -169,3 +169,9 @@ Fri Apr 11 06:37:59 CST 2025
 删除roaaa10 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1PKNr6dpNRwt.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFQS05yNmRwTlJ3dCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1N0ZFRjYzRi00NTU1LTRFOTctOTVCRS1FMzAxRjMxNDg4MzciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDI5MjAzNSwiZXhwIjoxNzQ0MjkyNjM1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.vx_tLje7wSqHmyO_23y8KwuFbVvGwEPJfBK8_ZSQ2T2XWKgiPaxXg7OWFP_zBfC6YuKA1xR8mwzzXQ-yiXbED5lVnAa-CN3ezREwayEqmSQAc81_ARzXSoN7VvwKbFEx
 删除iminako https://edge21-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-8d08dfaf6cbe16a88b79a96be0dc8cea505f73ece246583f998fb4364faebf4b_trns_h264/playlist.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加sexygamesx https://edge17-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-43b66cd52e3a6c3f023faa4bdf643bf67cff13bd78e6df0a8b7507527746979e_trns_h264/playlist.m3u8
+Fri Apr 11 06:48:15 CST 2025
+Fri Apr 11 06:48:26 CST 2025
+Fri Apr 11 06:50:45 CST 2025
+Fri Apr 11 06:51:50 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
