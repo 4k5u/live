@@ -332,3 +332,9 @@ Thu Apr 10 15:25:40 CST 2025
 删除oki_dokie https://edge6-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5280ab677bbb6199fccb4b7e38e5e02f7c7d899615ab8a93a47064bc40031251_trns_h264/playlist.m3u8
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Thu Apr 10 15:37:21 CST 2025
+Thu Apr 10 15:37:42 CST 2025
+Thu Apr 10 15:39:56 CST 2025
+Thu Apr 10 15:40:58 CST 2025
+添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
