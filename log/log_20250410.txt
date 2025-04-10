@@ -313,3 +313,11 @@ Thu Apr 10 14:38:12 CST 2025
 删除mini2121 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1u11fmixb4Ms.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzF1MTFmbWl4YjRNcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3REIzMjk1Ni0zNEM0LTQyM0MtQjQ4NC1BRkU0QjJFQjk4QzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDI1MTU4NiwiZXhwIjoxNzQ0MjUyMTg2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.sfRJj48qsOhyN3sAtArjwS1wDGj_pplM7p1DQ1gpHljiiineDERlRPrHQbeQVCMaPdl3ZrOhAHx9i5_cxtZnSMWkbuTsiXv8YrZzaZMZbrUhva3Bf6NQULzhguYYJkuv
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Thu Apr 10 14:53:29 CST 2025
+Thu Apr 10 14:53:46 CST 2025
+Thu Apr 10 14:56:02 CST 2025
+Thu Apr 10 14:57:06 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.RxD9JF0X_IzqVGPRqxggb5dTnNGo1TekyMuPECubqUQX41Le6yq4mpQNvRekLJw4JUtsQq84z3dEq0y0uK6f7DuWnkmup4ye5DwgKSbWEBno0FIQAZ_6DjfXSvQKPm6p
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
