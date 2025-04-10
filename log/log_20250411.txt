@@ -96,3 +96,8 @@ Fri Apr 11 03:11:56 CST 2025
 Fri Apr 11 03:13:00 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0XAPVqtsNcYlYQtA4nftrgSb54Cu3B9bZ6c5sPgEg1InJ8-eAqsZOgf6dtOSqIsw-XgICqMhsslJ4oA7ivg5cTzFj0zLlQOEoODgK7T_Wi38Yf1_R9Za0ps4PT4UHKKr
+Fri Apr 11 03:24:11 CST 2025
+Fri Apr 11 03:24:31 CST 2025
+Fri Apr 11 03:26:48 CST 2025
+Fri Apr 11 03:27:53 CST 2025
+删除rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.avi8SRPa2OJnYOIlJc4o6P_bCmZ120erV-IP0l2TLtk7yrdamuhNBFvc671Rx2NVAYY4cNnUwV45NE1aKtYQ-pQ4Sk4PzA7DobDSfrF08EO_3FHpop2UcgBkg3lAfn6_
