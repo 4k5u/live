@@ -413,3 +413,10 @@ Thu Apr 10 18:50:26 CST 2025
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Thu Apr 10 18:58:27 CST 2025
+Thu Apr 10 18:58:52 CST 2025
+Thu Apr 10 19:01:09 CST 2025
+Thu Apr 10 19:02:13 CST 2025
+添加Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除amilia4u https://edge24-phx.live.mmcdn.com/live-hls/amlst:amilia4u-sd-f91262a40f39f06a5b93d57e84602f72c6b3dfcf8d7a272c1190603680ce8071_trns_h264/playlist.m3u8
