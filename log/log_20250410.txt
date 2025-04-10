@@ -241,3 +241,10 @@ Thu Apr 10 11:50:16 CST 2025
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加amilia4u https://edge24-phx.live.mmcdn.com/live-hls/amlst:amilia4u-sd-f91262a40f39f06a5b93d57e84602f72c6b3dfcf8d7a272c1190603680ce8071_trns_h264/playlist.m3u8
+Thu Apr 10 11:58:58 CST 2025
+Thu Apr 10 11:59:03 CST 2025
+Thu Apr 10 12:01:05 CST 2025
+Thu Apr 10 12:02:00 CST 2025
+添加bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
+删除oki_dokie https://edge6-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-abaf1ba9f5c07a8fc50e6f6f81971d13142929684edf60491b517cdfd5eb2539_trns_h264/playlist.m3u8
