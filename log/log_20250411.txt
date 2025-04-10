@@ -180,3 +180,9 @@ Fri Apr 11 06:59:30 CST 2025
 添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MfKj0_et3ao7LQRB5PVy4oEv07eFrokXsAhWUIo8v-2f_UCgwlG3cyxzelHFYkgncP7KIakr8PfLZT4TdsH4PSuQf7niORiUKYKnsTYVeEI4pWASo3pzYjsSYbUP_HyI
 Fri Apr 11 07:01:54 CST 2025
 Fri Apr 11 07:02:56 CST 2025
+Fri Apr 11 07:26:37 CST 2025
+Fri Apr 11 07:26:48 CST 2025
+Fri Apr 11 07:29:04 CST 2025
+Fri Apr 11 07:30:09 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除sexygamesx https://edge17-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-43b66cd52e3a6c3f023faa4bdf643bf67cff13bd78e6df0a8b7507527746979e_trns_h264/playlist.m3u8
