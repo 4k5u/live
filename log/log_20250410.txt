@@ -261,3 +261,13 @@ Thu Apr 10 12:34:25 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加ake_mi https://edge23-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c60f0b6091b493dc34584c8ee3f6b377238b7125f84710156c21a2de38b6af18_trns_h264/playlist.m3u8
+Thu Apr 10 12:49:16 CST 2025
+Thu Apr 10 12:49:23 CST 2025
+Thu Apr 10 12:51:39 CST 2025
+Thu Apr 10 12:52:44 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除_meganmeow_ https://edge15-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-89a9fd87c6ea190bf8e2874e1b38a69349e295f2736c9ee5abb42b8e860324f9_trns_h264/playlist.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
