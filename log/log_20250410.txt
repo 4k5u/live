@@ -363,3 +363,9 @@ Thu Apr 10 16:38:38 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Thu Apr 10 16:54:21 CST 2025
+Thu Apr 10 16:54:44 CST 2025
+添加big541 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gb_ZzJDtVBQmHz9BqSXH8Z8W9umPJnQR02VOGWGdtL2JzZhfDJHyQx1FYK4yx0sjopKu-JqjdWd_bW98AEyINZ6BFzErAPbSja0STQMrbQsgpzbxQwIyn0WPK1bUir8Y
+Thu Apr 10 16:56:52 CST 2025
+Thu Apr 10 16:57:46 CST 2025
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
