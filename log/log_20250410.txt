@@ -196,3 +196,14 @@ Thu Apr 10 07:51:29 CST 2025
 Thu Apr 10 07:51:39 CST 2025
 Thu Apr 10 07:53:56 CST 2025
 Thu Apr 10 07:55:01 CST 2025
+添加oda_assuri https://edge6-chi.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-3b4f37eef46bd2434506d9415b194097173543c0ecdd46194a8418ddd23fa1d4_trns_h264/playlist.m3u8
+Thu Apr 10 08:45:02 CST 2025
+Thu Apr 10 08:45:11 CST 2025
+Thu Apr 10 08:47:29 CST 2025
+Thu Apr 10 08:48:33 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.x8AkQVOBDgwQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3g4QWtRVk9CRGd3USIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3QkU0QTEzMi04RDQ0LTRGRDgtQUI2MS0wRDdBMDAxRkFENDciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDEyMjYxNSwiZXhwIjoxNzQ0MTIzMjE1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.QNFRbP-cP3l5BCLnO8-B5p6UO95yHoPz0Wy5NBA95vsgkWcGYuJL_PqVQaa3vAz_8p7RFWhkWZFg8d_kuisoRl-uHtIH13ceNQ95AY4Fa_PlSfBQuwBjxSR9AEFy_Xle
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OornNhoXVcFh6S-arPyuarSmRpD5TkOxMLoflV5oyjhjuXRPzGzUWNAW4fzpj__272epydyPcqb29oTerw1GVNBoMIilQh45JfcCgV4gLCiHLPx3uFTuprBR3pXDC_08
+删除kiriko_chan https://edge24-chi.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-3dd54b1ca40fe446382aeba7e598256d1da0fe6f2c814b96d9e1075887b0e2dd_trns_h264/playlist.m3u8
+删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
