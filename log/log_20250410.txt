@@ -271,3 +271,8 @@ Thu Apr 10 12:52:44 CST 2025
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Thu Apr 10 13:00:28 CST 2025
+Thu Apr 10 13:00:35 CST 2025
+Thu Apr 10 13:02:56 CST 2025
+Thu Apr 10 13:04:03 CST 2025
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
