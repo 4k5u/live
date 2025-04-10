@@ -192,3 +192,9 @@ Fri Apr 11 07:42:59 CST 2025
 Fri Apr 11 07:43:56 CST 2025
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除dusdk2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.X9H5QvJu5b2M.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1g5SDVRdkp1NWIyTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBN0VBMjhEQS01MzI4LTQ3RkItQkIyMy0wNjNBNUJGMkE4M0EiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDMxODY5NSwiZXhwIjoxNzQ0MzE5Mjk1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.7TGxwP9A-SEB1gYqhu6dnMTgvzUnhrX6T0rYXecYP8oRv-g4uss0hseNMIMzRlaOUlE7kwOCw9hsgHs1U7ni37v314Rbs0PWB8KOMnkZHUiNOdMfXUma7Pq6Pnzdau1-
+添加sexygamesx https://edge27-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-a9d62a02ab3846d248dd09fb13c60d2c0fb6719baca14e9e307f697c4c1443d6_trns_h264/playlist.m3u8
+Fri Apr 11 07:52:19 CST 2025
+Fri Apr 11 07:52:28 CST 2025
+Fri Apr 11 07:54:30 CST 2025
+Fri Apr 11 07:55:26 CST 2025
+删除kiriko_chan https://edge10-chi.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-ecc8478b22a2c5483ea69e9af6c880d16524b98d83d090932dacb88331e00378_trns_h264/playlist.m3u8
