@@ -12,3 +12,6 @@ dusdk2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+oki_dokie https://edge28-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a75d42c79b37db132187dbc20de7f51fcbf31754fcd2344675b1d37f79827f2b_trns_h264/playlist.m3u8
+l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
