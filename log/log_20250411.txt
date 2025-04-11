@@ -329,3 +329,9 @@ Fri Apr 11 15:24:19 CST 2025
 Fri Apr 11 15:25:18 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Fri Apr 11 15:35:26 CST 2025
+Fri Apr 11 15:35:43 CST 2025
+Fri Apr 11 15:38:02 CST 2025
+Fri Apr 11 15:39:07 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
