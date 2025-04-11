@@ -335,3 +335,10 @@ Fri Apr 11 15:38:02 CST 2025
 Fri Apr 11 15:39:07 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Fri Apr 11 15:48:51 CST 2025
+Fri Apr 11 15:49:08 CST 2025
+Fri Apr 11 15:51:24 CST 2025
+Fri Apr 11 15:52:28 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除likeastar77 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.VFVqQVEaSfcJ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9WRlZxUVZFYVNmY0oiLCJleHAiOjE3NDQzOTgwODczMTgsImlhdCI6MTc0NDM1NDg4N30.N9g_vw7i5XcA5aGQRJtabi77KFjWtFpIYPpkZhOkG8mryzG_92Do6Jh4xrZ2k7z3RHTZS1xfdhzZsejdJdpFcu4KiqmdgaoxaaLby_505mj-SIBONU22C4qlASJJBz9R
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
