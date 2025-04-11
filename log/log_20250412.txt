@@ -202,3 +202,8 @@ Sat Apr 12 07:28:14 CST 2025
 Sat Apr 12 07:29:10 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除IsMiMi https://edge-hls.doppiocdn.live/hls/52028289/master/52028289_auto.m3u8
+添加sexygamesx https://edge7-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d2d3ed22d959243723cfe401fae2da1fed15f2ceec61c84b55eae291da8e3d7f_trns_h264/playlist.m3u8
+Sat Apr 12 07:40:25 CST 2025
+Sat Apr 12 07:40:34 CST 2025
+Sat Apr 12 07:42:38 CST 2025
+Sat Apr 12 07:43:33 CST 2025

@@ -15,3 +15,4 @@ oki_dokie https://edge28-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a75d42c7
 l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+sexygamesx https://edge7-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d2d3ed22d959243723cfe401fae2da1fed15f2ceec61c84b55eae291da8e3d7f_trns_h264/playlist.m3u8
