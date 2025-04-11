@@ -371,3 +371,10 @@ Fri Apr 11 16:57:09 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Fri Apr 11 17:23:27 CST 2025
+添加100042 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WLl5DW7Jd3tv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dMbDVEVzdKZDN0diIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMzA3NTA4MC0zRDE3LTRBMzgtOEVDOC0wQUMxRkY2QUNCNDciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDM2MzQwOCwiZXhwIjoxNzQ0MzY0MDA4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.4p-_73NrEbTMM7-2TcRvrXUEyLz6613yACl7XxVNtp8yxbH9-hIF55Xr0S6rcm48LB-jghd0T_W1mUmauhbcUZTkDo-k6uIyJYRpKUFR5woCSrVvaYiAqdB3wSGuLLX0
+Fri Apr 11 17:23:53 CST 2025
+Fri Apr 11 17:26:09 CST 2025
+Fri Apr 11 17:27:13 CST 2025
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除oki_dokie https://edge20-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-221e36ecffda715f329b401d94877dd995ad83d79e013b1324cf1dd8558ea146_trns_h264/playlist.m3u8
