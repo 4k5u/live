@@ -24,3 +24,9 @@ Sun Apr 13 00:50:57 CST 2025
 删除insgirl https://edge-hls.doppiocdn.live/hls/72418042/master/72418042_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Sun Apr 13 00:58:14 CST 2025
+Sun Apr 13 00:59:03 CST 2025
+Sun Apr 13 01:01:19 CST 2025
+Sun Apr 13 01:02:22 CST 2025
+添加insgirl https://edge-hls.doppiocdn.live/hls/72418042/master/72418042_auto.m3u8
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
