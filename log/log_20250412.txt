@@ -443,3 +443,9 @@ Sat Apr 12 18:42:39 CST 2025
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 删除ake_mi https://edge12-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-ad902af675e8acec573ce0f2e65e23d7d06668f0ce1b5bfa1a05cb7cfa63bcb0_trns_h264/playlist.m3u8
+Sat Apr 12 18:49:43 CST 2025
+Sat Apr 12 18:50:24 CST 2025
+Sat Apr 12 18:52:37 CST 2025
+Sat Apr 12 18:53:39 CST 2025
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除ad0res https://edge24-atl.live.mmcdn.com/live-hls/amlst:ad0res-sd-67ffb8a7a5ec09b5ce0b55502adce95a42d73e569573581f861d3b9001b311a9_trns_h264/playlist.m3u8
