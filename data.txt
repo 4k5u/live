@@ -15,3 +15,4 @@ IsMiMi https://edge-hls.doppiocdn.live/hls/52028289/master/52028289_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 mazzanti_ https://edge16-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-ae69f9eefa38b016145f6667404a031167f7d6985a260117cfedcd9224c7b811_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
