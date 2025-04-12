@@ -212,3 +212,12 @@ Sat Apr 12 07:51:19 CST 2025
 Sat Apr 12 07:51:32 CST 2025
 Sat Apr 12 07:53:49 CST 2025
 Sat Apr 12 07:54:53 CST 2025
+添加oda_assuri https://edge36-phx.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-0af26f69e685a2c1ad4f86e9245d20cc147380af0556f94bb97d58081942c950_trns_h264/playlist.m3u8
+Sat Apr 12 08:41:38 CST 2025
+添加love0098 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CXrcyqIV2oSE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NYcmN5cUlWMm9TRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMUY4QjVDNS02RDQ4LTQ5NzEtQTg3OS1DNzdCNjcyMENDOEYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDQxODUwMywiZXhwIjoxNzQ0NDE5MTAzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.P4xnGqAWaHaI29fegtNEpIO4c0U6mDc8csK9DQFHQ6zfUbWdXt5LxBBkw8O_xMvOiJe4vTIZzsbra62ExwDFvyqJ3SjxMb0Dh3aIbiTSpySiRvFrdckvkhLh-lzOSqwJ
+Sat Apr 12 08:41:54 CST 2025
+添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IBs72pnlpJhAELXK2lNaNcpizrVuQPVysg28wPx9b9ZQcrSqcZwsFsvHLH5vLMQySPuV_uo_eLC5FtV37AZiokdqqaGpgoarJMe-NFLjqNZcey2nGoDqDhhyt98NaJRW
+Sat Apr 12 08:44:04 CST 2025
+Sat Apr 12 08:45:00 CST 2025
+删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OqN3DPvZUUfjgklapLPKIm6BXZSJOd3JjCTW_Rd3E3UamEl6xvqHg_kdHfB6oMPcvSqz--_7dtYZAcO7_kTGr7FNHJ98TZcqgdw44BwqEKgapvzvySbRwRu2tuM9QV8d
+删除mazzanti_ https://edge2-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-c1fb3853f02ebccccc613381283a7c6c2e828927145f1d3c457a87ad29cd3d19_trns_h264/playlist.m3u8
