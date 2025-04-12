@@ -108,3 +108,10 @@ Sun Apr 13 03:50:41 CST 2025
 Sun Apr 13 03:51:00 CST 2025
 Sun Apr 13 03:53:18 CST 2025
 Sun Apr 13 03:54:22 CST 2025
+Sun Apr 13 04:02:11 CST 2025
+Sun Apr 13 04:02:26 CST 2025
+Sun Apr 13 04:04:30 CST 2025
+Sun Apr 13 04:05:26 CST 2025
+删除kook0613 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xya3ugsECpQf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3h5YTN1Z3NFQ3BRZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRjI0N0VDMS1DNjUzLTRGNzgtQTY4OC01QUJGM0IwM0E3RTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDQ1NDMyOCwiZXhwIjoxNzQ0NDU0OTI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ZwE8vj-LYybVgFczB3_oSu0nvYqheJyZnDbC02kZriqYb7rC5OxhgSykEqnrlCAZIINfg57-mJXp_GfIb_blKAisOvI946F8y5Y2VdEmRnvhrviv2dDohPqf14P2smf4
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
