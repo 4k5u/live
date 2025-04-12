@@ -174,3 +174,10 @@ Sun Apr 13 06:27:41 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加oki_dokie https://edge4-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5834044e43e8c2d85440ec36b56a3933093944bab5c892a082ef212bdef2d553_trns_h264/playlist.m3u8
+Sun Apr 13 06:42:46 CST 2025
+Sun Apr 13 06:42:53 CST 2025
+Sun Apr 13 06:45:09 CST 2025
+Sun Apr 13 06:46:12 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
