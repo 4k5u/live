@@ -142,3 +142,8 @@ Sun Apr 13 05:24:49 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加IsMiMi https://edge-hls.doppiocdn.live/hls/52028289/master/52028289_auto.m3u8
 删除green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFC1eSatgATs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQzFlU2F0Z0FUcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQjNBMDU3Ni01ODQ0LTQyREQtQTQwMS02MTdCMEY1RTc3OUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDQ2MzYyNywiZXhwIjoxNzQ0NDY0MjI3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9._9CtjwThnhqL9iGbAby_w9BSIsUr-qz0ubXeYYJyYHqNvWDiStcBGziENrECTNOj8JwElMJVyVrWkmbU3zkUkrc3jouHeXFY7FwBa96TJhzFAIXaTaqS3QW3-Qdmwrct
+Sun Apr 13 05:33:51 CST 2025
+Sun Apr 13 05:34:00 CST 2025
+Sun Apr 13 05:36:01 CST 2025
+Sun Apr 13 05:36:56 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8

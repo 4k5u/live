@@ -14,3 +14,4 @@ kiriko_chan https://edge25-ash.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-fc06
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 IsMiMi https://edge-hls.doppiocdn.live/hls/52028289/master/52028289_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
