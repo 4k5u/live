@@ -303,3 +303,10 @@ Sun Apr 13 15:10:32 CST 2025
 Sun Apr 13 15:12:50 CST 2025
 Sun Apr 13 15:13:55 CST 2025
 删除twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3i6fmQHTWKLgkjMrWmc3asxi6bjyxbYLXSLnCfILjIdpw8xwIosrDkImKSEcJv3StdD0Fhe4JupqKZUpM1tsK58WwcAOsouc_cF1Y28-vd8DOf9Ji7RYXqdl1gDJctlh
+Sun Apr 13 15:27:56 CST 2025
+Sun Apr 13 15:28:21 CST 2025
+Sun Apr 13 15:30:36 CST 2025
+Sun Apr 13 15:31:40 CST 2025
+删除bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
