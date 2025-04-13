@@ -18,3 +18,15 @@ Mon Apr 14 00:31:05 CST 2025
 删除in0410 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CAKTJ7JkMyu8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NBS1RKN0prTXl1OCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMDYzQjNBNC1DNzVFLTRBRUUtOUEyRS1EN0E2NURFM0RCMTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDU0ODAwMCwiZXhwIjoxNzQ0NTQ4NjAwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ar0TMxkyuE6Db_y1hzIg-Kg2kwDZy7RVvMIgTLLAnrxLUrZ-K8uMJFZE3mk0su6TKt0S6c8hCvNadpV2hs7yba6xphPVO4tQmHKtb6hIb6YGF0_-BxkP0UMRXurdODRe
 删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+添加oki_dokie https://edge9-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4570bd82c21b6c6d213720f4a709e365158816248b97bf362ad56e8c4a810cdb_trns_h264/playlist.m3u8
+Mon Apr 14 00:47:17 CST 2025
+Mon Apr 14 00:47:51 CST 2025
+Mon Apr 14 00:50:06 CST 2025
+Mon Apr 14 00:51:09 CST 2025
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+添加jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+删除tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0RDk1QjUxRC1EM0MwLTQ4RDQtQTU0Ni0zMkE0OEEyQ0VEOUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDU0ODAyOCwiZXhwIjoxNzQ0NTQ4NjI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.xCogQk2xFJZlsYGMmcfzPdxH3REIU9uByPOPIrkSpVb3h0HPxCqgjLxAYLa4xkZQPP_sxEDbH1leZqElFq-B93UHHuakfx50tKBmLeMNi7l-wFiuTTeOI2rHfXJDd-jx
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
