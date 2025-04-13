@@ -63,3 +63,16 @@ Mon Apr 14 01:48:18 CST 2025
 Mon Apr 14 01:48:45 CST 2025
 Mon Apr 14 01:51:00 CST 2025
 Mon Apr 14 01:52:04 CST 2025
+Mon Apr 14 01:59:29 CST 2025
+Mon Apr 14 01:59:54 CST 2025
+Mon Apr 14 02:02:10 CST 2025
+Mon Apr 14 02:03:14 CST 2025
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除lovelypower77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OpRSg42ryu6h.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09wUlNnNDJyeXU2aCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1N0NGQ0VGQS01ODVELTQ5NTItQjE1NC0yNTQ4NUQ0RjcwMUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDU0ODAxMywiZXhwIjoxNzQ0NTQ4NjEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.MkrVWlgAWrwvgm53eYOAMd7nNP2sYN6yQYMFezXD1-VvsmJgSJUT4qu-0u9rSr84w0mjEJvsSIneHSyYT3qpzIclLANzSrbJ4BSBNSg38hS1d4ijzRHgFlX-p9rFPB9m
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
