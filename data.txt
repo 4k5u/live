@@ -9,3 +9,5 @@ ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 oki_dokie https://edge29-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f1b54f6a0b10b1b7a73f4a916e073b269fa689243bfdedc5e58aaa88f098d47f_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
