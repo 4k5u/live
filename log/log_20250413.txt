@@ -317,3 +317,9 @@ Sun Apr 13 15:42:17 CST 2025
 Sun Apr 13 15:43:21 CST 2025
 删除oki_dokie https://edge5-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4c714cbf04cad34748903a68d327bc24937db0754956e586864e163bb703abf2_trns_h264/playlist.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+添加oki_dokie https://edge28-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4c714cbf04cad34748903a68d327bc24937db0754956e586864e163bb703abf2_trns_h264/playlist.m3u8
+Sun Apr 13 15:50:49 CST 2025
+Sun Apr 13 15:51:16 CST 2025
+Sun Apr 13 15:53:34 CST 2025
+Sun Apr 13 15:54:39 CST 2025
+删除sexygamesx https://edge9-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-03af9e0f396e982c1fa0f1859212d147e4b30a493d74ce8475486cb587a57927_trns_h264/playlist.m3u8
