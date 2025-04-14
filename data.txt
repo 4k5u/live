@@ -26,7 +26,6 @@ bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3
 jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.NDGWilrZ7OB0.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9OREdXaWxyWjdPQjAiLCJleHAiOjE3NDQ2ODQ1ODkyNjAsImlhdCI6MTc0NDY0MTM4OX0.FN0eSljVuXB_6bE2XIvS69ORO_rAo3t7UVDSCdAINd-ib2OstBXoNkhxopeIjhMGmRzgd7Fdsl7H25SRe0Z2wl0cGlVfIfoJkcw7JRhRemC7NuCmXoOp_fckXWF6XaMN
 ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ddooyaa%22%2C%22channel_id%22%3A442709328%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1744642902%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.201.73%22%2C%22version%22%3A2%7D&sig=2e36d9b08339edf8feeacd9a26c1af637ee40389&allow_source=true&allow_audio_only=true
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
-regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
 sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.2OgVrRi89_LP0b8e-qM05bsL8RLVSG3jXw4lOhyixHXRH7oeV-15s469TVV_ZjZE__HMSOqNf58kdzYjyNhv8Ehz1y3ZCAjUq1nqPkGsyx6SRLXO5bs7cJj2watBLFu7
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
@@ -43,6 +42,7 @@ embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_aut
 -Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 -Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 -Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
-rosyemily https://edge7-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-bf7038afb423b7a7890a7fd2bc64df9a7e443b349ff249af925da6978f31e3df_trns_h264/playlist.m3u8
 lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.t9LwQvH4abW7qTfwRKmBsVUIn0un5i8eyqg_dQDLR3mm4r0-6cXsmTVaguzpoYLt6fnmYokxXskfoewYhuF3RxdpFL0vC4TdxIY-TpIXo0ZLd6OOuGvSuyxa2_zCkFSA
+-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 -Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
