@@ -8,3 +8,4 @@ Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m
 sexygamesx https://edge3-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-dab73c09fc82c85a38eff6ff6e7a8f4fdd83d1d08bb7bda687a294fc9e504185_trns_h264/playlist.m3u8
 h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Srsd_iwus4CjxyoVfC-233ed5rJHSVwZBV-3K_hE4kz2o5R5sCWJYIqEIv710zv6sYDbSZAqK3h_txOCp_Yh4H4te2Nm_sSyBgTurah0Jnp5NR1zcvUIVNNjajqJQQQb
 Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vzsppjAYikxW3ESC_qBFpr_VGog7z_13wOujNVflJ2FLXIOtZshFJRWMSYaGCjkN_ENyvdMlKDc50Tlei_gYkBzbWdyxJtjKcUMU8s99JwgtEnKCXfbl5hIp3lAgDWEy
+bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
