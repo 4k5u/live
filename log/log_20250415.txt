@@ -58,3 +58,18 @@ Tue Apr 15 01:52:46 CST 2025
 添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 删除regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
 删除rosyemily https://edge7-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-bf7038afb423b7a7890a7fd2bc64df9a7e443b349ff249af925da6978f31e3df_trns_h264/playlist.m3u8
+Tue Apr 15 02:00:00 CST 2025
+Tue Apr 15 02:00:31 CST 2025
+Tue Apr 15 02:02:46 CST 2025
+Tue Apr 15 02:03:50 CST 2025
+添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+删除purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.kSLO7MrxgeYYBFIzO3HQ99F5QItnzeOVHDS-BPHf_m91xCBT2fDPjMXZGVpGd7uJ_xf_8T4r75FpMTOLJ22IeJE6aSxH1urgQOMMFf92kn92DzWzZCJuxukFvvanGDnF
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.2OgVrRi89_LP0b8e-qM05bsL8RLVSG3jXw4lOhyixHXRH7oeV-15s469TVV_ZjZE__HMSOqNf58kdzYjyNhv8Ehz1y3ZCAjUq1nqPkGsyx6SRLXO5bs7cJj2watBLFu7
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
