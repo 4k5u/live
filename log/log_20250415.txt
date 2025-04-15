@@ -312,3 +312,11 @@ Tue Apr 15 15:59:38 CST 2025
 Tue Apr 15 16:01:53 CST 2025
 Tue Apr 15 16:02:57 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Tue Apr 15 16:36:33 CST 2025
+Tue Apr 15 16:37:00 CST 2025
+Tue Apr 15 16:39:17 CST 2025
+添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3NDQ3NDc0MzI5NDIsImlhdCI6MTc0NDcwNDIzMn0.9FIQFUWQJtsxAcncCedFsnDU5rhz8DvEqKqb6v19WJWTr4qhiGGN-_eOY_kqyK_V5yf5RENssbhNSzrfGXEKTbSPq1TjrYg5qFGr5qJ6MdZm97EslRPxO5mb8gNhZjrI
+Tue Apr 15 16:40:21 CST 2025
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
