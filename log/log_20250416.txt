@@ -162,3 +162,8 @@ Wed Apr 16 05:43:57 CST 2025
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
 删除oki_dokie https://edge20-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1780b834a6496e73f05ad63967ac34fb80bbc62e691bf2318b0aa6993e5949d2_trns_h264/playlist.m3u8
 删除bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+Wed Apr 16 05:51:55 CST 2025
+Wed Apr 16 05:52:06 CST 2025
+Wed Apr 16 05:54:09 CST 2025
+Wed Apr 16 05:55:04 CST 2025
+删除homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.55cHFi6IeBXm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzU1Y0hGaTZJZUJYbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NjY0MjlERi1BNzNDLTRCRTEtODhDQy1EQzk2RUFGQzkzQ0UiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDc0NjA4OCwiZXhwIjoxNzQ0NzQ2Njg4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Y9GW1eXFRoH-fwJ5CxJDYLTaWRuMmoP5QJ4Xp3IGrUURBQ2ZaCUaGmSXO-mt03iUJLaJPZdlXz7mv4PvY9STh4SN0TgcEKBJgnGOb1Yk0ZF-VRIrJVxYPfxgzmb0XwHS
