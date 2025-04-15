@@ -8,3 +8,5 @@ ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ZnjjHqZwcQFH61HbsRMeZE0VUz-Rg34yigjzfcwUmKrdQujyM3BXcHTwpvbt50EslY6gNkd2-Lt7RYL5loHgijYG0wNKy4_iVnOP3bgbE32DP2NMy-xOXxVMnjwa1_BT
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 oki_dokie https://edge16-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d5c3e999f91c522b8d56a633514b353c5023c855aa352f4d41830e2f36aa82ac_trns_h264/playlist.m3u8
+LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
