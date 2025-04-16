@@ -273,3 +273,11 @@ Wed Apr 16 13:27:51 CST 2025
 Wed Apr 16 13:28:54 CST 2025
 删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Wed Apr 16 13:43:32 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQTA0QUEyRi05NDdELTRFM0YtODkyQS1BNEU2MDgzMzJDODYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDc4MjIxNCwiZXhwIjoxNzQ0NzgyODE0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.TUlgl-N-C_q1Igo_lfuaOKow6KQfRB2XYPQu4kzESMAA3kDEStPZks8DMhrNUwSqjqBTZMPCyfBGrw2cdGvqLeCoZT0EI1Qix8yUguuiE-Q6Q97F6rEW800ooB_zb6EX
+Wed Apr 16 13:43:46 CST 2025
+Wed Apr 16 13:45:49 CST 2025
+Wed Apr 16 13:46:44 CST 2025
+删除namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wiiZmv3i_m43XEV2qE7qF-drtoVzwCwc_uBySLRP3yElPLXcUOH29KI_zj4RsWPz59IGl_lWplO1OW7egelWbIwmNtoYWHjZFAGuR1js-9KtVOS04OUI2-1IWriunfUr
+删除big541 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-lonplwcuGYnvKOj1ulzVMGTfLf3obnJ2JlGUxLHOzzlTuxaLoY3EP--GC_Burya_6glcFvq2VNSlTZl2sNAXECv1nkWltxTgVDuLvkbNfRLakzQshcYMSw14Td2vUS_
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
