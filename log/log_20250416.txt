@@ -346,3 +346,12 @@ Wed Apr 16 16:34:38 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+Wed Apr 16 16:51:40 CST 2025
+添加sksnrnrp11 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.cJT1cq2UIBfX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2NKVDFjcTJVSUJmWCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMTY0MTE0QS0wMDBGLTQ3QUMtQTc0Ny03OUY4N0M3NDEwM0MiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDc5MzUxOSwiZXhwIjoxNzQ0Nzk0MTE5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.FJEb4oVUR8BJAyqHHEm20wd1RKsUYAqayerBCpj3jsZOUmAzZ8PIaXYh6tmZGOwz62V1yzvvna1VObMfP0tUqMeBB9f57hPFIH8_cyy_VT5GxVfWkyRrGhLK7VjQgLhx
+Wed Apr 16 16:52:06 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.pBicWpwpyzPpglqi2-ZUdDzvUB6Fru2R8-miTHsQ0XWEKX933qqjarLjfq4r8Q6sLbqN4JZYxceoiR_NIIap8zKQetAzZu2gQIcQcvoydBOyzbyn1yi3ds6QemPrJ0uC
+Wed Apr 16 16:54:27 CST 2025
+Wed Apr 16 16:55:33 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
