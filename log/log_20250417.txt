@@ -194,3 +194,8 @@ Thu Apr 17 07:13:50 CST 2025
 Thu Apr 17 07:14:45 CST 2025
 添加LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 删除_meganmeow_ https://edge8-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-45d6d274174122ed65497af881791d1a7fa4b7d0d6ad6110aab73a45d52389e3_trns_h264/playlist.m3u8
+Thu Apr 17 07:30:58 CST 2025
+添加ioibibi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.66exLzO8T9sb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzY2ZXhMek84VDlzYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEOUE4QTMyNC0zQUMwLTRFMEEtODBCQy01MTc2MDRCNzNCNkIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDg0NjI2NCwiZXhwIjoxNzQ0ODQ2ODY0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.TMeCEi-cHDBwIwioc_XqgAcksSxAh2DzqECYGWKx0bEjrMukEkF26fAMyXJDNotQWLUnjy_tndpsdGVKPswq6bjAZrafaF8wCvyxxrsFKlj8ClVIAaXiLWlVSHiFdZPc
+Thu Apr 17 07:31:12 CST 2025
+Thu Apr 17 07:33:29 CST 2025
+Thu Apr 17 07:34:33 CST 2025
