@@ -184,3 +184,10 @@ Fri Apr 18 06:11:56 CST 2025
 Fri Apr 18 06:12:52 CST 2025
 添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 删除NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
+Fri Apr 18 06:32:54 CST 2025
+Fri Apr 18 06:33:05 CST 2025
+Fri Apr 18 06:35:21 CST 2025
+Fri Apr 18 06:36:25 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
