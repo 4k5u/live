@@ -320,3 +320,14 @@ Thu Apr 17 15:26:55 CST 2025
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Thu Apr 17 15:42:47 CST 2025
+添加heenoo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ywUbkq1nt6bx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3l3VWJrcTFudDZieCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3RDc5MjI1Ri05QkMxLTREREItOTdCNS1FMzVGMjVGRjkyRDciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDg3NTc3MiwiZXhwIjoxNzQ0ODc2MzcyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qa4AGVeBW9NhS-8Z3lPPFX_LD7WZ-BDY8Ve3Cf7zdE2LC-UZz0HnNBugK6uGtVNpZKXlIyHy6weP_cOAatDTJqRh96s4TnT2OGsTeD2sFzfk-ja1ZkAlEIFPb18RZ3FT
+Thu Apr 17 15:43:11 CST 2025
+Thu Apr 17 15:45:26 CST 2025
+Thu Apr 17 15:46:31 CST 2025
+添加anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除hncsphj https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sxeVh17EklfW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3N4ZVZoMTdFa2xmVyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RDY1RTU5MC1EOTA5LTQ5RTctQjA1Ny0wNTY2REQzOEMzMjIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDg2NDMwOSwiZXhwIjoxNzQ0ODY0OTA5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Z7MjPjZsfGd7HnIcf-qgu1xyUrIbLxQpOe4QPkYPCABvCZXCduHj1hV69B6-Od57c75NGXuMo5BIAegmfubZm-9hXcF1iVZ-jiN505ddgg0sOWZ2PVRoI9VYBUOXDz-7
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
