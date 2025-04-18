@@ -22,3 +22,5 @@ calliadesigner https://edge12-sea.live.mmcdn.com/live-hls/amlst:calliadesigner-s
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
