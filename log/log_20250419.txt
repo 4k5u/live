@@ -18,3 +18,10 @@ Sat Apr 19 00:34:30 CST 2025
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加honey_pinkgreen https://edge16-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-069014d33bd9e7481be9bebff41539246cf133b0abf51077586186b985017a42_trns_h264/playlist.m3u8
+Sat Apr 19 00:47:35 CST 2025
+Sat Apr 19 00:48:33 CST 2025
+Sat Apr 19 00:50:50 CST 2025
+Sat Apr 19 00:51:54 CST 2025
+删除kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.4pIcaHOergZjt7PBFAzw3tNF9Vp7xu_pi6cYGNN2n5Tsqzs9-Xj4UrBXwSa2MgbWdJgL8m6ildAn7KlTUtN-deloPYM3LBr_FLSFUxH_cJw3ohWMsRSNf8zV1CRTpwrB
+删除lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFBGqUtHSQ1T.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQkdxVXRIU1ExVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3Qzg2MTg4My02M0EyLTQwNjgtQUM0Ri02NDE2QTgwODg4QjkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDk4Njc0MiwiZXhwIjoxNzQ0OTg3MzQyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.87-3UwOT6xBGqnqenDPAm6GRMqK0eXqgDHCwOPOmIAlujqoyt2B9GJttZ9eYSzmyJl1HD2_Yj0ZXzRWMsjXVbpozgur9XwEvfDZgNxiMVnX2O6UFDKwY40PWeFyZi4-u
