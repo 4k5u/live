@@ -108,3 +108,9 @@ Sat Apr 19 03:34:53 CST 2025
 Sat Apr 19 03:35:49 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sat Apr 19 03:48:00 CST 2025
+Sat Apr 19 03:48:13 CST 2025
+Sat Apr 19 03:50:31 CST 2025
+Sat Apr 19 03:51:36 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除kook0613 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xya3ugsECpQf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3h5YTN1Z3NFQ3BRZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MTMzN0ZFOC1BMzI4LTQ4N0ItODEwOS1BRDQ0RkJEQTA0N0UiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDk3MzkxOCwiZXhwIjoxNzQ0OTc0NTE4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.LL-c-Zqg5joUNXBOW7pvWjeIsGSuVsmyeQAVFunQ90XTDIRnz28CGmeUpQuIttRCUHXdLAm2KP9PJ931CcPjT8J5lTX_HDuerLGC6D6aQWJk2qwu5vn-2J-ah6UaMxjh
