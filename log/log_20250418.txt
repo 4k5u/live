@@ -327,3 +327,10 @@ Fri Apr 18 15:39:52 CST 2025
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加ake_mi https://edge19-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-4f661e5b9634c37a2bcc4ee3855699f337cd4c7e319c294088d33a37de9e67df_trns_h264/playlist.m3u8
+Fri Apr 18 15:48:07 CST 2025
+Fri Apr 18 15:48:22 CST 2025
+Fri Apr 18 15:50:35 CST 2025
+Fri Apr 18 15:51:37 CST 2025
+删除my_eyes_higher https://edge10-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f0f790546904f0a6d9000911977979b0f2f29bf8e7f964c96c4d5787e59e8aca_trns_h264/playlist.m3u8
+删除bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
