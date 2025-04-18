@@ -273,3 +273,12 @@ Fri Apr 18 12:58:14 CST 2025
 Fri Apr 18 12:58:23 CST 2025
 Fri Apr 18 13:00:39 CST 2025
 Fri Apr 18 13:01:44 CST 2025
+添加foxylovesyou https://edge28-phx.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-3f7fabf9cc4345ee2dfeaf69059b8bdc9bc3c90363e1a96f832e1fa2d8bca600_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge10-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f0f790546904f0a6d9000911977979b0f2f29bf8e7f964c96c4d5787e59e8aca_trns_h264/playlist.m3u8
+Fri Apr 18 13:24:59 CST 2025
+Fri Apr 18 13:25:06 CST 2025
+Fri Apr 18 13:27:08 CST 2025
+Fri Apr 18 13:28:02 CST 2025
+添加zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除love0098 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CXrcyqIV2oSE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NYcmN5cUlWMm9TRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGRTREQUU2MS0xMUMxLTQxNTAtODBFQS05MTg3RjVGMUYyMDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDk0MDUwMCwiZXhwIjoxNzQ0OTQxMTAwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.lA5lS8m-DwKCWnu6U4wD86pLrb8IxVH4XTrJ2dlj_wQ9pxsgrLHma7ecyQl7JD0P_Wp0QP3DnylOBhuZZyMm-1XEhU9F72bE0p_bZvpxLZLlz9OWEOmdfPPGiKEVPsYt
