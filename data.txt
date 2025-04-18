@@ -22,3 +22,4 @@ IsMiMi https://edge-hls.doppiocdn.live/hls/52028289/master/52028289_auto.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 calliadesigner https://edge12-sea.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-f09bff6bfdbb6821ab417be1468c58d3074b448f4373c7c28b4b24ff4c824967_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
