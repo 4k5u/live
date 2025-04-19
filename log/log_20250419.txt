@@ -251,3 +251,14 @@ Sat Apr 19 11:12:37 CST 2025
 删除suee2332 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vmp1QKeAFNdG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZtcDFRS2VBRk5kRyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNDFBMDhERS04NThGLTQ1MEUtOEI3MS0xRjg5RkY0NkM3N0YiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTAxODgyMCwiZXhwIjoxNzQ1MDE5NDIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.iTWUIY6QtXcQyiLsoU-Rnmd-QyV9g0g8k60MN8n9c1mQcU-Ef3WWA_YPm9tCBSLRpe1kVOY0_QmDj41yv8htY0luvU1XqjP8HFGVnaYmqaicstm9zrBxQPCbeQ59nUwd
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Sat Apr 19 11:42:33 CST 2025
+Sat Apr 19 11:42:42 CST 2025
+Sat Apr 19 11:44:44 CST 2025
+Sat Apr 19 11:45:38 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除_meganmeow_ https://edge25-phx.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-3b53c3ac605185d19848122b527d63fece7b7c69a9206ac2b13cc1018c7da656_trns_h264/playlist.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
