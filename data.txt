@@ -50,3 +50,5 @@ alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m
 bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qvVYVUYPiOVp.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xdlZZVlVZUGlPVnAiLCJleHAiOjE3NDUxMTcwMDU0MjAsImlhdCI6MTc0NTA3MzgwNX0.t5O7oZha7sTQeR0LrHEprZJjaJEd0Lgj3COfhnfgX-DhzSND3DNlAuDASgAtQopB97cw4KkyfpJ_DogTtLkzYwpvzJyH_-TvEIqDqspjfhERdyHZLzcMF_GLyhOMAAp0
 embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
 Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+oki_dokie https://edge35-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8024f69dbc4b18bd66aa864616984b38622b3ca16e5674cb1bfb7ad7abad9f78_trns_h264/playlist.m3u8
+wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
