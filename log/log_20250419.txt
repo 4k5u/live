@@ -262,3 +262,10 @@ Sat Apr 19 11:45:38 CST 2025
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除_meganmeow_ https://edge25-phx.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-3b53c3ac605185d19848122b527d63fece7b7c69a9206ac2b13cc1018c7da656_trns_h264/playlist.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Sat Apr 19 11:58:15 CST 2025
+Sat Apr 19 11:58:24 CST 2025
+Sat Apr 19 12:00:41 CST 2025
+Sat Apr 19 12:01:46 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+删除oki_dokie https://edge27-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-b5961bf9de80c6a4a57e7f8f822a8f99911ee897dc005a9a915fec35172681d9_trns_h264/playlist.m3u8
