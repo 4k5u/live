@@ -473,3 +473,8 @@ Sun Apr 20 19:32:19 CST 2025
 Sun Apr 20 19:34:34 CST 2025
 Sun Apr 20 19:35:38 CST 2025
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Sun Apr 20 19:42:08 CST 2025
+添加wintersnowwin https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Lo1VOk9jVU8j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xvMVZPazlqVlU4aiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5REVBMkEyNC1FNTY1LTREQUQtQjkyQy1CNDMzQUVGQjBFQjAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTE0OTM1NywiZXhwIjoxNzQ1MTQ5OTU3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.93rvyar1yyPhBMV2uNUbWL7aXUOx2Ewmd3_J-HcuEtQ0Hkf6nr9g3OChePfuC6-w9k0ctQmpeRIMrsGTaKhjCM5BK8wlWznrloVASnrye97we8rN-dFGfzgeprjDDGlZ
+Sun Apr 20 19:42:42 CST 2025
+Sun Apr 20 19:45:00 CST 2025
+Sun Apr 20 19:46:04 CST 2025
