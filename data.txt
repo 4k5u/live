@@ -11,8 +11,9 @@ oki_dokie https://edge24-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-54505472
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
-embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yHLEn93IcCav1kfDdfV1n-fGZcLedUAEkwK_5cMCQbayQfwZNBDnUK3m19qx4NgJdu5K5nI8KQ0z8ai3d4Cqt-AaQnGS5qCfPzIoeMkTKCtxdYJ--yvOJrQdeNEhioSj
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+yasexy https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNC1QhBOVKzm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQzFRaEJPVkt6bSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQkQzMUI4QS03OEZELTQxRjItOTRGOC0yRTI3REQ1MzJGMEYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTE3NzM2OCwiZXhwIjoxNzQ1MTc3OTY4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.f9qPfelsOG-YETBDwDKLVJpA5zAvm-iKcfLwKEEWTLD5wJTi9kvKlpZLZVqDNhRXyXGf13MvKuX6gZ3DYFkmUKaq7SWg1UEr79jUq7yl0lXTb8ngZYQGjd6zTGbH1JOk
+wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
