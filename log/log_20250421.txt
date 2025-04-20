@@ -98,3 +98,9 @@ Mon Apr 21 03:43:35 CST 2025
 Mon Apr 21 03:44:39 CST 2025
 添加embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
 删除gkfnsus5573 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.4vTQkzhj8zas.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzR2VFFremhqOHphcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMzc0MzZDMS1FRThDLTREQjItQjgwRS04NTQ0MjM0M0RBNzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTE1NzY1MywiZXhwIjoxNzQ1MTU4MjUzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pOazkP-cZrP_kFiXU_wKG__dp3E6g96R3AzujekcFOXX5ahrZG7fs34dFuGaleg_wi5AL5Tq5f7MgBnxK8sncWBDVYtL726uSxzGNR6ozFXuix01PpSfMITvNMbboP89
+Mon Apr 21 03:52:23 CST 2025
+Mon Apr 21 03:52:36 CST 2025
+Mon Apr 21 03:54:51 CST 2025
+Mon Apr 21 03:55:55 CST 2025
+删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.SdAI74Mty-2GK4DPkRWW7Kx1Xk3p525gNoo-9pguzkgnA0r8PpoamEKpYJRV636UEHRz2RiNS0drYSDWJmsHOxBoGYBVgTnLvJZ5RjI93SK0nRk-_GfuhwR12rJpObHQ
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
