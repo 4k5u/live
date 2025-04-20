@@ -139,3 +139,9 @@ Mon Apr 21 05:31:54 CST 2025
 Mon Apr 21 05:32:07 CST 2025
 Mon Apr 21 05:34:21 CST 2025
 Mon Apr 21 05:35:26 CST 2025
+添加oki_dokie https://edge14-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ad4a59dfa756a12714e43bab640414494a0bf69c945386eeb820dcc92cdfcb7f_trns_h264/playlist.m3u8
+Mon Apr 21 05:44:04 CST 2025
+Mon Apr 21 05:44:17 CST 2025
+Mon Apr 21 05:46:26 CST 2025
+Mon Apr 21 05:47:26 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
