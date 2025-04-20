@@ -164,3 +164,11 @@ Mon Apr 21 06:45:25 CST 2025
 Mon Apr 21 06:46:29 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+添加oki_dokie https://edge2-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ad4a59dfa756a12714e43bab640414494a0bf69c945386eeb820dcc92cdfcb7f_trns_h264/playlist.m3u8
+Mon Apr 21 06:58:23 CST 2025
+Mon Apr 21 06:58:34 CST 2025
+Mon Apr 21 07:00:50 CST 2025
+Mon Apr 21 07:01:55 CST 2025
+添加bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+添加LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
