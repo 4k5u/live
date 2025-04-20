@@ -145,3 +145,9 @@ Mon Apr 21 05:44:17 CST 2025
 Mon Apr 21 05:46:26 CST 2025
 Mon Apr 21 05:47:26 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Mon Apr 21 05:58:19 CST 2025
+Mon Apr 21 05:58:32 CST 2025
+Mon Apr 21 06:00:34 CST 2025
+Mon Apr 21 06:01:28 CST 2025
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除kiriko_chan https://edge22-chi.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-ad2681e2d6dc9cf99b4beb61e1b6807d0b74acc97e6beb72ef90a136983cf82f_trns_h264/playlist.m3u8
