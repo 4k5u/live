@@ -364,3 +364,8 @@ Tue Apr 22 17:33:03 CST 2025
 Tue Apr 22 17:34:08 CST 2025
 删除dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQkJBQzI5Mi1DRjhCLTQyQUItQTk4Ny1CQjQwNzE5MTNCMEQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTI0MzM3MSwiZXhwIjoxNzQ1MjQzOTcxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.bIy_OhxadV3PphZRWlPuwCrHwLR5a7Fcp7R178_H6vxOJ2sOH5682Bc243ngGR06mp-pGK7ExN-8NiNFfMw4c6lmHwPc_Y7H3Mzd1iWYM7UsLdkWNrwvoxwx3A96BI_y
 删除oki_dokie https://edge30-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4742ad25ac96da7d735f9fd47f0847dad2b4273af02b79e0a493a6e9e28dbf4e_trns_h264/playlist.m3u8
+添加oki_dokie https://edge26-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4742ad25ac96da7d735f9fd47f0847dad2b4273af02b79e0a493a6e9e28dbf4e_trns_h264/playlist.m3u8
+Tue Apr 22 17:45:29 CST 2025
+Tue Apr 22 17:46:02 CST 2025
+Tue Apr 22 17:48:21 CST 2025
+Tue Apr 22 17:49:26 CST 2025
