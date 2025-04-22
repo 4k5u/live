@@ -19,3 +19,16 @@ Wed Apr 23 00:36:29 CST 2025
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 删除172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+Wed Apr 23 00:54:01 CST 2025
+Wed Apr 23 00:54:56 CST 2025
+Wed Apr 23 00:56:58 CST 2025
+添加bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.qvVYVUYPiOVp.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9xdlZZVlVZUGlPVnAiLCJleHAiOjE3NDUzODE3MDgyNzcsImlhdCI6MTc0NTMzODUwOH0.7KSILSd6T9tZ_emFopSnUEyg_AkJH7tluExQKQcvAPyUO5oZQkwNz-bk6rvZXvM41rTa5wt99nnquV7p-ZhOOjRiC6gO3sdnvAo-qJiM9sBc25iaGEeEHS0DiymftUFs
+Wed Apr 23 00:57:54 CST 2025
+添加bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+删除podo0311 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CsHMupBvEh6a.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NzSE11cEJ2RWg2YSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDM0VGMDM0Ri04MUZBLTQ3NjEtQTI5RC0xMzhDQzRDNzlGOTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTMyMDkxMiwiZXhwIjoxNzQ1MzIxNTEyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2b7DSkj1fuw6uj4GVOBn_l3EIme6fsx33Fnmhm94AMvBuwi8H_ZumC5DwP-BXs4Ed3ss8rc1eMh6g-jeLK4noU8t_8NJ9lFv-sErcNBGhvuPoWQzerXG-bmE8PCXn4q7
+删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.2oG8xIS-PmZHwIC8uJEqxE2XFtxjJ_DonyWWFiBQO0BMS1oFFdtu38-TCR9WS2jEZ1sT-EhmEicfgZvSkMY31hWgWiRqHVAe7BXU02iq9OEgZtcrAn22Osxvfozco8WN
+删除kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6IIcDoo-LmJi8rvKmE1Zpp76Ts7zmbA9YHQVVjyuedy5EwlwTDBJnXqnmGwnOdkBPZJYaBmid4F8qiDHdZ1Z-DNa9TZ9t9AxxNbqDSnKV4cDrObm3bj17DgfdA0dSEE_
+删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.QOR9gK8u1SIlC12oLV2xQJlLZRvKAqd651EfxqgkJS-EZKTi7Fi4hn2QEoB203Zl3dZupznqvGYjRBdni2eMCKowGdjRRHtpYe4D1TYQE3ypY6XQ4bAXhBSTRMame8A5
