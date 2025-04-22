@@ -389,3 +389,12 @@ Tue Apr 22 18:30:18 CST 2025
 Tue Apr 22 18:31:12 CST 2025
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除oki_dokie https://edge26-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4742ad25ac96da7d735f9fd47f0847dad2b4273af02b79e0a493a6e9e28dbf4e_trns_h264/playlist.m3u8
+添加oki_dokie https://edge16-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0b913bf91a6a5c02fb60455faf7c2bb304a1ab646dcbe43db6e5a12e4b730f0d_trns_h264/playlist.m3u8
+Tue Apr 22 18:45:52 CST 2025
+添加wintersnowwin https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Lo1VOk9jVU8j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xvMVZPazlqVlU4aiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1OUE1Nzc2OS1CMkNELTRBRjQtQjAwNC1FNDI2NTIxNTcyRDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTMxODc5MSwiZXhwIjoxNzQ1MzE5MzkxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.PScB6EKbKnD_xuDWXKBWWHkl54xtf_GkTdbfa_oqADwv3s-IbIMBOFYdmWKgIzMewr7qqvelsnzymGCC72cCAxOSfKtY8u3QRSEEJcHrgOK4Ooh4IMrT_OZS8WP6_Qvd
+Tue Apr 22 18:46:38 CST 2025
+Tue Apr 22 18:48:55 CST 2025
+Tue Apr 22 18:49:59 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
