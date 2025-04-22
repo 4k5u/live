@@ -341,3 +341,8 @@ Tue Apr 22 16:33:09 CST 2025
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1Usffil8Jd1HBVcOlMsNux-2ElqqY1ry5FeJj1OWxPqHVWXFAcKdXI-YbwvI592KUw4F36hkRWf0ZRrG5jgy9SPqKUMHTt_sWqPtuCh1uFBRA6k9S6FDcR8jHnSYhyhC
+Tue Apr 22 16:50:27 CST 2025
+Tue Apr 22 16:50:59 CST 2025
+添加big541 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.bwsALBX22rSEOjci0N9dYj2-qr0o4tclt9tZvUUmd09bK4c6lxxJbvCrS5AKHZkIK78fjKw_--Va4-LKFLju7O9mT-l1C9MzN7IEhf8ZWoi2E-Q690CcyCgM2kQi_gKY
+Tue Apr 22 16:53:19 CST 2025
+Tue Apr 22 16:54:22 CST 2025
