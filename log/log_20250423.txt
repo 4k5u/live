@@ -267,3 +267,13 @@ Wed Apr 23 12:31:30 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Wed Apr 23 12:48:35 CST 2025
+Wed Apr 23 12:48:44 CST 2025
+Wed Apr 23 12:51:01 CST 2025
+Wed Apr 23 12:52:07 CST 2025
+添加bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
