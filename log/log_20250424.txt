@@ -195,3 +195,7 @@ Thu Apr 24 07:43:36 CST 2025
 Thu Apr 24 07:44:42 CST 2025
 添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.CSRvaw5Gexf8vxyjIut4zVFWEgP326DxQ-zagTKsHBQFlNvWGf8nykRSasEbFFvB6e1_XqsDJZ5JIfyJxjPEkESpohliM0QlNOl5nSobmhxVYXvu9dqA-KnQmefGQqR4
+Thu Apr 24 07:52:35 CST 2025
+Thu Apr 24 07:52:42 CST 2025
+Thu Apr 24 07:54:59 CST 2025
+Thu Apr 24 07:56:02 CST 2025
