@@ -393,3 +393,10 @@ Wed Apr 23 17:28:13 CST 2025
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Wed Apr 23 17:43:11 CST 2025
+Wed Apr 23 17:43:32 CST 2025
+Wed Apr 23 17:45:36 CST 2025
+Wed Apr 23 17:46:32 CST 2025
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除so2so2so https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.yaAVuhbt0PuZ.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC95YUFWdWhidDBQdVoiLCJleHAiOjE3NDU0MzY4NzczOTAsImlhdCI6MTc0NTM5MzY3N30.SCPKikFPPTsEh_uhLr5H1gukhgWZ5dzeEuhclJ828ksH3vUgMNgdFzwhNqBrbxnAjI6GzkjhzeuRVqkpZ6YyASb3imF2_BLpw-6FHrYtUTt6G0F2QNvO8K_qRREl2diR
