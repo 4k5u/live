@@ -8,8 +8,6 @@ alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 oki_dokie https://edge10-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0691970ac48b8b17f6ec7b39ece0ce6247adcc98e3a8409fb8c850eda127a19a_trns_h264/playlist.m3u8
 bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
-__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
-Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 my_eyes_higher https://edge23-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-4f4a39bcdb85756192b43cb3ea76280a0dd179c919ce91a4c2f8036f0813f62c_trns_h264/playlist.m3u8
@@ -24,3 +22,5 @@ stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_au
 Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+foxylovesyou https://edge4-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-3e828186b13fcb624de28250804a3ac8657461ccf39ab7a5925f3eab00cb7199_trns_h264/playlist.m3u8
+fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8

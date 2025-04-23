@@ -330,3 +330,11 @@ Wed Apr 23 14:39:05 CST 2025
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加foxylovesyou https://edge4-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-3e828186b13fcb624de28250804a3ac8657461ccf39ab7a5925f3eab00cb7199_trns_h264/playlist.m3u8
+Wed Apr 23 14:54:59 CST 2025
+Wed Apr 23 14:55:16 CST 2025
+Wed Apr 23 14:57:19 CST 2025
+Wed Apr 23 14:58:14 CST 2025
+添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
