@@ -140,3 +140,9 @@ Thu Apr 24 04:32:08 CST 2025
 删除oki_dokie https://edge13-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-69c1dded3825fd109efe0329053ffe7d5fc51388b06df4aec030b5e97bff6474_trns_h264/playlist.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ef6lEdQ27Jr2HE0seQHpWedsDTzxazJkKhEHvh_ZiMczH2dhODyfklCFNXbT7098qvcTWRwFje4aJzF9y6vdcXQnT10jSJVRr4StO3qTtrwTdr72GK3YB_raMwT5jL5L
 删除lovewindy https://edge17-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-954f2916f4cde0bb94b03ea953ee1906612b348c8e5a408c8fd62e4d119a2fce_trns_h264/playlist.m3u8
+添加oki_dokie https://edge19-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-25489faadf341e67e6ec28323e3b5dea6cb2d0ff6469564065488d227c07772f_trns_h264/playlist.m3u8
+添加_meganmeow_ https://edge2-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-4a1a78dadca0b5bfc8fad8965d22439fe68bcbd9c57d394c2cd74a4d33458648_trns_h264/playlist.m3u8
+Thu Apr 24 04:43:46 CST 2025
+Thu Apr 24 04:43:51 CST 2025
+Thu Apr 24 04:46:07 CST 2025
+Thu Apr 24 04:47:12 CST 2025
