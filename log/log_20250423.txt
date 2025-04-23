@@ -362,3 +362,8 @@ Wed Apr 23 15:48:28 CST 2025
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Wed Apr 23 15:58:05 CST 2025
+Wed Apr 23 15:58:28 CST 2025
+Wed Apr 23 16:00:46 CST 2025
+Wed Apr 23 16:01:52 CST 2025
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
