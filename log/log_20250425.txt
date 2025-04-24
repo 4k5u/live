@@ -1,0 +1,7 @@
+Fri Apr 25 00:01:21 CST 2025
+Fri Apr 25 00:02:26 CST 2025
+删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Fl1GaaqWi3OeMyNal8rvvK74ju5dam0hHtUnlOg7ziKsZjLkFg2Q9GtSGjKANBughfjGjvXyKYx2HP_lLZZEmFbEFmMOHWRttc8W_B8wt_pfm4L5Hr3VfiZ0FEeh4YY0
+删除k19g61m1pzneds https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.3RtgFZOcTG4D.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8zUnRnRlpPY1RHNEQiLCJleHAiOjE3NDU1NDM1ODc2ODAsImlhdCI6MTc0NTUwMDM4N30.9wFhErrQ9KpFix0Fxz-5zxrO0cZXzBkjTzqTxzL_7zYrcRB7gBVj8rVQTbjmfRrLfLpO6kjrzbzUSGEImtltNGwOMkW9UZeMpp2Ma2Pt8vHwIxxL3FxDIgSyE3rjIr6W
+删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+删除rosyemily https://edge18-aus.live.mmcdn.com/live-hls/amlst:rosyemily-sd-81e238912c2db07854eb1b976f376de3c49fca10ebf753713c7ffe3ed1cfef13_trns_h264/playlist.m3u8
