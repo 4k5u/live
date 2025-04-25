@@ -182,3 +182,8 @@ Sat Apr 26 07:26:37 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+添加oki_dokie https://edge5-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-29b96dc879794b437f93fa4eb5d06bd2d984dd3720e10f7ad4b16c5863820ee2_trns_h264/playlist.m3u8
+Sat Apr 26 07:40:32 CST 2025
+Sat Apr 26 07:40:39 CST 2025
+Sat Apr 26 07:42:56 CST 2025
+Sat Apr 26 07:44:00 CST 2025
