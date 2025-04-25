@@ -13,3 +13,4 @@ tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 oki_dokie https://edge7-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-fff67912f22cf173487d91fdfa6f47159a701162d1ba92d566ffb6b23c2144f1_trns_h264/playlist.m3u8
+Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
