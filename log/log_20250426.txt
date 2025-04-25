@@ -123,3 +123,10 @@ Sat Apr 26 03:52:51 CST 2025
 Sat Apr 26 03:54:55 CST 2025
 Sat Apr 26 03:55:51 CST 2025
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+添加kiriko_chan https://edge23-atl.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-29f1625ed04610203ad3c8d61959262d7ab21aea500f3a188d6f91e795af9ad8_trns_h264/playlist.m3u8
+Sat Apr 26 04:24:09 CST 2025
+Sat Apr 26 04:24:16 CST 2025
+Sat Apr 26 04:26:32 CST 2025
+Sat Apr 26 04:27:37 CST 2025
+删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.H-4XmHU6UjA4_uDEZzJiVTs4qW521-1Dqwm17BUXBGkabqUZv4pf0AScSKEoERM9Ka0EEVCLd2bjDH-1VSVSrTRFflh5h0B07E7gRZclt1trwOjwZN7b_AHy_1C84Muy
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
