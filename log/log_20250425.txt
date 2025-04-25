@@ -316,3 +316,9 @@ Fri Apr 25 17:27:35 CST 2025
 删除ake_mi https://edge20-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2f6336a0a232250fb1b76b886c406c95adf674e3deae6f075766c481377b36e8_trns_h264/playlist.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Fri Apr 25 17:42:42 CST 2025
+Fri Apr 25 17:42:53 CST 2025
+Fri Apr 25 17:45:08 CST 2025
+Fri Apr 25 17:46:11 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除oki_dokie https://edge7-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-fff67912f22cf173487d91fdfa6f47159a701162d1ba92d566ffb6b23c2144f1_trns_h264/playlist.m3u8
