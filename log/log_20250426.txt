@@ -164,3 +164,8 @@ Sat Apr 26 06:24:51 CST 2025
 Sat Apr 26 06:25:55 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sat Apr 26 06:45:17 CST 2025
+Sat Apr 26 06:45:22 CST 2025
+Sat Apr 26 06:47:38 CST 2025
+Sat Apr 26 06:48:44 CST 2025
+删除oki_dokie https://edge1-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2955b9dc7ffb56f503416912b40df5642d8af9be1df3f37100e8e500bbc1ddc8_trns_h264/playlist.m3u8
