@@ -272,3 +272,8 @@ Fri Apr 25 15:25:31 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除icubi69 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.GUsiHfsr4rWj.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0dVc2lIZnNyNHJXaiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMERGNDMwOC01Q0FDLTQzNDAtQkY2RC1FQ0Y2REEwMzA0RjEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTU1MTYzOSwiZXhwIjoxNzQ1NTUyMjM5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.50TAhI6irTIwdDZUCdpgeoRjWDAPsSRcWd2sk2QZ6Xy7h2I7dyv4BDzYQVougYEgE64QKbqvaZHg8sAuogGB73BifQaT6zgKfmxIdUcN9Tr58BoimURzcYNIYGYlJ3E2
 删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+添加ake_mi https://edge20-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2f6336a0a232250fb1b76b886c406c95adf674e3deae6f075766c481377b36e8_trns_h264/playlist.m3u8
+Fri Apr 25 15:35:44 CST 2025
+Fri Apr 25 15:35:55 CST 2025
+Fri Apr 25 15:38:13 CST 2025
+Fri Apr 25 15:39:18 CST 2025
