@@ -11,3 +11,4 @@ zmalqp6666 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 lovewindy https://edge6-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-61629746bfc39f7efa25c083c01b30a48fea3aad57432b53661ea12586ec2749_trns_h264/playlist.m3u8
+cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
