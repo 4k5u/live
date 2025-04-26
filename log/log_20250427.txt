@@ -133,3 +133,11 @@ Sun Apr 27 04:41:17 CST 2025
 Sun Apr 27 04:43:34 CST 2025
 Sun Apr 27 04:44:39 CST 2025
 删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+添加kiriko_chan https://edge6-lax.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-574c63d919efa89265ccb96cbb6e2bb64103aae9348926b955fee8cc7a87ee2c_trns_h264/playlist.m3u8
+Sun Apr 27 04:52:36 CST 2025
+Sun Apr 27 04:52:47 CST 2025
+Sun Apr 27 04:54:51 CST 2025
+Sun Apr 27 04:55:48 CST 2025
+删除do2do2 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.nXKbFeZk6wXA.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9uWEtiRmVaazZ3WEEiLCJleHAiOjE3NDU3MTkyNzA5NDMsImlhdCI6MTc0NTY3NjA3MH0.vWNAUri__tjsSCv9nGFjrsm9urlnCy41pxoAXGMcuWeBeXaWuqDkwUPxNSWYK0qpKDp0L0wUdCfTrIgBH0hmMjgHNOx4yuFQKMlrMlk4R5-dSQ6bFmV1e7cmG4yPw3lr
+删除calliadesigner https://edge3-aus.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-e815e24c8ee2894359e87fbdf0edad435c8c80c57eedc0efdc56b7c862e79fea_trns_h264/playlist.m3u8
+删除oki_dokie https://edge10-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f2e2cbf02ddf8d8d934ddd98739659efdc5251dd97450022ba846b5e951ac5a4_trns_h264/playlist.m3u8
