@@ -2,7 +2,6 @@ ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx
 zoahakdlf https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LGiwhOpsvff5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xHaXdoT3BzdmZmNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQjI4NjY3QS1EMjA3LTRGOTAtOTg1Ni0xODQ2NkEyNTIwMjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTU3Nzk5MCwiZXhwIjoxNzQ1NTc4NTkwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.rqWq1Hqvvf7FAWkVoW5IP85YeUvgWG7figfo6q4VmFv3zgyAaz7ikUrWhUHuKIA9gjtvmmuIzCPfCAFan8g1ZPizkTTDFHrnrM4sCdWW-tlZzKyN1WepxPpaonClZpzc
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFRjQ2Qjg4RS0yNjdCLTRDQzctQjgxNy1FOTc1QzgyRjY2QTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTYyMzM4NCwiZXhwIjoxNzQ1NjIzOTg0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.CdxmAOuy1soWHmphSNNNYXMaEJ5JEp7henlK7HMfjNFlRiwL8k2OUIVx70H37UlkHsqm-t2uMbnyPf7-NIEfMrHeHBEY4VjqoQoPPdSuLhsaZAyee1FyWJdPk4Z0VfI4
-big541 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0TccqyPdQzsjgC3j-VfsD9AxfTd4o01FMB6ygfgwzwgtLEDMn1SYddcEhMR0Y-PYsjCCs021wndw5F1k1IinzWEU90oMN-i5SNw5j88dmcIhhIcTRoWN7SifsOWlAGnq
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
@@ -22,3 +21,5 @@ alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
