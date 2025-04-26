@@ -193,3 +193,9 @@ Sun Apr 27 07:26:41 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除oki_dokie https://edge24-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-36da47feca37c8381cef99757923aad1ca30278e7f48d789dd43eeffff1dcab0_trns_h264/playlist.m3u8
+添加oki_dokie https://edge24-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-36da47feca37c8381cef99757923aad1ca30278e7f48d789dd43eeffff1dcab0_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge3-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-5feaacb3fc8478e7919deeefacdd76d19047232680c19773c2c4944c65c05361_trns_h264/playlist.m3u8
+Sun Apr 27 07:39:47 CST 2025
+Sun Apr 27 07:40:00 CST 2025
+Sun Apr 27 07:42:14 CST 2025
+Sun Apr 27 07:43:18 CST 2025
