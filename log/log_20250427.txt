@@ -94,3 +94,11 @@ Sun Apr 27 02:53:53 CST 2025
 删除oki_dokie https://edge3-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-55202853b336cf3215961893405e84e371b2258d5f154693bbe6d4772153edea_trns_h264/playlist.m3u8
 删除ad0res https://edge25-ash.live.mmcdn.com/live-hls/amlst:ad0res-sd-6ff2394314d19e6d172cab7c1df5ae917e126bb64e931f3240224dda59c4892a_trns_h264/playlist.m3u8
 删除leeaeae123 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.y9L6K2qYP4iK.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3k5TDZLMnFZUDRpSyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0OEIxMjY3MS03NUEwLTRGNzUtOUE4MS03OUFBNDA3RkU2NEUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTY4ODgwNiwiZXhwIjoxNzQ1Njg5NDA2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Rvcp-1QqI_gDoJWlomdFarFopxnkzYGWKL2Gbw-IYk4798wproHgUoA-dRmI5j2knmTPBk0f0vLsfc6qCkn9h3CjktK5I-F_fVACAOGIQLjpLJ5g5Ls-PkkrlebQ3we_
+添加oki_dokie https://edge10-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f2e2cbf02ddf8d8d934ddd98739659efdc5251dd97450022ba846b5e951ac5a4_trns_h264/playlist.m3u8
+Sun Apr 27 03:02:32 CST 2025
+Sun Apr 27 03:02:45 CST 2025
+Sun Apr 27 03:04:46 CST 2025
+Sun Apr 27 03:05:41 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
