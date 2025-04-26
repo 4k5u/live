@@ -464,3 +464,9 @@ Sat Apr 26 19:42:41 CST 2025
 Sat Apr 26 19:44:57 CST 2025
 Sat Apr 26 19:46:05 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+Sat Apr 26 19:53:11 CST 2025
+Sat Apr 26 19:53:58 CST 2025
+Sat Apr 26 19:56:14 CST 2025
+Sat Apr 26 19:57:21 CST 2025
+删除Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+删除gyg4618 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Klh5zfAoMIRP.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tsaDV6ZkFvTUlSUCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMjFEQzY1Qi02OTFCLTQxMjEtODM2OS05MEU2MDMwMTI2QUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTY2NjM2NiwiZXhwIjoxNzQ1NjY2OTY2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.4z3RkXccSCsu_a657JOdc98wHRwBzKgjV4A0fntpmK8sgS9l4T0zpW0hsOh8juaeFM3V1qwJ3Wvhm6GJZRaMsS6O9j6Nt_1Rn69UTu6tL2oQ2F19g43Hoj-Seqivaetv
