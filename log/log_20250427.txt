@@ -247,3 +247,10 @@ Sun Apr 27 11:56:13 CST 2025
 Sun Apr 27 11:57:17 CST 2025
 添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除oki_dokie https://edge24-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-36da47feca37c8381cef99757923aad1ca30278e7f48d789dd43eeffff1dcab0_trns_h264/playlist.m3u8
+Sun Apr 27 12:25:29 CST 2025
+Sun Apr 27 12:25:44 CST 2025
+添加kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.lEzhew65A9_ILi5Waca0x2izbn0XvtNWFVPoX87vh8GMTZO3UopM3NYx9MZ-IHjQl2Legyw3SbZH4ZMp9cqxA2ehJsfG7E_sPz5wEXpwLc3MIOFvGU_6mwEdN70D9rCv
+Sun Apr 27 12:28:05 CST 2025
+Sun Apr 27 12:29:08 CST 2025
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
