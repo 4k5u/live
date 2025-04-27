@@ -138,3 +138,10 @@ Mon Apr 28 05:32:32 CST 2025
 Mon Apr 28 05:32:35 CST 2025
 Mon Apr 28 05:34:37 CST 2025
 Mon Apr 28 05:35:32 CST 2025
+添加oki_dokie https://edge6-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-89e23ec01b538a6ae3bd3dd5e9fd9fe6fb85b118f713f61fde02bd00231479c5_trns_h264/playlist.m3u8
+Mon Apr 28 05:43:12 CST 2025
+Mon Apr 28 05:43:15 CST 2025
+Mon Apr 28 05:45:26 CST 2025
+Mon Apr 28 05:46:27 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
