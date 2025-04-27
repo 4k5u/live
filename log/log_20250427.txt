@@ -304,3 +304,9 @@ Sun Apr 27 14:36:02 CST 2025
 删除love0098 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CXrcyqIV2oSE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NYcmN5cUlWMm9TRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMTE2NjBDMS1CN0MwLTQwMTItODcyRi0zMTdBNzQ3NDNBN0YiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTcxNDcxNywiZXhwIjoxNzQ1NzE1MzE3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.kg7Htft0Ws2shocfwojmNtJxqBnjJRVPT-iRpdKLigFr6-FPRqnmtJGB5FTVW5OOdQgI3drBHqkqAwFAG_ZKV1aDbQPL2Aej39CxwCm9zB3ugUddT4QoOXIHw9L6QVO7
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Sun Apr 27 14:52:14 CST 2025
+Sun Apr 27 14:52:33 CST 2025
+Sun Apr 27 14:54:48 CST 2025
+Sun Apr 27 14:55:51 CST 2025
+删除Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+删除Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
