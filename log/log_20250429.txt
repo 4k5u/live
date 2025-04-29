@@ -311,3 +311,10 @@ Tue Apr 29 15:53:00 CST 2025
 Tue Apr 29 15:53:19 CST 2025
 Tue Apr 29 15:55:21 CST 2025
 Tue Apr 29 15:56:16 CST 2025
+添加ake_mi https://edge7-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2b9722937d2c3f4655ea369990ae63e0ec143ab60a52f178561e2b978c3b60dd_trns_h264/playlist.m3u8
+Tue Apr 29 16:31:19 CST 2025
+Tue Apr 29 16:31:38 CST 2025
+Tue Apr 29 16:33:56 CST 2025
+Tue Apr 29 16:35:00 CST 2025
+删除1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.pBeQnS8h5NKs3cNAOBKPDmZWu64roMrh2uc83gVGp0HO-UTHsQx7PhWylcQ-tS5XmSrYJro2W2sVpMVstmSGG5qYlpuqoPW8P2gL-RKbEiEwFBli_FfATmGZJqdnZKiU
+删除bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
