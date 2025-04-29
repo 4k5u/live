@@ -10,7 +10,6 @@ gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_pla
 IsMiMi https://edge-hls.doppiocdn.live/hls/52028289/master/52028289_auto.m3u8
 mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
-172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 lovewindy https://edge17-atl.live.mmcdn.com/live-hls/amlst:lovewindy-sd-2320de0fd3c9430c8fcd2891d952132d64dd3e02b8739c36c845b0fe930600d3_trns_h264/playlist.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
