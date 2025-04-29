@@ -301,3 +301,9 @@ Tue Apr 29 15:27:15 CST 2025
 删除big541 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.pBeQnS8h5NKs3cNAOBKPDioVv248_kl72oiF7GCvocAe34YS8vcXlnmkKe6r4nBa7VyrVNCf30olcerY65KHpMVUE2QSN09McLu02Cpj-iyvrYTp0lU-N68f_ZTirKN8
 删除qkrchfhd90 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.QI6mPunEFUdF.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1FJNm1QdW5FRlVkRiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNzMzOTVFNC03Mjg0LTRDNDUtQjNBMC05QzNCM0QyNDk2MzMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTkwNDMyMiwiZXhwIjoxNzQ1OTA0OTIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gAoTRj1r4YuzosvOV5V9216WFKLNTYHm0ej5CkL7tTvEldsSM9_oww8Qn0zLShBdsc4BerglgbeJF5qxF2lF3i1UUiwwDqQ7zFkffoQ2h3DPA2i8-jfVeKgWmXt_uukT
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Tue Apr 29 15:41:56 CST 2025
+Tue Apr 29 15:42:15 CST 2025
+Tue Apr 29 15:44:16 CST 2025
+Tue Apr 29 15:45:11 CST 2025
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
