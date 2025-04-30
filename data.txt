@@ -8,3 +8,4 @@ dusdk2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 oki_dokie https://edge10-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-54366e48fef631b7c362505d444a6f922d2ddce22f5e11dabb7dc1065349f130_trns_h264/playlist.m3u8
 IsMiMi https://edge-hls.doppiocdn.live/hls/52028289/master/52028289_auto.m3u8
+LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
