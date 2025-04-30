@@ -231,3 +231,10 @@ Wed Apr 30 12:35:26 CST 2025
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Wed Apr 30 12:50:54 CST 2025
+Wed Apr 30 12:51:06 CST 2025
+Wed Apr 30 12:53:08 CST 2025
+Wed Apr 30 12:54:03 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
