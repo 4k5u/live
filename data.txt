@@ -20,3 +20,4 @@ sksnrnrp11 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zrAKX33IPNSsS_ZFNKODYQ4SVWYaj342fYMNv1c3XnGQ9IULOhIY9Nn9asjeW00jH4bjjQhNcRRUMA3xh9JZThQ935tz4iPuaC5zzX5kXj1_-XyLkJfe0Q9koXJC_P2l
 stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
