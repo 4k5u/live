@@ -377,3 +377,11 @@ Wed Apr 30 18:30:29 CST 2025
 Wed Apr 30 18:31:34 CST 2025
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除iminako https://edge13-phx.live.mmcdn.com/live-hls/amlst:iminako-sd-f6ce2e788f3720f72a079c00c9cfc64748bd8b522a302dd3795e481e32e41b40_trns_h264/playlist.m3u8
+Wed Apr 30 18:46:58 CST 2025
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5CF4w5XAvR8X.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVDRjR3NVhBdlI4WCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNUM4MzBFQi05MzM3LTRFRDYtOUVGMS1ERTdFNEMzNEI5OTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjAxMDAyMiwiZXhwIjoxNzQ2MDEwNjIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.p1mQcNHVI0sm4zXbc87mz2OXaKm8raSzKeTCrouilbcV1ixrWPzvSg8ULA40OGH1GYqK3ukeqJsIIoiSSbrbgAzAX7Yr_w0WgJl9y242Kxa1Vm4JfCXmqaPnR3JCwpTT
+Wed Apr 30 18:47:36 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Wed Apr 30 18:50:22 CST 2025
+Wed Apr 30 18:51:25 CST 2025
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
