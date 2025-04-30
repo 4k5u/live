@@ -6,3 +6,6 @@ __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 oki_dokie https://edge5-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2fd3dc849a5722f5529ca774927da401a0d0a6ad2df02ad709b963238dd6ea83_trns_h264/playlist.m3u8
 LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
