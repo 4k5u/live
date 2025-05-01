@@ -158,3 +158,11 @@ Fri May 2 06:10:25 CST 2025
 Fri May 2 06:10:30 CST 2025
 Fri May 2 06:12:32 CST 2025
 Fri May 2 06:13:26 CST 2025
+添加mazzanti_ https://edge3-phx.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-62969b07d6160daba4b6b9ed6dcc316f025f0e06f777bfb624a44763358ef874_trns_h264/playlist.m3u8
+Fri May 2 06:34:58 CST 2025
+Fri May 2 06:35:03 CST 2025
+Fri May 2 06:37:11 CST 2025
+Fri May 2 06:38:12 CST 2025
+删除oki_dokie https://edge15-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a092d81a4369f3c54afef8f024aaea873b4a7f4587a6982a59bbbd921d4cc5d1_trns_h264/playlist.m3u8
+删除sexygamesx https://edge12-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-4ef3379c351ab889af65d9171db295ab93a5f7c32733372d7a9626f6db52c867_trns_h264/playlist.m3u8
+删除kiriko_chan https://edge12-lax.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-9fa78afa14d68f7b697dfae2ba817b4d5cf43a9b04189605b4f1b154063b22ec_trns_h264/playlist.m3u8
