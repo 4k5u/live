@@ -150,3 +150,7 @@ Fri May 2 05:42:37 CST 2025
 Fri May 2 05:43:40 CST 2025
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
 删除lovewindy https://edge15-phx.live.mmcdn.com/live-hls/amlst:lovewindy-sd-b8b694a03837c25dd64bde1025455cd2dd0de4f1c7bf89681c4abe7c218ad8cc_trns_h264/playlist.m3u8
+Fri May 2 05:51:37 CST 2025
+Fri May 2 05:51:42 CST 2025
+Fri May 2 05:53:54 CST 2025
+Fri May 2 05:54:55 CST 2025
