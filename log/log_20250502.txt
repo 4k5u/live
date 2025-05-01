@@ -183,3 +183,9 @@ Fri May 2 07:26:16 CST 2025
 Fri May 2 07:28:33 CST 2025
 Fri May 2 07:29:36 CST 2025
 删除IsMiMi https://edge-hls.doppiocdn.live/hls/52028289/master/52028289_auto.m3u8
+Fri May 2 07:41:29 CST 2025
+Fri May 2 07:41:32 CST 2025
+Fri May 2 07:43:33 CST 2025
+Fri May 2 07:44:28 CST 2025
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除sexygamesx https://edge23-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-bad5a4856fe626628228c803a257d8a9d175f5a0e3f97ae98e2dde4132340057_trns_h264/playlist.m3u8
