@@ -172,3 +172,9 @@ Fri May 2 06:49:48 CST 2025
 Fri May 2 06:52:05 CST 2025
 Fri May 2 06:53:11 CST 2025
 删除merryxmas77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WoO04uYmgtVV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dvTzA0dVltZ3RWViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQjA1NkQ3Ri0xNjQyLTQ3MjAtOTNCMS1CODU2MzQ5ODEwOTkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjEzMjE2MywiZXhwIjoxNzQ2MTMyNzYzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.kfg1dv_KUGKAKiQ1L0SvPkv0Dh1pW4vDgjQae6oTO3lPHyU1HYkIPnTTvaSh1LRZWRvQvMJL43wIQFmYNmwL6tuhruBHkl3QRE7nLz6qgUZiIOgr_zGbxC0XgU5ZBqSf
+添加oki_dokie https://edge15-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-456da034a7d14b296ff0c831a98eec16fb9505f552c4386de46e321f24ccffb9_trns_h264/playlist.m3u8
+Fri May 2 07:00:09 CST 2025
+Fri May 2 07:00:13 CST 2025
+Fri May 2 07:02:17 CST 2025
+Fri May 2 07:03:15 CST 2025
+添加LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8

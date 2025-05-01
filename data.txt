@@ -10,3 +10,5 @@ dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_pla
 l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 mazzanti_ https://edge3-phx.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-62969b07d6160daba4b6b9ed6dcc316f025f0e06f777bfb624a44763358ef874_trns_h264/playlist.m3u8
 sexygamesx https://edge23-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-bad5a4856fe626628228c803a257d8a9d175f5a0e3f97ae98e2dde4132340057_trns_h264/playlist.m3u8
+oki_dokie https://edge15-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-456da034a7d14b296ff0c831a98eec16fb9505f552c4386de46e321f24ccffb9_trns_h264/playlist.m3u8
+LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
