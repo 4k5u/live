@@ -15,3 +15,4 @@ iminako https://edge1-lax.live.mmcdn.com/live-hls/amlst:iminako-sd-58b174b16d15e
 foxylovesyou https://edge16-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-041c0089786eb5a2fbfaff445d646714b44f52e0c0c8698cca51c36ad53b803a_trns_h264/playlist.m3u8
 zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
