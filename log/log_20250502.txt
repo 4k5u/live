@@ -337,3 +337,10 @@ Fri May 2 17:45:14 CST 2025
 Fri May 2 17:45:40 CST 2025
 Fri May 2 17:47:47 CST 2025
 Fri May 2 17:48:48 CST 2025
+Fri May 2 17:58:29 CST 2025
+Fri May 2 17:58:50 CST 2025
+Fri May 2 18:00:54 CST 2025
+Fri May 2 18:01:52 CST 2025
+删除icubi69 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.GUsiHfsr4rWj.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0dVc2lIZnNyNHJXaiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzOUZGOTJBNi0xNEI4LTQwRTItOEM4NC0zQkU2MzNEOTJGMDMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjE2MDM2NSwiZXhwIjoxNzQ2MTYwOTY1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.iAZq6FyWeTPx-7xLPi9Ws0uRkHvOGQv8GNwDJa7Ahb327NiNTLT5buBD8DghpbpaE6QCpwSdEJBAIBzYLJc96E6_gWbJ79AcatlO1xhBDbvkYpg5yfPAP6h8_clSKIH7
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=null
