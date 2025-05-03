@@ -202,3 +202,11 @@ Sat May 3 11:15:27 CST 2025
 添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除mazzanti_ https://edge6-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7f641b50a17b3668bd86d24588112923ec9569e779b6b395ab9c0265dc3c7911_trns_h264/playlist.m3u8
 删除suee2332 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vmp1QKeAFNdG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZtcDFRS2VBRk5kRyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5ODU3N0QzNi03MEEzLTQwMjEtQTZCOS05MDE4OUIyRjhGQzUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjIzNzc0MiwiZXhwIjoxNzQ2MjM4MzQyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gmaTJKU4A0s3G2DMLY100K0dyWe5237sWZEQXtHqNLOHJd2kKAJ_5PDxj9wouR-YESLBqjd_w6KFzj5ruAq3vf0HmReIiwFMHrVoeB5GX3CvKB3-6grDJ5hhdmBJG__A
+Sat May 3 11:47:50 CST 2025
+Sat May 3 11:47:53 CST 2025
+Sat May 3 11:50:02 CST 2025
+Sat May 3 11:51:02 CST 2025
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除_meganmeow_ https://edge5-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-571ed65066c6fc068075d54cc776cd30053d277049a8bf291bb1e27f8f4294ac_trns_h264/playlist.m3u8
