@@ -351,3 +351,8 @@ Sat May 3 17:43:11 CST 2025
 Sat May 3 17:44:06 CST 2025
 删除oki_dokie https://edge4-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4e67c5f7715e92e3509f38aec41b4d1a6272a4d5ccb44284a6d6bb04f6cd8115_trns_h264/playlist.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Sat May 3 17:51:55 CST 2025
+Sat May 3 17:52:18 CST 2025
+Sat May 3 17:54:32 CST 2025
+Sat May 3 17:55:36 CST 2025
+删除ad0res https://edge25-atl.live.mmcdn.com/live-hls/amlst:ad0res-sd-9854ea658ec3a9ffc7d0a0bb2c4654fec8dbe7b57ea17ca5ace9ef5e947b3e3b_trns_h264/playlist.m3u8
