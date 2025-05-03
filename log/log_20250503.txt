@@ -310,3 +310,12 @@ Sat May 3 16:02:07 CST 2025
 Sat May 3 16:03:09 CST 2025
 删除twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vt4bRMU4ZgTXsXMegW7F8zdNO06V0IjQDxIpF4YLzbP_YVcKxJfRwQau0Vh-qfxCYAPDcLR5KDR9oZPJPhZ90TAFlkUONx9pNUdRTwRe_56ccL-ELT6S-Bo6XfPVjWs1
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Gonx8ew6SxS0PL1ohboSV8zeWm1nRf2MpZvQl9QF7Bc30RYRdKYKh9hmcJWrWKtG5IFhbrQL2QOZtLQoP6oL11dgquA8vGjivXu4i-cjIJBjLyfotWOpr2No-PbDr1pA
+Sat May 3 16:31:36 CST 2025
+添加lovelypower77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OpRSg42ryu6h.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09wUlNnNDJyeXU2aCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0RjNBMUEyQy1DMTBFLTQ5MzMtQUVEMS0wQTI3NUU5REJCMDUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjI2MTEwOSwiZXhwIjoxNzQ2MjYxNzA5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cnw-8Cci-g9hbX1wHj3fIE3cAnU6l1VsOwt77MUb_Y9nRnFCn_f6W_a4To1XSiDTA59yWv5hWuIDvmShYusqkcMujUIRpDmhcHoPef9LKOqy4LSpo86x1frzP_sT9d01
+Sat May 3 16:32:02 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Sat May 3 16:34:21 CST 2025
+Sat May 3 16:35:26 CST 2025
+添加zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除sexygamesx https://edge5-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-e77dd59c49df3affa8300f93319b321b72e93fb65cd808608221450201b54538_trns_h264/playlist.m3u8
