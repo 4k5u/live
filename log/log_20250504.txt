@@ -168,3 +168,9 @@ Sun May 4 06:29:39 CST 2025
 添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyRjJBQjBGQi1DNjJELTQxQTAtQTI5RC03QzIzRERENTdFMzgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjE4NDkyOCwiZXhwIjoxNzQ2MTg1NTI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.4E3V9umtu_6JytmMSE_cfT6JpWqv7wo97G9kNBCwnE681p2IKB4AWAp7mOULoaCwA8n16Y5y7BXt_RK4FtMZLuvPE5-CaOwz20niucF_MJeR_k7OYvM73Olt5z-xVZ_-
+Sun May 4 06:42:39 CST 2025
+Sun May 4 06:42:48 CST 2025
+Sun May 4 06:45:04 CST 2025
+Sun May 4 06:46:09 CST 2025
+删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.84mI0nHxNvhrxktv1GjjUhtESdpgD6MmZS-Wdp6n5JrBvS9ooHoEoSPrwgOpULsCgTDYICbn6LoXdCZZZUB-WuKpus393UNcfbbnEEu0bjZoKhE7JTHazGxBumW8SjB5
+删除sexygamesx https://edge8-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-706098172c9fff2abbb65f471ba25c0e285c9356793a0c4dbe44df9245da8339_trns_h264/playlist.m3u8
