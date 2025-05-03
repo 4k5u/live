@@ -210,3 +210,10 @@ Sat May 3 11:51:02 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除_meganmeow_ https://edge5-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-571ed65066c6fc068075d54cc776cd30053d277049a8bf291bb1e27f8f4294ac_trns_h264/playlist.m3u8
+Sat May 3 11:59:45 CST 2025
+Sat May 3 11:59:48 CST 2025
+Sat May 3 12:02:03 CST 2025
+Sat May 3 12:03:07 CST 2025
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
