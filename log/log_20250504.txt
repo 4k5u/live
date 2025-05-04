@@ -385,3 +385,10 @@ Sun May 4 17:41:24 CST 2025
 Sun May 4 17:43:35 CST 2025
 Sun May 4 17:44:35 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加rosyemily https://edge3-ash.live.mmcdn.com/live-hls/amlst:rosyemily-sd-4415a0e173d3b1bb21781fcf97602c87b3c8b98993d7dd9d2ea21912e770f94f_trns_h264/playlist.m3u8
+Sun May 4 17:52:17 CST 2025
+Sun May 4 17:52:40 CST 2025
+Sun May 4 17:55:08 CST 2025
+Sun May 4 17:56:12 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
