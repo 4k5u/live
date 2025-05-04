@@ -361,3 +361,9 @@ Sun May 4 16:50:43 CST 2025
 Sun May 4 16:51:47 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Sun May 4 16:59:17 CST 2025
+Sun May 4 16:59:36 CST 2025
+Sun May 4 17:01:45 CST 2025
+Sun May 4 17:02:45 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除dign1461 ?aid=null
