@@ -138,3 +138,8 @@ Mon May 5 05:25:45 CST 2025
 Mon May 5 05:26:50 CST 2025
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除oki_dokie https://edge7-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-28b3833a93081e1ea04441d66ebbdbc0b7229654d4e9f5d8ab15cefe13134503_trns_h264/playlist.m3u8
+Mon May 5 05:40:37 CST 2025
+Mon May 5 05:40:48 CST 2025
+Mon May 5 05:42:49 CST 2025
+Mon May 5 05:43:44 CST 2025
+删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
