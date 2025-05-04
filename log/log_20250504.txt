@@ -446,3 +446,11 @@ Sun May 4 19:23:43 CST 2025
 删除taitehambelton https://edge14-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-31739e2d07e9f8eb33a435add128dea2fe32043a87826b8d3a11d5bfcc7a5aa4_trns_h264/playlist.m3u8
 删除ad0res https://edge5-sea.live.mmcdn.com/live-hls/amlst:ad0res-sd-a9b0a7ba5cdeccd7644a00aaf8759f45d08793fed6b7b485e6987840e6c96967_trns_h264/playlist.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Sun May 4 19:31:07 CST 2025
+Sun May 4 19:31:44 CST 2025
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GANY1vvcGQveubFIe0RznFvFHzfzL2r2m6csDztIlU2OBQrb3cdrqkQS7sTluC_OanPeqVLFX_0EQwu7b5Wz8W7k3nWVVmtCsWlfT2vXXm3FAzH1hT77ViOcPbqDbnWQ
+添加flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.kKUDK9oRHC-QSnRqSRnwKp50OVI_mGWV_OAA1O2EnatAXwwW5nXtKVsWwqujUgwzRcR-gabLWbJZjYAnZYcv-EuIwDryl4txu-QABSV_QthjI49u0HXHbzZZWEtQBTpO
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.kKUDK9oRHC-QSnRqSRnwKuQVpzDwznWWb5wDhQqB2N8L2Kl6ruvuGn57lvuXp1nzU7bKxT3KueVctdx4XoyorRm4Pr5hfBvSy5AxyJCHILZoHl_yn4tg82ZiEJFfLt2c
+Sun May 4 19:34:17 CST 2025
+Sun May 4 19:35:20 CST 2025
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
