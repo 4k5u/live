@@ -102,3 +102,9 @@ Mon May 5 03:33:22 CST 2025
 Mon May 5 03:35:37 CST 2025
 Mon May 5 03:36:41 CST 2025
 删除lovewindy https://edge29-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-bc9634203dd099282d4c674c330f78f7558d134fc2ad39f00db4c2c16aba10d8_trns_h264/playlist.m3u8
+Mon May 5 03:48:24 CST 2025
+Mon May 5 03:48:37 CST 2025
+Mon May 5 03:50:50 CST 2025
+Mon May 5 03:51:54 CST 2025
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
