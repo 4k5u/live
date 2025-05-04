@@ -132,3 +132,9 @@ Mon May 5 05:01:10 CST 2025
 Mon May 5 05:02:05 CST 2025
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Mon May 5 05:23:21 CST 2025
+Mon May 5 05:23:32 CST 2025
+Mon May 5 05:25:45 CST 2025
+Mon May 5 05:26:50 CST 2025
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除oki_dokie https://edge7-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-28b3833a93081e1ea04441d66ebbdbc0b7229654d4e9f5d8ab15cefe13134503_trns_h264/playlist.m3u8
