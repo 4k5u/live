@@ -269,3 +269,13 @@ Sun May 4 13:10:42 CST 2025
 Sun May 4 13:10:55 CST 2025
 Sun May 4 13:13:08 CST 2025
 Sun May 4 13:14:13 CST 2025
+添加oki_dokie https://edge10-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a567953413b7f4cacd05cf32b2b2f7cb968c546af3fc283134f64bb844cd7aef_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge5-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-90e466f844f43992cd5c78e85df1fd5dab75d636952dde2f914d43676fc4d397_trns_h264/playlist.m3u8
+Sun May 4 13:33:34 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNTVGOTdENC0zODY0LTQ1NzYtOUIyNS1CRTQzRkNBMTZGNkYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjMzNjgxNywiZXhwIjoxNzQ2MzM3NDE3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Hq3tdfLbwBC1vZxIZR-LpygTVkmTVl66eOmWfYAg74Mfu69lREGIGM5c-pb-bO8b-8EZ8YcII9NMjbtSJ-pYGWZ91WDSf-JYvZSXC3JeGrVzGqWgS6E-_vc_LOcEYy2A
+Sun May 4 13:33:49 CST 2025
+Sun May 4 13:36:03 CST 2025
+Sun May 4 13:37:06 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除taitehambelton https://edge12-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-31739e2d07e9f8eb33a435add128dea2fe32043a87826b8d3a11d5bfcc7a5aa4_trns_h264/playlist.m3u8
+删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jzqMI0ip5kdzgcrZxz1nflSDdSq5z3MDbHmD8eoTak2JDd-JYdhujdxETylnEq1q69pcmklrR36wOxc3jxrYX0MyKFkN2i0IDqF31jwfV8RCUW8p_1JGZz0gJv3YmIvy
