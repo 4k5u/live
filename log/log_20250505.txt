@@ -84,3 +84,8 @@ Mon May 5 02:51:16 CST 2025
 Mon May 5 02:52:21 CST 2025
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+Mon May 5 03:01:03 CST 2025
+Mon May 5 03:01:16 CST 2025
+Mon May 5 03:03:31 CST 2025
+Mon May 5 03:04:34 CST 2025
+删除purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.36xRsxcStOutQEM-VQPatNnl3AgLqK0MRygfyEQVmvQEThYYD9U12_YKRUgW6d0eSI31LDdVXFK25PchaNauOtQNeVrLawBPx1jDed1chmvLEHdSHSODVHibIJP2naoL
