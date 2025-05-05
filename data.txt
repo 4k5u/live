@@ -6,3 +6,4 @@ in0410 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
