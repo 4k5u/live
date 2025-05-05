@@ -132,3 +132,8 @@ Tue May 6 06:25:09 CST 2025
 Tue May 6 06:26:16 CST 2025
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+Tue May 6 06:45:21 CST 2025
+Tue May 6 06:45:30 CST 2025
+Tue May 6 06:47:32 CST 2025
+Tue May 6 06:48:27 CST 2025
+删除oki_dokie https://edge23-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2544613d3be13be940ae6bca8b0b12d223ceaf2cd69c6adf3a59d6e6bd5d7c30_trns_h264/playlist.m3u8
