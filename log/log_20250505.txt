@@ -447,3 +447,10 @@ Mon May 5 21:43:54 CST 2025
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除rosyemily https://edge25-atl.live.mmcdn.com/live-hls/amlst:rosyemily-sd-0e1bf4c41ea8e7ba3c2d8039941ae6ef0067f6c99fbb8fd065e514b1728e6148_trns_h264/playlist.m3u8
+Mon May 5 21:52:25 CST 2025
+Mon May 5 21:53:18 CST 2025
+Mon May 5 21:55:33 CST 2025
+Mon May 5 21:56:37 CST 2025
+添加jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+添加-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+删除100042 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WLl5DW7Jd3tv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dMbDVEVzdKZDN0diIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MDQzOEFCNi1FODVELTRBNDAtOEUxOS0wRkRCNDZEMkMzRTQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjQ0NzQ0NywiZXhwIjoxNzQ2NDQ4MDQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2OUgBMmogExZKXMlidezWmdw7M60czqFF18iaDGhIZ106gjLtWcUiLQ7f43Txp51iohcgHxE0pWVN-3fSWbB2H9N5T4efgIZgGj7x3lDgS8xaiFXzORuNToozo8i5wua
