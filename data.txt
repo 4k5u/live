@@ -28,3 +28,5 @@ jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.CsQxpp1NK1NuCSXqm81xWd3KBtSeQyzCZg4q8N4MuZEkPdv3Uw9Bkw5GKcu_rRKZE9ouxFpSbie5UCmyE0lRdhTrissi1jsmvaPieZzVfs_Pw6eetzchLgtctEl_uxVc
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
