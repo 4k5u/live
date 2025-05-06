@@ -89,3 +89,8 @@ Wed May 7 03:21:53 CST 2025
 删除Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
 删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwOTQxQ0Q2Mi1DMDVDLTQ1NDAtQUE2Mi05ODgyNkEzMTEzQzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjU0MzU1MiwiZXhwIjoxNzQ2NTQ0MTUyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.P7Wp6z0l8BvGLcPIMaHMn7X0-RZ-P4n0H6TuCog7Akcx5g9YxeFFBhrcNO5otunkIA1lsTaogSVS1LShnwWmVMNP9T_z3--GxRdaqDWTYXWKMYW7Fe7Vky8gPw2K0_xS
+Wed May 7 03:29:41 CST 2025
+Wed May 7 03:29:55 CST 2025
+Wed May 7 03:32:10 CST 2025
+Wed May 7 03:33:15 CST 2025
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
