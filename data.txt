@@ -5,3 +5,5 @@ starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 _meganmeow_ https://edge14-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-1d1426fd2584a170d924ccfffebccf19ce4661cf096f72599638233f59dd66e2_trns_h264/playlist.m3u8
 Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+Tmdgus5411 ?aid=null
+IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
