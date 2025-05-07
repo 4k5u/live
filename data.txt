@@ -5,7 +5,6 @@ dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
-leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.50FJYCs0Vb-062kpUvVuTo3kMrOnEZZf-ktmbHqk4lX1H1r0xmc2x8d_T23gVP-K0XnQN_uduAqNQ_LyjQW9TYaTgUbQAqM_GiypVDhos15ydWP2FGEmgFYeBtMazOyo
 lovewindy https://edge11-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-ef238217ead0cf1f3c0c59e38589157c013a79758d25ee3506426b0ff2176356_trns_h264/playlist.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
