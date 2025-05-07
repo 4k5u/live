@@ -188,3 +188,18 @@ Wed May 7 10:02:46 CST 2025
 添加Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加taitehambelton https://edge9-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-54560a08d6dcd53081771418dd8b578ae5beae79099974d2faad70587fd97e41_trns_h264/playlist.m3u8
+Wed May 7 11:15:00 CST 2025
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1RjQzMDEyMS0yMjUyLTQ0RUYtOUFBNy1COTEyQTI1NjI4NzEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjU4NzcwNSwiZXhwIjoxNzQ2NTg4MzA1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.TvcbNfcHYIYsk06oNGbouZfJLvZkffa0DLB_F4LdW8sSa1c552sKNPetYiKrbXvNDejA93RRpjrPh-4XkDRKWVbGcnH0Fkh3EXfrGLFWx0e-JT052DL4pf53MKsV3EvD
+Wed May 7 11:15:11 CST 2025
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9VVEC_eK6MCBYg4YoAy1E7ViD_vVmaTsCoKaVTg_iG7q3aIO8MNACJUxa8m2Cva1dRPiuwxuq4ke_efsPpdcPWQmBYna7nk6IpWp4RS4qoivqT94e4PE1tXrPN3oIcyM
+Wed May 7 11:17:32 CST 2025
+Wed May 7 11:18:37 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除_meganmeow_ https://edge14-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-1d1426fd2584a170d924ccfffebccf19ce4661cf096f72599638233f59dd66e2_trns_h264/playlist.m3u8
+删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+删除Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.YPamLXAnqLJJR25R83TlrL2-1gksXavlgs6xEIBIUg99lewuSuhxgc1blpEMmSZYkhw-kBpSp8adXZDJBnNkUDTWfYU3CFtZYuU54VvjFf3hxAOTkWjy66DCkI3D0HXu
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
