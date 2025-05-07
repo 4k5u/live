@@ -148,3 +148,7 @@ Thu May 8 06:30:47 CST 2025
 Thu May 8 06:31:50 CST 2025
 删除lovewindy https://edge11-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-ef238217ead0cf1f3c0c59e38589157c013a79758d25ee3506426b0ff2176356_trns_h264/playlist.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Thu May 8 06:45:51 CST 2025
+Thu May 8 06:45:56 CST 2025
+Thu May 8 06:48:10 CST 2025
+Thu May 8 06:49:15 CST 2025
