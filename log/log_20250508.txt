@@ -37,3 +37,12 @@ Thu May 8 01:24:59 CST 2025
 删除sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 删除Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Thu May 8 01:40:47 CST 2025
+Thu May 8 01:41:18 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.50FJYCs0Vb-062kpUvVuTo3kMrOnEZZf-ktmbHqk4lX1H1r0xmc2x8d_T23gVP-K0XnQN_uduAqNQ_LyjQW9TYaTgUbQAqM_GiypVDhos15ydWP2FGEmgFYeBtMazOyo
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.53ig2lPgYjansFXxD2scioEhMzi7NaA7VldkaqlaL2h8j-8Vc1mljRdz9GDC2jfJNxvPgJaRVRD1U-K1PbOKyoE_p9gA-Us3RWZ0U9QPQ0rIMk2UDj9xsXPWYam7AzTG
+Thu May 8 01:43:49 CST 2025
+Thu May 8 01:44:58 CST 2025
+删除dks2003 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ejL6YF0BUhNG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VqTDZZRjBCVWhORyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MDg4MDhBQi03N0JELTREMzgtQTcyRi01OEMyMzAwQzMwN0QiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjYyMzE4NCwiZXhwIjoxNzQ2NjIzNzg0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.5sxx6afbTv2jU8grs15Yw_l_-mAa86NgMYkKCtg3E2TdOZtIrvnFoglQcykt4BltX4pRUXKZ1scSi5oFOCeIK6HmU5HB3D9FLZjVtc0gdNoTyEguRxCWl5eeoQKpCEHV
+删除NOA_oO https://edge-hls.doppiocdn.live/hls/135648437/master/135648437_auto.m3u8
+删除Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
