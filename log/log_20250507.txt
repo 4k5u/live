@@ -203,3 +203,9 @@ Wed May 7 11:18:37 CST 2025
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
 删除Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.YPamLXAnqLJJR25R83TlrL2-1gksXavlgs6xEIBIUg99lewuSuhxgc1blpEMmSZYkhw-kBpSp8adXZDJBnNkUDTWfYU3CFtZYuU54VvjFf3hxAOTkWjy66DCkI3D0HXu
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Wed May 7 11:51:56 CST 2025
+Wed May 7 11:52:03 CST 2025
+添加yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Un_XYntdD2snuUwZw1IfzuRHGEayJxAEQqhuNBwoFS3SIGdDg2NdDsUrM-JRiKjWjPx_t9mHnCXpLeQeerpLTAvL5rBkgQ13YaDldQl4UWfheSu8N85ng12QOADYD77w
+Wed May 7 11:54:25 CST 2025
+Wed May 7 11:55:30 CST 2025
+删除flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JkgGs0DUSaAA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0prZ0dzMERVU2FBQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MTZCQjk4RS00QTYwLTRGMjQtODgyRC05OTUxMTc0MTI2OEIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjU0Mjg2NSwiZXhwIjoxNzQ2NTQzNDY1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.3d3ATNlXrWJHpwvbRtQrCTto6e0200k6OdEpV5q-x5rYtHl0uqaTi5ioIxKU8bLvFR95eTaagguhBTC97_IKtFIRE5q_njFX-_OSbsyQ_JZ05dE_bnDtb8Nm7htqs-YT
