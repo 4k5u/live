@@ -174,3 +174,8 @@ Fri May 9 07:41:49 CST 2025
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除dusdk2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.X9H5QvJu5b2M.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1g5SDVRdkp1NWIyTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NzVGQzMwNS02N0U3LTRBNkQtQTY2Ni1EQTEyQ0I3NTJDRDYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjczNzE5MiwiZXhwIjoxNzQ2NzM3NzkyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.V-OKbf1osoQjxqDQx3rvmaUeYnh2vBvacGP1C9ZgOVV3wXEyqJTt9kZbrJbsQOpTgg_1jv2uB-BUfyKfWE5VLx8AfZEULAovxNWQToaa8CqZWCqIHdU5KeqUfYzuVe6V
 删除oki_dokie https://edge29-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-dc13662948d89b72308729c6fe6d56a39f3c955a0714939e3dc7aed69b8ea7e0_trns_h264/playlist.m3u8
+Fri May 9 07:49:32 CST 2025
+Fri May 9 07:49:37 CST 2025
+Fri May 9 07:51:55 CST 2025
+Fri May 9 07:53:01 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
