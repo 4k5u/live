@@ -155,3 +155,8 @@ Fri May 9 06:41:22 CST 2025
 Fri May 9 06:43:35 CST 2025
 Fri May 9 06:44:40 CST 2025
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Fri May 9 06:52:35 CST 2025
+Fri May 9 06:52:44 CST 2025
+Fri May 9 06:54:56 CST 2025
+Fri May 9 06:55:58 CST 2025
+删除kiriko_chan https://edge11-chi.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-12a86d1fa173aedd8ebda9cee9a1a9a08f53ce7f0fd8c5177f23ab81be83080a_trns_h264/playlist.m3u8
