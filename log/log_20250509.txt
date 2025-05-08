@@ -1,0 +1,7 @@
+Fri May 9 00:01:39 CST 2025
+Fri May 9 00:02:36 CST 2025
+添加embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+添加-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OOBeOXdL0x8exnQSL6acA2q81nLUs4DFWhVFJMWL6onDRjk97WwTYphZC4BmjPHOXhml3H_mPgExB-MojzDuO-EH641gF5wiTKzZBNO9XeLrWVDGNBp-qZ7Yc_XL-tGW
+删除oki_dokie https://edge9-sea.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-29e5af2bef52c93afe274c11321778211ccdbde504eff7aa2754579592e6b3f5_trns_h264/playlist.m3u8
