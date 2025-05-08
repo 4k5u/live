@@ -234,3 +234,13 @@ Thu May 8 13:02:34 CST 2025
 Thu May 8 13:03:47 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 删除dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0N0QzRjBCQS00NzI1LTQ4MzItODMyNC0zRUVGOThGRjYzOEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjYyMDQ2NCwiZXhwIjoxNzQ2NjIxMDY0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ckGg8lOCLBohDw1Ut2wRXyfNLNbHrPx-Sje6Eq2Czg8EO-QbDfeb2PgD98Su_E6Qxpk_j6nC-6VFY1B_oSk_iLa7EOALvM1ARVrsgDkeCVO4SI1Ak75H-2kOxHwp3FvI
+添加sexygamesx https://edge19-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-38aeb42fdd4f308bea144b864620c25d06e36d7d091eed0e7d4c6b1cc8fd3252_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge24-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-bd0468fc177047780534212fc289a2624b301d70e3814530d580d34c962a4099_trns_h264/playlist.m3u8
+Thu May 8 13:29:30 CST 2025
+Thu May 8 13:29:41 CST 2025
+添加yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7kN5lsJ_FGwT-coaq93nF9N4m4Lm8irEGE6iTdysluRIe6AVAFCa3xlW42B2qBAEpzJW3uxNxdDDsbTQTe9hslmDrqiP2YIdFqXnRgIcBr34e1xnjn6vfPwskeO3RZGF
+添加1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WwFdaa5wn_CulG1rsL_A8hrC_LTMqWVIb_h6MUdVADazU-Oj7mPTAD3Gznur-OyWmhCfgPFEoOXx9CYHWKgUdKiVIR0CkWdKDm3Q4BiDcXl1yl7u96BHODS29S2OvrAx
+Thu May 8 13:32:06 CST 2025
+Thu May 8 13:33:10 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
