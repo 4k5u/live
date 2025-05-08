@@ -278,3 +278,17 @@ Thu May 8 14:41:09 CST 2025
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除oki_dokie https://edge24-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-00c5efb8194633b629fa13b2441c6d37d5a8c1c8175f25b7288c6887b0ffb842_trns_h264/playlist.m3u8
 删除sexygamesx https://edge19-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-38aeb42fdd4f308bea144b864620c25d06e36d7d091eed0e7d4c6b1cc8fd3252_trns_h264/playlist.m3u8
+Thu May 8 14:56:48 CST 2025
+Thu May 8 14:57:05 CST 2025
+Thu May 8 14:59:06 CST 2025
+Thu May 8 15:00:02 CST 2025
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
