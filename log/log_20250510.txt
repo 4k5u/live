@@ -120,3 +120,8 @@ Sat May 10 05:02:38 CST 2025
 添加Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
 删除oki_dokie https://edge3-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5a18373ed7ba048efbf1bd0924f2177cf288c6223306bb795609629f4a79b4b0_trns_h264/playlist.m3u8
 删除Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
+Sat May 10 05:24:47 CST 2025
+Sat May 10 05:24:56 CST 2025
+Sat May 10 05:27:10 CST 2025
+Sat May 10 05:28:15 CST 2025
+删除sexygamesx https://edge2-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-1249e93554ca8937bd84af5194c630af2910059ca92adf7264f342da121a7d96_trns_h264/playlist.m3u8
