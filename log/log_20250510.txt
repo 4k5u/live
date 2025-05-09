@@ -78,3 +78,9 @@ Sat May 10 02:58:11 CST 2025
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Sat May 10 03:20:08 CST 2025
+Sat May 10 03:20:33 CST 2025
+Sat May 10 03:22:46 CST 2025
+Sat May 10 03:23:47 CST 2025
+删除Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除yasexy https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNC1QhBOVKzm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQzFRaEJPVkt6bSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NzUzNDJBNi03MDQwLTREQjgtQjI0MS1GM0Y1RTBCNDI0NjgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjgwNDc2NywiZXhwIjoxNzQ2ODA1MzY3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ELFd2bl08zpHCbOkVkS5-p0pwSTnxKTMXp_29GFa0LyLFL3aiAwmumdpvP_CRlUTP0ly_okB_D1twbZ5WHOPobES-qYEi4lHriAoHh3OPQ5NxX74Mj88QdBn6uZQiUTO
