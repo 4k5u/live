@@ -307,3 +307,11 @@ Sat May 10 15:23:39 CST 2025
 Sat May 10 15:24:40 CST 2025
 删除oki_dokie https://edge16-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-bbbfc5b3c46e2564b545f39b28cc4ea3b149b5ae06dee76697bc178eeb32f1fc_trns_h264/playlist.m3u8
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+添加oki_dokie https://edge7-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-bbbfc5b3c46e2564b545f39b28cc4ea3b149b5ae06dee76697bc178eeb32f1fc_trns_h264/playlist.m3u8
+Sat May 10 15:33:57 CST 2025
+Sat May 10 15:34:22 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.f0eY72Bnz2LeD9NJXAe_4AmfRQ5NnX2ze37UxWHRwtnPOnG3bSZL52ORoRCigHBiwnc5ppE--070guwVf_Fxuc6jHeEH1j9jP503H3Tlbw5ezqtHTmR8OU-vmBmEM45x
+Sat May 10 15:36:44 CST 2025
+Sat May 10 15:37:49 CST 2025
+添加anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
+删除bo1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YaadnkvDdaQS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lhYWRua3ZEZGFRUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBREU2NzI5RC1GOTRFLTRFNTAtOUJGNS1GNkUwQzY5MUMxQzEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0Njg1NDUyNiwiZXhwIjoxNzQ2ODU1MTI2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ApGUFiiE5C3R8EjWtOVOU8IpP1GtPnwzRdsmgOFNLfJtkL-OLa_5kbQM-NC0p8OGrHHkfsWzSsaGERe6xUf5GcmyiSEPJ95HXmi5xrllvVPF1ICvFl-ya5H99s9TXsWz
