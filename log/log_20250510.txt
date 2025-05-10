@@ -273,3 +273,9 @@ Sat May 10 13:44:10 CST 2025
 删除Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Sat May 10 13:53:27 CST 2025
+Sat May 10 13:53:47 CST 2025
+Sat May 10 13:56:05 CST 2025
+Sat May 10 13:57:10 CST 2025
+删除taitehambelton https://edge6-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-47a3215ef4cf8e3170d28930c517ab0b72c1fc81b42060889aaabfbffabcf00b_trns_h264/playlist.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
