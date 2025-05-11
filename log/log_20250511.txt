@@ -234,3 +234,10 @@ Sun May 11 12:38:58 CST 2025
 删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加my_eyes_higher https://edge19-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-716c0bc5f8bd361f0841c96b385f7e60370f2895be7bd266cdf4f2fb105c70b9_trns_h264/playlist.m3u8
+Sun May 11 12:53:26 CST 2025
+Sun May 11 12:53:33 CST 2025
+Sun May 11 12:55:49 CST 2025
+Sun May 11 12:57:08 CST 2025
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除_meganmeow_ https://edge25-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-6f19fefc52180c3eb18d5716623e5b0dde2c235e4c6b5f137cf2baa41ef1f663_trns_h264/playlist.m3u8
