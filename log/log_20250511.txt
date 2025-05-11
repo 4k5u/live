@@ -172,3 +172,11 @@ Sun May 11 07:52:49 CST 2025
 Sun May 11 07:52:58 CST 2025
 Sun May 11 07:55:10 CST 2025
 Sun May 11 07:56:12 CST 2025
+Sun May 11 08:47:55 CST 2025
+Sun May 11 08:48:04 CST 2025
+添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WI7r9WPVq149CJQeuTd2wgsido31GjcmXGhUoKcUkgqUhdq1LIvCUqUR9lad69994Xm5eXQbg40n6LlfzUrihpushat1cHGyuVvYpzVu5Ft0ZZtvKwPjeqW4HkV0RRSA
+Sun May 11 08:50:11 CST 2025
+Sun May 11 08:51:06 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.sy7vx3mFi_i55hVPuUPAtIlXn5LQlvTXbkhsoekux-LTVInQClH5uSs6g8MCJi3QXFHUFkzjTEdRxQ7s67XSfrOtlSoRBLyJLWWJ4cov18T4FN4L-EmXYkPZA-5OvOH1
+删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.l-Se69SDPC1gRutzoCeKScAYBpPecuivIGLnrOPFYe_wRP10XqpeWw-QF98g8gRTf_4bo5b9nOl4oiiZBTAHCcSCLyhGikoXcP-TbGj6OD0BZ9qwwsKLFPyBH6W2oPFU
