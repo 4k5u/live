@@ -172,3 +172,13 @@ Mon May 12 07:55:17 CST 2025
 Mon May 12 07:56:20 CST 2025
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Mon May 12 08:55:00 CST 2025
+添加merryxmas77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WoO04uYmgtVV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dvTzA0dVltZ3RWViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCRjdBOTE2Mi0xNzc3LTQ2QTgtOUYyOC02NkZFRjRFMjE0RjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzAxMTMwNSwiZXhwIjoxNzQ3MDExOTA1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-sNCMfNh8j4bSDgPyks0RR5Bub7w1Ki5gMN5KL9dP2Kgg4CdwR5_EtgOInHexjWAA4Y4jZb3hJPj21jafMSGbLikNU_TXPfHGDtdgzRP6Ja_eWL8henCMp-cTGV3Gckf
+Mon May 12 08:55:13 CST 2025
+Mon May 12 08:57:29 CST 2025
+Mon May 12 08:58:34 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除oki_dokie https://edge14-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cf6cfbad2e9853bfebf441526cac23a6587a278d76064564c49711661dca5d16_trns_h264/playlist.m3u8
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
