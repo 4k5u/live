@@ -182,3 +182,21 @@ Mon May 12 08:58:34 CST 2025
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除oki_dokie https://edge14-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cf6cfbad2e9853bfebf441526cac23a6587a278d76064564c49711661dca5d16_trns_h264/playlist.m3u8
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+添加taitehambelton https://edge12-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-99bd1478af08b26d230d8952cd9f920933da065d26dd7ef9acfedbbdc60f3441_trns_h264/playlist.m3u8
+Mon May 12 10:48:14 CST 2025
+添加suee2332 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vmp1QKeAFNdG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZtcDFRS2VBRk5kRyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNzRBNjdEOS0yN0M3LTQzMjAtOUMxOS1FMTg4RTcyMUQ4RUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzAxODEwMSwiZXhwIjoxNzQ3MDE4NzAxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qVhue3nrKW9iampOxenxE6xPX6Qvyz8Do1ZKS1rfIQTGvi3oHQo_ix64QmIRysykLOEhFRCG5rcY_mEgkLZELHiV7MkbXDaCTYGPSl4MPTqMFcOEet_5lFYr6lDxQ8He
+Mon May 12 10:48:27 CST 2025
+Mon May 12 10:50:44 CST 2025
+Mon May 12 10:51:48 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除merryxmas77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WoO04uYmgtVV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dvTzA0dVltZ3RWViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCRjdBOTE2Mi0xNzc3LTQ2QTgtOUYyOC02NkZFRjRFMjE0RjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzAxMTMwNSwiZXhwIjoxNzQ3MDExOTA1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-sNCMfNh8j4bSDgPyks0RR5Bub7w1Ki5gMN5KL9dP2Kgg4CdwR5_EtgOInHexjWAA4Y4jZb3hJPj21jafMSGbLikNU_TXPfHGDtdgzRP6Ja_eWL8henCMp-cTGV3Gckf
