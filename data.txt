@@ -9,6 +9,9 @@ __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 taitehambelton https://edge23-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-20324e8546131f3c016a6c925ca5d7ce87ae839611db02a72d8053f92373672f_trns_h264/playlist.m3u8
-Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
 -O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+amilia4u https://edge28-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-9ed3bb7464f14ad6c149573a47e484cdc40389468a3fa78b8b365c62fb0088c5_trns_h264/playlist.m3u8
+-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8

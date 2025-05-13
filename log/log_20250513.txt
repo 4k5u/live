@@ -184,3 +184,12 @@ Tue May 13 11:23:47 CST 2025
 添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+添加amilia4u https://edge28-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-9ed3bb7464f14ad6c149573a47e484cdc40389468a3fa78b8b365c62fb0088c5_trns_h264/playlist.m3u8
+Tue May 13 11:54:35 CST 2025
+Tue May 13 11:54:40 CST 2025
+Tue May 13 11:56:55 CST 2025
+Tue May 13 11:57:59 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+添加Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
+删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
