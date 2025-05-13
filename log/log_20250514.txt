@@ -92,3 +92,9 @@ Wed May 14 03:23:42 CST 2025
 删除mizuki_aikawa_ii https://edge2-lax.live.mmcdn.com/live-hls/amlst:mizuki_aikawa_ii-sd-1e87cbb589c0e320d7c2b5d67ef7b62fadcff73f0eccd9145cb523764b0ad539_trns_h264/playlist.m3u8
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+Wed May 14 03:32:37 CST 2025
+Wed May 14 03:32:50 CST 2025
+Wed May 14 03:34:53 CST 2025
+Wed May 14 03:35:48 CST 2025
+添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+添加LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
