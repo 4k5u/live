@@ -11,4 +11,3 @@ wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 calliadesigner https://edge21-ash.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-67742a5af1acda3990a425774a4565b1d6b0a9a43879806e67b945ded713e087_trns_h264/playlist.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
-taitehambelton https://edge13-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-2819b7c14b62e3af23a95a4b696a851a7180ff27d130ddab1560c8306bf87fab_trns_h264/playlist.m3u8
