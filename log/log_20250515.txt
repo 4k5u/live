@@ -99,3 +99,9 @@ Thu May 15 03:31:52 CST 2025
 Thu May 15 03:34:05 CST 2025
 Thu May 15 03:35:09 CST 2025
 删除purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.UcGpAUO6OHI71HQIeTgfMWtRDnhkwNx-A3aMIVxWqSgAxJkine8sKDG7WF20vpMjeH9pDMo68FQEBWWqjb6-oWWiuC1Ssz_BeSBv-ILczs8vfHF_e_eKKpIclcFD3qo5
+添加taitehambelton https://edge13-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-2819b7c14b62e3af23a95a4b696a851a7180ff27d130ddab1560c8306bf87fab_trns_h264/playlist.m3u8
+Thu May 15 03:43:01 CST 2025
+Thu May 15 03:43:08 CST 2025
+Thu May 15 03:45:27 CST 2025
+Thu May 15 03:46:33 CST 2025
+删除lovewindy https://edge17-atl.live.mmcdn.com/live-hls/amlst:lovewindy-sd-55cbf3773461144c93b0fbfe507cf0791aef53b65ff23fadbb1accc3aaac41b1_trns_h264/playlist.m3u8
