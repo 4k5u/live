@@ -362,3 +362,10 @@ Wed May 14 18:51:56 CST 2025
 Wed May 14 18:52:52 CST 2025
 删除hehe0000 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FY710smfpq6g.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZZNzEwc21mcHE2ZyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMjE2NzkxMi01NEIxLTQ2NEYtOUQ4Ni1GNDQ4OTFCOEIwRTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzIwNDcwMCwiZXhwIjoxNzQ3MjA1MzAwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.rg50tZm9tirq-cRV4WB9PAfK6axGHhjqJryImmXqt-tf2rASkrFM_sN_xEZWpoQpceo1tzry0raJ8AinKe0KniG-d8-f5m6nVuOnv3Y3FSEV-DH0v70AFfy9iJTLysVT
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Wed May 14 18:59:54 CST 2025
+Wed May 14 19:00:24 CST 2025
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.eLfeMR34iQz4UHEgPxFBaUI2pV-nl-7fTqQMzgrWb-3we8r9kZ5tRRJAwE_MzVkE55p8Etz9l8E5tgdxXN3OsS434PjN4o3G4H7XuGiUApDgDZRZbxG5th4iFVjrdo1D
+Wed May 14 19:02:32 CST 2025
+Wed May 14 19:03:26 CST 2025
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除ad0res https://edge3-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-0b42a5b3c81af2f1b32fea6ba285648de5c58288c2805582b3cb59c7cd342164_trns_h264/playlist.m3u8
