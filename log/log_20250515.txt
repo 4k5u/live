@@ -161,3 +161,8 @@ Thu May 15 06:40:45 CST 2025
 Thu May 15 06:42:58 CST 2025
 Thu May 15 06:44:00 CST 2025
 添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+添加oki_dokie https://edge6-ash.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1a8b24ffe5a8aedab160997c5d0dc2d3bd4581d6b7a186b260af2e94bb60a4d9_trns_h264/playlist.m3u8
+Thu May 15 06:50:46 CST 2025
+Thu May 15 06:50:51 CST 2025
+Thu May 15 06:53:05 CST 2025
+Thu May 15 06:54:10 CST 2025
