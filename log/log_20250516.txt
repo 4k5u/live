@@ -123,3 +123,8 @@ Fri May 16 05:41:33 CST 2025
 Fri May 16 05:43:51 CST 2025
 Fri May 16 05:44:56 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加sexygamesx https://edge9-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-bacbe5b961acb9e89c80c5033d8018b68fd28c6572ee9b331f6fb55fb3da203f_trns_h264/playlist.m3u8
+Fri May 16 05:53:11 CST 2025
+Fri May 16 05:53:22 CST 2025
+Fri May 16 05:55:34 CST 2025
+Fri May 16 05:56:36 CST 2025
