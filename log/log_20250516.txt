@@ -113,3 +113,8 @@ Fri May 16 05:00:51 CST 2025
 Fri May 16 05:01:57 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+Fri May 16 05:24:22 CST 2025
+Fri May 16 05:24:33 CST 2025
+Fri May 16 05:26:48 CST 2025
+Fri May 16 05:27:53 CST 2025
+删除oki_dokie https://edge7-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cd4cbb36160efdc2da0f6007e62b7903bdf7e1fa6607937c5c65fc0d6a787097_trns_h264/playlist.m3u8
