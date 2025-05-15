@@ -147,3 +147,10 @@ Fri May 16 06:52:20 CST 2025
 Fri May 16 06:52:27 CST 2025
 Fri May 16 06:54:41 CST 2025
 Fri May 16 06:55:46 CST 2025
+Fri May 16 07:37:05 CST 2025
+Fri May 16 07:37:12 CST 2025
+Fri May 16 07:39:15 CST 2025
+Fri May 16 07:40:12 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除sexygamesx https://edge9-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-bacbe5b961acb9e89c80c5033d8018b68fd28c6572ee9b331f6fb55fb3da203f_trns_h264/playlist.m3u8
+删除oki_dokie https://edge16-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9fb5960511cb61e8399ec1d779444f7e63a961280ac30f2f5d27112ffcb63841_trns_h264/playlist.m3u8
