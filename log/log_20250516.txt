@@ -128,3 +128,10 @@ Fri May 16 05:53:11 CST 2025
 Fri May 16 05:53:22 CST 2025
 Fri May 16 05:55:34 CST 2025
 Fri May 16 05:56:36 CST 2025
+添加oki_dokie https://edge16-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9fb5960511cb61e8399ec1d779444f7e63a961280ac30f2f5d27112ffcb63841_trns_h264/playlist.m3u8
+Fri May 16 06:22:31 CST 2025
+Fri May 16 06:22:42 CST 2025
+Fri May 16 06:24:57 CST 2025
+Fri May 16 06:26:03 CST 2025
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+删除honey_pinkgreen https://edge7-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-bf56dc4812631a2983f2d7a190e5e59f744c4b6df2fc1b1091e817815faee57c_trns_h264/playlist.m3u8
