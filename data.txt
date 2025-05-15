@@ -16,3 +16,4 @@ fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 honey_pinkgreen https://edge7-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-bf56dc4812631a2983f2d7a190e5e59f744c4b6df2fc1b1091e817815faee57c_trns_h264/playlist.m3u8
 sexygamesx https://edge16-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-084dc4721c643794b29672d59296e8f08c719112cc4f7b2a40b3b88ce673d528_trns_h264/playlist.m3u8
+lovewindy https://edge4-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-e3ded5d7275e4dbd0dd95c1bb3e666df6cec9a209279f512e41d72451a37abc8_trns_h264/playlist.m3u8
