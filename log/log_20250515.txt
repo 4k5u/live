@@ -212,3 +212,12 @@ Thu May 15 11:18:10 CST 2025
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除oki_dokie https://edge26-phx.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1a8b24ffe5a8aedab160997c5d0dc2d3bd4581d6b7a186b260af2e94bb60a4d9_trns_h264/playlist.m3u8
+Thu May 15 11:51:58 CST 2025
+Thu May 15 11:52:01 CST 2025
+Thu May 15 11:54:15 CST 2025
+Thu May 15 11:55:19 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
