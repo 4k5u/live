@@ -306,3 +306,15 @@ Thu May 15 15:53:10 CST 2025
 Thu May 15 15:53:32 CST 2025
 Thu May 15 15:55:47 CST 2025
 Thu May 15 15:56:52 CST 2025
+Thu May 15 16:45:08 CST 2025
+Thu May 15 16:45:25 CST 2025
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nrbZ_Wq7NHpDwEDSCzIVkELcg-bV2JqQXptM2Vb-N6V8qvcSOMADZdXA6EVfQUvT8H7FVw-mhtzqBn_26v5f-q-g1y-b1CoR4AQc8FtDTqCIDAx0L621ojn88oWEStFJ
+Thu May 15 16:47:30 CST 2025
+Thu May 15 16:48:25 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQTQ0NTQwQS0xQUVELTQwMzMtQTMzRC1FMjNCODRBQUFENzkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzI4NDE2MCwiZXhwIjoxNzQ3Mjg0NzYwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.aunFv8m1wYhtPgf-5xhjWO2PlP8gDS-JR5HZnHYtv8Bt6ZXkne-iXYaUSkF_A6rJA1EgSwSmOMR4Z1q_Yw-PAvCn7aEdHh8dD8c0Mv33lnLr2HNyK6cjftTo3SXoLSSw
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
