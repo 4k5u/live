@@ -188,3 +188,9 @@ Fri May 16 11:22:45 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除oki_dokie https://edge16-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9fb5960511cb61e8399ec1d779444f7e63a961280ac30f2f5d27112ffcb63841_trns_h264/playlist.m3u8
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+Fri May 16 11:54:24 CST 2025
+Fri May 16 11:54:31 CST 2025
+Fri May 16 11:56:50 CST 2025
+Fri May 16 11:57:55 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
