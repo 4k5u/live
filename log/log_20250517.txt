@@ -83,3 +83,9 @@ Sat May 17 03:24:48 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除mizuki_aikawa_ii https://edge11-aus.live.mmcdn.com/live-hls/amlst:mizuki_aikawa_ii-sd-ff3517cdd083ced8756172f03cb15dfcb19d4c74b06ef70e429090cb550a8a71_trns_h264/playlist.m3u8
 删除LoveJay520 https://edge-hls.doppiocdn.live/hls/110955057/master/110955057_auto.m3u8
+Sat May 17 03:42:46 CST 2025
+Sat May 17 03:43:03 CST 2025
+Sat May 17 03:45:18 CST 2025
+Sat May 17 03:46:22 CST 2025
+删除nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0QzA5M0VGRi1FNEJELTRFMjYtQUJDNS1CMUI4NDcyN0RFRTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzM3NzQyNywiZXhwIjoxNzQ3Mzc4MDI3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.alcr_gpIc7osg7iUlrh-DRXR3ZEZhomcJ7Oijfkpi1uf_-ZD79OMMIwrVox8TZTMWkL2GVKLv4khhCT6D7sk91CG6rIiQ4cVs3gDmFSTmR1nppRLLjPHAX4RtOmV9IbA
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
