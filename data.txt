@@ -9,3 +9,4 @@ flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 _meganmeow_ https://edge4-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-178c63265390189cb5783fa0ecc8942fcd5a473b038fced9260b1a62f571133c_trns_h264/playlist.m3u8
 lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Nj7QFSL_1kMBwcICMpZSHGxPqx3y91g3yYLL9Uz5dkSfIBF8k--xev0EV_0PdZoL8qYTREhZ4nigCwq73qutmz07-9m9G9CSnUeYKlxAklR0HLRnrDFhuCPmPcVylD4G
 sexygamesx https://edge12-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d812349a05c83a722fb4732b06dbb065cc5af6c00bfee5a963568080debb6cec_trns_h264/playlist.m3u8
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
