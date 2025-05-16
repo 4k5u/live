@@ -13,3 +13,4 @@ l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+sexygamesx https://edge12-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d812349a05c83a722fb4732b06dbb065cc5af6c00bfee5a963568080debb6cec_trns_h264/playlist.m3u8
