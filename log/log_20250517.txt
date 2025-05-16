@@ -89,3 +89,11 @@ Sat May 17 03:45:18 CST 2025
 Sat May 17 03:46:22 CST 2025
 删除nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0QzA5M0VGRi1FNEJELTRFMjYtQUJDNS1CMUI4NDcyN0RFRTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzM3NzQyNywiZXhwIjoxNzQ3Mzc4MDI3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.alcr_gpIc7osg7iUlrh-DRXR3ZEZhomcJ7Oijfkpi1uf_-ZD79OMMIwrVox8TZTMWkL2GVKLv4khhCT6D7sk91CG6rIiQ4cVs3gDmFSTmR1nppRLLjPHAX4RtOmV9IbA
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+添加_meganmeow_ https://edge4-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-178c63265390189cb5783fa0ecc8942fcd5a473b038fced9260b1a62f571133c_trns_h264/playlist.m3u8
+Sat May 17 03:58:09 CST 2025
+Sat May 17 03:58:26 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Nj7QFSL_1kMBwcICMpZSHGxPqx3y91g3yYLL9Uz5dkSfIBF8k--xev0EV_0PdZoL8qYTREhZ4nigCwq73qutmz07-9m9G9CSnUeYKlxAklR0HLRnrDFhuCPmPcVylD4G
+Sat May 17 04:00:48 CST 2025
+Sat May 17 04:01:53 CST 2025
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
