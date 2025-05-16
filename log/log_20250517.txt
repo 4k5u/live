@@ -97,3 +97,10 @@ Sat May 17 04:00:48 CST 2025
 Sat May 17 04:01:53 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
+Sat May 17 04:27:55 CST 2025
+Sat May 17 04:28:12 CST 2025
+Sat May 17 04:30:24 CST 2025
+Sat May 17 04:31:27 CST 2025
+删除1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.4xN5v3SO72qTyAwIFns-w0y_oUWWypfCDgVfME4_a1y5nJlg2AMEgDEbUEQ3ZQNh5-RUKczF-gIlZ3CNn9GH7mBBqDSVXHfTQob3wucX7y1RAhDa_3CiW3oMkOVcGmQh
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除lovewindy https://edge8-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-c591e38099a4b957411ce150a63c27ea8c9f6efcd149404d7bde27acc7cd5c41_trns_h264/playlist.m3u8
