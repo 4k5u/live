@@ -384,3 +384,8 @@ Sat May 17 19:24:11 CST 2025
 添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除amilia4u https://edge7-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-17842af49cc849ddc4bdf29a93410da75f738015c4dfc7a56f1b115703283c4c_trns_h264/playlist.m3u8
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+添加oki_dokie https://edge2-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f476ca62994258b221d1771c39dd612f28f47316064409177353c84dbc1ac435_trns_h264/playlist.m3u8
+Sat May 17 19:32:14 CST 2025
+Sat May 17 19:32:41 CST 2025
+Sat May 17 19:34:58 CST 2025
+Sat May 17 19:36:03 CST 2025
