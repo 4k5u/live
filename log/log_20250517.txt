@@ -301,3 +301,11 @@ Sat May 17 16:01:55 CST 2025
 Sat May 17 16:03:00 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+添加mode_bad https://edge14-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-973a0dfb1dc1e5d56246c2ab81e06b02845ddcd7c93553afb70a60c8c567902c_trns_h264/playlist.m3u8
+Sat May 17 16:33:09 CST 2025
+Sat May 17 16:33:24 CST 2025
+Sat May 17 16:35:40 CST 2025
+Sat May 17 16:36:45 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
