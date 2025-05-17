@@ -170,3 +170,8 @@ Sun May 18 07:25:50 CST 2025
 Sun May 18 07:26:54 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+添加mazzanti_ https://edge25-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-8ea27656cd844402d0c3cd6a0935df71ecb01edc2241581878740fe98d77e8ac_trns_h264/playlist.m3u8
+Sun May 18 07:52:49 CST 2025
+Sun May 18 07:52:57 CST 2025
+Sun May 18 07:55:13 CST 2025
+Sun May 18 07:56:16 CST 2025
