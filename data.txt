@@ -14,4 +14,5 @@ gyuri26 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
 amilia4u https://edge7-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-17842af49cc849ddc4bdf29a93410da75f738015c4dfc7a56f1b115703283c4c_trns_h264/playlist.m3u8
-oki_dokie https://edge4-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5ecb6e4ae21a74849876f83d2792bd6810cf852965291f4dd8b508171e36e630_trns_h264/playlist.m3u8
+iminako https://edge22-chi.live.mmcdn.com/live-hls/amlst:iminako-sd-fc4cbee60b4605ff06174ae668c5d69530bcde5fa10347574ce3caeecf36dfbd_trns_h264/playlist.m3u8
+Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
