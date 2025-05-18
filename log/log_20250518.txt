@@ -364,3 +364,9 @@ Sun May 18 18:48:33 CST 2025
 删除dusdk2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.X9H5QvJu5b2M.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1g5SDVRdkp1NWIyTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MDVCOEVDNS1BNjE2LTQwMTktOUNDNy1DRERDRTdCQUUwNTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzU2MDM0OSwiZXhwIjoxNzQ3NTYwOTQ5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.QWH2ahOuh5mLI6g1qLxLLnflCsdc6hoIiy-umg2SeJN1gMzYL99He1ChREhVEwkfLPodqbC_o0C0hSGYlI9S9vvkfRx_sTZHxDSDAN5I8w_N9cv-I-W1w1vx9GbzA32L
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Sun May 18 18:59:07 CST 2025
+Sun May 18 18:59:36 CST 2025
+Sun May 18 19:01:48 CST 2025
+Sun May 18 19:02:50 CST 2025
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
