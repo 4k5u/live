@@ -92,3 +92,10 @@ Mon May 19 03:32:42 CST 2025
 Mon May 19 03:32:53 CST 2025
 Mon May 19 03:35:03 CST 2025
 Mon May 19 03:35:59 CST 2025
+添加lovewindy https://edge7-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-b698a5a4b86ae4b98d00f35539721349f7e68fd39e8654bc055e669ec6e14301_trns_h264/playlist.m3u8
+Mon May 19 03:48:54 CST 2025
+Mon May 19 03:49:05 CST 2025
+Mon May 19 03:51:24 CST 2025
+Mon May 19 03:52:30 CST 2025
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.8AnQ7XT6emDU5CY2b3BL9ZDhQmFhVQFcEpuVliD2KNyfIqV2PSQP_UgQlEOUuizlXBYn1Q1KC2XtOZCmnQExOaGkvVoTPDmAKs0I8EqNpDyGpTO3qIQE-BOTyVSHDmHt
