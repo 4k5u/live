@@ -11,3 +11,5 @@ tjfflddl7 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 oki_dokie https://edge10-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-819ef1600fb9840dd4909216fc6244800f1732ee61892db89cec73f9fd2147ec_trns_h264/playlist.m3u8
 bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
+amilia4u https://edge15-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-730f065c2f60e1f8f5fd652a84623eaf2242a53d08949020c2b30df387af7e45_trns_h264/playlist.m3u8
+__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
