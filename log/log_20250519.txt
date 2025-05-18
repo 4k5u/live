@@ -30,3 +30,11 @@ Mon May 19 00:52:56 CST 2025
 删除Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-14/auth_master_playlist.m3u8?aid=null
+Mon May 19 01:00:12 CST 2025
+Mon May 19 01:00:41 CST 2025
+Mon May 19 01:02:54 CST 2025
+Mon May 19 01:03:58 CST 2025
+添加Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
+删除yasexy https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNC1QhBOVKzm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQzFRaEJPVkt6bSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNTUxMDg1Ni1BQTQ3LTRBMkItQjk0NS1ERDc0MzI1NEFCQzkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzU2MTM0NSwiZXhwIjoxNzQ3NTYxOTQ1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-LluTx7NH2COL8qaVTHI5thPg52UYvc9WmV-dBHFILxXEI2vWK_qe4rdl2VR9qq33MBGUSg1_Vjp6zQAIOVUkxPpUUrV_vbTIZuPzwyxDg_a4J3uMtuR4t2BoEMD6nFI
+删除ake_mi https://edge8-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-37ba0e45b64b5d5914181bf7a64a57f151b0ef249f98f5d928f280ce9d84c0e5_trns_h264/playlist.m3u8
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
