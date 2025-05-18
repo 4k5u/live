@@ -338,3 +338,8 @@ Sun May 18 17:44:50 CST 2025
 Sun May 18 17:45:58 CST 2025
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Sun May 18 17:52:21 CST 2025
+Sun May 18 17:52:46 CST 2025
+Sun May 18 17:55:04 CST 2025
+Sun May 18 17:56:11 CST 2025
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
