@@ -359,3 +359,11 @@ Mon May 19 19:29:28 CST 2025
 删除alswjd04 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.7Hkmd6ZMGtFC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC83SGttZDZaTUd0RkMiLCJleHAiOjE3NDc2ODU2MjU0NTksImlhdCI6MTc0NzY0MjQyNX0.3hdEpxyfUat-MFIXshh9dIkPkXv9yAAZOLmCbF9ABDl1xb-skdciFFgOF2OeaHakwiilUcG_ACF_dABSXmXb2wkDXGYKSZNzoOS5OwOiWqkzF3BeT9ZC6LFdIpIJL3UU
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Mon May 19 19:40:37 CST 2025
+Mon May 19 19:41:14 CST 2025
+Mon May 19 19:43:32 CST 2025
+Mon May 19 19:44:38 CST 2025
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+删除Tmdgus5411 ?aid=null
