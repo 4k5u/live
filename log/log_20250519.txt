@@ -277,3 +277,12 @@ Mon May 19 15:58:38 CST 2025
 Mon May 19 16:00:51 CST 2025
 Mon May 19 16:01:52 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Mon May 19 16:36:42 CST 2025
+Mon May 19 16:36:59 CST 2025
+Mon May 19 16:39:15 CST 2025
+添加alswjd04 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.7Hkmd6ZMGtFC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC83SGttZDZaTUd0RkMiLCJleHAiOjE3NDc2ODU2MjU0NTksImlhdCI6MTc0NzY0MjQyNX0.3hdEpxyfUat-MFIXshh9dIkPkXv9yAAZOLmCbF9ABDl1xb-skdciFFgOF2OeaHakwiilUcG_ACF_dABSXmXb2wkDXGYKSZNzoOS5OwOiWqkzF3BeT9ZC6LFdIpIJL3UU
+Mon May 19 16:40:20 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除my_eyes_higher https://edge22-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-160544fec8a4c7ac8a57347c1c7c0c5d033f7e1bcaad3c8dcad2cfbd4921d90f_trns_h264/playlist.m3u8
