@@ -211,3 +211,8 @@ Wed May 21 07:43:35 CST 2025
 Wed May 21 07:44:38 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除sexygamesx https://edge9-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-9a6ab0a45e848278bf2a54f792d96571b01a40e2a7993704d614c04ace10fe31_trns_h264/playlist.m3u8
+添加sexygamesx https://edge9-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-270c5339e02c7cecc552bc2e924691b6f924a5d2f85674cf3d4465b82020f516_trns_h264/playlist.m3u8
+Wed May 21 07:52:36 CST 2025
+Wed May 21 07:52:41 CST 2025
+Wed May 21 07:54:56 CST 2025
+Wed May 21 07:56:00 CST 2025
