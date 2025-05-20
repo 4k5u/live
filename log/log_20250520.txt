@@ -391,3 +391,8 @@ Tue May 20 19:42:19 CST 2025
 Tue May 20 19:44:40 CST 2025
 Tue May 20 19:45:44 CST 2025
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Tue May 20 19:53:15 CST 2025
+添加green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFC1eSatgATs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQzFlU2F0Z0FUcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MjU5Q0UzRi0zNUEzLTRERTYtQUMzMS03ODkxQjI2NEQ5QkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0Nzc0MjAxMiwiZXhwIjoxNzQ3NzQyNjEyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.XYWZfdkZyAKY4I-I6HgXuaikRmCvXxhfufXKKHEz2V21H0ABkhJijUUEFsPQsKIpnK3UeJqaV2Zo5pWzijQ8fQou6VbktMoLM7a6G0MIoM2m7NtEbtMVfJqIJTi8bQpj
+Tue May 20 19:54:02 CST 2025
+Tue May 20 19:56:18 CST 2025
+Tue May 20 19:57:25 CST 2025
