@@ -122,3 +122,10 @@ Thu May 22 04:01:31 CST 2025
 删除mizuki_aikawa_ii https://edge11-chi.live.mmcdn.com/live-hls/amlst:mizuki_aikawa_ii-sd-28c24b5d2f594250ff621e1a5a5cc4f080dcef0a0b0577eec2935a5bad861570_trns_h264/playlist.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加_meganmeow_ https://edge21-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-51921fde49bc6a4bb23aa067332514017b047a445670345f9899f84a6375d181_trns_h264/playlist.m3u8
+Thu May 22 04:28:59 CST 2025
+Thu May 22 04:29:06 CST 2025
+Thu May 22 04:31:24 CST 2025
+Thu May 22 04:32:29 CST 2025
+删除yasexy https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNC1QhBOVKzm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQzFRaEJPVkt6bSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0Q0QzQzFFMC03MzI5LTQwNDUtOEY5Qy1FRUY1MEVENkU0QjYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzgxNzc2OCwiZXhwIjoxNzQ3ODE4MzY4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.GtZUW3R2Bzc6KoVa2XHvDiGZd-vxlmAfHyBub5SWQa557cQ6TgFpe__BBa0ZXUCIA5O089gTkb6cXj4kTfyimdhdMvMPsc4eM1nWzqDfCFAHI-MohGEn2kPjeFONt0YE
+删除lovewindy https://edge4-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-3915bd69ae840e651a14a3de4f70264813cc03736faef7a5a06255b7d57f032a_trns_h264/playlist.m3u8
