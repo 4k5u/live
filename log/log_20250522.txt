@@ -140,3 +140,10 @@ Thu May 22 04:59:23 CST 2025
 Thu May 22 05:01:37 CST 2025
 Thu May 22 05:02:40 CST 2025
 删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+添加mazzanti_ https://edge15-phx.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e8dbc14160f88877983c85a926ab6b8a8fe84c5f59dc0c469205b056b10b04e9_trns_h264/playlist.m3u8
+添加sexygamesx https://edge32-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-9c64528f5d05c0e664247fad877dd7dfba151ede7edd2bf02583952f49d3243a_trns_h264/playlist.m3u8
+Thu May 22 05:24:25 CST 2025
+Thu May 22 05:24:32 CST 2025
+Thu May 22 05:26:33 CST 2025
+Thu May 22 05:27:27 CST 2025
+删除oki_dokie https://edge7-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f180ab4b3dcdb84ae7cc4a44d2682a6a54bdebd6e9759037ec4d8f36cd9fbd8d_trns_h264/playlist.m3u8
