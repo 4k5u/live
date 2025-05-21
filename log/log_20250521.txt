@@ -267,3 +267,13 @@ Wed May 21 13:30:16 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
+添加foxylovesyou https://edge1-sea.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-08eca7a797c3cd769c4127c7d67bff32caca118b413d87b9eeaf304bde82a3ca_trns_h264/playlist.m3u8
+Wed May 21 13:45:25 CST 2025
+Wed May 21 13:45:30 CST 2025
+Wed May 21 13:47:36 CST 2025
+Wed May 21 13:48:41 CST 2025
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
+删除oki_dokie https://edge5-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-55f3e5dae5deb4a32a4fb5fa8dc17a2862f17a49b0b0ae4e4affee5e0d2aea07_trns_h264/playlist.m3u8
+删除danhana https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.WskmuSNNRNQk.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9Xc2ttdVNOTlJOUWsiLCJleHAiOjE3NDc4NDY0ODUxNTMsImlhdCI6MTc0NzgwMzI4NX0.SimEIFvEB-hk4CaKMd8zmBOcJ1NGuevdlyo-BIl8QD7oafprbhy_p784QQqXEFgZZQgP7XbLL4A6Wy0ByvxdMtplnjV9ZadeNgXJb_VQqW3gOo-aI3JWOcvq4YfHliKW
