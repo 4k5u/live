@@ -248,3 +248,8 @@ Thu May 22 13:34:11 CST 2025
 添加Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
+Thu May 22 13:46:26 CST 2025
+Thu May 22 13:46:35 CST 2025
+Thu May 22 13:48:54 CST 2025
+Thu May 22 13:50:01 CST 2025
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8

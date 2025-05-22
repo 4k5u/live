@@ -13,3 +13,4 @@ Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u
 danhana https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.WskmuSNNRNQk.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9Xc2ttdVNOTlJOUWsiLCJleHAiOjE3NDc5MzI2NTQ3MTcsImlhdCI6MTc0Nzg4OTQ1NH0.01d_e386VfZK8EekesqPZXoxWpnj9eaGkdvKTrDL1guhaiqgGB7-42YmLITCjJjm1FoxSQNXRRQjlZ9HT09l7qDHjFlWeQCOxrr_SDTupW_q3rzp4D6jvbW05083mnnX
 Starry88 https://edge-hls.doppiocdn.live/hls/130938925/master/130938925_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
