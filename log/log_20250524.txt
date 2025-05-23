@@ -78,3 +78,9 @@ Sat May 24 03:23:24 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除ake_mi https://edge2-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-9a74e20e9d7cd8bb45d6060b972c2b1d1900968a10d91fd71891e11c48d10afd_trns_h264/playlist.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Sat May 24 03:30:27 CST 2025
+Sat May 24 03:30:48 CST 2025
+Sat May 24 03:32:50 CST 2025
+Sat May 24 03:33:44 CST 2025
+删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.aFAWbnTjonhiv98yDk-DVTJY-CiU81hC7lM06VTyTxA-q7MdT3CwSGJlgjv0Rpjhnr8bwZmNaJX6a3V97amCVA8vwzYtaozaGjaN5glHb3N7UTXa6U40oGB7OiFXatMc
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
