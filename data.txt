@@ -9,3 +9,4 @@ mazzanti_ https://edge13-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-d001fba6
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 oki_dokie https://edge5-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cab88cf3a5b22c0de16c54dff1864d4342c937205e4625bfedc85017423ca0cf_trns_h264/playlist.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8

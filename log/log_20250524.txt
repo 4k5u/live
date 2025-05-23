@@ -161,3 +161,8 @@ Sat May 24 07:28:08 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除_meganmeow_ https://edge23-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-cdbe3ee6b39f4c070c81486d39f0fcac846f8c8e77354dc5ea1fdb29e3295c0d_trns_h264/playlist.m3u8
+Sat May 24 07:43:33 CST 2025
+Sat May 24 07:43:38 CST 2025
+Sat May 24 07:45:49 CST 2025
+Sat May 24 07:46:50 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
