@@ -217,3 +217,10 @@ Fri May 23 12:16:09 CST 2025
 Fri May 23 12:17:13 CST 2025
 删除nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0Q0M4RTc3Ri03MjcyLTQ0NjItQkEyNy01NEI2RTgwNzNDNkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0Nzk0MDIxNSwiZXhwIjoxNzQ3OTQwODE1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.HTRiFl2WNU7UpUtGlhK66FatBp7rKDTLBp6y3UJ9o3bBqWC5PIN3Sy-uXK4tCOUyvHVLM9cHCwZ2CIMjge_st1FDZWAPCEUpK7jGJ57nGCmae4IMyDSGuxXP-ulsoMQp
 删除Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
+Fri May 23 12:43:03 CST 2025
+Fri May 23 12:43:11 CST 2025
+Fri May 23 12:45:29 CST 2025
+Fri May 23 12:46:35 CST 2025
+添加tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+删除1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.DniFwMwjDQYdCueR1nOl9yB7ylAXZNE0e2IIURKBPq945mw7mU6Q8EL4NfZ_QvuEbXpk6I41y518aDhE6-TYDBodeE2oy-JXvqLXY3CMzXICnUdEwop3xDehNuPfIZdA
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
