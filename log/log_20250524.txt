@@ -3,3 +3,9 @@ Sat May 24 00:02:48 CST 2025
 Sat May 24 00:03:52 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+添加oki_dokie https://edge5-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e350c6ea18311da8a2c2c7bd3a4df7deacf82ea74db09776385f7863bd76a249_trns_h264/playlist.m3u8
+Sat May 24 00:32:48 CST 2025
+Sat May 24 00:33:47 CST 2025
+Sat May 24 00:36:01 CST 2025
+Sat May 24 00:37:05 CST 2025
+删除ake_mi https://edge30-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-592ba7fb8e3f99de8a55beb8cac8dc3997fa4f8f3428f09259150dc59085f4a3_trns_h264/playlist.m3u8
