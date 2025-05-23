@@ -36,3 +36,4 @@ oki_dokie https://edge5-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e350c6ea1
 ake_mi https://edge2-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-9a74e20e9d7cd8bb45d6060b972c2b1d1900968a10d91fd71891e11c48d10afd_trns_h264/playlist.m3u8
 bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
