@@ -290,3 +290,10 @@ Sat May 24 16:35:58 CST 2025
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.32n9rAJrhsVW2Vn-KZFFV7PWgNJVp3N5PJcXWn8wWAhaGycMdIlmoI8Y9zsECPPBQWm86_bqd6cNDR2VNlw-ggzT46vZX70-qj8pysAqs2zu9fDkxna-I_Cgh_29FNGw
+Sat May 24 16:49:21 CST 2025
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5CF4w5XAvR8X.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVDRjR3NVhBdlI4WCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwNDczNEQzQy04NjE5LTRFQzktQjI4NC0xRURERERGRTMyNzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODA3NjU2NCwiZXhwIjoxNzQ4MDc3MTY0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.YoW6lI5w_dDLyH-MNQl8hyDjX72hFLzlv_Js9yiY7AQgI9z3EJJZwziNiL56O2CNMmAkX9b6jRWrn5Hcs16d7JhkAJXOW5C9n71a79aZWc3U72iYyvyo-a4sh304_C71
+Sat May 24 16:49:32 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Sat May 24 16:51:37 CST 2025
+Sat May 24 16:52:31 CST 2025
+删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
