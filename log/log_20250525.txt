@@ -93,3 +93,9 @@ Sun May 25 03:12:23 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除nyangnyang1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JnTRNNuZzkeo.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0puVFJOTnVaemtlbyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMUVDRTY3MC03RDg1LTRFNTEtQkVBOC1DN0I0M0Q1QjE0RDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODA5NTgyNiwiZXhwIjoxNzQ4MDk2NDI2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.rmBwW2n8jvi44Xn6UsL_Ah-3fTS1MdgSb_VxIzIQQhvNrqLZc_nHxKMeoJjbInVsR089_QIW4o109qhvoyNElgthykctchIv4J9wB01eNgNEUBTC0AxhYxBSdTfjNFbk
 删除calliadesigner https://edge21-atl.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-60c799f81e995770ade7251e8ba65f70514420c933bb5a2e1e44979fec51780b_trns_h264/playlist.m3u8
+添加calliadesigner https://edge12-aus.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-a0595376c5d48502b4741bf1fbc3a8fb83429deb2441f8469c7593a157b59fa6_trns_h264/playlist.m3u8
+Sun May 25 03:39:51 CST 2025
+Sun May 25 03:40:08 CST 2025
+Sun May 25 03:42:15 CST 2025
+Sun May 25 03:43:17 CST 2025
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
