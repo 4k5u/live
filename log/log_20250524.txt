@@ -408,3 +408,8 @@ Sat May 24 21:45:40 CST 2025
 添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除mode_bad https://edge29-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-6ce3a0122013526363e294800997f32698a9f1a5a459bf65fa958ec99e7946f1_trns_h264/playlist.m3u8
 删除tingting66 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264_auto.m3u8
+Sat May 24 21:53:11 CST 2025
+Sat May 24 21:54:08 CST 2025
+Sat May 24 21:56:21 CST 2025
+Sat May 24 21:57:26 CST 2025
+删除honey_pinkgreen https://edge16-atl.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-cd7943d17652fd45fbc9a44ce27c2703f932d84799cdbf716616f31ca73b257a_trns_h264/playlist.m3u8
