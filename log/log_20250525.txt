@@ -286,3 +286,10 @@ Sun May 25 15:44:37 CST 2025
 Sun May 25 15:45:42 CST 2025
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dSG_U3oCSmoRd_YydIftmBfz_UGFrha36lZuI-O3F1FH3n1AD-ZniRNxRbzmBtvA2yaSfL3fK5SRWw8hnPvWK8461mdSoKUrQDjF56SdttS0w1M9hTD-0O3Zt3VivKRH
+Sun May 25 15:53:21 CST 2025
+Sun May 25 15:53:34 CST 2025
+Sun May 25 15:55:49 CST 2025
+Sun May 25 15:56:55 CST 2025
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
