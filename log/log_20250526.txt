@@ -249,3 +249,8 @@ Mon May 26 14:44:07 CST 2025
 添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+Mon May 26 14:59:03 CST 2025
+Mon May 26 14:59:13 CST 2025
+Mon May 26 15:01:28 CST 2025
+Mon May 26 15:02:33 CST 2025
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
