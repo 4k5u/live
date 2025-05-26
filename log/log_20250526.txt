@@ -296,3 +296,13 @@ Mon May 26 17:41:47 CST 2025
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除oki_dokie https://edge9-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7890dc810cb9d0918f0c46949503711d5c508e1d21b0cfd501617c92e873789a_trns_h264/playlist.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.e1DNqs8Dhwa6BaujWPZ7p0HHAu0muvLPs1esOVKSQqRA3j3hQRjRDQltYSBz_n5Nm_nGlQp3C3TfnDPXtHrSVLFrkXlWN8uyvvkgbiOZPQMcdOjCFJ28rEmNSvlXAB2y
+Mon May 26 18:04:14 CST 2025
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MzBCMUFEMS00QzRBLTQ4RkQtQTk1OS04QkJEQzA4QkREQjciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODI1Mzg2MiwiZXhwIjoxNzQ4MjU0NDYyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Mc-E6RE65j0-Q1pqwTcDISTaANLU3wV9mc3rRFCgMLp5J5Yvwpt6WFrX5mj7JMRJItLQut9W3_Y-WssL4yjd7djmDsjAioQl-sKnl96cNUWOnmkaKY2hjcLnxoirnk5F
+Mon May 26 18:04:34 CST 2025
+添加alswl2208 ?aid=.A32.7bbT56vyHM9fKZk.foug9As5D9A10aRxnJJQbH8B5bE-ll5ONNqOZAeYzAtYhT9R3KJRj0Vy4dvox6e8mwsbzD6P6LuGFqTsA6rwsblj7QUc8Ja8mApovaT-_t56X2qQysYtPhodDC76VN07
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Zv2FtICT5-eAKDN4QR2v-8eb-m95kQqT3vqc_GEkuWUpLnsLx20jlKai2AwFXspCLLE1v8tXbKAcsU1rSdxGWJ-iJpY0qg1QYUC88izqjT0d0mL910_1u6iUKFabSzMR
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nB53Z0uhsFL7u6oI8yBtD1W3dZLE7gs5nVLwWpN6KPR3McjfQVedWFTG9c2pLveQ3ti5A8G2r_K3T0FhZvN-BVbgFIikRP4CQVZLd2mU8TTNHYTvFB0vu6oydN9OGGOy
+Mon May 26 18:07:01 CST 2025
+Mon May 26 18:08:07 CST 2025
+删除Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
