@@ -1,0 +1,4 @@
+Tue May 27 00:01:31 CST 2025
+Tue May 27 00:02:35 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除big541 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9u8oBldIUHK8-RuiT51dD6yrDV6PhrAHnEdPrebrz9ISXJ1usPl0IjvgnundtXaHyMArUjStHanGyuWOBHUxehkuTno4aIJ612I58qDc4BXSXejT53tlPJ6MXBXNavb4
