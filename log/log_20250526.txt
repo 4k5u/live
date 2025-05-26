@@ -207,3 +207,10 @@ Mon May 26 12:34:07 CST 2025
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除likecho https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KHGRYWCgeQWD.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tIR1JZV0NnZVFXRCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMkE4QUJCOS02MEU1LTRDMzktOEQ5Ny1FOTVCQTQyNDE4NDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODIzMTkwNiwiZXhwIjoxNzQ4MjMyNTA2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9._bRBUo_okfpuNZTQHIh-cLuGn5lw80rq9Rj-4sO0WgLwhBLpQEwoyw3sMzrkUDSwUT9Dwt1qXLKvKfvw7GD0NDCLgIO60IOhHCUmYtPt0cZV0b3Y4om1ieW53hxaWhOd
 删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Mon May 26 13:02:38 CST 2025
+Mon May 26 13:02:43 CST 2025
+Mon May 26 13:04:56 CST 2025
+添加danhana https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.WskmuSNNRNQk.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9Xc2ttdVNOTlJOUWsiLCJleHAiOjE3NDgyNzgzNjQ3OTMsImlhdCI6MTc0ODIzNTE2NH0.b0TBnRKFvxHWzzRU44jhxDLUoav7SLmOFYxgo1JbmxAMg0DCD3-E58BcgizYolNEzONbqD2sxL3c3ADl23zWQCAsylxph5jS9wn_MbiC9jJzVi7ognR1Dm5AE9QKIy7D
+Mon May 26 13:06:03 CST 2025
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
