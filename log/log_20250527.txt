@@ -182,3 +182,10 @@ Tue May 27 10:47:30 CST 2025
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除sexygamesx https://edge27-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-8a90914d3a4f110d1b778945cba56b09437d3f6387b52c2ef078a92037f43fed_trns_h264/playlist.m3u8
 删除yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMEVCQTEwRS01MzQ4LTQwNDgtQkIzMy1CQ0YxODNCN0RCQkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODMwMjIyNiwiZXhwIjoxNzQ4MzAyODI2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ZTGJcAGHt4bh4A00eVIjUjQSMJKyxOozlj-gaFqGWDNNuSnMufQdmvvvBbo8Y0iZYQvESjs43MJtfoQ7wyLWIOrmxuwvQV-sTM2frjAJpA0_UwfvNG1AmdaSrVr-x7v0
+添加taitehambelton https://edge16-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-562e90d6bbf68e00853fb20f29e8fb1b31bf09302ab5d5f90ee507ba070528c8_trns_h264/playlist.m3u8
+Tue May 27 11:17:04 CST 2025
+Tue May 27 11:17:11 CST 2025
+Tue May 27 11:19:23 CST 2025
+Tue May 27 11:20:24 CST 2025
+添加Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
+删除oki_dokie https://edge12-lax.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e933abbe738b73e9a0ea76e68f96fe2278ec397c3c027947d93829ee6917b331_trns_h264/playlist.m3u8
