@@ -236,3 +236,10 @@ Tue May 27 14:38:01 CST 2025
 Tue May 27 14:40:14 CST 2025
 Tue May 27 14:41:19 CST 2025
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Tue May 27 14:56:38 CST 2025
+Tue May 27 14:56:51 CST 2025
+Tue May 27 14:59:02 CST 2025
+Tue May 27 15:00:05 CST 2025
+删除taitehambelton https://edge16-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-562e90d6bbf68e00853fb20f29e8fb1b31bf09302ab5d5f90ee507ba070528c8_trns_h264/playlist.m3u8
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
