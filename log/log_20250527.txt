@@ -250,3 +250,11 @@ Tue May 27 15:24:24 CST 2025
 Tue May 27 15:26:54 CST 2025
 Tue May 27 15:28:01 CST 2025
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加taitehambelton https://edge16-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-562e90d6bbf68e00853fb20f29e8fb1b31bf09302ab5d5f90ee507ba070528c8_trns_h264/playlist.m3u8
+Tue May 27 15:42:01 CST 2025
+Tue May 27 15:42:14 CST 2025
+Tue May 27 15:44:31 CST 2025
+Tue May 27 15:45:38 CST 2025
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
