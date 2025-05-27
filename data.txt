@@ -5,3 +5,5 @@ Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 _meganmeow_ https://edge22-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-f09f72d2972d3fdad9289c72ecd2cf46da0d1c809f2f7d0f817122a133e4e468_trns_h264/playlist.m3u8
 Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+oki_dokie https://edge21-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8ed0a9fd9317d827b4dd4fc645d6601f14044b4ef8522dd2b01ffe2a6f6cca39_trns_h264/playlist.m3u8
+sexygamesx https://edge4-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-3626427f11e936d661df318e94d29e11fbf36f2498c289a567be04403b77782c_trns_h264/playlist.m3u8
