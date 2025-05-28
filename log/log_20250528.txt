@@ -351,3 +351,11 @@ Wed May 28 19:29:04 CST 2025
 添加Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
 删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dGQ5vjs70DPTQaXf-HjxnpYISAMK8Arm_0Bt9CeuOlEmMSwmDeWr0-pvzOmz_sU7J_YCK8KOFqehhE3XUHbZFWbBmbLN1d_u5Jofkmf6YEAuEsVJH7fvY2Dgeg8-z23R
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加ake_mi https://edge18-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c81f5b4f0b3a4c48251ded2040722214bc008bf23227ab440ed843897902a3f4_trns_h264/playlist.m3u8
+Wed May 28 19:41:42 CST 2025
+Wed May 28 19:42:03 CST 2025
+Wed May 28 19:44:20 CST 2025
+Wed May 28 19:45:24 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除taitehambelton https://edge3-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-0447d0d798a8c1917417b656f3e76035da5644db8b20580672b9575673b46b6e_trns_h264/playlist.m3u8
