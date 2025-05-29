@@ -138,3 +138,8 @@ Fri May 30 05:42:18 CST 2025
 Fri May 30 05:44:30 CST 2025
 Fri May 30 05:45:32 CST 2025
 删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+Fri May 30 05:54:09 CST 2025
+Fri May 30 05:54:14 CST 2025
+Fri May 30 05:56:32 CST 2025
+Fri May 30 05:57:37 CST 2025
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
