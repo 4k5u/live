@@ -143,3 +143,8 @@ Fri May 30 05:54:14 CST 2025
 Fri May 30 05:56:32 CST 2025
 Fri May 30 05:57:37 CST 2025
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+Fri May 30 06:22:05 CST 2025
+Fri May 30 06:22:10 CST 2025
+Fri May 30 06:24:11 CST 2025
+Fri May 30 06:25:05 CST 2025
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
