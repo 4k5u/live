@@ -52,3 +52,15 @@ Sat May 31 01:24:04 CST 2025
 删除Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Sat May 31 01:40:01 CST 2025
+Sat May 31 01:40:30 CST 2025
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HGfcqEu7WjcPPYmkRw7o1T8pN4mtalyXYA3_yWq2x899FhxfRMgVlos61h47EUN7AKYgD0Q3aV__cg0Bg50buvTPxtuih6l3-fIohBg5aWC-MUWZO9jD7FTlYlCJ5ZZc
+Sat May 31 01:42:47 CST 2025
+Sat May 31 01:43:50 CST 2025
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除y0ur1n12486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.6TvCX7eGCeCi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzZUdkNYN2VHQ2VDaSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MTM4NjY3NS02NDk1LTRDQjMtOTQyNy00RkNCMUY1OUQ0OEUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODYxMjQ1OSwiZXhwIjoxNzQ4NjEzMDU5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.MW06Z-RCyxz5EDHWvH-mPyNWJLR2aGGJt9uAh0uwJOQ2RtnDi981K14IF1TyV7azOsSoviG6vY5koZgytUoXlzfix5pP7zSrHkpcpAKliPsHY8TgbDwVQCofvsqhBdUE
+删除big541 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.X1eHxZPb0fYEb94uSZwKDeHmqG4cWOplRbl1PBqs5T9_5J_OGHJpl3wHs9gQKUg6G0xDGxHrcm_eDy8cRkfMB21gRsteidN8QOBMrYq9mrYu-NI-CLIyJ5RSDDLNGjDo
+删除lovewindy https://edge6-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-10936f79b5767971c66578ea511e7bc6342a9f59ce535601870cde1e8e653f63_trns_h264/playlist.m3u8
+删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
