@@ -2,7 +2,6 @@ ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx
 Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 taitehambelton https://edge16-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-5dec09e5f4c8ff8a274e65c38770d0c898227385c557f943f21884d9b3f3f9a2_trns_h264/playlist.m3u8
 oki_dokie https://edge9-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-bb1df09679f9cc43254dcd5022f517299a1534d1b0d77499b710f6e1f05539e1_trns_h264/playlist.m3u8
-Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 danhana https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.WskmuSNNRNQk.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9Xc2ttdVNOTlJOUWsiLCJleHAiOjE3NDg2MjQ0NzU5MDYsImlhdCI6MTc0ODU4MTI3NX0.KdbbbjTSrkudQGgG48zyzZijmPfOrVThL2vkMjTvMEZBsUUM7X27gdYmW9IVNvvxbTw7K9sfBI3LYk91QNltTSsQEqvuOKUq0VYEBQC1ngF_74a-De02p01J7vBow9kU
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 foxylovesyou https://edge18-atl.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-46583ac7d4f32a6362ff7fc1add869ddd9ea29721a2e5418d301bb6779a0c0d5_trns_h264/playlist.m3u8
