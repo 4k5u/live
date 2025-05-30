@@ -180,3 +180,8 @@ Sat May 31 07:22:50 CST 2025
 Sat May 31 07:24:50 CST 2025
 Sat May 31 07:25:45 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加mazzanti_ https://edge5-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-97dfecfea27c92294f5ba92020da80dd3908a6bd379251bf4972f4f122059c9e_trns_h264/playlist.m3u8
+Sat May 31 07:38:00 CST 2025
+Sat May 31 07:38:09 CST 2025
+Sat May 31 07:40:24 CST 2025
+Sat May 31 07:41:30 CST 2025
