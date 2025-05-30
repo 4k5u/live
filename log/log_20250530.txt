@@ -282,3 +282,10 @@ Fri May 30 15:52:35 CST 2025
 Fri May 30 15:54:49 CST 2025
 Fri May 30 15:55:54 CST 2025
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加my_eyes_higher https://edge4-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7b55f287886a512d796737f07f996fa9d0c50aba02c8335e15fcfa5fd3233fcb_trns_h264/playlist.m3u8
+Fri May 30 16:30:12 CST 2025
+Fri May 30 16:30:27 CST 2025
+Fri May 30 16:32:41 CST 2025
+Fri May 30 16:33:44 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
