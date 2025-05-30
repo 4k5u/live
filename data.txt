@@ -11,3 +11,4 @@ Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m
 lovewindy https://edge6-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-b7f2801f209e590c5099977b6413e48bdf9d3eff2af584e096a8f858354de1b5_trns_h264/playlist.m3u8
 calliadesigner https://edge6-chi.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-73de3b9995097c187b8a8cfed1af63f41b56fad6d4d8d00cc805bc5e42b6e462_trns_h264/playlist.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+hee_jeen https://edge2-chi.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-584ab9ad648f4e55ed4193a8cc9dd77aa8f09294801586fa7528a9012e4506bf_trns_h264/playlist.m3u8
