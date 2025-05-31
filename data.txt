@@ -7,3 +7,4 @@ Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u
 __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 oki_dokie https://edge6-aus.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-b05dcb36264b1c542279f5c2256bd371f5f098d0205eaca01256be81473ff298_trns_h264/playlist.m3u8
+taitehambelton https://edge15-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-c133885582a6e8b977dab5298e7e8046d2145dfcc9c059c8c02e08a15ba54ccd_trns_h264/playlist.m3u8
