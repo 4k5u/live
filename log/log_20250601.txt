@@ -112,3 +112,8 @@ Sun Jun 1 04:31:14 CST 2025
 Sun Jun 1 04:32:09 CST 2025
 删除lovewindy https://edge29-atl.live.mmcdn.com/live-hls/amlst:lovewindy-sd-54fe1ac49c1bccca471172f106cddf4e8a1a6c06cf5a21d24135ccac7566535e_trns_h264/playlist.m3u8
 删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+添加hee_jeen https://edge19-phx.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-7b81aabc51b584f0c8a6807e0238afa9391bc6d1571d54ba183c7ec12fb7fae5_trns_h264/playlist.m3u8
+Sun Jun 1 04:42:58 CST 2025
+Sun Jun 1 04:43:09 CST 2025
+Sun Jun 1 04:45:10 CST 2025
+Sun Jun 1 04:46:05 CST 2025
