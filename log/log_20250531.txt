@@ -342,3 +342,10 @@ Sat May 31 17:45:22 CST 2025
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除leelate ?aid=null
+添加ad0res https://edge10-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-27074f90ef47d2e14579895e8a18ac2fc8af4aa17ad52c741cda0c47334d55e8_trns_h264/playlist.m3u8
+Sat May 31 17:53:09 CST 2025
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5CF4w5XAvR8X.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVDRjR3NVhBdlI4WCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1REMzQTdCNC1DREE1LTRERDEtOUFGRS01NTI2M0RGMjA3MTkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODY4NTE5NCwiZXhwIjoxNzQ4Njg1Nzk0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.eKzqn9Psh0FbTm7-PbxG2xhg1-KBVZ2tIr5UNV5prVcrDhRPuyb6oloHV3sSkvnekLx0GphZrG9TaF4zuh8Bc1_FNFAA_irfDd3jUkil3QVJCwR2DlFof3-cvr0Kvtun
+Sat May 31 17:53:28 CST 2025
+Sat May 31 17:55:43 CST 2025
+Sat May 31 17:56:47 CST 2025
+删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
