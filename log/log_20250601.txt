@@ -170,3 +170,9 @@ Sun Jun 1 07:30:43 CST 2025
 Sun Jun 1 07:32:57 CST 2025
 Sun Jun 1 07:34:00 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加oki_dokie https://edge25-atl.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-66c75f847b8b52f8dd6dbf9a69ec527ed5ce4930d0f9c0e552636faae9348a64_trns_h264/playlist.m3u8
+Sun Jun 1 07:43:56 CST 2025
+Sun Jun 1 07:44:03 CST 2025
+Sun Jun 1 07:46:20 CST 2025
+Sun Jun 1 07:47:25 CST 2025
+删除hee_jeen https://edge19-phx.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-7b81aabc51b584f0c8a6807e0238afa9391bc6d1571d54ba183c7ec12fb7fae5_trns_h264/playlist.m3u8
