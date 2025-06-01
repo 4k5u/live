@@ -4,6 +4,5 @@ sexymin12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 hee_jeen https://edge8-sea.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-9c1cdc035387b93b197ba49591b4d85ee487ddc13b2afa4632e852009b0bdb0a_trns_h264/playlist.m3u8
 _meganmeow_ https://edge12-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-5df03f5e284bea05b3b615b814d683dab6baee87ec35f81cd20aec68dfb3bd61_trns_h264/playlist.m3u8
-gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KPiiZS8RYnX4bL7WNGLLx6fwGn4LYj2Dcg9TVKJY-qCeyn9PMWP09vXa7YFHpCxT6htFUt66tGZv4xe31r4B0aVfl5DfEbvGBJVMKjdXcRcCRFZEjoBpfUMtCw5mqMbi
 oki_dokie https://edge1-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3f61663fe8cc36287ebf0eebe925821a1eeaff0c7d947363f361648d0bf7a8b4_trns_h264/playlist.m3u8
-Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+sexygamesx https://edge21-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-753653ba966306ed03e27da5cc15474dae41dd0cead04bf1c8478d963a45773f_trns_h264/playlist.m3u8
