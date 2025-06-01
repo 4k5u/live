@@ -144,3 +144,9 @@ Mon Jun 2 06:24:25 CST 2025
 Mon Jun 2 06:25:29 CST 2025
 删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KPiiZS8RYnX4bL7WNGLLx6fwGn4LYj2Dcg9TVKJY-qCeyn9PMWP09vXa7YFHpCxT6htFUt66tGZv4xe31r4B0aVfl5DfEbvGBJVMKjdXcRcCRFZEjoBpfUMtCw5mqMbi
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+添加mazzanti_ https://edge21-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-37f9b4b97ee30d622362e6eb4db018b704178a4251de1e675787d61ab485b5e9_trns_h264/playlist.m3u8
+Mon Jun 2 06:40:35 CST 2025
+Mon Jun 2 06:40:38 CST 2025
+Mon Jun 2 06:42:52 CST 2025
+Mon Jun 2 06:43:56 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8

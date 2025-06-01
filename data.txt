@@ -6,3 +6,5 @@ hee_jeen https://edge8-sea.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-9c1cdc03538
 _meganmeow_ https://edge12-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-5df03f5e284bea05b3b615b814d683dab6baee87ec35f81cd20aec68dfb3bd61_trns_h264/playlist.m3u8
 oki_dokie https://edge1-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3f61663fe8cc36287ebf0eebe925821a1eeaff0c7d947363f361648d0bf7a8b4_trns_h264/playlist.m3u8
 sexygamesx https://edge21-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-753653ba966306ed03e27da5cc15474dae41dd0cead04bf1c8478d963a45773f_trns_h264/playlist.m3u8
+mazzanti_ https://edge21-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-37f9b4b97ee30d622362e6eb4db018b704178a4251de1e675787d61ab485b5e9_trns_h264/playlist.m3u8
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
