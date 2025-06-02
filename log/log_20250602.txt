@@ -366,3 +366,9 @@ Mon Jun 2 19:44:53 CST 2025
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1op0J38Qa4u6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFvcDBKMzhRYTR1NiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCREFBRUMzQS1BMzc5LTQzRjAtOTc4MC05NjdDODU3OUVGNDIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODg0NjU2OSwiZXhwIjoxNzQ4ODQ3MTY5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.6xDNi3rVpk45sUbiFwE31IZmXxbKP1VDp7e4AFmFoR3TNY7LrsV668h8d9qR1iHEoh_asRnfPRT71l4jCzcDmPxbEoDtPpaxikSLW79YasS1p4WYTmYBkGHMZElt96IF
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Mon Jun 2 19:52:23 CST 2025
+Mon Jun 2 19:52:55 CST 2025
+Mon Jun 2 19:55:10 CST 2025
+Mon Jun 2 19:56:13 CST 2025
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
