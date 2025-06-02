@@ -143,3 +143,9 @@ Tue Jun 3 06:46:13 CST 2025
 Tue Jun 3 06:48:26 CST 2025
 Tue Jun 3 06:49:29 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Tue Jun 3 07:28:08 CST 2025
+Tue Jun 3 07:28:22 CST 2025
+Tue Jun 3 07:30:36 CST 2025
+Tue Jun 3 07:31:38 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YSYB8Ftfk8Ip.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lTWUI4RnRmazhJcCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMjI1MjQyNy0xMjQ0LTQ4QzctOEE4Ri1BMzNDMzQxMkU4MUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODg3NzA5MywiZXhwIjoxNzQ4ODc3NjkzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.6F1pJWRvhZI70K1u1EuO7_6VkpFRl1oe6fzb4z2oXS7WSK_t7Ms6Z6ciFTkL_0WQMJLW86p1yeFM3t5K3WoENVXrEVNiK631OIRwKpuHs0J5wRHQR79oaMcy82aL4AzD
