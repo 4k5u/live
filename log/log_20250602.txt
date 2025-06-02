@@ -258,3 +258,9 @@ Mon Jun 2 14:46:18 CST 2025
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加rosyemily https://edge10-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-69eba7596a452983a7db432b24b24f98addfecc5bceca3b687b2747c59106464_trns_h264/playlist.m3u8
+Mon Jun 2 14:59:37 CST 2025
+Mon Jun 2 14:59:46 CST 2025
+Mon Jun 2 15:02:00 CST 2025
+Mon Jun 2 15:03:05 CST 2025
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
