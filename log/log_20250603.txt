@@ -17,3 +17,12 @@ Tue Jun 3 00:52:38 CST 2025
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除lovewindy https://edge2-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-5b7805e5fe709ae8c14abb9e84030ec6d177ccc98d7bf74ab27c0c389a4015ca_trns_h264/playlist.m3u8
 删除Tmdgus5411 ?aid=null
+Tue Jun 3 01:02:35 CST 2025
+Tue Jun 3 01:03:24 CST 2025
+Tue Jun 3 01:05:28 CST 2025
+Tue Jun 3 01:06:24 CST 2025
+添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+删除luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3NDg5MDM1NzQ2OTMsImlhdCI6MTc0ODg2MDM3NH0.cB5ZGZeUzQzjSpFsD96kC4uxNYGL-ixuxnXGT5efxPp3FvqW6SH2fHi2kRkCCjNiznrP0nA-G_vJKJ5VVJomz7oLXDL8HgGvmLB8JwPdNQ9PvzbhBFz1kvrS_CiLu5og
+删除Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
+删除insgirl https://edge-hls.doppiocdn.live/hls/72418042/master/72418042_auto.m3u8
