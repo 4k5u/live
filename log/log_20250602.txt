@@ -189,3 +189,18 @@ Mon Jun 2 10:13:01 CST 2025
 删除mazzanti_ https://edge21-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-37f9b4b97ee30d622362e6eb4db018b704178a4251de1e675787d61ab485b5e9_trns_h264/playlist.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Mon Jun 2 11:36:24 CST 2025
+Mon Jun 2 11:36:29 CST 2025
+Mon Jun 2 11:38:42 CST 2025
+Mon Jun 2 11:39:46 CST 2025
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除_meganmeow_ https://edge12-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-5df03f5e284bea05b3b615b814d683dab6baee87ec35f81cd20aec68dfb3bd61_trns_h264/playlist.m3u8
+删除oki_dokie https://edge1-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3f61663fe8cc36287ebf0eebe925821a1eeaff0c7d947363f361648d0bf7a8b4_trns_h264/playlist.m3u8
+删除y0ur1n12486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.6TvCX7eGCeCi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzZUdkNYN2VHQ2VDaSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDOThBNDk2Ni0yMjZCLTRFNUMtQjRCOS0wNTVEQ0NBMDIxMTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODgxODMwMywiZXhwIjoxNzQ4ODE4OTAzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.FPtkFZXcqxuhwOnnUfehQ8jhdmTKlCNMzXyn3ehlrgjiNdZf0Vut8-MIGyVK-0QwR4-kNCvksLt4rXbzmB8g8zFwwl_AbPjEV5xsGvMcB7eBt8dBVJEXvHU-Wb8sUKKM
+删除ioibibi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.66exLzO8T9sb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzY2ZXhMek84VDlzYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NjNGNEE1NS05RjQ0LTQxQzctQUQzRi02RjFGREUxNEFCOEEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODgzMDE3MywiZXhwIjoxNzQ4ODMwNzczLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.KvOMg0A_CU5vaiQHVIqX96552NbRI9vcPZleapb5jtbWaCC1F5ZiU71qjZ0XnZE0VT7fReup9-Szr_C_iIGFXwNVy9Bbji7w8ednBmHeMWKoYzv9Rm_V5UBK2ZZQkHFd
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
