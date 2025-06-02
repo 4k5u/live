@@ -276,3 +276,8 @@ Mon Jun 2 15:33:14 CST 2025
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+Mon Jun 2 15:44:09 CST 2025
+Mon Jun 2 15:44:27 CST 2025
+Mon Jun 2 15:46:43 CST 2025
+Mon Jun 2 15:47:48 CST 2025
+删除Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7k8G5_876lGvmriWm3XcWCj8jBCfXxB6OB0uXuoB0I_hdA7R2QipcDXAQBR8IkZjCk586l24N-lhx98DHUpZ1nTmCOSbdRq0i0Y8lYV62hly8z_-Sx6-ZkNkNgex8liQ
