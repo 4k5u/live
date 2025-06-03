@@ -257,3 +257,15 @@ Tue Jun 3 16:01:47 CST 2025
 删除my_eyes_higher https://edge14-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f650baebf0ee6347b627df732c5b5c23f63afcae81d0b6d1dc665ab0b5a89a97_trns_h264/playlist.m3u8
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加my_eyes_higher https://edge23-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a8eff579b7d1bb6ee5942600cd022d41e3228d83cf91fb0d8627719622614d32_trns_h264/playlist.m3u8
+Tue Jun 3 16:35:53 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCRDhFMUVEMi1CQTkwLTQwNjQtOTY1MS0xMDcyQzg5NDRCNkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODkzOTc2MiwiZXhwIjoxNzQ4OTQwMzYyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.GcOwv9sQ4eWjzCH5cLvOsByib24BauhdyVWCZ5YeTeenA7VVF6D29CGMF9z-6DBRuLo77VA8RfyG3SzmXhunPC3mzbOdukDQ9ipqq1ZkZEB03ENzSs-Q4U_sBnLDWHch
+Tue Jun 3 16:36:16 CST 2025
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-eLvD3u5YrHXsEwhLtQ_aEDa_-UbVQxfM9OMtpNPwYNDRDpMkeYWoe3dpEgoU2SLcmRcsm7Mq_w2vVSO73GqylPVwNL1BfnGmUo2imL3wGqlwefRiv19eOD0AT1Br37U
+添加flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Q_OCq8138byWd0k_9kIfUouEcSCntSIDLnl7nu7GRF84AhvcTjVqzb1S1wGZBCjpbaGN3S0BvpdedwfJ7yKFW3KrgBA4MZeE9uJiqVL5Vuj-uKm3G-bGbpPHb0G-StPy
+Tue Jun 3 16:38:42 CST 2025
+Tue Jun 3 16:39:51 CST 2025
+添加bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除iminako https://edge24-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-123d68d1518ca6c249e24b02cd28099899b7c589c16922fcb91153bfdc7428a0_trns_h264/playlist.m3u8
