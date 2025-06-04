@@ -102,3 +102,10 @@ Thu Jun 5 03:42:12 CST 2025
 Thu Jun 5 03:42:33 CST 2025
 Thu Jun 5 03:44:46 CST 2025
 Thu Jun 5 03:45:47 CST 2025
+Thu Jun 5 03:58:16 CST 2025
+Thu Jun 5 03:58:35 CST 2025
+Thu Jun 5 04:00:52 CST 2025
+Thu Jun 5 04:01:57 CST 2025
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
+删除bo1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YaadnkvDdaQS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lhYWRua3ZEZGFRUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMUQyQkRCQy02MkZGLTQ5QzEtQUZBRi1FRUI5NjJGQjczOUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTA2NTUwNCwiZXhwIjoxNzQ5MDY2MTA0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.awY6x23vfHSlZLrvbBib-TLaeLdiu-a5BOueIxXMu1TCw3BTZy4z9yTex1TquK2g52WA204mDsxamREhvcBP15gsevfdU-Vp_5VRtMOMpBGMIqrlOdiZNpU5vU0MDums
