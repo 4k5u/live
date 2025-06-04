@@ -215,3 +215,11 @@ Wed Jun 4 13:44:22 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KX04GEES1DsZ41Z_-AZQ4bc5IaGJ2OcwHnN9T9HmG_iRzGFZLonggvgX0TvB_W--3GaZ5rDEy1BAPu8JZ6xGkjNhdjOP18BVAEIKnwoi22UzP_Y62zTEctk1mS-TM0jJ
 删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加foxylovesyou https://edge18-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-d0b7e0db22f781728c2c5ba3f69188aba953d92855359645beb3cebe2c9436b8_trns_h264/playlist.m3u8
+Wed Jun 4 13:53:08 CST 2025
+Wed Jun 4 13:53:15 CST 2025
+Wed Jun 4 13:55:16 CST 2025
+Wed Jun 4 13:56:11 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1QzE2MjgxRi0zRUVFLTRBQUItQUZCMi1GOEQ0MjY0MDlFNDgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODk1NzIxMCwiZXhwIjoxNzQ4OTU3ODEwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.CAR9Gt47ggJUT78uHRweZCs2vXiuZGjU6tjKY1SCvLot4Z2SOg68NDyIY4Mw2vKb5KE90WKYQAp0U9ZuRnrrpIR61RC4NJpLaWCCE3i-xSHXlykzEH47iKq7rhxWUqRT
