@@ -181,3 +181,7 @@ Thu Jun 5 07:25:34 CST 2025
 添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除sexygamesx https://edge6-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-80abdc699e50e8e5751e086aa584e11d120d68af2c04a78d55fba5e90a0c79a9_trns_h264/playlist.m3u8
+Thu Jun 5 07:42:30 CST 2025
+Thu Jun 5 07:42:37 CST 2025
+Thu Jun 5 07:44:49 CST 2025
+Thu Jun 5 07:45:50 CST 2025
