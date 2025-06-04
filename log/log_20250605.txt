@@ -19,3 +19,20 @@ Thu Jun 5 00:42:57 CST 2025
 删除podo0311 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CsHMupBvEh6a.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NzSE11cEJ2RWg2YSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNTJERjNBRC00REU1LTRENTItODU0Ni05RjBGMzc4NkQ3MDciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTA0MTMzNiwiZXhwIjoxNzQ5MDQxOTM2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.nuS8CYAqTx17atVKofCMhRZ_NzZXrqT4BqOdWLngsPPUnRAC1goO-P7XgKeuwCbo2mKBJzqIm0P8pMmP4SaozUVGFb-IKAYiNTEm_bFm6deBtcQNogU1IXrsBj9PtQ-S
 删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJERDY1Qjc0RC1ENTM0LTQ0QkItODdCQy1CNTIxNTc1NzlCOEQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTA0OTMyMCwiZXhwIjoxNzQ5MDQ5OTIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ZbJDMWFv9xczSwjZ34YMhJzsCa-LjMXdoHQyK4Xz4oxGvrwaQPIJjJ1mo1THZFRveQskG1cNirwWHecufo6rFCfujkgYIYC2Sfw1Rep9HLF0n1r4BY2Ire2lZpZ02aDk
 删除bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+Thu Jun 5 00:55:15 CST 2025
+Thu Jun 5 00:56:01 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Thu Jun 5 00:58:17 CST 2025
+Thu Jun 5 00:59:19 CST 2025
+添加bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+删除rosyemily https://edge2-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-b86de36940f4cb586e4800ed784aa208398a248418a87e28602727e2dc35d4e4_trns_h264/playlist.m3u8
+删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.20ONpjG9SsH2HxfPOQbwh3UOcvi82WPhlUORfNxyKTuiauzhX9JZn73VKD2pcPToeR1bDgQ8lwAjFxOQ_kwsi_aR32fiJupfRwWxOFdshhVLOfEcrPERLabt15iPZSG6
+删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.caTAWiugR1qkytGpHVVpDBnv1vcsFwNUBODDGLp4Z0EQba89eGyoxgkE4NpLlOqYRcxIRtCA6OuNmhQrwD7XYUMspL_VtbEfdKxNA7eHAPLj_wjQve-EWS1PRcPzAzmc
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除tw_Sutew https://edge-hls.doppiocdn.live/hls/104933496/master/104933496_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除oki_dokie https://edge6-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-72b6a482fab41dae66e9651c50544e59eb2aaf2842d6523e0f0a3b186c2b6f24_trns_h264/playlist.m3u8
