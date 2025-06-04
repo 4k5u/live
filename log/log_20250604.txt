@@ -312,3 +312,8 @@ Wed Jun 4 18:31:28 CST 2025
 Wed Jun 4 18:32:35 CST 2025
 添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
+Wed Jun 4 18:49:38 CST 2025
+Wed Jun 4 18:49:57 CST 2025
+Wed Jun 4 18:51:57 CST 2025
+Wed Jun 4 18:52:53 CST 2025
+删除rosyemily https://edge2-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-b86de36940f4cb586e4800ed784aa208398a248418a87e28602727e2dc35d4e4_trns_h264/playlist.m3u8
