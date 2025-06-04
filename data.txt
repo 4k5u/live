@@ -7,3 +7,4 @@ nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 sexygamesx https://edge6-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-80abdc699e50e8e5751e086aa584e11d120d68af2c04a78d55fba5e90a0c79a9_trns_h264/playlist.m3u8
 oki_dokie https://edge6-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5a8266e5285e668bd1a01ccfa55e4c7c5d9e6f57092f2fdb0799c87bbf93c0ea_trns_h264/playlist.m3u8
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
