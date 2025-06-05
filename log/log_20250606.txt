@@ -157,3 +157,8 @@ Fri Jun 6 07:27:50 CST 2025
 Fri Jun 6 07:29:51 CST 2025
 Fri Jun 6 07:30:46 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Fri Jun 6 07:44:42 CST 2025
+Fri Jun 6 07:44:49 CST 2025
+Fri Jun 6 07:47:00 CST 2025
+Fri Jun 6 07:48:02 CST 2025
+删除qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNDgxNTMzOC0zQzdBLTRBMzItOThDNi1FQjExNzJEMUFGODEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTE0Mzg4NiwiZXhwIjoxNzQ5MTQ0NDg2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pwETZN0XfFmQW0p3Afw5pplsLauo8EF643fewwKclolRZ7T3snFiNdfUklkicO4_56ri94qWO-Bq4u5UZNFWU6WW49jpDjLRuY9SqjJoENEe66o2ZNrvTOKKo5fmQ_v8
