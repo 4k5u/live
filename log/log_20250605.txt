@@ -203,3 +203,17 @@ Thu Jun 5 10:07:39 CST 2025
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+添加taitehambelton https://edge28-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-9b5a092db65745c75a61110952cd588b56028999c6854999345952600bd01e0b_trns_h264/playlist.m3u8
+Thu Jun 5 11:23:10 CST 2025
+Thu Jun 5 11:23:16 CST 2025
+Thu Jun 5 11:25:27 CST 2025
+Thu Jun 5 11:26:29 CST 2025
+添加Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+删除oki_dokie https://edge6-chi.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5a8266e5285e668bd1a01ccfa55e4c7c5d9e6f57092f2fdb0799c87bbf93c0ea_trns_h264/playlist.m3u8
+删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
