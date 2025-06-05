@@ -348,3 +348,9 @@ Thu Jun 5 17:29:34 CST 2025
 添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 添加peichen6699 https://edge-hls.doppiocdn.live/hls/160752369/master/160752369_auto.m3u8
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Thu Jun 5 17:44:52 CST 2025
+Thu Jun 5 17:45:09 CST 2025
+Thu Jun 5 17:47:20 CST 2025
+Thu Jun 5 17:48:21 CST 2025
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
