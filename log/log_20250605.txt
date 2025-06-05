@@ -290,3 +290,11 @@ Thu Jun 5 15:03:14 CST 2025
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加taitehambelton https://edge18-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-9b5a092db65745c75a61110952cd588b56028999c6854999345952600bd01e0b_trns_h264/playlist.m3u8
+Thu Jun 5 15:26:32 CST 2025
+Thu Jun 5 15:26:43 CST 2025
+Thu Jun 5 15:28:58 CST 2025
+Thu Jun 5 15:30:01 CST 2025
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+删除my_eyes_higher https://edge19-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3679c3b9603b0439a69ee5c935489893537abf7c73edc5a39b5e029eaf4aed83_trns_h264/playlist.m3u8
+删除flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
