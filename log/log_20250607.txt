@@ -165,3 +165,8 @@ Sat Jun 7 07:28:14 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2N0VGNDEzOS01M0RCLTQzMzgtQTAzQS1BQkE4QjFENUM4MEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTIyMjAwOCwiZXhwIjoxNzQ5MjIyNjA4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.hU48TXo_qC9yoXTOlV2rWCdrbGDW-NqSOXZZhTnnMHSfNRfJrS8tokbKktEHyUYQMAQ_qwd0ne0dn4qoWAg2OrPvdbaOSCohZLFXD9xL8pMGcOIhrRSZ4g09MArAvp8u
+Sat Jun 7 07:42:05 CST 2025
+Sat Jun 7 07:42:12 CST 2025
+Sat Jun 7 07:44:28 CST 2025
+Sat Jun 7 07:45:32 CST 2025
+删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
