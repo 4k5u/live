@@ -497,3 +497,10 @@ Sat Jun 7 22:42:32 CST 2025
 添加bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
 删除bo1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YaadnkvDdaQS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lhYWRua3ZEZGFRUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NjY5QUEyOS05MTZGLTRGQjAtOEQwQy01ODVEMDE5OEMyNDUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTI5NTk1OSwiZXhwIjoxNzQ5Mjk2NTU5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gOiLws95GyAqIZUIDXNMKu7Pr48a_bb6R524T8ztkMXqnxhRxajP2R7vgb7T7I_cfp4ckDzBuU4FnwkBcTDNI1-XlGEYG67D7DsyrwKybP3i50pVULnflJgMgFh3v-eC
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Sat Jun 7 22:49:45 CST 2025
+Sat Jun 7 22:50:46 CST 2025
+添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Sat Jun 7 22:53:06 CST 2025
+Sat Jun 7 22:54:10 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
