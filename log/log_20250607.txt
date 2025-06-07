@@ -368,3 +368,9 @@ Sat Jun 7 17:44:59 CST 2025
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除ad0res https://edge24-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-b79445ab6a4356924235cc7e8d3c4e4cb2affbe0dd9de11f9d85f5c8dfeb9805_trns_h264/playlist.m3u8
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+Sat Jun 7 17:53:29 CST 2025
+Sat Jun 7 17:53:52 CST 2025
+Sat Jun 7 17:56:04 CST 2025
+Sat Jun 7 17:57:04 CST 2025
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除hehe0000 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FY710smfpq6g.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZZNzEwc21mcHE2ZyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0RUI0Njg4NS02NUFGLTRGREYtQjEzNi03RkU5MTIwM0E5QkIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTI3ODEwMSwiZXhwIjoxNzQ5Mjc4NzAxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.3Pn9D7yhgT59Id993E6loet6R-N3DljwICXzTUF0v2-fJ2Qm9x5ltbCA70qvUj0X6_6FRX5ku0irM22zJmbSfZ6WPeHSR6R-pXyyFmrcgv6Zuaoy5898H69bln1BuWSp
