@@ -202,3 +202,11 @@ Sat Jun 7 11:22:11 CST 2025
 删除dusdk2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.X9H5QvJu5b2M.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1g5SDVRdkp1NWIyTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEMjEyRjI1QS1DQTE2LTRBNTEtQTgxOC1ENTU5RTMzQkNGQjMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTI0NjA5MiwiZXhwIjoxNzQ5MjQ2NjkyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wieWYBbbTDLheP2bWZ1VwvVB7zOD4oHov1e9l7hPJ1FWHO1WdqrNiRjLvgXLqW5BzcrY0UmMFV1MYVjpMkBnb6lQv0LXLbP5QdXJZDDh9_p7-2sIkDU8-6N7IMXGe-v9
 删除mazzanti_ https://edge14-aus.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6d2ebfeb4e0251ef5fde2ed38054df1d30f2403bd069e1ecb69c3ed358cac8ea_trns_h264/playlist.m3u8
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+Sat Jun 7 11:56:29 CST 2025
+Sat Jun 7 11:56:36 CST 2025
+Sat Jun 7 11:58:51 CST 2025
+Sat Jun 7 11:59:55 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+删除_meganmeow_ https://edge2-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-2126a996d07d2264fd009685a21c3ab7d46f8216dd94ea6202f37f67580584c7_trns_h264/playlist.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
