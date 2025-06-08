@@ -259,3 +259,12 @@ Sun Jun 8 14:56:58 CST 2025
 Sun Jun 8 14:58:02 CST 2025
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+Sun Jun 8 15:25:16 CST 2025
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.55cHFi6IeBXm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzU1Y0hGaTZJZUJYbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MjVDRkFDMC0yQzdBLTQwMzktODI0RS1CQTA5QkYzOTU4NEQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTM2NzUyMSwiZXhwIjoxNzQ5MzY4MTIxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cxjdUdNLavzl8-5fKHAy6Ej5sovqS9NWn3VwIelka3vx5_8SIkLPu7jAzAUUdAoAJ8mU6toHnW228IIUta_lGQ2ya6xrzWdi8cXfQA18aEn_6yxcKjUj6e5rOLGAGiwt
+Sun Jun 8 15:25:33 CST 2025
+Sun Jun 8 15:27:48 CST 2025
+Sun Jun 8 15:28:53 CST 2025
+添加Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除my_eyes_higher https://edge9-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-dd0d899ca0324038c4d019d23fa75321c95129d1bfdedcbd6e59c1a60fa6cf89_trns_h264/playlist.m3u8
