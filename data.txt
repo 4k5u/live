@@ -8,3 +8,4 @@ bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 _meganmeow_ https://edge28-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-46abac723625688370a3ae34a63c5cb584af970617110dadd41d2a766afbde1d_trns_h264/playlist.m3u8
+lovewindy https://edge16-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-21852a70b335294402d00480dfe9d679312ba336660f197121ed82b35ca16242_trns_h264/playlist.m3u8
