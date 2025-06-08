@@ -93,3 +93,10 @@ Mon Jun 9 03:29:04 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除gkfnsus5573 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.4vTQkzhj8zas.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzR2VFFremhqOHphcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMEM1QzVBRi0wNjM2LTQwRjUtOTg2Ri1BRjU0RkY3RTE0NkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTM5MDgwOCwiZXhwIjoxNzQ5MzkxNDA4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ZtEEAIncUT4mmSmy4EvXzYuyWbBKU4d4KkGM6sDLupQ3Y7kQmcBozu4Z672bhIshiJwnNY6FtLKAIZAB0V3q-FhW8suX-zFD-UkPq7e8_V-ADKDnk1tHbfehRpDi-amB
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Mon Jun 9 03:39:46 CST 2025
+Mon Jun 9 03:39:51 CST 2025
+Mon Jun 9 03:42:06 CST 2025
+Mon Jun 9 03:43:09 CST 2025
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
