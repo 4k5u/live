@@ -126,3 +126,10 @@ Mon Jun 9 04:59:09 CST 2025
 Mon Jun 9 04:59:14 CST 2025
 Mon Jun 9 05:01:37 CST 2025
 Mon Jun 9 05:02:44 CST 2025
+Mon Jun 9 05:23:27 CST 2025
+Mon Jun 9 05:23:32 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Mon Jun 9 05:25:57 CST 2025
+Mon Jun 9 05:27:03 CST 2025
+删除bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
+删除lovewindy https://edge16-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-21852a70b335294402d00480dfe9d679312ba336660f197121ed82b35ca16242_trns_h264/playlist.m3u8

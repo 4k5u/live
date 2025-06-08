@@ -4,8 +4,7 @@ angelovo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YSYB8Ftfk8Ip.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lTWUI4RnRmazhJcCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENTBDNkMxNC04RTE1LTQxNjUtQUM0NC0xRjQwRDgwODU1OEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTM5NjY5OSwiZXhwIjoxNzQ5Mzk3Mjk5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.izDaoly03YotnjIbh_fs3R0Rv07p5Lt4p2J3fV_LkApDEWzR49u9DQzKNW9v91251irY2SsF9HnarfnrYNY3UWNgaqyEiT4oXRNAsnUGJRonDKDz_PRQaaOtev6wse3S
 l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
-bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 _meganmeow_ https://edge28-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-46abac723625688370a3ae34a63c5cb584af970617110dadd41d2a766afbde1d_trns_h264/playlist.m3u8
-lovewindy https://edge16-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-21852a70b335294402d00480dfe9d679312ba336660f197121ed82b35ca16242_trns_h264/playlist.m3u8
+gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
