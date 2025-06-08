@@ -313,3 +313,13 @@ Sun Jun 8 17:27:32 CST 2025
 添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加ad0res https://edge9-phx.live.mmcdn.com/live-hls/amlst:ad0res-sd-fd5458f4fafd9ef252478bfed0f9127d6e8259fafcec2d4dd531fa6b029fe97e_trns_h264/playlist.m3u8
+Sun Jun 8 17:41:50 CST 2025
+Sun Jun 8 17:42:19 CST 2025
+Sun Jun 8 17:44:28 CST 2025
+Sun Jun 8 17:45:28 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除anna102 https://edge-hls.doppiocdn.live/hls/76766494/master/76766494_auto.m3u8
