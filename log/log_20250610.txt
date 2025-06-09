@@ -89,3 +89,8 @@ Tue Jun 10 03:32:15 CST 2025
 Tue Jun 10 03:34:30 CST 2025
 Tue Jun 10 03:35:34 CST 2025
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+添加lovewindy https://edge29-sea.live.mmcdn.com/live-hls/amlst:lovewindy-sd-61431015fbccbba649c68baebb317280d7dd8e068fb72bafc6581c68a4202818_trns_h264/playlist.m3u8
+Tue Jun 10 03:44:01 CST 2025
+Tue Jun 10 03:44:18 CST 2025
+Tue Jun 10 03:46:19 CST 2025
+Tue Jun 10 03:47:14 CST 2025
