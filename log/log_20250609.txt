@@ -296,3 +296,11 @@ Mon Jun 9 15:46:28 CST 2025
 Mon Jun 9 15:48:44 CST 2025
 Mon Jun 9 15:49:49 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+Mon Jun 9 15:59:05 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMkIyQ0JFRi0xRDY4LTRFQjAtOEY4Ni04QkVBRThFMzMxMTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTQ1NTk1MCwiZXhwIjoxNzQ5NDU2NTUwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ugwAKihacyl4AiVL4gpUBI7dVHkwo7WOXXb2Ha2JJ0hOR8idhG4pG3HwCoqxqewwreD-9wQg9ar9WXzU-f8JABud9FNaRiFdXU0jyNw3CsGChVOJSik6EBwHdRnAv0RU
+Mon Jun 9 15:59:22 CST 2025
+Mon Jun 9 16:01:37 CST 2025
+添加alswjd04 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.7Hkmd6ZMGtFC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC83SGttZDZaTUd0RkMiLCJleHAiOjE3NDk0OTkxODAxMDEsImlhdCI6MTc0OTQ1NTk4MH0.fsNtLbS__KXDl8mBGoEa0-_K4XnTTil62268cVlkY5zNuUW-wEThJ-n0bO2Tvavo1BBENa44yGOmCkeU-pJcqfrSTGwexKb06XDcGuwUwnXR14kMF9mWbF203UecaMZ2
+Mon Jun 9 16:02:43 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除iminako https://edge27-atl.live.mmcdn.com/live-hls/amlst:iminako-sd-6f80fbb956d09e0b0e9c5f8ce54cfce2039fcf60746d0966e03ef66f183671f9_trns_h264/playlist.m3u8
