@@ -109,3 +109,11 @@ Wed Jun 11 03:59:40 CST 2025
 Wed Jun 11 04:01:58 CST 2025
 Wed Jun 11 04:03:03 CST 2025
 删除lovewindy https://edge15-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-4dc0773b1a20693ef5149620bebeb78665ce8147b811b2602472e4f80fc734d4_trns_h264/playlist.m3u8
+添加lovewindy https://edge11-atl.live.mmcdn.com/live-hls/amlst:lovewindy-sd-c866e76a2d7a0a712272ef16258247cb01e7ef4f1806d167690cac56a457d070_trns_h264/playlist.m3u8
+Wed Jun 11 04:30:35 CST 2025
+Wed Jun 11 04:30:42 CST 2025
+Wed Jun 11 04:32:56 CST 2025
+Wed Jun 11 04:34:00 CST 2025
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除hidana https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.s1byvE3HOfIA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3MxYnl2RTNIT2ZJQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMzc4ODVFRi1DMURCLTQ3MEQtQkQwNC0yRUE5QkQ2QTNCMzAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTU2OTM0NSwiZXhwIjoxNzQ5NTY5OTQ1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.P6fljlNJZDaL54f3SrAJMr6Fav-5wElzDbUxPSzl3_SGK6RzBuPPy7Mp3zmcabVObnacvGcBZyVromkaQi-rqFTmvP0Pa-cCrZ8iObXhkIGR1IwzQXPSdFFD2piH16dx
+删除cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
