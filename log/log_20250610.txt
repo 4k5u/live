@@ -292,3 +292,11 @@ Tue Jun 10 15:46:14 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Tue Jun 10 15:58:12 CST 2025
+Tue Jun 10 15:58:26 CST 2025
+Tue Jun 10 16:00:45 CST 2025
+Tue Jun 10 16:01:51 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除taitehambelton https://edge6-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-731046a5e336e2f4ce65a7fce47c3d50f7ef5c90174343c13dbc9dac0b33ba62_trns_h264/playlist.m3u8
