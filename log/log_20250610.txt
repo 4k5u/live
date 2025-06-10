@@ -164,3 +164,13 @@ Tue Jun 10 07:59:08 CST 2025
 Tue Jun 10 08:01:24 CST 2025
 Tue Jun 10 08:02:28 CST 2025
 删除hee_jeen https://edge2-sea.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-a567f1ead88a5eaa15f0d300a3449c803976bcac38bab33e96166451f0b18bbe_trns_h264/playlist.m3u8
+Tue Jun 10 10:06:27 CST 2025
+Tue Jun 10 10:06:34 CST 2025
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Tue Jun 10 10:08:54 CST 2025
+Tue Jun 10 10:09:57 CST 2025
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
