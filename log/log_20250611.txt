@@ -295,3 +295,11 @@ Wed Jun 11 15:42:58 CST 2025
 Wed Jun 11 15:45:00 CST 2025
 Wed Jun 11 15:45:54 CST 2025
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+添加my_eyes_higher https://edge25-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-166144773d4ed62b6cdf7ddb7925e451cb76247a988f4d379faefa8dabac348b_trns_h264/playlist.m3u8
+Wed Jun 11 15:58:26 CST 2025
+Wed Jun 11 15:58:39 CST 2025
+Wed Jun 11 16:00:59 CST 2025
+Wed Jun 11 16:02:03 CST 2025
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除ioibibi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.66exLzO8T9sb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzY2ZXhMek84VDlzYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MTE3NTMxRS1BNUFFLTQxNEEtODQzQy03RkQ3REMxMUU4M0EiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTYyMTYzNiwiZXhwIjoxNzQ5NjIyMjM2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Z0FfA7Yor2iA09Emr8JxZ32_Ag6_qLxi8v2VSxnmngfz2r1aacXxnH0VqAN4mrmHoPZj8BMAWXsrDTDpOQrQUA3_eDPuEHdHvuTlgTSpf86swSIJJ3CR2YJhIsBigLrt
