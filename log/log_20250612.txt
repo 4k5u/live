@@ -156,3 +156,7 @@ Thu Jun 12 05:28:20 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除lovewindy https://edge8-atl.live.mmcdn.com/live-hls/amlst:lovewindy-sd-3546b7645b251d6cdad65fdbec7458a8a6a3cca1a3f7d329ac58677cffa7d451_trns_h264/playlist.m3u8
+Thu Jun 12 05:42:46 CST 2025
+Thu Jun 12 05:42:56 CST 2025
+Thu Jun 12 05:45:12 CST 2025
+Thu Jun 12 05:46:16 CST 2025
