@@ -76,3 +76,13 @@ Thu Jun 12 02:36:34 CST 2025
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除do2do2 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.nXKbFeZk6wXA.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9uWEtiRmVaazZ3WEEiLCJleHAiOjE3NDk2OTgzMDU2NDQsImlhdCI6MTc0OTY1NTEwNX0.4jW1RahJAepsqV_QMpsib-qalFeD3J_hDmRMIjZI_6uwn2Q8yDGXSaFB9LczeLoxP9CcgnfK8rBq38so35DEYxuDTFhMqdpjo5RZuP93On6c--VJDUrhuZeY75bxJ7PQ
 删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Thu Jun 12 02:56:16 CST 2025
+添加nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMjg1MEIzMC0wNUIzLTQyMEUtOTE4My02RDIxQjk5RkQ4MEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTY2ODE4MiwiZXhwIjoxNzQ5NjY4NzgyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.bNsq3aDjOzeK4N4SfGsZXzt5yLJHLpeaXQUpbkrrsMbtgDkKmAfymKJcmziWNek-2yb-dj_UDbxqwgQkNvEAKIJvr05spjMTfFDtuGKMm1Wr_BtxJjMZmyeqeBz2Jqpk
+Thu Jun 12 02:56:32 CST 2025
+Thu Jun 12 02:58:45 CST 2025
+Thu Jun 12 02:59:46 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
