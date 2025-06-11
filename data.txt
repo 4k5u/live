@@ -42,7 +42,6 @@ qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
-eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
 Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
@@ -50,3 +49,4 @@ Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.hB-yisxoKlc_eukEUypc5W0z_oQGIRnoY9wgBS77prC6PeQXDd3VPGDNyVQlut6zsw8siRh8jZXzyF142Hh5yfYTX5hCCiroukduPuYEGRwOlEcXF-mzXn5juinCgsHhImZ2rOPrNal7ND4-cWRlmIdqxPw9fgjj_5dMnrQTyzNU0ZYjERtCUgXdh3MzkOQo
 do2do2 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.nXKbFeZk6wXA.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9uWEtiRmVaazZ3WEEiLCJleHAiOjE3NDk2OTgzMDU2NDQsImlhdCI6MTc0OTY1NTEwNX0.4jW1RahJAepsqV_QMpsib-qalFeD3J_hDmRMIjZI_6uwn2Q8yDGXSaFB9LczeLoxP9CcgnfK8rBq38so35DEYxuDTFhMqdpjo5RZuP93On6c--VJDUrhuZeY75bxJ7PQ
+lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_playlist.m3u8?aid=null
