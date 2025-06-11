@@ -179,3 +179,11 @@ Thu Jun 12 06:59:24 CST 2025
 Thu Jun 12 07:01:38 CST 2025
 Thu Jun 12 07:02:42 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Thu Jun 12 07:26:22 CST 2025
+Thu Jun 12 07:26:31 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Thu Jun 12 07:28:51 CST 2025
+Thu Jun 12 07:29:54 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除_meganmeow_ https://edge20-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-a168ce506231f6da89f26358bbf08631979df2363594793136786bc39f62b0c5_trns_h264/playlist.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
