@@ -134,3 +134,10 @@ Fri Jun 13 07:26:29 CST 2025
 Fri Jun 13 07:28:45 CST 2025
 Fri Jun 13 07:29:49 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加mazzanti_ https://edge27-sea.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-b19ddbd1e86bd2c786d4e06df5a1bae814dfba872915efd5bf70ad6161ddf3f5_trns_h264/playlist.m3u8
+Fri Jun 13 07:43:10 CST 2025
+Fri Jun 13 07:43:17 CST 2025
+Fri Jun 13 07:45:18 CST 2025
+Fri Jun 13 07:46:13 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除Tmdgus5411 ?aid=null
