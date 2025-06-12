@@ -92,3 +92,9 @@ Fri Jun 13 04:33:01 CST 2025
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Fri Jun 13 04:50:08 CST 2025
+Fri Jun 13 04:50:19 CST 2025
+Fri Jun 13 04:52:35 CST 2025
+Fri Jun 13 04:53:40 CST 2025
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除Tmdgus5411 ?aid=null
