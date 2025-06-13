@@ -7,3 +7,4 @@ Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 mazzanti_ https://edge27-sea.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-b19ddbd1e86bd2c786d4e06df5a1bae814dfba872915efd5bf70ad6161ddf3f5_trns_h264/playlist.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
