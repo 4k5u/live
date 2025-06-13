@@ -141,3 +141,8 @@ Sat Jun 14 05:31:20 CST 2025
 Sat Jun 14 05:32:23 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除lovewindy https://edge3-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-3a581631d570f1db916ee9eddc268004b7ebc19a7a8553fa42b18082190787b7_trns_h264/playlist.m3u8
+Sat Jun 14 05:45:07 CST 2025
+Sat Jun 14 05:45:22 CST 2025
+Sat Jun 14 05:47:36 CST 2025
+Sat Jun 14 05:48:37 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
