@@ -13,3 +13,4 @@ nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 lovewindy https://edge3-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-3a581631d570f1db916ee9eddc268004b7ebc19a7a8553fa42b18082190787b7_trns_h264/playlist.m3u8
 gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
