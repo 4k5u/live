@@ -184,3 +184,8 @@ Sat Jun 14 07:30:23 CST 2025
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Sat Jun 14 07:43:15 CST 2025
+Sat Jun 14 07:43:26 CST 2025
+Sat Jun 14 07:45:41 CST 2025
+Sat Jun 14 07:46:45 CST 2025
+添加Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
