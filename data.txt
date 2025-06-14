@@ -5,3 +5,6 @@ nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 hee_jeen https://edge28-ash.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-b7a1d4909e12b4f6c42f296648dd5f17db8d8c1ade1161ff44d3d06e223baef4_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 mazzanti_ https://edge6-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-0c1b2f03331cafabe4ddbab2277b2b28f56b04da203715c21bf0ddc326388d7a_trns_h264/playlist.m3u8
+sexygamesx https://edge14-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d134d40fb5021405d9217397a96e568437087aeef5a6a63d112ba5b505a6da0f_trns_h264/playlist.m3u8
+gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
