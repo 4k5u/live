@@ -8,3 +8,4 @@ mazzanti_ https://edge6-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-0c1b2f033
 sexygamesx https://edge14-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d134d40fb5021405d9217397a96e568437087aeef5a6a63d112ba5b505a6da0f_trns_h264/playlist.m3u8
 gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
