@@ -20,3 +20,4 @@ bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 hee_jeen https://edge28-ash.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-b7a1d4909e12b4f6c42f296648dd5f17db8d8c1ade1161ff44d3d06e223baef4_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
