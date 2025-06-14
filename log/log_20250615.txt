@@ -178,3 +178,8 @@ Sun Jun 15 06:42:57 CST 2025
 Sun Jun 15 06:44:02 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除lovewindy https://edge15-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-c36c6a99ec57a448b5a7f44efb1c1fc3b8c5695e0694f50b8eea5a6d38255685_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge6-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-0c1b2f03331cafabe4ddbab2277b2b28f56b04da203715c21bf0ddc326388d7a_trns_h264/playlist.m3u8
+Sun Jun 15 06:52:24 CST 2025
+Sun Jun 15 06:52:31 CST 2025
+Sun Jun 15 06:54:34 CST 2025
+Sun Jun 15 06:55:35 CST 2025
