@@ -129,3 +129,10 @@ Sun Jun 15 04:45:30 CST 2025
 Sun Jun 15 04:47:50 CST 2025
 Sun Jun 15 04:48:56 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Sun Jun 15 04:58:18 CST 2025
+Sun Jun 15 04:58:27 CST 2025
+Sun Jun 15 05:00:40 CST 2025
+Sun Jun 15 05:01:40 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除lovewindy https://edge12-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-de3e410ccbf3e6dd9952172d580cd865528129e8e545ce542e7a39f8fbc815f2_trns_h264/playlist.m3u8
+删除bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
