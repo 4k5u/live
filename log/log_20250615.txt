@@ -358,3 +358,9 @@ Sun Jun 15 17:26:40 CST 2025
 删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
 删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Sun Jun 15 17:43:08 CST 2025
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4QjRCMzUwQS1EQUU3LTQ5ODgtQTREQS0wMjdCODA2QjQ5NUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTk4MDYwMSwiZXhwIjoxNzQ5OTgxMjAxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.x6VaTLRk7Rcab2G58OEIQ38xl6cC6OkN01fnajXth4RhE6FslNNmlZ-XQpPRXTaBZU2kNN5ZC8j8BhV41N1AIPuqh4u_NZLXKlm9yO309UZ9ri6CF-sSDV3dynvhM3BG
+Sun Jun 15 17:43:26 CST 2025
+Sun Jun 15 17:45:36 CST 2025
+Sun Jun 15 17:46:38 CST 2025
+删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
