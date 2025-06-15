@@ -127,3 +127,10 @@ Mon Jun 16 04:58:31 CST 2025
 Mon Jun 16 05:00:46 CST 2025
 Mon Jun 16 05:01:51 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Mon Jun 16 05:24:32 CST 2025
+Mon Jun 16 05:24:37 CST 2025
+Mon Jun 16 05:26:49 CST 2025
+Mon Jun 16 05:27:50 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQTBDNTA4QS1DRjM4LTQ3QTctOEE5Ni05RUNDMUExRDA1NTMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTk5NjEzOSwiZXhwIjoxNzQ5OTk2NzM5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.t0t-rC5FxsQ-flOJSzZwchdYCKt1Up9dfxo3_I1qHQ9euICinST2qBuch1NOVV6S4N7McXzzIG6G4XpEC1YcdxUE_2SZn6Py0gEUxZ2SySGkOp7E5Yf_Xs-msY2W3BCA
+删除hee_jeen https://edge9-phx.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-660f9d5bd3e442a6806e36831611cc436c7d54f46058cb19350836a339303f68_trns_h264/playlist.m3u8
