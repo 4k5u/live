@@ -202,3 +202,8 @@ Sun Jun 15 07:53:05 CST 2025
 添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 删除hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YSYB8Ftfk8Ip.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lTWUI4RnRmazhJcCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQkVDREE0Qi1DNTkzLTRBRUMtQjk4MS0xQ0MxQjAwM0I0OTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTkxNDkzMywiZXhwIjoxNzQ5OTE1NTMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.1MYI4EqHR5PtcAUP7qIZCmSS4BHJilo3K-sUt_mhDcbIrS0EsEFZVFL_g9rjpCF5zxCi2CB1vxghiQhSLdHVAwXpnbEkdI8sdQsM3MzrsVgP-dIt8jyTJdGuaO0XHGBJ
 删除sexygamesx https://edge14-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d134d40fb5021405d9217397a96e568437087aeef5a6a63d112ba5b505a6da0f_trns_h264/playlist.m3u8
+Sun Jun 15 07:59:57 CST 2025
+Sun Jun 15 08:00:02 CST 2025
+Sun Jun 15 08:02:04 CST 2025
+Sun Jun 15 08:02:59 CST 2025
+删除hee_jeen https://edge28-ash.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-b7a1d4909e12b4f6c42f296648dd5f17db8d8c1ade1161ff44d3d06e223baef4_trns_h264/playlist.m3u8
