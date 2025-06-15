@@ -140,3 +140,8 @@ Mon Jun 16 05:41:59 CST 2025
 Mon Jun 16 05:44:11 CST 2025
 Mon Jun 16 05:45:12 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Mon Jun 16 05:53:19 CST 2025
+Mon Jun 16 05:53:24 CST 2025
+Mon Jun 16 05:55:27 CST 2025
+Mon Jun 16 05:56:23 CST 2025
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
