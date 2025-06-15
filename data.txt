@@ -3,3 +3,4 @@ sexymin12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 mazzanti_ https://edge12-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e607bd5dd2f324b4c640581a34ac26fe78cee73a7b8541c9a6dd8d508f5af00d_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
