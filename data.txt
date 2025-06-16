@@ -6,4 +6,3 @@ hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 calliadesigner https://edge3-aus.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-203e9b18e45e63a44d3fc2c04b1acecfcddc1ee2b9606f4cf043a4daff720061_trns_h264/playlist.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
-lovewindy https://edge19-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-6081d03af00b4a42d28484451671da75b12b314ffbaf6afb470ddb0b6dad0dc1_trns_h264/playlist.m3u8
