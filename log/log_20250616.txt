@@ -278,3 +278,9 @@ Mon Jun 16 15:33:00 CST 2025
 Mon Jun 16 15:33:55 CST 2025
 添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除sexygamesx https://edge27-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-7690f97b5a72ebfdbb85fbccffdb971f19e830016addec3428f0b8a1c7660ae2_trns_h264/playlist.m3u8
+Mon Jun 16 15:46:40 CST 2025
+Mon Jun 16 15:46:51 CST 2025
+Mon Jun 16 15:49:06 CST 2025
+Mon Jun 16 15:50:10 CST 2025
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
