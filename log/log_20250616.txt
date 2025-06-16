@@ -246,3 +246,12 @@ Mon Jun 16 13:45:39 CST 2025
 Mon Jun 16 13:46:36 CST 2025
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Mon Jun 16 13:59:22 CST 2025
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.AzTFfdrzpRaq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F6VEZmZHJ6cFJhcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMDI1NTE3OS03NzkxLTQ4QUUtQTc3NC1EQTA2ODY5MDgyMUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MDA1MzU2MywiZXhwIjoxNzUwMDU0MTYzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Q1pmNz0CQkCpXeFYa7XHJ8idP7MNdv8F1Pu9Nfam491Uj-KX8w8-gG3VZiobEb6E58k5GVsmU0PgF0rnrXTiYhUPX2d8jPyMvXIEy7lgzVjQ72vv1jI5dhVHnM-eEWBx
+Mon Jun 16 13:59:29 CST 2025
+Mon Jun 16 14:01:31 CST 2025
+Mon Jun 16 14:02:26 CST 2025
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
