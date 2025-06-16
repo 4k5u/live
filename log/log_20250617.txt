@@ -115,3 +115,9 @@ Tue Jun 17 03:35:49 CST 2025
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+添加lovewindy https://edge19-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-6081d03af00b4a42d28484451671da75b12b314ffbaf6afb470ddb0b6dad0dc1_trns_h264/playlist.m3u8
+Tue Jun 17 03:44:10 CST 2025
+Tue Jun 17 03:44:19 CST 2025
+Tue Jun 17 03:46:31 CST 2025
+Tue Jun 17 03:47:32 CST 2025
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
