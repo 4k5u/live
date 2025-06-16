@@ -136,3 +136,8 @@ Tue Jun 17 04:48:15 CST 2025
 Tue Jun 17 04:48:22 CST 2025
 Tue Jun 17 04:50:23 CST 2025
 Tue Jun 17 04:51:19 CST 2025
+添加lovewindy https://edge3-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-92ced209446b74942510e63200d941ae278f68d31b310fdfce60f0f45476cb12_trns_h264/playlist.m3u8
+Tue Jun 17 04:59:15 CST 2025
+Tue Jun 17 04:59:22 CST 2025
+Tue Jun 17 05:01:27 CST 2025
+Tue Jun 17 05:02:23 CST 2025
