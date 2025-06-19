@@ -387,3 +387,9 @@ Thu Jun 19 18:53:34 CST 2025
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
 删除amilia4u https://edge17-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-b126444f56bca012f924907162381fd6811542425d98325dcffd19b505104fb9_trns_h264/playlist.m3u8
+Thu Jun 19 19:00:59 CST 2025
+添加gyg4618 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Klh5zfAoMIRP.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tsaDV6ZkFvTUlSUCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNTdFMUYwQS0wNzYwLTQyNkYtQjM0Qy0yQTI0ODIwMUIwRTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MDMzMDg2NiwiZXhwIjoxNzUwMzMxNDY2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.u1-bOJxxrYvQFKhFC7vxxxG75huxS89Q0_DjLMkfE2touUZyu7udnSsy2nygt_GgiHDsathZocK2SC1Nqs2p-wBMwmdQE4R7KvR-BykEEqErhI5b9NxW9M_KLG3Z0aah
+Thu Jun 19 19:01:28 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Thu Jun 19 19:03:58 CST 2025
+Thu Jun 19 19:05:06 CST 2025
