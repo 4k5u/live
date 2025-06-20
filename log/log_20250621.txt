@@ -173,3 +173,8 @@ Sat Jun 21 07:26:06 CST 2025
 Sat Jun 21 07:28:23 CST 2025
 Sat Jun 21 07:29:27 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加mazzanti_ https://edge1-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-2553b941217f738ccc67faada86def1cea07038ddda107c24c08c6c809b9c709_trns_h264/playlist.m3u8
+Sat Jun 21 07:44:46 CST 2025
+Sat Jun 21 07:44:53 CST 2025
+Sat Jun 21 07:46:54 CST 2025
+Sat Jun 21 07:47:49 CST 2025

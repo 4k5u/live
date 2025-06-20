@@ -6,3 +6,4 @@ qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 mode_bad https://edge12-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-1db856be42c7a8d174cdba5ce9ac628cd2d0c81c0eb48ef395aeb5f2c568c72c_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+mazzanti_ https://edge1-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-2553b941217f738ccc67faada86def1cea07038ddda107c24c08c6c809b9c709_trns_h264/playlist.m3u8
