@@ -244,3 +244,11 @@ Sat Jun 21 13:01:17 CST 2025
 Sat Jun 21 13:01:28 CST 2025
 Sat Jun 21 13:03:31 CST 2025
 Sat Jun 21 13:04:27 CST 2025
+Sat Jun 21 13:29:10 CST 2025
+Sat Jun 21 13:29:21 CST 2025
+Sat Jun 21 13:31:34 CST 2025
+Sat Jun 21 13:32:41 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
+删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
