@@ -129,3 +129,10 @@ Sun Jun 22 05:00:34 CST 2025
 Sun Jun 22 05:01:40 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Sun Jun 22 05:22:56 CST 2025
+Sun Jun 22 05:23:03 CST 2025
+Sun Jun 22 05:25:23 CST 2025
+Sun Jun 22 05:26:30 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除lovewindy https://edge3-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-10134fd38b7ab3831653b966b20b5dac7e84fc9db2030899bd448747c7f8a3eb_trns_h264/playlist.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
