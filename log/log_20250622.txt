@@ -148,3 +148,11 @@ Sun Jun 22 05:53:12 CST 2025
 Sun Jun 22 05:55:28 CST 2025
 Sun Jun 22 05:56:32 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Sun Jun 22 06:21:01 CST 2025
+Sun Jun 22 06:21:08 CST 2025
+Sun Jun 22 06:23:25 CST 2025
+Sun Jun 22 06:24:30 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除rosyemily https://edge27-sea.live.mmcdn.com/live-hls/amlst:rosyemily-sd-59b6dd85cae1a688bca25172930d5183c64c1c1d6b5cfb39e0273a24df0a0a2e_trns_h264/playlist.m3u8
+删除sumin2005 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.197bGtZC9JUk.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8xOTdiR3RaQzlKVWsiLCJleHAiOjE3NTA1Nzc1ODE3NzUsImlhdCI6MTc1MDUzNDM4MX0.fBhmjkaKyI8W64NTtJVUdbnBYtNgmig99LHninVm5M91HCIdPJGUZvoAPRef5Zw0SBEMkthfnbrAuycgOfjbTBlkUtiK7iOtms0xSJ7G3rVpl9-95nMhUSROQgHr9Ho_
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
