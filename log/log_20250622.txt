@@ -191,3 +191,12 @@ Sun Jun 22 07:14:07 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加mazzanti_ https://edge11-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-858f89f9fbe9fc6b050983eb7c51d4dcb41e76aa46459317fbceee0f8e94674b_trns_h264/playlist.m3u8
+Sun Jun 22 07:31:07 CST 2025
+Sun Jun 22 07:31:14 CST 2025
+Sun Jun 22 07:33:30 CST 2025
+Sun Jun 22 07:34:34 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.cO2mhg6IbAVh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2NPMm1oZzZJYkFWaCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMkQ2OTFCMi1DQzVELTQyNDItOTU3MS1EQjMwMDFDMkY5QkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MDUxMzM2NSwiZXhwIjoxNzUwNTEzOTY1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.YAQxpRg-G1K5LZaPuLNz3MFlkpI0VC9unACvduuo2GBGY1LyshNBO0jlTVSchAcg-jjupSXPUw_VR52FcLGWbii2D93DYK2FrOiF8VkxmdjEVozsUK9ZZnqrgvFEOrGK
+删除mode_bad https://edge3-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-22dcc880de5169b0f9b8a427d1d22b53b40a3a25e9a515d454f3971b3e0632c8_trns_h264/playlist.m3u8
