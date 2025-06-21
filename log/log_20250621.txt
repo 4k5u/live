@@ -471,3 +471,10 @@ Sat Jun 21 22:43:27 CST 2025
 Sat Jun 21 22:44:22 CST 2025
 删除alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.f9u7eb_Hqh-FzkD45yCaA_nELTOmT_KYxzL8VUr_HwetNb_XSnkq8iNQUvIoJLQQHj3ja1cqE9O-7xfXg7wmY1btcAnVeRX7CvCYJgM8PRCyh7u7BYWYQox6kgQcfHxkAtNZGvUiAgN9o0-2tw_8xFjYkAuu9Ai_U2HVNP3Im576UmqJo1Og82VDlUL_dGkM
 删除Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+Sat Jun 21 22:51:45 CST 2025
+Sat Jun 21 22:52:30 CST 2025
+Sat Jun 21 22:54:44 CST 2025
+Sat Jun 21 22:55:48 CST 2025
+添加Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+删除emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5CF4w5XAvR8X.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVDRjR3NVhBdlI4WCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRTU4RkZEMi1DNDk5LTRENTQtQkNGNy03MDY3RUQwQzM0RUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MDUwMzUxMSwiZXhwIjoxNzUwNTA0MTExLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.iiqtF0I0G87r-namD1Rm8NncTsdnQjREIFkCB_znJPYDpjQh2L1HK9pGrjGE47mz5Fj1ivP-EkRbqMfTuDi0KUJj28jJgvjRRWneKg4Dad0uPT3EDeeYDvt-zXuoMnxm
+删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
