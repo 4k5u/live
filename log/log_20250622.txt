@@ -430,3 +430,8 @@ Sun Jun 22 19:37:07 CST 2025
 Sun Jun 22 19:38:20 CST 2025
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除taitehambelton https://edge1-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-f48093db3e4f03a8ae86b7b2efbce0c100133cb56b362d793b7155c06c2c19cf_trns_h264/playlist.m3u8
+添加honey_pinkgreen https://edge9-ash.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-0f6add4923ee228cf02e8693f5e60fe272b9c0ea60e7ce1a18e29306a6840cfb_trns_h264/playlist.m3u8
+Sun Jun 22 19:49:05 CST 2025
+Sun Jun 22 19:49:38 CST 2025
+Sun Jun 22 19:51:50 CST 2025
+Sun Jun 22 19:52:53 CST 2025
