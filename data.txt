@@ -4,3 +4,4 @@ yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_play
 hee_jeen https://edge5-chi.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-2db380c6aafd99c981a5a762df42cd3a5e25ad578d41638052c70d2f91a4898e_trns_h264/playlist.m3u8
 mazzanti_ https://edge15-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e2aa20f2cd0c999005b7947d20f564e3ae6bab754b3e60d6f9194c6ac70dc7a5_trns_h264/playlist.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
