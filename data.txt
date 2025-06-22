@@ -23,3 +23,4 @@ yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_play
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
