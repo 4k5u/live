@@ -140,3 +140,9 @@ Mon Jun 23 05:27:04 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加mazzanti_ https://edge15-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e2aa20f2cd0c999005b7947d20f564e3ae6bab754b3e60d6f9194c6ac70dc7a5_trns_h264/playlist.m3u8
+Mon Jun 23 05:41:49 CST 2025
+Mon Jun 23 05:41:56 CST 2025
+Mon Jun 23 05:44:11 CST 2025
+Mon Jun 23 05:45:15 CST 2025
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
