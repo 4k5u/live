@@ -94,3 +94,9 @@ Mon Jun 23 03:31:54 CST 2025
 Mon Jun 23 03:34:06 CST 2025
 Mon Jun 23 03:35:07 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Mon Jun 23 03:42:59 CST 2025
+Mon Jun 23 03:43:14 CST 2025
+Mon Jun 23 03:45:16 CST 2025
+Mon Jun 23 03:46:11 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除hee_jeen https://edge5-chi.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-2db380c6aafd99c981a5a762df42cd3a5e25ad578d41638052c70d2f91a4898e_trns_h264/playlist.m3u8
