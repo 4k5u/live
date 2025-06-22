@@ -58,3 +58,8 @@ Mon Jun 23 01:52:48 CST 2025
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Mon Jun 23 02:00:12 CST 2025
+Mon Jun 23 02:00:33 CST 2025
+Mon Jun 23 02:02:50 CST 2025
+Mon Jun 23 02:03:54 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
