@@ -473,3 +473,8 @@ Mon Jun 23 23:36:43 CST 2025
 删除vip000 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.q7FxMQlWCNPG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3E3RnhNUWxXQ05QRyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNzNDQUQ1Mi05ODk4LTQxNTgtODY1OS1BMjQ4OEY5N0RFNjgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MDY4MzA1OSwiZXhwIjoxNzUwNjgzNjU5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.DCk_Gb-SQZ2bMAV0pp6CYghy307yHfPvqjcH4--6HdslPeAkQeI_rEP4zXNxPaGFULYrqtvaZKECHLaRkiBrGxihsPccALKSw9v17weIJke3HCta34r8iisoSLfAYSGa
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Mon Jun 23 23:52:53 CST 2025
+Mon Jun 23 23:53:52 CST 2025
+Mon Jun 23 23:55:54 CST 2025
+Mon Jun 23 23:56:52 CST 2025
+添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
