@@ -139,3 +139,10 @@ Wed Jun 25 06:58:16 CST 2025
 Wed Jun 25 06:58:19 CST 2025
 Wed Jun 25 07:00:28 CST 2025
 Wed Jun 25 07:01:29 CST 2025
+Wed Jun 25 07:25:34 CST 2025
+Wed Jun 25 07:25:37 CST 2025
+Wed Jun 25 07:27:48 CST 2025
+Wed Jun 25 07:28:48 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除calliadesigner https://edge4-chi.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-0d90e24213b177919523c43b0ca7b6327e084400c78cd9e812ea0d21382022ba_trns_h264/playlist.m3u8
