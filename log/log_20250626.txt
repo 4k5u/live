@@ -110,3 +110,11 @@ Thu Jun 26 03:46:09 CST 2025
 Thu Jun 26 03:47:14 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除123phmaaa https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xIEeKGerH2xP.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hJRWVLR2VySDJ4UCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NUM1QTVGOC0xRkU0LTREQzEtODMwMi00RTAxRDQ3RkU4MkIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MDg1NjM4MSwiZXhwIjoxNzUwODU2OTgxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.NkwhoBs4MRJfZH-n1IuyvOYx86bVonJptx1tCStPug1u159aCiRd71YEAzsLf680Vle5LAAkBTzZ8YGotJaIvKVUOp0kF4iMoyGUFLbvsxMJADsYyI4MPVaeF_5X0N92
+Thu Jun 26 03:59:54 CST 2025
+Thu Jun 26 04:00:07 CST 2025
+Thu Jun 26 04:02:23 CST 2025
+Thu Jun 26 04:03:27 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+删除my_eyes_higher https://edge7-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b5a5c33a5b694852be0f5f938775104ef91823d51c3b10a3f2f24eab5b3a239e_trns_h264/playlist.m3u8
+删除lovewindy https://edge11-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-cc38e051ebf1c1fa481c6388c12e1feb2654d554014835018d7c91014c6dba8b_trns_h264/playlist.m3u8
