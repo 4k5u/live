@@ -20,7 +20,7 @@ my_eyes_higher https://edge7-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd
 lovewindy https://edge11-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-cc38e051ebf1c1fa481c6388c12e1feb2654d554014835018d7c91014c6dba8b_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
-podo0311 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CsHMupBvEh6a.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NzSE11cEJ2RWg2YSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0QzQ3QzZDNy04MzEwLTRGMkEtQjVERC0yQTg3QUVGRDM0Q0QiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MDg3NjQ5NCwiZXhwIjoxNzUwODc3MDk0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.5hq4MCfTsf1eNzzmlNtiHqE2wnauH1RqIvCGJyQB01w7Xz0jR2zQF-vKuKcZYXv6liIwUzgs_yvkBcFytmlbI4akkJsduukyiQdp7_43Cl4wECvR9CnRS58rz0YGxg9V
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
