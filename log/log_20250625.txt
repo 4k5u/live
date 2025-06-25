@@ -167,3 +167,13 @@ Wed Jun 25 10:07:50 CST 2025
 添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除hee_jeen https://edge16-lax.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-089291f402e813f18a866da17433426af38d478514fa46dce5c631ed6d7ffa97_trns_h264/playlist.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加taitehambelton https://edge2-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-77f8c230396410ddcbb4509419951e72817aab82865f30f31e017d5fcdfb135a_trns_h264/playlist.m3u8
+Wed Jun 25 11:34:16 CST 2025
+Wed Jun 25 11:34:23 CST 2025
+Wed Jun 25 11:36:34 CST 2025
+Wed Jun 25 11:37:35 CST 2025
+添加Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
+添加-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
