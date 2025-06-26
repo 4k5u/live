@@ -115,3 +115,10 @@ Fri Jun 27 04:01:54 CST 2025
 Fri Jun 27 04:03:00 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除my_eyes_higher https://edge26-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-429f38df7a96075a9e75fd32f70a2f93d48585ee30d7427d50216e5049d2850a_trns_h264/playlist.m3u8
+添加sexygamesx https://edge12-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-26f3fc5c003525357a14fc6b4ca3d490def0468a6cbb400fdbd7abe10f11819b_trns_h264/playlist.m3u8
+Fri Jun 27 04:31:29 CST 2025
+Fri Jun 27 04:31:39 CST 2025
+Fri Jun 27 04:33:52 CST 2025
+Fri Jun 27 04:34:56 CST 2025
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
