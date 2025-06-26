@@ -282,3 +282,10 @@ Thu Jun 26 14:22:12 CST 2025
 添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 删除sexymin12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.grMk4kv9hqGV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2dyTWs0a3Y5aHFHViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5Q0JEQzJGMy0zQ0U0LTRGMUUtQTg3Qy1DNDhBQkRCMzA1NDciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MDg1NjQzMywiZXhwIjoxNzUwODU3MDMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.eMpK511PQ2Ky7kwLY5O3SASPbVqnAuB_KLZ8tbhNmJ-w7xjVMTIZXQjk8zj1eXSNh__yzl6FAaOoNk_Rd1VQRG9nhuIEAI3Q2Vf-nZI63U7bYtkpcIXq9ye-k5fKqFCE
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加foxylovesyou https://edge9-atl.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-d9b3f4aeb5218d887f0cedd9ca9b1619c8373695e0efa6c0e478a0ea65ae46fd_trns_h264/playlist.m3u8
+Thu Jun 26 14:49:28 CST 2025
+Thu Jun 26 14:49:40 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.ax9Z8vD3VKEes0Wq5rfdyjoKjhKb6cIn7IykyN2TJT9_ff0xJAMpfDIQ22FkMbNZckSoMw9g5yGWXA_qDJLclnI-DntV7Lq4e6nYdDSe-o003-3IvIXh6H2Mc4yvfJPw6rJ476veqMbEX2Vq5DSFin_yNPG_yA2U_lpXm9zzUiSYcYSWZ3ZupN6b5R9STP8F
+Thu Jun 26 14:52:00 CST 2025
+Thu Jun 26 14:53:04 CST 2025
+添加Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
