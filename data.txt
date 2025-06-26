@@ -5,3 +5,6 @@ sexymin12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 hee_jeen https://edge7-lax.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-182d27c93630a0756b41be7404642d3622193d69775201e37275631457eebab1_trns_h264/playlist.m3u8
 hncsphj https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sxeVh17EklfW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3N4ZVZoMTdFa2xmVyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MzUzQTEzOC1ENEE1LTQxRDYtQjE3RC01QjgwNzQxQzUxRjYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MDk3MzI1NiwiZXhwIjoxNzUwOTczODU2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ymr4hkff6psL4puQE30q3ffm-fcPG9xGRAqvHYnQIfJqvvVENnT9EeI8k7IEtGa7IerUH1nhM0uzToCbVnumXvEb3KF6yp87BRoOEXoNNAWQjSm-Xr63wAQ5UPGXWLME
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8

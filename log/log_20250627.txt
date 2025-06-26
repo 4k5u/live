@@ -163,3 +163,10 @@ Fri Jun 27 06:58:13 CST 2025
 Fri Jun 27 06:58:18 CST 2025
 Fri Jun 27 07:00:34 CST 2025
 Fri Jun 27 07:01:39 CST 2025
+Fri Jun 27 07:26:11 CST 2025
+Fri Jun 27 07:26:16 CST 2025
+Fri Jun 27 07:28:17 CST 2025
+Fri Jun 27 07:29:11 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
