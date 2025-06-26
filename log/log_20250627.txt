@@ -109,3 +109,9 @@ Fri Jun 27 03:50:46 CST 2025
 Fri Jun 27 03:51:51 CST 2025
 删除calliadesigner https://edge11-lax.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-a8324d341ad0347636378dd465041377becf4ccd8750bf17446f5e925fc660f7_trns_h264/playlist.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Fri Jun 27 03:59:29 CST 2025
+Fri Jun 27 03:59:38 CST 2025
+Fri Jun 27 04:01:54 CST 2025
+Fri Jun 27 04:03:00 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除my_eyes_higher https://edge26-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-429f38df7a96075a9e75fd32f70a2f93d48585ee30d7427d50216e5049d2850a_trns_h264/playlist.m3u8
