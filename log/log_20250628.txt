@@ -185,3 +185,9 @@ Sat Jun 28 07:26:05 CST 2025
 Sat Jun 28 07:28:20 CST 2025
 Sat Jun 28 07:29:24 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Sat Jun 28 07:43:42 CST 2025
+Sat Jun 28 07:43:47 CST 2025
+Sat Jun 28 07:45:58 CST 2025
+Sat Jun 28 07:46:59 CST 2025
+删除hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YSYB8Ftfk8Ip.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lTWUI4RnRmazhJcCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NDZFMTZFQS03NjU4LTQxMTEtOTdFNS00RTFDQTNCNTkyRjciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTAzODI3MywiZXhwIjoxNzUxMDM4ODczLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.3L8q12S7UfW69luM9oxdV3prvegcMW9AW41CoW_LTTyB0u1pHPnvCzv7H2Ps8th8-VrLli-tCrNhYZvUY4j6g9ykx_--wS61PD0GXioj9obxqUasTBXFruqpRWC7q32j
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
