@@ -328,3 +328,8 @@ Fri Jun 27 17:48:12 CST 2025
 Fri Jun 27 17:49:14 CST 2025
 添加Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
 删除iminako https://edge24-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-6435e25bf5125055a938469677b9042b4423f185c43015e039066656ec52e7e2_trns_h264/playlist.m3u8
+Fri Jun 27 17:58:22 CST 2025
+Fri Jun 27 17:58:37 CST 2025
+Fri Jun 27 18:00:49 CST 2025
+Fri Jun 27 18:01:51 CST 2025
+删除tjfflddl7 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1WilnqP2iXF5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFXaWxucVAyaVhGNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRUMxNEMxMi0zNEI5LTQzM0MtOTI1MS1FMkY2RkEyNzY3MjEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MDk5NzE3OSwiZXhwIjoxNzUwOTk3Nzc5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.L4TXjkNjx8p4L_sxbWT4N89GmBVZ1RLK1LuUhqs2iRTa0Pa0YmJcG8cxXEvTbEYKlx_m1_9fVmB7mMFVJGU1oE8c8PQkGeS40Ird9lFGSVLk0H_VgWfxM7WtZueI_iDe
