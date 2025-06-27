@@ -345,3 +345,7 @@ Fri Jun 27 18:33:04 CST 2025
 删除ee5844 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.BATRWzSE2Nrb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0JBVFJXelNFMk5yYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RTQ5Q0U3Qi0zMUU2LTQyMjctODg0RS04RjIwMzhBRTFDMzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTAwOTI2MiwiZXhwIjoxNzUxMDA5ODYyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.o1fR3r40s2eosT1qz6mhUbLGi-70vysmULbeT8JTxawmhju3kzFNY2kF3EdPRD0bpEItp2JQvMybXs4JLsApKgNaoUTq2F5HL3Jau5DVEPxbYUDo_QeeRMdgKO-JUbOQ
 删除ad0res https://edge23-atl.live.mmcdn.com/live-hls/amlst:ad0res-sd-3dd08118b8f2ba6e511cc528a202dd033332992e6f971e1c9845c45e80aace82_trns_h264/playlist.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Fri Jun 27 18:50:36 CST 2025
+Fri Jun 27 18:50:53 CST 2025
+Fri Jun 27 18:53:08 CST 2025
+Fri Jun 27 18:54:12 CST 2025
