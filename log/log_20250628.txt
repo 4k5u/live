@@ -121,3 +121,10 @@ Sat Jun 28 04:45:28 CST 2025
 Sat Jun 28 04:47:29 CST 2025
 Sat Jun 28 04:48:23 CST 2025
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Sat Jun 28 04:58:59 CST 2025
+Sat Jun 28 04:59:10 CST 2025
+Sat Jun 28 05:01:12 CST 2025
+Sat Jun 28 05:02:09 CST 2025
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除y0ur1n12486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FtMPrSvYAQ23.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Z0TVByU3ZZQVEyMyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNkZCMzdCMy02Q0Y4LTREOUMtQjYyRi04MzE3QjA5QTUzNzAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTAzMDY4MSwiZXhwIjoxNzUxMDMxMjgxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.1tJQ3EpQPNbh9J1ZGWof0PfXAqvKKOb6ynxwuK6Dg0_g7q2YJImbiMeN9nrIbfVA_ShgzuYMTNJOwD7m0KpiG5aSgvJKJD6ZAsiunPmHC3meLfLxk9QLlsuVkKcyXt3c
+删除lovewindy https://edge20-atl.live.mmcdn.com/live-hls/amlst:lovewindy-sd-2f99393ab8f640ab6e7f638f611a2e807ad76fccffc395c170c9c4a2b1ccc459_trns_h264/playlist.m3u8
