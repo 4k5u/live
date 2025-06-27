@@ -180,3 +180,15 @@ Fri Jun 27 07:59:25 CST 2025
 Fri Jun 27 08:01:36 CST 2025
 Fri Jun 27 08:02:36 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加taitehambelton https://edge12-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-8c787fa931e9975af7cb132eaa3b0074fb5033c64944d7ddc40b1d76025ce7bd_trns_h264/playlist.m3u8
+Fri Jun 27 10:05:54 CST 2025
+Fri Jun 27 10:05:57 CST 2025
+Fri Jun 27 10:07:58 CST 2025
+Fri Jun 27 10:08:53 CST 2025
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+添加Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+删除dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1QUMwMTBFNy1GQTc0LTQ3OUItOEU4OC03REVBMjIyRkNDOUYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MDk0MjU1NCwiZXhwIjoxNzUwOTQzMTU0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.luTD0ZsNDBa3gZuEj8XzuTsT-Vqajr_D7g4oGg_z3HwjqqG6yUA_6a-_yQSyk-_QR23RY6uSNMTskX4Tgb0ByTrGOzR6QUQmZ0ncTCqvQ6BwbntcEw1knSTaXT6jmvYO
+删除hncsphj https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sxeVh17EklfW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3N4ZVZoMTdFa2xmVyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MzUzQTEzOC1ENEE1LTQxRDYtQjE3RC01QjgwNzQxQzUxRjYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MDk3MzI1NiwiZXhwIjoxNzUwOTczODU2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ymr4hkff6psL4puQE30q3ffm-fcPG9xGRAqvHYnQIfJqvvVENnT9EeI8k7IEtGa7IerUH1nhM0uzToCbVnumXvEb3KF6yp87BRoOEXoNNAWQjSm-Xr63wAQ5UPGXWLME
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
