@@ -6,10 +6,10 @@ ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 iminako https://edge24-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-6435e25bf5125055a938469677b9042b4423f185c43015e039066656ec52e7e2_trns_h264/playlist.m3u8
-y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 foxylovesyou https://edge1-chi.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-980b16e306e0b61307bc6b9e9040a5763c97ec552a173ab108516416d22a7d15_trns_h264/playlist.m3u8
 flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JkgGs0DUSaAA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0prZ0dzMERVU2FBQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MUQ3QzZBNi05MERELTQyRTYtOEQ3QS0xN0Q0Qzg5NUI5OEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTAwNjQ2OSwiZXhwIjoxNzUxMDA3MDY5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.5eD1U4o3W-lcCwRWvmRg-65tDEoUKbmpkShCgcwupWTlfUJSS3c88r47aXl0AbVEviy1X21_1y9HsOFzvYf3dQaInbHiEirnVfDEzbkq81Skw-qKJlfzVCjcYlmcFbpz
 Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
-fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
+stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
