@@ -106,3 +106,9 @@ Sun Jun 29 03:33:07 CST 2025
 Sun Jun 29 03:34:08 CST 2025
 添加Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 删除Xyebobs https://edge-hls.doppiocdn.live/hls/172878937/master/172878937_auto.m3u8
+Sun Jun 29 03:43:11 CST 2025
+Sun Jun 29 03:43:32 CST 2025
+Sun Jun 29 03:45:49 CST 2025
+Sun Jun 29 03:46:54 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除leeaeae123 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.y9L6K2qYP4iK.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3k5TDZLMnFZUDRpSyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NzZDNzFFMy00QzlBLTQ4NTQtQUQ4RS01ODNGREJBOEZENTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTEyMDU5MiwiZXhwIjoxNzUxMTIxMTkyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Bz4igE34AQFPrSBt6GE3_eiv0ogtkSLwp1PI_NIzimvaN4uRSeubO9NoBAtR54wXJIImQBDW93GISJF4NbFaBpe2holWT8411MoHVjwbfrK7fwtspwCmSp7sopNggG01
