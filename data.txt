@@ -17,7 +17,6 @@ zmalqp6666 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
-alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNTQ4NTA2OS03NzQ2LTQzNUQtOUI3NS1CRTZGRkE3OTVGNDgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTEyODMxOCwiZXhwIjoxNzUxMTI4OTE4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.J_k9AbystWJWrhX3KDoe5-wUWYS70Ln6jMdISLDOe_lITqHVCDfQBGwpGHKCjACz1qE0tFwml6sNA_x9vG8pMxwPmdgGN2O0lGaZQvFebfb2FUmLv9eKNjCB0knN6NuH
 embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
@@ -33,8 +32,8 @@ bada0629 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 lovewindy https://edge16-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-5ce857318f22c96b06c08428dcb780e75dfb84541a7650042e2169d51b9213d5_trns_h264/playlist.m3u8
-bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
