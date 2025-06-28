@@ -58,3 +58,10 @@ Sun Jun 29 01:48:24 CST 2025
 删除tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NUM2RTQwOS02MkQ4LTQyODgtQkU4RC1DNDRGOUQ3MkQzOEEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTExNzQ3OCwiZXhwIjoxNzUxMTE4MDc4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.uSUMFL5Q4NaJNUsWLapHTB112wQGS5U8IdQ69Xn09d2t7e0bjt9VwzWumOV_ltvALZEuGrijc-oaVvQ1QXVLY8WwDHkihyefbzp1VrJ_s8TQ9r9jiolI1BmlGdCPvbjJ
 删除Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
 删除Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
+Sun Jun 29 01:58:14 CST 2025
+Sun Jun 29 01:58:47 CST 2025
+Sun Jun 29 02:00:48 CST 2025
+Sun Jun 29 02:01:43 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
