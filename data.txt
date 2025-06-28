@@ -8,7 +8,6 @@ moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNTQ4NTA2OS03NzQ2LTQzNUQtOUI3NS1CRTZGRkE3OTVGNDgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTEyODMxOCwiZXhwIjoxNzUxMTI4OTE4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.J_k9AbystWJWrhX3KDoe5-wUWYS70Ln6jMdISLDOe_lITqHVCDfQBGwpGHKCjACz1qE0tFwml6sNA_x9vG8pMxwPmdgGN2O0lGaZQvFebfb2FUmLv9eKNjCB0knN6NuH
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
-Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 mode_bad https://edge8-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-65ac772bda72f81f0bba639d27028ec9316aa3ff0cd512dca789398c8a07f3da_trns_h264/playlist.m3u8
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 hee_jeen https://edge14-aus.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-2f7822f64d704021329a2b96d3022cb29302a0dc7a03688ccc64084133a5a8f9_trns_h264/playlist.m3u8
