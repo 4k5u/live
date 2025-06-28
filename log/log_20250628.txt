@@ -230,3 +230,10 @@ Sat Jun 28 12:31:52 CST 2025
 Sat Jun 28 12:32:54 CST 2025
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除taitehambelton https://edge14-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-aa675c886a89cf863778f78201e49052508e440a1671a11b19b38e7abbc1ae71_trns_h264/playlist.m3u8
+添加taitehambelton https://edge15-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-aa675c886a89cf863778f78201e49052508e440a1671a11b19b38e7abbc1ae71_trns_h264/playlist.m3u8
+Sat Jun 28 12:52:43 CST 2025
+Sat Jun 28 12:52:46 CST 2025
+Sat Jun 28 12:54:46 CST 2025
+Sat Jun 28 12:55:41 CST 2025
+添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
