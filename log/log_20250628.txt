@@ -224,3 +224,9 @@ Sat Jun 28 12:00:09 CST 2025
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除Oo_Kaixin_oO https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Sat Jun 28 12:29:37 CST 2025
+Sat Jun 28 12:29:40 CST 2025
+Sat Jun 28 12:31:52 CST 2025
+Sat Jun 28 12:32:54 CST 2025
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除taitehambelton https://edge14-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-aa675c886a89cf863778f78201e49052508e440a1671a11b19b38e7abbc1ae71_trns_h264/playlist.m3u8
