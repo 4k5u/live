@@ -14,3 +14,7 @@ Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u
 stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+amilia4u https://edge2-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-a036bf1ecde0dbe826388bdbf3af4c70afe36d73332481dc0d0e8c0ddaa47eec_trns_h264/playlist.m3u8
+pandaclass https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.GMk1ztsWuU2f.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0dNazF6dHNXdVUyZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1ODIxQURGRi03MjI3LTQ4NEYtOEUxNy1CQzk2MzY0MTI4RDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTA5NTI5MCwiZXhwIjoxNzUxMDk1ODkwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.9ULKipL7kO-9OHiL8Khc7nAhSHZmh-7Z-sAMHiQ2_NkhljMWi6X0od8AC9SbjZdLNY4ol2b39wSUO87d2dEMMSCOs84PNyVtFBfg4F1YEHOM5u9OtOxR3B-Wgq3XZ-IP
+bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
+fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
