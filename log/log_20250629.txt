@@ -26,3 +26,10 @@ Sun Jun 29 00:51:45 CST 2025
 Sun Jun 29 00:54:03 CST 2025
 Sun Jun 29 00:55:09 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Sun Jun 29 01:03:27 CST 2025
+Sun Jun 29 01:04:12 CST 2025
+Sun Jun 29 01:06:21 CST 2025
+Sun Jun 29 01:07:22 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除rosyemily https://edge27-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-e2433350570953f2cf87374a5f01a2f576cffce207385aa6f2abf7af9166312a_trns_h264/playlist.m3u8
+删除vip000 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.q7FxMQlWCNPG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3E3RnhNUWxXQ05QRyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMzk4OUMwRi04MzQzLTQ2OTEtOUQzRC1CMjJCMEQxMEYxQkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTExODQ1MywiZXhwIjoxNzUxMTE5MDUzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cXTC7iUer-UOv6dBHpqCZwoyi94g02M6Iib5Ywvo-n3xd_APblq0jYU3W8HEF1LjhL9BqOZun9csgR6UBMJQBnUXjGIwyY6aPt2tRlMk52pSHg3McCVSrcKWnuv7E2Ti
