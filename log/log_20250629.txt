@@ -551,3 +551,6 @@ Sun Jun 29 23:48:18 CST 2025
 删除purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.fzrWJLyHv8Adc0bpasK9KU7pPcilU7nYBI8ZfqdfKeNWjNOlWDs2l-5kJMxdXe5oFmEtK-R1k4pCdBkbJPubvJYjuRxF5eFv6ZqFvPbo8y9gcKKK4VSW9SzqwKzVtOti8a-UOMY1HRGdt7T5Wj1uab0lLp9EBIG7J7WJ0LzjnK37SZs6CLj7Ic4gmKwH2uG5
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Sun Jun 29 23:58:58 CST 2025
+Sun Jun 29 23:59:47 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.gIRFZeD8tgsor_N92IXzXAkGbtD6kLXlWgYUcYUlLJGo9MRj2_6l0TOqTWybNOswE9sY9XyO5XhAVPh4Am1RPHH9fuXF4ffWA_JAL05NvpZUVXE-42BQEzrKQPN-8FjpqF5VOaO8LJrwuWc4vkoZ3jFlRkW2dTPdN1FgLaGrhvaBfHbb8GkriNOpERCKSCYj
