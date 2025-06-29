@@ -509,3 +509,12 @@ Sun Jun 29 22:53:31 CST 2025
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Sun Jun 29 23:01:00 CST 2025
+Sun Jun 29 23:01:57 CST 2025
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Sun Jun 29 23:04:17 CST 2025
+Sun Jun 29 23:05:21 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3NTEyMzgzNjM2OTksImlhdCI6MTc1MTE5NTE2M30.1mAZinSRxJ2gtIkwSuAYqKWhR4s-6W9sdHPkbTwCKGPsTqtD1qq5F95t5-o9ksI1HmOyrpaTA4vgsQ2LIwpOxSZABuJxXjiJTN-P3fzClkwbPJ0w5CgdYcnPGgNyJRls
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
