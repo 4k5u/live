@@ -101,3 +101,8 @@ Mon Jun 30 03:46:39 CST 2025
 删除zxc1002011 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KyRjefCs02gK.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0t5UmplZkNzMDJnSyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQzU4NjVCNS1DRkVDLTQ2MzUtQjk5OS1DNTM0NTY1QjA4NkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTIwMjA2NSwiZXhwIjoxNzUxMjAyNjY1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.1g7XINIAWn9Fz8da_4X2yqk6APKkLvsutEvutTI0NtH18wrUN2pVqOfJBlQU8GmX-agnQvsievv2Tf9KSnjYa5gR7aR1Z6CtGK-vO7YUHBW-gwBa2Tpg8ytYIszoTtFV
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除lovewindy https://edge18-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-590390a6aafbfb2d01916b929120a881e6563fe301484ba3c1b566322fcda477_trns_h264/playlist.m3u8
+Mon Jun 30 03:58:46 CST 2025
+Mon Jun 30 03:58:57 CST 2025
+Mon Jun 30 04:01:09 CST 2025
+Mon Jun 30 04:02:10 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
