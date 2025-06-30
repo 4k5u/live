@@ -5,3 +5,4 @@ hncsphj https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 hee_jeen https://edge24-phx.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-20536e6e010edf77fc74fe5b3fd49ef5f7e8b84eb468fd6987046108cf1dfb48_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 mode_bad https://edge7-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-f779452ebde9575f2bd4ff7b6e425126909427a9bdc06d0ce824bdc028579958_trns_h264/playlist.m3u8
+__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
