@@ -145,3 +145,9 @@ Tue Jul 1 05:50:34 CST 2025
 Tue Jul 1 05:50:41 CST 2025
 Tue Jul 1 05:52:55 CST 2025
 Tue Jul 1 05:54:00 CST 2025
+Tue Jul 1 06:02:08 CST 2025
+Tue Jul 1 06:02:13 CST 2025
+Tue Jul 1 06:04:24 CST 2025
+Tue Jul 1 06:05:25 CST 2025
+删除hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YSYB8Ftfk8Ip.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lTWUI4RnRmazhJcCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0RDQxNkYzMC01RTVELTQ1MDgtODgzNS1BOUNFN0I2OTYzNzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTI5NzQ3MywiZXhwIjoxNzUxMjk4MDczLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.jy-P2pYs6Nuq-HOwNZw6npkmJ3ODn7TAKsvRmk3eCnqkTQjyH7N6sVX6ohXuTrE8YYoVgU6ttgS3GRZHtFz-d57fVoB2GXoIA-Bbv38UN9pMmSa4tYwgG-KAg1osGCWU
+删除mode_bad https://edge12-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-60e34a2c4e0ae016801a8fbaf62c9246599864e838bf72d1052018784e4de443_trns_h264/playlist.m3u8
