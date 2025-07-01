@@ -8,3 +8,4 @@ wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 do2do2 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.nXKbFeZk6wXA.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9uWEtiRmVaazZ3WEEiLCJleHAiOjE3NTE0MzY4OTc0ODcsImlhdCI6MTc1MTM5MzY5N30.rFvJI7cMN3XMFwXMEHnOAJJgd2OImggoOvfybdCaTMKlFjAWSBGsqU-RUOiJx_Sly6NWX7DHwvt4IwaBAkDZN5NsDQJXNUCEDrw2rR2AK4U6u7oIhd_umRcc798SMkJC
 mode_bad https://edge2-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-1d49136a5c7a7c15435f6e28b03a7cf134ede048ba875a56582b9ffe2ca2a8d4_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8

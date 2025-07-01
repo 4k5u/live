@@ -181,3 +181,8 @@ Wed Jul 2 06:58:21 CST 2025
 Wed Jul 2 07:00:34 CST 2025
 Wed Jul 2 07:01:35 CST 2025
 删除lovewindy https://edge26-atl.live.mmcdn.com/live-hls/amlst:lovewindy-sd-d6c05cb040ca67fc15c0c11f44ddff653145431dc4380e5c0dda2ade98136278_trns_h264/playlist.m3u8
+Wed Jul 2 07:25:32 CST 2025
+Wed Jul 2 07:25:35 CST 2025
+Wed Jul 2 07:27:51 CST 2025
+Wed Jul 2 07:28:55 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
