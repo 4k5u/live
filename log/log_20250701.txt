@@ -299,3 +299,11 @@ Tue Jul 1 17:33:22 CST 2025
 Tue Jul 1 17:34:19 CST 2025
 添加zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 删除Tmdgus5411 ?aid=null
+Tue Jul 1 17:50:29 CST 2025
+添加100042 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WLl5DW7Jd3tv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dMbDVEVzdKZDN0diIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENzA1MjFCQS1EMTg1LTQyNDQtQTE0MS01MDREMTczRUI2M0EiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTM2MzQzMiwiZXhwIjoxNzUxMzY0MDMyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.PlEsMJhhKlK4g706PVHU4pZ8z39Vj4mn3bB3bsU9ywhY3ULFSbAI8gjXE4usYrQ3CrXHg1BEZBBb5wfl-_EPs_y3cTVxIT9fiuysHkFizkLDPUGj3DrdubPSX0Fb15My
+Tue Jul 1 17:51:00 CST 2025
+Tue Jul 1 17:53:10 CST 2025
+Tue Jul 1 17:54:12 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
