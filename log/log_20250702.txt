@@ -128,3 +128,9 @@ Wed Jul 2 03:59:21 CST 2025
 Wed Jul 2 03:59:36 CST 2025
 Wed Jul 2 04:01:36 CST 2025
 Wed Jul 2 04:02:32 CST 2025
+添加mode_bad https://edge2-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-1d49136a5c7a7c15435f6e28b03a7cf134ede048ba875a56582b9ffe2ca2a8d4_trns_h264/playlist.m3u8
+Wed Jul 2 04:32:28 CST 2025
+Wed Jul 2 04:32:39 CST 2025
+Wed Jul 2 04:34:52 CST 2025
+Wed Jul 2 04:35:56 CST 2025
+删除qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwRTJEQjcyRi01MTVGLTQxRDQtQjhBQy0zMEU4RTM3Q0RFMDYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTM4MTIxNCwiZXhwIjoxNzUxMzgxODE0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.8nXDWFtPizd79VuaEGUngGMjCzeSDHobcLCbBiiZUTUTE_4sdgiOl9pXcJ8MkHHrKVU0fmQoEoQSrcQUXqV2rx3fc_cqDbzavgsE5Sy12_3IXOtYo-HuC56VeI0QgVoU
