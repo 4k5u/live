@@ -190,3 +190,9 @@ Wed Jul 2 07:43:28 CST 2025
 Wed Jul 2 07:43:31 CST 2025
 Wed Jul 2 07:45:43 CST 2025
 Wed Jul 2 07:46:44 CST 2025
+Wed Jul 2 07:59:07 CST 2025
+Wed Jul 2 07:59:10 CST 2025
+Wed Jul 2 08:01:26 CST 2025
+Wed Jul 2 08:02:30 CST 2025
+删除mode_bad https://edge2-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-1d49136a5c7a7c15435f6e28b03a7cf134ede048ba875a56582b9ffe2ca2a8d4_trns_h264/playlist.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
