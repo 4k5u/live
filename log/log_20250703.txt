@@ -148,3 +148,9 @@ Thu Jul 3 06:46:47 CST 2025
 Thu Jul 3 06:46:52 CST 2025
 Thu Jul 3 06:48:54 CST 2025
 Thu Jul 3 06:49:50 CST 2025
+Thu Jul 3 06:58:39 CST 2025
+Thu Jul 3 06:58:44 CST 2025
+Thu Jul 3 07:01:00 CST 2025
+Thu Jul 3 07:02:05 CST 2025
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
