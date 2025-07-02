@@ -196,3 +196,12 @@ Wed Jul 2 08:01:26 CST 2025
 Wed Jul 2 08:02:30 CST 2025
 删除mode_bad https://edge2-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-1d49136a5c7a7c15435f6e28b03a7cf134ede048ba875a56582b9ffe2ca2a8d4_trns_h264/playlist.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Wed Jul 2 10:08:18 CST 2025
+添加slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ZYTY2BMJTE1E.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1pZVFkyQk1KVEUxRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0QTRFMzhCRS0yNUYzLTQ0RkYtOTY2Ri1CRjBCMDFDMjkwQzgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTQyMjA5OSwiZXhwIjoxNzUxNDIyNjk5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.VAQlD3SBQpYnkjbq3KQEozQr5OhbaCcL7KAZGRL3jx9r_6wKPPrlGCTwh7vR2_cHZGnLiGON8UOAd9hSxClRSZbEMViiNvnWCEevH6F_24D9PmUifl3DSQuqhnxy6vvo
+Wed Jul 2 10:08:25 CST 2025
+Wed Jul 2 10:10:39 CST 2025
+Wed Jul 2 10:11:40 CST 2025
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
