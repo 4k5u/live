@@ -189,3 +189,10 @@ Fri Jul 4 11:36:31 CST 2025
 删除_meganmeow_ https://edge23-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-9e9d5b68a6907aa382a4407d19bf777bfff40b89fad224d6c4cceafca2d252df_trns_h264/playlist.m3u8
 删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
 删除-O_mei- https://edge-hls.doppiocdn.live/hls/141043675/master/141043675_auto.m3u8
+Fri Jul 4 12:06:52 CST 2025
+Fri Jul 4 12:06:55 CST 2025
+Fri Jul 4 12:09:13 CST 2025
+Fri Jul 4 12:10:19 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
