@@ -321,3 +321,8 @@ Fri Jul 4 18:53:13 CST 2025
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除ad0res https://edge29-ash.live.mmcdn.com/live-hls/amlst:ad0res-sd-4e5b7c11d3c4c6fe6f5357871a44a0f7a145cf9dbe839c9c2959ed2ca1b74261_trns_h264/playlist.m3u8
+添加ad0res https://edge3-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-9521f173dcf29ea2791843e8c47d13eb5041edad96e1559305b81ad79eb82ba2_trns_h264/playlist.m3u8
+Fri Jul 4 19:00:44 CST 2025
+Fri Jul 4 19:01:05 CST 2025
+Fri Jul 4 19:03:06 CST 2025
+Fri Jul 4 19:04:01 CST 2025
