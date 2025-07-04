@@ -245,3 +245,9 @@ Fri Jul 4 15:01:46 CST 2025
 Fri Jul 4 15:02:48 CST 2025
 删除sexygamesx https://edge8-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-022c1d36b5e4a76d36b0a016817a7f3a0dd24f5c53119925cd3c5597e414fb6c_trns_h264/playlist.m3u8
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Fri Jul 4 15:29:57 CST 2025
+Fri Jul 4 15:30:06 CST 2025
+Fri Jul 4 15:32:07 CST 2025
+Fri Jul 4 15:33:03 CST 2025
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
