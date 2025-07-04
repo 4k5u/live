@@ -238,3 +238,10 @@ Fri Jul 4 14:39:23 CST 2025
 删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 删除foxylovesyou https://edge13-atl.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-bec14a7e01a402b7b7d54099b5d08776caf2793a460008c55f4f5cbc8d909d2e_trns_h264/playlist.m3u8
+添加amilia4u https://edge19-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-5f8d4f0c65750922e182c5df7d06556b0c8de2ad039bcce497796209d6690c05_trns_h264/playlist.m3u8
+Fri Jul 4 14:59:24 CST 2025
+Fri Jul 4 14:59:33 CST 2025
+Fri Jul 4 15:01:46 CST 2025
+Fri Jul 4 15:02:48 CST 2025
+删除sexygamesx https://edge8-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-022c1d36b5e4a76d36b0a016817a7f3a0dd24f5c53119925cd3c5597e414fb6c_trns_h264/playlist.m3u8
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
