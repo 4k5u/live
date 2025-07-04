@@ -206,3 +206,8 @@ Fri Jul 4 12:47:10 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Fri Jul 4 13:03:46 CST 2025
+Fri Jul 4 13:03:51 CST 2025
+Fri Jul 4 13:06:09 CST 2025
+Fri Jul 4 13:07:14 CST 2025
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
