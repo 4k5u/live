@@ -157,3 +157,8 @@ Sun Jul 6 07:36:00 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
 删除calliadesigner https://edge29-ash.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-bca30ccbb6456953811c06972a6c540837fd07fe1d1b13e20e2833c104c5ee30_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge7-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-8f7df1d3b48c066aeae73f08f1fc5aacd453545467a03e9dc82e426f662a76fc_trns_h264/playlist.m3u8
+Sun Jul 6 07:47:31 CST 2025
+Sun Jul 6 07:47:38 CST 2025
+Sun Jul 6 07:49:54 CST 2025
+Sun Jul 6 07:50:59 CST 2025
