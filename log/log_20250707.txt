@@ -86,3 +86,8 @@ Mon Jul 7 03:22:24 CST 2025
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQzg3MjhEQi0xMUE1LTQ1NDktODA2Mi1DMjg3NERBQzk0RTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTgwODczMywiZXhwIjoxNzUxODA5MzMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.lboDpOm7G-p6JJSaLAbTjZ0ZpfxnF9a0jPcCa2V1xVOuPLpW92Bi0vXxnJVko4AwUWz1xNeps4VY2NY-TLTpl0esRH30ZnDA6VH6VRw5P72_xMpg45qabwA_34iy8pmZ
 删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+Mon Jul 7 03:31:18 CST 2025
+Mon Jul 7 03:31:33 CST 2025
+Mon Jul 7 03:33:37 CST 2025
+Mon Jul 7 03:34:32 CST 2025
+添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8

@@ -17,3 +17,4 @@ embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_aut
 calliadesigner https://edge16-phx.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-7ba12f2b413ba059c134b138be957eb06aaaccad0cf69449840f7b824ce85470_trns_h264/playlist.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
