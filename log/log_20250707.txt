@@ -130,3 +130,10 @@ Mon Jul 7 05:26:20 CST 2025
 Mon Jul 7 05:27:15 CST 2025
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
 删除calliadesigner https://edge16-phx.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-7ba12f2b413ba059c134b138be957eb06aaaccad0cf69449840f7b824ce85470_trns_h264/playlist.m3u8
+Mon Jul 7 05:41:47 CST 2025
+Mon Jul 7 05:41:52 CST 2025
+Mon Jul 7 05:44:08 CST 2025
+Mon Jul 7 05:45:11 CST 2025
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除qwer00725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sWVcbUkr9eEM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NXVmNiVWtyOWVFTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNERCNDNFNS0wQTFFLTQ1ODgtQTEzMC0wQTYwRDQxMzhCOTMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTgyMDczNSwiZXhwIjoxNzUxODIxMzM1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.3kw182uoeJD1XlQyieiToPnfWv77pqV8DA0f2IiL-ptALFYYdCZZeqHZJwUNbsYpqUQmH8t4vaiI7QkT8e7yUjnNajED3lbdjuoqqXuDFFCe17g0NBQbeK-_67tUlrRB
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
