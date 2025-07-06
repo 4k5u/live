@@ -79,3 +79,10 @@ Mon Jul 7 02:56:26 CST 2025
 Mon Jul 7 02:57:21 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除ake_mi https://edge1-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-39289470ac0726287ed0bf7245d4a3a840d0c8bb50032b87627dec9d7d92f435_trns_h264/playlist.m3u8
+Mon Jul 7 03:18:56 CST 2025
+Mon Jul 7 03:19:11 CST 2025
+Mon Jul 7 03:21:23 CST 2025
+Mon Jul 7 03:22:24 CST 2025
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQzg3MjhEQi0xMUE1LTQ1NDktODA2Mi1DMjg3NERBQzk0RTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTgwODczMywiZXhwIjoxNzUxODA5MzMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.lboDpOm7G-p6JJSaLAbTjZ0ZpfxnF9a0jPcCa2V1xVOuPLpW92Bi0vXxnJVko4AwUWz1xNeps4VY2NY-TLTpl0esRH30ZnDA6VH6VRw5P72_xMpg45qabwA_34iy8pmZ
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
