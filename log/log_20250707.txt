@@ -170,3 +170,9 @@ Mon Jul 7 07:46:34 CST 2025
 Mon Jul 7 07:47:30 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加sexygamesx https://edge5-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-2a688d025a576f5f53c3585ecfe4a48b4ebdfa2d2df3a478557136246aaa40af_trns_h264/playlist.m3u8
+Mon Jul 7 07:58:20 CST 2025
+Mon Jul 7 07:58:23 CST 2025
+Mon Jul 7 08:00:34 CST 2025
+Mon Jul 7 08:01:35 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
