@@ -167,3 +167,10 @@ Wed Jul 9 06:01:01 CST 2025
 Wed Jul 9 06:01:57 CST 2025
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除lovewindy https://edge9-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-8d3e2e891406ad9eb5edc4b01433137eb815c095e870c1f0c9f45eb459cf5af2_trns_h264/playlist.m3u8
+Wed Jul 9 06:26:15 CST 2025
+Wed Jul 9 06:26:28 CST 2025
+Wed Jul 9 06:28:41 CST 2025
+Wed Jul 9 06:29:42 CST 2025
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
