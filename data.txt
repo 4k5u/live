@@ -9,7 +9,6 @@ nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
 Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 amilia4u https://edge2-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-02bc48ace11e29b4de3f98fa9b3390636660d6a5f3886d14399f52f655d3f3d1_trns_h264/playlist.m3u8
-ake_mi https://edge6-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-fe992466ce8ae7bc007bd4996d15d05005f2722d43b93cbe980ba22d4ed86369_trns_h264/playlist.m3u8
 foxylovesyou https://edge9-ash.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b11317b3180f90287a14e4f6a459b0c22a3c0065a7d1941ba688e9f4219b671b_trns_h264/playlist.m3u8
 SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
