@@ -246,3 +246,17 @@ Tue Jul 8 14:36:48 CST 2025
 Tue Jul 8 14:39:08 CST 2025
 Tue Jul 8 14:40:11 CST 2025
 添加Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+添加amilia4u https://edge2-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-02bc48ace11e29b4de3f98fa9b3390636660d6a5f3886d14399f52f655d3f3d1_trns_h264/playlist.m3u8
+添加ake_mi https://edge6-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-fe992466ce8ae7bc007bd4996d15d05005f2722d43b93cbe980ba22d4ed86369_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge9-ash.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b11317b3180f90287a14e4f6a459b0c22a3c0065a7d1941ba688e9f4219b671b_trns_h264/playlist.m3u8
+Tue Jul 8 14:59:22 CST 2025
+Tue Jul 8 14:59:36 CST 2025
+Tue Jul 8 15:01:54 CST 2025
+Tue Jul 8 15:02:59 CST 2025
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
