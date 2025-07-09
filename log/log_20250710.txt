@@ -151,3 +151,8 @@ Thu Jul 10 04:46:19 CST 2025
 Thu Jul 10 04:48:22 CST 2025
 Thu Jul 10 04:49:17 CST 2025
 删除sksnrnrp11 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.cJT1cq2UIBfX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2NKVDFjcTJVSUJmWCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQTgxQUY1Mi1FODEwLTRGRUYtQUJFNC01NkRGMjQ1MURFRTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MjA5MDA4OCwiZXhwIjoxNzUyMDkwNjg4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.VGE4P-y5VRkiRGqhphBa3A2EPvhCCYpHCbyhL0SUoFsZGM_NumXyLbJ3pFQhd9XLdMa4EYYdQwOUbn-GYXhbp4Za1SF7E6t5RnfL4z1EUPu3pvIYgdYPGFZxVl-DmK51
+添加mode_bad https://edge2-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-822c9201430ab7e2243fac1924f299a85c648fe384e1f6f3b584fa31132b794a_trns_h264/playlist.m3u8
+Thu Jul 10 04:58:25 CST 2025
+Thu Jul 10 04:58:38 CST 2025
+Thu Jul 10 05:00:56 CST 2025
+Thu Jul 10 05:01:59 CST 2025
