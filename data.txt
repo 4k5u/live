@@ -28,3 +28,6 @@ dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_pl
 rosyemily https://edge19-atl.live.mmcdn.com/live-hls/amlst:rosyemily-sd-adf09d7546bc0a6a86b771d1c35faf9695afe0b6bc02814330cd6ce5fc11076c_trns_h264/playlist.m3u8
 calliadesigner https://edge3-atl.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-df000dede0aeb3b11d66bc463cccbff30c2e872fd196e2a997aaee23014224e2_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+lovewindy https://edge9-sea.live.mmcdn.com/live-hls/amlst:lovewindy-sd-c55c6ac54d64ca2bc84726f5c7c5861bb194a369b2a0936c97fc8065ba5651e4_trns_h264/playlist.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
