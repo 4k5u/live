@@ -201,3 +201,9 @@ Thu Jul 10 07:44:39 CST 2025
 Thu Jul 10 07:46:58 CST 2025
 Thu Jul 10 07:48:02 CST 2025
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Thu Jul 10 07:59:05 CST 2025
+Thu Jul 10 07:59:16 CST 2025
+Thu Jul 10 08:01:18 CST 2025
+Thu Jul 10 08:02:13 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除mode_bad https://edge2-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-822c9201430ab7e2243fac1924f299a85c648fe384e1f6f3b584fa31132b794a_trns_h264/playlist.m3u8
