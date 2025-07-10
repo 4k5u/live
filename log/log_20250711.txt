@@ -196,3 +196,8 @@ Fri Jul 11 06:59:04 CST 2025
 Fri Jul 11 06:59:15 CST 2025
 Fri Jul 11 07:01:31 CST 2025
 Fri Jul 11 07:02:34 CST 2025
+Fri Jul 11 07:27:00 CST 2025
+Fri Jul 11 07:27:11 CST 2025
+Fri Jul 11 07:29:25 CST 2025
+Fri Jul 11 07:30:27 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
