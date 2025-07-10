@@ -323,3 +323,9 @@ Thu Jul 10 16:39:37 CST 2025
 Thu Jul 10 16:40:38 CST 2025
 添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 删除iminako https://edge4-chi.live.mmcdn.com/live-hls/amlst:iminako-sd-b6a3329fe441c0b1ef940f799f705cd8b9c14d62b2fe6f26ec7818de19245aa3_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge2-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b3ecd270225f7fc203106f54302e0f25cc36d0dd402eae295073f8f3837214c3_trns_h264/playlist.m3u8
+Thu Jul 10 16:58:41 CST 2025
+Thu Jul 10 16:59:03 CST 2025
+Thu Jul 10 17:01:21 CST 2025
+Thu Jul 10 17:02:24 CST 2025
+删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
