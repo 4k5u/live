@@ -132,3 +132,8 @@ Sat Jul 12 05:23:10 CST 2025
 Sat Jul 12 05:25:22 CST 2025
 Sat Jul 12 05:26:23 CST 2025
 删除calliadesigner https://edge3-chi.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-77199f5b0a90d56dcb914f6ccf20db562516a663f39433ae0a89b5d8e901b62f_trns_h264/playlist.m3u8
+Sat Jul 12 05:42:57 CST 2025
+添加dusdk2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.X9H5QvJu5b2M.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1g5SDVRdkp1NWIyTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RjUzMDQzNS03QzE5LTRGNDAtOTRGRC0yMjRDQTk2Rjk5MTQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MjI3MDE3OCwiZXhwIjoxNzUyMjcwNzc4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ljozUBMadDC4xTogHpUqpxrfSLdUnzjaJPC-THd75ZXIGpWNmah8h2Thd7cWK0qhqjB-oMwpIwvp0qnE0PJ9T69PFyJ_nDQnvecsj12lxhGhs_xG8jPpT-Up9x-5-jqZ
+Sat Jul 12 05:43:11 CST 2025
+Sat Jul 12 05:45:30 CST 2025
+Sat Jul 12 05:46:36 CST 2025
