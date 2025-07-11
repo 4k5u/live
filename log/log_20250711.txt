@@ -245,3 +245,11 @@ Fri Jul 11 12:29:35 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除taitehambelton https://edge6-sea.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-287d60a7757df6e9e4dd05a91df65d2c8caa0382bc085293e760140601b7ed9b_trns_h264/playlist.m3u8
 删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+添加taitehambelton https://edge4-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-287d60a7757df6e9e4dd05a91df65d2c8caa0382bc085293e760140601b7ed9b_trns_h264/playlist.m3u8
+Fri Jul 11 12:58:38 CST 2025
+Fri Jul 11 12:58:45 CST 2025
+Fri Jul 11 13:00:58 CST 2025
+Fri Jul 11 13:01:58 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
