@@ -137,3 +137,9 @@ Sat Jul 12 05:42:57 CST 2025
 Sat Jul 12 05:43:11 CST 2025
 Sat Jul 12 05:45:30 CST 2025
 Sat Jul 12 05:46:36 CST 2025
+添加taitehambelton https://edge21-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-965d4315f2530e63c2d57f644259bee1a89582714d12a70f7d480a1fbf40ca94_trns_h264/playlist.m3u8
+Sat Jul 12 05:58:14 CST 2025
+Sat Jul 12 05:58:27 CST 2025
+Sat Jul 12 06:00:42 CST 2025
+Sat Jul 12 06:01:44 CST 2025
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
