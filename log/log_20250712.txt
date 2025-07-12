@@ -376,3 +376,8 @@ Sat Jul 12 19:41:59 CST 2025
 Sat Jul 12 19:44:14 CST 2025
 Sat Jul 12 19:45:17 CST 2025
 删除iminako https://edge28-atl.live.mmcdn.com/live-hls/amlst:iminako-sd-12176b86096c0a505f1aabbe05f64d092efdf87053a3e529b90a8c492670b146_trns_h264/playlist.m3u8
+Sat Jul 12 19:53:26 CST 2025
+Sat Jul 12 19:54:03 CST 2025
+Sat Jul 12 19:56:04 CST 2025
+Sat Jul 12 19:56:58 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
