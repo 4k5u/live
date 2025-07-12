@@ -157,3 +157,8 @@ Sun Jul 13 06:46:58 CST 2025
 Sun Jul 13 06:49:15 CST 2025
 Sun Jul 13 06:50:19 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sun Jul 13 06:58:44 CST 2025
+Sun Jul 13 06:58:51 CST 2025
+Sun Jul 13 07:01:05 CST 2025
+Sun Jul 13 07:02:07 CST 2025
+删除hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YSYB8Ftfk8Ip.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lTWUI4RnRmazhJcCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0RTZGMjMxQS01RDVBLTRBMDItQkYxMS1BRDIyOTZDMkFEQTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MjMzNzk3NCwiZXhwIjoxNzUyMzM4NTc0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Vkxw_Mdp8xoVcWxf6IhZnwD0VsW-hm_8w0XA4XoiNTmngzWpRCiLzSK00kf6TFjrc9elNsD6L7wXa-5znw80YyvWKVgfVSw5_Ib5z37y33LyqoQWsMd5PW_3nB8En_vr
