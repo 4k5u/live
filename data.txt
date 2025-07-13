@@ -5,3 +5,5 @@ ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 mode_bad https://edge6-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-7318d0eca9ea58eaff1fac16a8c1f6cf1c2bb6863473f9667a095a8166b3a9d4_trns_h264/playlist.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+mazzanti_ https://edge27-ash.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e7df71e7f1d00df858da4b239dbe5ea40a34ee072f215aacd570e427be812783_trns_h264/playlist.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
