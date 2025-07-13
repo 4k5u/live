@@ -356,3 +356,10 @@ Sun Jul 13 19:25:41 CST 2025
 Sun Jul 13 19:27:57 CST 2025
 Sun Jul 13 19:29:00 CST 2025
 添加Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
+Sun Jul 13 19:42:54 CST 2025
+Sun Jul 13 19:43:17 CST 2025
+Sun Jul 13 19:45:18 CST 2025
+Sun Jul 13 19:46:12 CST 2025
+添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除ad0res https://edge2-ash.live.mmcdn.com/live-hls/amlst:ad0res-sd-526357b73a673fa69d40462b3a4cda601dc5722159d21207dcbf4c350ca7f26e_trns_h264/playlist.m3u8
