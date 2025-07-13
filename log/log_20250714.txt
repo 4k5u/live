@@ -65,3 +65,12 @@ Mon Jul 14 02:05:35 CST 2025
 删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 删除lovewindy https://edge12-atl.live.mmcdn.com/live-hls/amlst:lovewindy-sd-429a76963770fc041d89170f80c242645d3149a0070b304f060b39490c3eacd3_trns_h264/playlist.m3u8
+添加lovewindy https://edge11-mia.live.mmcdn.com/live-hls/amlst:lovewindy-sd-429a76963770fc041d89170f80c242645d3149a0070b304f060b39490c3eacd3_trns_h264/playlist.m3u8
+Mon Jul 14 02:38:58 CST 2025
+Mon Jul 14 02:39:19 CST 2025
+Mon Jul 14 02:41:37 CST 2025
+Mon Jul 14 02:42:42 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+删除qwe1240 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qt3BjpE5nAwY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3F0M0JqcEU1bkF3WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEMjFGNzhCRC0wNjBDLTRCNDgtOEU4Mi1EM0Y1NEI0RUZBMDQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MjQxNjcxMywiZXhwIjoxNzUyNDE3MzEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.nACf8QCeEyGXg5Kk7p-IxP3rpCiwR_hikyGdE1GilsLHavfOgYMSzpN6ffSVWIjga7VHYZvV4lJtmA7WuWii7fSQqcdSaNgBL4A_fgpXkrUskgzPqXgqhlxzoBlFeFtw
