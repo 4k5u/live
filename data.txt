@@ -15,9 +15,9 @@ Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
-morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 lovewindy https://edge11-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-819c40fb38656c98f1cb554692eeb211b2598254dada99ed4045ebecb7f39832_trns_h264/playlist.m3u8
 mode_bad https://edge6-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-7318d0eca9ea58eaff1fac16a8c1f6cf1c2bb6863473f9667a095a8166b3a9d4_trns_h264/playlist.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8

@@ -118,3 +118,9 @@ Mon Jul 14 04:30:19 CST 2025
 Mon Jul 14 04:31:22 CST 2025
 删除qwer00725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sWVcbUkr9eEM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NXVmNiVWtyOWVFTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJERTA4NkZDNS0yQTBDLTQzMDktQTMyMy05NjJBQzc1NUE2MUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MjQxMTEzNywiZXhwIjoxNzUyNDExNzM3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2lZGlcBVKsDFHbwXfjH-I-PLqv1iNAgKyYKvH4VEaX17G11Zx810YtkwXThdO7nCMObND8m1YXOIHwY6CrFXdRkP8UaJpf-OJQx6LT1oeZ4LYjn1goc5qnQWP-n-iZrb
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+Mon Jul 14 04:45:23 CST 2025
+Mon Jul 14 04:45:38 CST 2025
+Mon Jul 14 04:47:54 CST 2025
+Mon Jul 14 04:48:59 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
