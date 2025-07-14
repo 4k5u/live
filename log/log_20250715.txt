@@ -157,3 +157,7 @@ Tue Jul 15 06:51:27 CST 2025
 Tue Jul 15 06:52:28 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除calliadesigner https://edge1-lax.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-eb13af43f44e03ef6f7aea4acb7c1df3430a527a35dff0a8eee56511bd49abe7_trns_h264/playlist.m3u8
+Tue Jul 15 07:00:57 CST 2025
+Tue Jul 15 07:01:08 CST 2025
+Tue Jul 15 07:03:27 CST 2025
+Tue Jul 15 07:04:31 CST 2025
