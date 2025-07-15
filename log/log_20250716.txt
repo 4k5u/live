@@ -140,3 +140,8 @@ Wed Jul 16 05:32:07 CST 2025
 Wed Jul 16 05:33:14 CST 2025
 删除gkfnsus5573 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.4vTQkzhj8zas.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzR2VFFremhqOHphcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RTU1NjQ4Qy05ODJCLTRFNzctOEUzNi0yMDRBOTY3QjM0NjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MjU4OTg1NywiZXhwIjoxNzUyNTkwNDU3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.t3NwSGn4voLerBfgep63Gq3bBLpZdYyPSyX8dnaFFEdwk6lVoShEh4vNwbKxBZhnWba4yI_rLwDMf-DxJcmNKXM-vHCkRdhuPwNKtCTFERHu3BYQXAVjEsSPjtj33rxK
 删除rosyemily https://edge12-lax.live.mmcdn.com/live-hls/amlst:rosyemily-sd-b022c83fa5e17f29632e7075d1274fb745787af686751e4b941630e9e9e59a07_trns_h264/playlist.m3u8
+Wed Jul 16 05:45:39 CST 2025
+Wed Jul 16 05:45:56 CST 2025
+Wed Jul 16 05:48:15 CST 2025
+Wed Jul 16 05:49:18 CST 2025
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
