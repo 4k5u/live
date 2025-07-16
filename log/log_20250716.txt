@@ -218,3 +218,13 @@ Wed Jul 16 13:04:45 CST 2025
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除taitehambelton https://edge13-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b03a30045045d27a166428d5caea71c4ff47a8cf1c47e4d7801f92c9b1660a32_trns_h264/playlist.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加taitehambelton https://edge4-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b03a30045045d27a166428d5caea71c4ff47a8cf1c47e4d7801f92c9b1660a32_trns_h264/playlist.m3u8
+添加amilia4u https://edge13-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-f20c8f5c3a606f6618968ea9162421547cc143b901e744379a20e177c382cae9_trns_h264/playlist.m3u8
+Wed Jul 16 13:37:07 CST 2025
+Wed Jul 16 13:37:16 CST 2025
+Wed Jul 16 13:39:33 CST 2025
+添加do2do2 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.nXKbFeZk6wXA.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9uWEtiRmVaazZ3WEEiLCJleHAiOjE3NTI2ODU5ODUyMjksImlhdCI6MTc1MjY0Mjc4NX0.Nm-zy2ivUGznctAEIO4lrixhBWij5wJ2rD-B2EhF0xygHgd-AnsFpbVhWdak4DUJs4djObirfNfCy5rI6yWrS0Fks0C7VCoEg0RIC_gXJHqc77XL5isIZCqZb7nEK71x
+Wed Jul 16 13:40:39 CST 2025
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
