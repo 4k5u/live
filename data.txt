@@ -26,5 +26,5 @@ jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/
 syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
-badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YSYB8Ftfk8Ip.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lTWUI4RnRmazhJcCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFREFGMERGQi1FODY3LTRDNTYtQUQ0Ny03MDAyRDMyQjIyRDYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Mjc3MzEwNSwiZXhwIjoxNzUyNzczNzA1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.UXDPMgjbRTItr3jTEL30WGBohG_ZyNFWRcwGTX5rumI8qV5d90TxpmZ6QaRE-QH4hZEEf2FnsXXoFMsPTn0WJv0S9LwrTZ2TtK19Cv_79QBm8QvnyGzCmQW7CBfCz5cS
+dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
