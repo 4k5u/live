@@ -271,3 +271,12 @@ Fri Jul 18 16:36:42 CST 2025
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 删除amilia4u https://edge13-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-771223f01c0dd23b4d8cc2a90e967414b634ebde3c53d7d7f573521afa64465e_trns_h264/playlist.m3u8
+添加amilia4u https://edge23-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-771223f01c0dd23b4d8cc2a90e967414b634ebde3c53d7d7f573521afa64465e_trns_h264/playlist.m3u8
+添加ad0res https://edge2-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-87f8672723f9b445badbf57d4d271b5b3931a90a6d063a2523e6ed24706c6fad_trns_h264/playlist.m3u8
+Fri Jul 18 16:59:47 CST 2025
+Fri Jul 18 17:00:04 CST 2025
+Fri Jul 18 17:02:19 CST 2025
+Fri Jul 18 17:03:24 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除iminako https://edge4-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-19275f1b3ef58a5b6dba7534716a4b5aab643700e335dbac14315fada9fc2c91_trns_h264/playlist.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
