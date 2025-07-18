@@ -411,3 +411,14 @@ Fri Jul 18 22:34:22 CST 2025
 Fri Jul 18 22:36:37 CST 2025
 Fri Jul 18 22:37:42 CST 2025
 删除yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Fri Jul 18 22:55:48 CST 2025
+Fri Jul 18 22:56:47 CST 2025
+添加big541 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+Fri Jul 18 22:59:07 CST 2025
+添加do2do2 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.nXKbFeZk6wXA.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9uWEtiRmVaazZ3WEEiLCJleHAiOjE3NTI4OTA1MTM1NTMsImlhdCI6MTc1Mjg0NzMxM30.mqMS4L-ZL-Djev6qhMJ3fbBtvMkV7S0-qlRQQBKEAESEJ0M4EUCJ_w2qM6mq5p6DeSGnPi0EXKUlEogpJ58tlUuSH_9FjVf53dGnayBshrRrQW-_T-qXiR6h3CgPtcbt
+Fri Jul 18 23:00:23 CST 2025
+删除amilia4u https://edge23-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-771223f01c0dd23b4d8cc2a90e967414b634ebde3c53d7d7f573521afa64465e_trns_h264/playlist.m3u8
+删除alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.XmyPhohWDS_DJxwlhxrNOiiz5F4xy_8Rt0q3GzZRDCBjnf4j_a9HcJq9jc9VlL4wBTL2UPuBn-nppLgkQ7kfZYHi2QznNR0HAMmJYZS_-e6e10OHFutk7kKjbLDEjvUTgWJYgH2tF4jMMOEWjfYFqSn1gEKCGmnWWJV8M7vuHoiBaxCraLhMujtAHkwPXbSU
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+删除redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNjlGRDQzNC0zRUU0LTRBNzgtQTAxOS1GQ0YwMzFFNEVCOTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Mjg0NjQwMywiZXhwIjoxNzUyODQ3MDAzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2KZDifNveWzVjm5FGphSYOXoaQoLipQpCJhzQIykJCwAYV9_Lz-8Jaeo80plN17NlDY6oShTqmeUc7V559wpJWJVKKiInPEr-BR8wHdpVacy95Vm6lajJulCQmrlIFYt
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
