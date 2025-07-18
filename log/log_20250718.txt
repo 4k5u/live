@@ -404,3 +404,10 @@ Fri Jul 18 22:03:37 CST 2025
 添加kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
 Fri Jul 18 22:05:41 CST 2025
 Fri Jul 18 22:06:38 CST 2025
+添加lovewindy https://edge28-atl.live.mmcdn.com/live-hls/amlst:lovewindy-sd-926e844763f1c091dd278fa04f1b0a7788b375749159be6ed494d8cf79fde253_trns_h264/playlist.m3u8
+Fri Jul 18 22:33:19 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MTY0MDE2MS1EQ0VCLTRFOTYtOEVGOS00OThBQzFEQzEwQTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Mjg0OTI0OCwiZXhwIjoxNzUyODQ5ODQ4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.thBywxrNVzBTo8Nr6AcYanjGqLFnN4H-JsBP3mOTIZPDj5YzITLsoaxrTQoJ4fmYgW3rgkLJ0XyrFCrGrnobK56juYvmJMQgpuFkyt038j_gYbwcgo-wxSu4dQZTa9Uj
+Fri Jul 18 22:34:22 CST 2025
+Fri Jul 18 22:36:37 CST 2025
+Fri Jul 18 22:37:42 CST 2025
+删除yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
