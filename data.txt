@@ -38,3 +38,7 @@ Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m
 tw_Sutew https://edge-hls.doppiocdn.live/hls/104933496/master/104933496_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+lovewindy https://edge18-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-d65bde87bf52af7a9738b92be59e237371f5eb2ea9306024aca9c1692041d36e_trns_h264/playlist.m3u8
+syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
