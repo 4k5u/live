@@ -113,3 +113,9 @@ Sun Jul 20 04:47:25 CST 2025
 Sun Jul 20 04:47:46 CST 2025
 Sun Jul 20 04:49:55 CST 2025
 Sun Jul 20 04:50:55 CST 2025
+Sun Jul 20 04:59:04 CST 2025
+Sun Jul 20 04:59:23 CST 2025
+Sun Jul 20 05:01:33 CST 2025
+Sun Jul 20 05:02:34 CST 2025
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+删除rosyemily https://edge10-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-7f16b7b1b44c26577ab560c5ce419d73ea8fb3e2d4e323022ceffc88bb4827da_trns_h264/playlist.m3u8
