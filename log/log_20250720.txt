@@ -119,3 +119,9 @@ Sun Jul 20 05:01:33 CST 2025
 Sun Jul 20 05:02:34 CST 2025
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 删除rosyemily https://edge10-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-7f16b7b1b44c26577ab560c5ce419d73ea8fb3e2d4e323022ceffc88bb4827da_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge30-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-bb7cb1928655f318deef209dc332ebd66e6b823af5d423ab42cfd7fcea0909e0_trns_h264/playlist.m3u8
+Sun Jul 20 05:27:07 CST 2025
+Sun Jul 20 05:27:22 CST 2025
+Sun Jul 20 05:29:33 CST 2025
+Sun Jul 20 05:30:34 CST 2025
+删除suee2332 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vmp1QKeAFNdG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZtcDFRS2VBRk5kRyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1OUFFNjBERC0wMUIwLTQxNDUtODc1Mi1BMzYwQzg4ODE0QkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Mjk1MjczOCwiZXhwIjoxNzUyOTUzMzM4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.KPVOnYGFAQ1OAssgzvkB0XoNntEocbSuO7MUZgfoh_JfTiYRVLg6PhOKQJ6taKXONv2DzWJdi9miRI2RMmfDFSn5alhALo5sIliEgh35vaoeU1fVdlK5HGlXxYPSaNJu
