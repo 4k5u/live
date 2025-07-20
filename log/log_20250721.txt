@@ -116,3 +116,11 @@ Mon Jul 21 05:59:05 CST 2025
 Mon Jul 21 06:01:23 CST 2025
 Mon Jul 21 06:02:29 CST 2025
 删除mode_bad https://edge18-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-1bb302a5e819c425bddc59e4cae5c21ca0bae783e583508e562da1bb6a2b6584_trns_h264/playlist.m3u8
+添加mode_bad https://edge34-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-4628a4427ed8a66bc65474a3fcd07e990360fbb04407771e0b3a2a5896f1e9f0_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge7-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e16952266cca295fbf09c542ab110e643a603eb2189f9296ad8077780a0d4809_trns_h264/playlist.m3u8
+Mon Jul 21 06:26:59 CST 2025
+Mon Jul 21 06:27:06 CST 2025
+Mon Jul 21 06:29:07 CST 2025
+Mon Jul 21 06:30:01 CST 2025
+删除qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMUY4MTgyMi05OTQ4LTQ0NUEtOTRDQi04OTA3MUI3QTVGMjkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MzAyNTMxNywiZXhwIjoxNzUzMDI1OTE3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.TjRuWnMgW8A_lau0wvg_kH4pVu68zSPmkV0UtkuLXL-hNUughdPbYbTyRhd_ZMuFCfJRHqqpCJrrefJF9aaeLKgF1WEuRl-CHMywXYOYDDrQjpZ_BKtdNEBva9cn6Ofr
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
