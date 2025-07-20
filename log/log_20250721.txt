@@ -83,3 +83,9 @@ Mon Jul 21 03:59:59 CST 2025
 Mon Jul 21 04:02:10 CST 2025
 Mon Jul 21 04:03:10 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加mode_bad https://edge18-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-1bb302a5e819c425bddc59e4cae5c21ca0bae783e583508e562da1bb6a2b6584_trns_h264/playlist.m3u8
+Mon Jul 21 04:32:38 CST 2025
+添加mini10062 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WUDWbjGalIfX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dVRFdiakdhbElmWCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBN0EyRkVFNC0xRjVGLTQyREQtOUE1Ni02MTg4QjFFREVDRUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MzA0MzU2NSwiZXhwIjoxNzUzMDQ0MTY1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.nlPz7zxnCz7aeJ-F3ly81DYAX5F0tkM01gfvg3huXYWtambzqnOlRnqwkP3_jIaZZp6tqi73cxSs0gSVPF3ZxUsX58pp24sDPaxqevVOLv-5K6aheUqayJuwvhA4cWwW
+Mon Jul 21 04:32:55 CST 2025
+Mon Jul 21 04:34:58 CST 2025
+Mon Jul 21 04:35:53 CST 2025
