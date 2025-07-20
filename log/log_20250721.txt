@@ -62,3 +62,8 @@ Mon Jul 21 03:00:35 CST 2025
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 删除sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 删除Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+Mon Jul 21 03:20:16 CST 2025
+Mon Jul 21 03:20:29 CST 2025
+Mon Jul 21 03:22:39 CST 2025
+Mon Jul 21 03:23:40 CST 2025
+删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8

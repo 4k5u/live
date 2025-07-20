@@ -12,5 +12,4 @@ yepyeppp https://usher.ttvnw.net/api/channel/hls/yepyeppp.m3u8?client_id=kimne78
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 calliadesigner https://edge35-phx.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-0718b9dbbe7d4890171e78ef454205869b2f6e01eedc1300e646d951e56f43d4_trns_h264/playlist.m3u8
-Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
