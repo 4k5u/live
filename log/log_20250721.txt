@@ -111,3 +111,8 @@ Mon Jul 21 05:43:45 CST 2025
 Mon Jul 21 05:45:47 CST 2025
 Mon Jul 21 05:46:41 CST 2025
 删除zmalqp6666 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VhSdFWo2y5f0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZoU2RGV28yeTVmMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNTE1QjFBOS0yMzY1LTRERDItOUVFNS02QTYyNUYzNzVCRTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MzAyNTMzMCwiZXhwIjoxNzUzMDI1OTMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.TxZzxVOCS-hcz5G68dl2XCJ3IGC3KvzkpwfXwBynHMBnlOdvTpP0XOQ5Bxjx1QMaokxf9Z4sWRKaiBFUYZhzfD8rT6cBhrWsiC6Cpm5Mb3HkZ2xOu-ht6aIIJCzSZy0n
+Mon Jul 21 05:58:56 CST 2025
+Mon Jul 21 05:59:05 CST 2025
+Mon Jul 21 06:01:23 CST 2025
+Mon Jul 21 06:02:29 CST 2025
+删除mode_bad https://edge18-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-1bb302a5e819c425bddc59e4cae5c21ca0bae783e583508e562da1bb6a2b6584_trns_h264/playlist.m3u8
