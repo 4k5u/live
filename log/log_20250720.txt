@@ -231,3 +231,8 @@ Sun Jul 20 13:49:27 CST 2025
 添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 删除anystar00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YZhCdqqVr9X2.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1laaENkcXFWcjlYMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RUZGQzBGQS05NDE5LTRCODctQUQ1MS05MThGOUEyRDNGRkIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Mjk3ODc1OSwiZXhwIjoxNzUyOTc5MzU5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.AZ6lEoXe3oYv2RCPA8n-1VkZ_v0YphNpFCfastU81bogVLB9diWZQQgonp5NE0cQvaJgpPLP0qWVE49Y7E5lLJ_CMaJMRPccZ6-kkf-_xrqFM3oxoJeoYYT7-Rmf6gXX
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sun Jul 20 13:59:22 CST 2025
+Sun Jul 20 13:59:34 CST 2025
+Sun Jul 20 14:01:47 CST 2025
+Sun Jul 20 14:02:51 CST 2025
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
