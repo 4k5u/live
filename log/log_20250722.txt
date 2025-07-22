@@ -402,3 +402,10 @@ Tue Jul 22 22:48:40 CST 2025
 删除hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.AzTFfdrzpRaq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F6VEZmZHJ6cFJhcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNDJCN0E0OC1BOEM0LTQ0M0ItQTQ0QS1GQTlBRTMyNjkwRUYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MzE4Njg5NiwiZXhwIjoxNzUzMTg3NDk2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.MVVlHNY2EY3HeF3q25ij9nN_bJiRGg0LQvbTOgzdLpVE_vLNh3Cvh8WA0GlmF6HE-SImTucMgYtaehX7ft0z-wYZeWtzgxzSyxBkZ3cPSyMa8wpVuYcWNk8ufXfrUsIZ
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 删除bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
+添加mizuki_aikawa_ii https://edge17-atl.live.mmcdn.com/live-hls/amlst:mizuki_aikawa_ii-sd-45cdebd30ae388eeacb29bbdd5a8f3e905a5716fb479349338e27d2cc0a2223a_trns_h264/playlist.m3u8
+Tue Jul 22 23:00:16 CST 2025
+Tue Jul 22 23:01:21 CST 2025
+Tue Jul 22 23:03:34 CST 2025
+Tue Jul 22 23:04:40 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除lovewindy https://edge18-lax.live.mmcdn.com/live-hls/amlst:lovewindy-sd-872f5c4ee9b784a4ab4bf6034f73e8412e464255a1f95bc23a6841613ce86cbf_trns_h264/playlist.m3u8
