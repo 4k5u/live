@@ -165,3 +165,8 @@ Thu Jul 24 07:26:06 CST 2025
 Thu Jul 24 07:28:08 CST 2025
 Thu Jul 24 07:29:15 CST 2025
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Thu Jul 24 07:45:39 CST 2025
+Thu Jul 24 07:45:48 CST 2025
+Thu Jul 24 07:48:02 CST 2025
+Thu Jul 24 07:49:08 CST 2025
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
