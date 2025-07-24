@@ -248,3 +248,13 @@ Thu Jul 24 15:05:36 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.dPCPSidcBeWC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9kUENQU2lkY0JlV0MiLCJleHAiOjE3NTMzNTA5Njc1MDgsImlhdCI6MTc1MzMwNzc2N30.ahpwtyaxGKMYNXdXr1E8rQAugJE5Zj7KOZzSzI6W0pTkGWvcEQLHaR9mn80yl6cRo90ebxb03KDjjL-QdNrF0LHWMu523ACynmHpUAl5FPyKjFcALOXaJpFNtZc64pve
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+添加iminako https://edge3-sea.live.mmcdn.com/live-hls/amlst:iminako-sd-4aae359aad1b0bec1ac0a1bbc20826916f2900d8db1cd88f6362ce79959d3c8d_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge9-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ce01d928364b83dfd3ce1878747c3a7d66ffc325256d3a0fc1728a499ec6ed11_trns_h264/playlist.m3u8
+Thu Jul 24 15:34:13 CST 2025
+Thu Jul 24 15:34:24 CST 2025
+Thu Jul 24 15:36:56 CST 2025
+Thu Jul 24 15:38:06 CST 2025
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.r0nKJMniAZJBlJ6cxv3KqDdJRCsflWeeDBz-b2wXyJTqpDHeuSwtNRI_CqZD7rKMAewCT9ASpfoVh0nuEczsCNINcB8d-qdYdzhuBNubipzyN9nDb7i__efN3RQ88F9BIqxGCRunZx0I3Ec0nrSv5QL1ypODnOmYF7DDqhJlrWj9EXZ7Yb5P3_3ZGlkrhYoN
