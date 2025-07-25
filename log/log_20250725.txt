@@ -345,3 +345,11 @@ Fri Jul 25 19:39:42 CST 2025
 Fri Jul 25 19:42:11 CST 2025
 Fri Jul 25 19:43:16 CST 2025
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加alicechina https://edge2-chi.live.mmcdn.com/live-hls/amlst:alicechina-sd-9bc1f0e20ee66b9f132d59a612477c13fd27732556868802d20295488b5bed32_trns_h264/playlist.m3u8
+Fri Jul 25 19:51:56 CST 2025
+Fri Jul 25 19:52:33 CST 2025
+Fri Jul 25 19:54:45 CST 2025
+Fri Jul 25 19:55:49 CST 2025
+删除__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+删除amilia4u https://edge6-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-ca361b7441a40973ac983ac52a23ab3844309333dcdc845e274d464c0dacacbc_trns_h264/playlist.m3u8
+删除my_eyes_higher https://edge9-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-6bdc91459e5e5119130c76a10876d45d577a1821a857aaa99493b6cc10a59004_trns_h264/playlist.m3u8
