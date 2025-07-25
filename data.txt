@@ -23,3 +23,4 @@ _meganmeow_ https://edge11-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-6727
 lovewindy https://edge11-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-3131069fc6e76d189736c1a9002094b3c26dc3e2c87e1c537a6dc7bb2c11051d_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
