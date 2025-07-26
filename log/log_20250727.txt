@@ -166,3 +166,11 @@ Sun Jul 27 06:59:12 CST 2025
 Sun Jul 27 06:59:17 CST 2025
 Sun Jul 27 07:01:18 CST 2025
 Sun Jul 27 07:02:15 CST 2025
+添加mazzanti_ https://edge14-aus.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-44a9310b6b47466232a1ade3c290856f27ce1b9bd480675c54e20787406daf17_trns_h264/playlist.m3u8
+添加sexygamesx https://edge11-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-ee332f2f96393f75feb77a5b5a1fe827972dc870891b46a0060a8109c33cfee2_trns_h264/playlist.m3u8
+Sun Jul 27 07:27:33 CST 2025
+Sun Jul 27 07:27:38 CST 2025
+Sun Jul 27 07:29:40 CST 2025
+Sun Jul 27 07:30:47 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
