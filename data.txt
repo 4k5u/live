@@ -5,5 +5,4 @@ nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 iminako https://edge13-atl.live.mmcdn.com/live-hls/amlst:iminako-sd-89878846209fd5741cbda72c85bfc274ca9bacdb753978880a1903817f8cff08_trns_h264/playlist.m3u8
 embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
-Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
