@@ -244,3 +244,10 @@ Mon Jul 28 18:26:58 CST 2025
 删除so2so2so https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.krpKWaeykruo.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tycEtXYWV5a3J1byIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNEM5RTJFMS0xRUFFLTQ1RUItQjFGOC04OTFBRTM0OUE4NEIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MzY4MDgwMCwiZXhwIjoxNzUzNjgxNDAwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.PqAFCdbebN8vWIGXCRlZQDsXiUsuhrCcw_E-Dnj0h6wKUp0ine-fcG9mxnNgDozVJn0B2XhBSN0mTqTZ_Ll5Og2uUY5kh3vhBf3Hu8XrpHy7TuAKYc1F6UZfBqPGhb55
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+添加honey_pinkgreen https://edge7-chi.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-ad9dac92f5a6ca2b0fd1c01a6599f7ba029930b47ef39f7717d8fbd20c39c098_trns_h264/playlist.m3u8
+Mon Jul 28 18:53:04 CST 2025
+Mon Jul 28 18:53:21 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Mon Jul 28 18:55:34 CST 2025
+Mon Jul 28 18:56:36 CST 2025
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
