@@ -289,3 +289,11 @@ Wed Jul 30 18:38:29 CST 2025
 Wed Jul 30 18:39:33 CST 2025
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Wed Jul 30 18:56:31 CST 2025
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.c9Z1JX8xSvx1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2M5WjFKWDh4U3Z4MSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQjAxRTg5Ny1GOUEzLTQyNjItQjY3QS04OEQ0NzgwMTE5RjkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Mzg3Mjk5MSwiZXhwIjoxNzUzODczNTkxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ChH8ncte9gH68uElaZOJ5n7klNW3aJjzENNVvV6lPtvwLTVMDWGwjmha--u9FxVSVimu-j23GtEbcxl7WgKhgGOuMXZgL68TuM3XV5TkMH97IKsmaafxhx2Wu876WAm8
+Wed Jul 30 18:56:55 CST 2025
+Wed Jul 30 18:59:07 CST 2025
+Wed Jul 30 19:00:10 CST 2025
+添加Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
