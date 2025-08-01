@@ -5,7 +5,6 @@ mini10062 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NjgyODU3NS1FQ0FGLTQzRUQtOUQ2Ri1CQUM0QUEyMDZENTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDA3MzQ0MywiZXhwIjoxNzU0MDc0MDQzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.xAJVLowpwxzmcR_5yTPTiD-gLFhP6wB8S5tvIk_EPEugid-i-b6-5--8TfBtftHlo6Ug6Aiq-TZM3tKP2xt9Uqb_ux8ZN6ifxdIqjt7W1BRe5v9MrVodMXXTVH_rWJbh
-SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 _meganmeow_ https://edge19-phx.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-4f76fdcb90d10613f7dde82a78068c595b33027e84c7502c401eb3543ae6212e_trns_h264/playlist.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 hee_jeen https://edge9-sea.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-0a0c64267fa8770e7025517cee4dd27fb6a1d6917b90e54627c8f5ebcf07af74_trns_h264/playlist.m3u8
