@@ -140,3 +140,9 @@ Sat Aug 2 06:31:18 CST 2025
 Sat Aug 2 06:32:23 CST 2025
 删除hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YSYB8Ftfk8Ip.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lTWUI4RnRmazhJcCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwNjBDNjRBNy04NzhDLTRFQzktQUFCMC0zMzRFQjNEMUU4MTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDA2MjE0MSwiZXhwIjoxNzU0MDYyNzQxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ils_xiyXLYRL7fSaV8b3Cgnpjh90Nd9RvF9w8ixbMA4ioBI8cmAHgfrTgXHeLw3cEe960QVyrM1UVJSCH6W-gfvD5Hr1gNDGl9ENQkN5wZxAdKvod5WZ4thJ46JkG66W
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+Sat Aug 2 06:49:17 CST 2025
+Sat Aug 2 06:49:30 CST 2025
+Sat Aug 2 06:51:31 CST 2025
+Sat Aug 2 06:52:26 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
