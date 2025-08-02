@@ -9,3 +9,4 @@ Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m
 _meganmeow_ https://edge3-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-6679c77ecb086a9453b42296e95746b97c6fedbf0649e9c2bda5fa8eec1f276b_trns_h264/playlist.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 mode_bad https://edge21-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-d5d0e2df7da37903dda9543a5ce9e4f09178b380f5cff44cb9b625544713656d_trns_h264/playlist.m3u8
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
