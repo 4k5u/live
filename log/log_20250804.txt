@@ -143,3 +143,9 @@ Mon Aug 4 07:34:10 CST 2025
 Mon Aug 4 07:35:18 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加emiliaguess https://edge3-aus.live.mmcdn.com/live-hls/amlst:emiliaguess-sd-907ca2c8f7c3252dc7887a877c8194fd0e847ec9c2cfb85618ab6724601cd959_trns_h264/playlist.m3u8
+Mon Aug 4 07:48:40 CST 2025
+Mon Aug 4 07:48:47 CST 2025
+Mon Aug 4 07:51:00 CST 2025
+Mon Aug 4 07:52:06 CST 2025
+删除taitehambelton https://edge1-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-837923526cda278de58a40227e149d194740591609b75e2c583f220090e7ba5f_trns_h264/playlist.m3u8
