@@ -219,3 +219,9 @@ Sun Aug 3 15:44:14 CST 2025
 Sun Aug 3 15:46:32 CST 2025
 Sun Aug 3 15:47:39 CST 2025
 添加__Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
+Sun Aug 3 15:58:20 CST 2025
+Sun Aug 3 15:58:31 CST 2025
+Sun Aug 3 16:00:46 CST 2025
+Sun Aug 3 16:01:51 CST 2025
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+删除hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.AzTFfdrzpRaq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F6VEZmZHJ6cFJhcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRTVGOTJGQS1GMTYzLTRCMDgtOTUwQi1CREI4OUNDQTAxRTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDE5OTIwOCwiZXhwIjoxNzU0MTk5ODA4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.UXp1PwSAGsZAiMqN5VLd1-6JOyQBbTjaH_BQb6VUuu_0QWVy2ZlktzzLNp0bW2KYm44aX5FHyGPQcJ4wku-tDrjK5z5zrk6LQzN2OF1611ByL2bRwYxdhHZuGXKjayj8
