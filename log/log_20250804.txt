@@ -126,3 +126,8 @@ Mon Aug 4 06:28:42 CST 2025
 Mon Aug 4 06:31:01 CST 2025
 Mon Aug 4 06:32:14 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Mon Aug 4 06:49:16 CST 2025
+Mon Aug 4 06:49:23 CST 2025
+Mon Aug 4 06:51:33 CST 2025
+Mon Aug 4 06:52:38 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
