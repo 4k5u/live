@@ -84,3 +84,12 @@ Mon Aug 4 03:54:13 CST 2025
 Mon Aug 4 03:56:30 CST 2025
 Mon Aug 4 03:57:35 CST 2025
 删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+添加mode_bad https://edge6-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-6c15c91b0ff3cbd619663e01aa011caecd8237dc3c01310feae89fcecf286f69_trns_h264/playlist.m3u8
+Mon Aug 4 04:27:55 CST 2025
+Mon Aug 4 04:28:06 CST 2025
+Mon Aug 4 04:30:20 CST 2025
+Mon Aug 4 04:31:23 CST 2025
+删除rosyemily https://edge29-atl.live.mmcdn.com/live-hls/amlst:rosyemily-sd-aedf043c172bdf486638bb4394a89baafcda85fe944c7dc8788b58e6a6c428bd_trns_h264/playlist.m3u8
+删除lovewindy https://edge7-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-0b66080b7df47e2967b8dce56a6c45a12b93eccba3898a6fe0736cb846f3c43b_trns_h264/playlist.m3u8
+删除zmalqp6666 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.iBHnwHiI6Pdi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2lCSG53SGlJNlBkaSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNDM1OUE5Ri0xNEY0LTREQkQtQTdENi0yRDExNjMxNzZBRDciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDIzNDkzMiwiZXhwIjoxNzU0MjM1NTMyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.nDKsjfjkSE4_ljkZx18F2tV_JzutQxfowBefQmKhJMUFNb2IMjctr1ZcxEv9Coj5d8Lb9hU87Ye_5sz-X-_278QZ9xspmfOpo2IZ_nyzlmWfgouYrnHMoaCXJoXK_hwt
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
