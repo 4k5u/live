@@ -12,3 +12,4 @@ ake_mi https://edge16-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-3f3e58b03e15ae
 __Amy__ https://edge-hls.doppiocdn.live/hls/153348898/master/153348898_auto.m3u8
 dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
 Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Riri__oo https://edge-hls.doppiocdn.live/hls/148378115/master/148378115_auto.m3u8
