@@ -188,3 +188,16 @@ Mon Aug 4 13:08:03 CST 2025
 Mon Aug 4 13:10:13 CST 2025
 Mon Aug 4 13:11:16 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Mon Aug 4 13:53:50 CST 2025
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.AzTFfdrzpRaq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F6VEZmZHJ6cFJhcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1RDk5OTNCMS1GRjJELTQ5MzMtOTcyNi1GNzE0RjZBQ0I0QTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDI4NjgzMSwiZXhwIjoxNzU0Mjg3NDMxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wSSvFHCUJz-FAxB6aR0BOAflH0QjlOzcrdH323yOjjTcioyfYMSITSSV83hqx7txfUAPpfVVjqP8EtqhdK1BSUq4gWive1diLX909F-tJw9e31xKB7X80Pd9TVDt-vTn
+添加so2so2so https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.krpKWaeykruo.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tycEtXYWV5a3J1byIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwREZBNEVFNC0xODg5LTRBNkYtQTA2NC0wRUI2NUFEQjZERjIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDI4NjgzNiwiZXhwIjoxNzU0Mjg3NDM2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.i182EsvYhZwFrc-uYiWjYRPJdUubSiR_2SPuE7Y1PWIGzOjV3HjPOZOY1HHzDY4bLjugY9u7-7kBsbu9dN_WNCAtjA7SfHp98dysHhUaUaMSpxHNAd9x1gQQFgx-UQ6v
+Mon Aug 4 13:54:04 CST 2025
+Mon Aug 4 13:56:13 CST 2025
+Mon Aug 4 13:57:15 CST 2025
+添加Doreen-666 https://edge-hls.doppiocdn.live/hls/160096034/master/160096034_auto.m3u8
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除taitehambelton https://edge1-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-837923526cda278de58a40227e149d194740591609b75e2c583f220090e7ba5f_trns_h264/playlist.m3u8
+删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
