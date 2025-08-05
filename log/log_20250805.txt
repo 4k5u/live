@@ -197,3 +197,8 @@ Tue Aug 5 16:28:21 CST 2025
 添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+Tue Aug 5 16:41:10 CST 2025
+Tue Aug 5 16:41:27 CST 2025
+Tue Aug 5 16:43:44 CST 2025
+Tue Aug 5 16:44:45 CST 2025
+删除my_eyes_higher https://edge8-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-96a0f42d787c7b1f775125e7f5912a6ca5dded152abf1765642e3e14baa123e1_trns_h264/playlist.m3u8
