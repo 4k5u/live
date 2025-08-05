@@ -268,3 +268,10 @@ Tue Aug 5 19:44:40 CST 2025
 Tue Aug 5 19:45:28 CST 2025
 Tue Aug 5 19:47:39 CST 2025
 Tue Aug 5 19:48:41 CST 2025
+Tue Aug 5 19:59:32 CST 2025
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.55cHFi6IeBXm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzU1Y0hGaTZJZUJYbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNERGRDRDNi0yOTE1LTRFMUMtQTVENS05QTQ0OTIxOURCMzciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDM5NTE4OSwiZXhwIjoxNzU0Mzk1Nzg5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.RlEArLFWZOWx2-tIub5wAMHQ2MjffUelRDE0OsqBWet7Qfx-LEWbOIEXbDRdb-FC_8N-tBhqemtmqotlDh46YMLrvXqLeZnNxqG_cpRSEnqph26ESm70dA9RdNPZtdyE
+Tue Aug 5 20:00:17 CST 2025
+Tue Aug 5 20:02:27 CST 2025
+添加jssisabel https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.dPCPSidcBeWC.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9kUENQU2lkY0JlV0MiLCJleHAiOjE3NTQ0MzgxODI5MzMsImlhdCI6MTc1NDM5NDk4Mn0.DRhZ1srcFsg-xcGNfrXbv8GXBAby5M0MFa9sJyvxE5qUU7q1dIQWOyQgFiD7TDutji1YsGvCJkAsx-m7ChRHWUoNkfbB14_NQPRXU5_Hf9v1GwkQ4JUScEAbK6onDXo9
+Tue Aug 5 20:03:32 CST 2025
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
