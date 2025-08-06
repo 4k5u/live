@@ -98,3 +98,11 @@ Thu Aug 7 04:00:39 CST 2025
 Thu Aug 7 04:01:47 CST 2025
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
+添加mode_bad https://edge18-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-030eae7abc69ecce0bf470ff471fad606401058c8d8e25034f555cbe3a57c24e_trns_h264/playlist.m3u8
+Thu Aug 7 04:31:25 CST 2025
+Thu Aug 7 04:31:32 CST 2025
+Thu Aug 7 04:33:33 CST 2025
+Thu Aug 7 04:34:29 CST 2025
+删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除imsocutesexy https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oS6GyYQIKW3G.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29TNkd5WVFJS1czRyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGRUQyN0EzMS1GNzJCLTQ3RUUtQTcwMy1EQjhERTMyRDY0MEQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDQ4ODI3OSwiZXhwIjoxNzU0NDg4ODc5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.yLX3U_-14L4jtef4CEI1evrdn0PjZ4HpIHLoDmRr_otF8so3IU1UMpmJdwOBvHcP79sNmOi_5SxnLbRTXgLTKJcrY4Cmek0M9QjuE9OqiGD_Nx2-vXgzWzBVheWzBQQJ
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
