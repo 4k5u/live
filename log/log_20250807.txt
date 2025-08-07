@@ -188,3 +188,8 @@ Thu Aug 7 10:27:34 CST 2025
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Thu Aug 7 11:55:12 CST 2025
+Thu Aug 7 11:55:19 CST 2025
+Thu Aug 7 11:57:22 CST 2025
+Thu Aug 7 11:58:22 CST 2025
+删除lovewindy https://edge10-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-7d180521659d7af9e302737c7ec4962cfb374211dd4ca834faac27ea50066c92_trns_h264/playlist.m3u8
