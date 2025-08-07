@@ -133,3 +133,9 @@ Fri Aug 8 04:34:59 CST 2025
 Fri Aug 8 04:36:12 CST 2025
 删除wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
 删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+Fri Aug 8 04:51:40 CST 2025
+Fri Aug 8 04:51:51 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Fri Aug 8 04:54:12 CST 2025
+Fri Aug 8 04:55:17 CST 2025
+删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
