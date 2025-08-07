@@ -460,3 +460,12 @@ Thu Aug 7 23:40:54 CST 2025
 删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+添加mizuki_aikawa_ii https://edge26-atl.live.mmcdn.com/live-hls/amlst:mizuki_aikawa_ii-sd-f9bd34f19020d3cf47fbb18446806b02d2aac91475a15ee28fcddc5b38dbebc6_trns_h264/playlist.m3u8
+Thu Aug 7 23:53:33 CST 2025
+Thu Aug 7 23:54:31 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+Thu Aug 7 23:56:53 CST 2025
+Thu Aug 7 23:57:58 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
