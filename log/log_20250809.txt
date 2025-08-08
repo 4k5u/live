@@ -128,3 +128,10 @@ Sat Aug 9 03:53:04 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除mizuki_aikawa_ii https://edge29-chi.live.mmcdn.com/live-hls/amlst:mizuki_aikawa_ii-sd-572013fae41172047793df56432dab842a2c9af5e6e9b55e1d5d3dcf3b585d49_trns_h264/playlist.m3u8
+添加mizuki_aikawa_ii https://edge11-lax.live.mmcdn.com/live-hls/amlst:mizuki_aikawa_ii-sd-ee26254571eed9c6ca2c7fdda88c88b6d8a1d45695437d5669c4263f8af61cca_trns_h264/playlist.m3u8
+Sat Aug 9 04:00:33 CST 2025
+Sat Aug 9 04:00:42 CST 2025
+Sat Aug 9 04:02:44 CST 2025
+Sat Aug 9 04:03:39 CST 2025
+删除o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMDFDODAzMC1FQzYwLTQzRjUtQUIyMi1GRkZEOTU2QjA3NzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDY2NTA3OCwiZXhwIjoxNzU0NjY1Njc4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2YR7T-BLvHlNuHBfyf3T7UYtjn5yC1rtOrtHnG-fc4dXwESA8w8l13syA9UhteKsxbGhyOwhxaE2jTgbFy-IhYyqTp__LzM6kbN34k8uVRiNCKC22BWSywC15juLdct0
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
