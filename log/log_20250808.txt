@@ -180,3 +180,8 @@ Fri Aug 8 07:46:58 CST 2025
 Fri Aug 8 07:49:11 CST 2025
 Fri Aug 8 07:50:17 CST 2025
 添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+Fri Aug 8 07:59:30 CST 2025
+Fri Aug 8 07:59:41 CST 2025
+Fri Aug 8 08:01:55 CST 2025
+Fri Aug 8 08:02:59 CST 2025
+删除mizuki_aikawa_ii https://edge1-lax.live.mmcdn.com/live-hls/amlst:mizuki_aikawa_ii-sd-5743117a521be438241e15d002781c441fd7abd2f6920381319ffe33268f3554_trns_h264/playlist.m3u8
