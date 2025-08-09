@@ -298,3 +298,11 @@ Sat Aug 9 15:44:32 CST 2025
 Sat Aug 9 15:45:35 CST 2025
 添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMkMzMDA3OC02QjY1LTQ1NzktOTdFOC1BNkM2MEUzQUY4NjEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDY5MjAxOCwiZXhwIjoxNzU0NjkyNjE4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.F1VgPupmTPl7RsEaU_XpLowXzRqs-Y8_DRWxAN954Rup59CE5Eq1HAz7_C67MFG9Mo_In6Kz3zgmQHocz0Zztq340Rra-JOQd4q9ErmIoAc2kPPSGuQ4J94CtwsJjrfc
+添加your_desssert https://edge28-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-d2346bad8ea635abaa1cbc294f87498ae0536b579b4b4a0678d42b676b1b3a99_trns_h264/playlist.m3u8
+Sat Aug 9 15:53:51 CST 2025
+Sat Aug 9 15:54:00 CST 2025
+Sat Aug 9 15:56:10 CST 2025
+Sat Aug 9 15:57:11 CST 2025
+添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+添加wumeinv https://edge-hls.doppiocdn.live/hls/141694125/master/141694125_auto.m3u8
+删除lovewindy https://edge2-phx.live.mmcdn.com/live-hls/amlst:lovewindy-sd-dde7d1999e0ed7c1e76e717ad8aefd04bc1abd991d005326b7e600b60a939a07_trns_h264/playlist.m3u8
