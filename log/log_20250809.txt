@@ -456,3 +456,9 @@ Sat Aug 9 21:49:32 CST 2025
 删除your_desssert https://edge12-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-8630ff2287532ef9b3058dd4402a864cbce91abc783eda2ab8edd6e91b0eee67_trns_h264/playlist.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Sat Aug 9 21:58:53 CST 2025
+Sat Aug 9 22:00:03 CST 2025
+Sat Aug 9 22:02:09 CST 2025
+Sat Aug 9 22:03:08 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
