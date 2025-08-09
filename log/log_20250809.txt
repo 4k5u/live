@@ -445,3 +445,14 @@ Sat Aug 9 21:26:17 CST 2025
 添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
+Sat Aug 9 21:45:06 CST 2025
+添加imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9D0FYHOlXRPU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlEMEZZSE9sWFJQVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2Q0UwQTdDOC00MERDLTQ3NTgtQUJFOC04OUY5ODFERUE1M0IiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDc0NzEzNywiZXhwIjoxNzU0NzQ3NzM3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cTPj8kn7m5SSMbcu0a8XXO8UxgVM3Yvt-B2YDJmVhpJXRxUFgcH4kaeBTJFk190WHcco01AoFJea6sUEXaky9NqA-E4KbvLfKSacRPyqdtru8-_Fx-peYvgTh9S5hiXX
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.MccvHaJWBvso.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL01jY3ZIYUpXQnZzbyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBM0QzOUQ3My04MDJDLTRDNTAtODc5Qi1BQTQwOUMwN0JDNUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDc0NzE2MiwiZXhwIjoxNzU0NzQ3NzYyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.v6b_RV2W0a2Lv-U4VmH-UYBJFpyzlnnfNbTFq82Ee1-87zZCykiYjcrnbeqDLxGip_Bne5MdV2WAmDAsMe66Abl0e5l_BveQ4wQZa_1LMDZ0qJx6wNy4icW-G534b3_M
+Sat Aug 9 21:46:16 CST 2025
+添加purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sat Aug 9 21:48:31 CST 2025
+Sat Aug 9 21:49:32 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除your_desssert https://edge12-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-8630ff2287532ef9b3058dd4402a864cbce91abc783eda2ab8edd6e91b0eee67_trns_h264/playlist.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
