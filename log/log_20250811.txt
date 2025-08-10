@@ -73,3 +73,28 @@ Mon Aug 11 02:59:23 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除lovewindy https://edge27-phx.live.mmcdn.com/live-hls/amlst:lovewindy-sd-88b24911e864ab7724d96b78a33c604f88258a3ddb64fd5f5e24dba992d1f643_trns_h264/playlist.m3u8
+添加hee_jeen https://edge26-atl.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-09c2b5ad8d3c2081ddfa9bd836b6cd921507e79821ee05ef46f2017ce9ca0328_trns_h264/playlist.m3u8
+Mon Aug 11 03:19:50 CST 2025
+Mon Aug 11 03:19:55 CST 2025
+Mon Aug 11 03:22:12 CST 2025
+Mon Aug 11 03:23:16 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3QjhFOTNGRi03MTI4LTQ0MTctOTZDRC02ODBFNTlENDFCOEUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDgyOTk4MywiZXhwIjoxNzU0ODMwNTgzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.T5BgwFQCGYGkMckybNMMJXY4tSP3ssRz92VXE6jRUxehe5vxAAuQQxgYubL0GIL4LHF5AEe9Vt9Romc8namhbtkABg-nzi6nmLiSH4ra57hmv7dyzZK_aO0Xj3e9Qy86
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除sexygamesx https://edge21-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-2ac78f74da0e34aea757bb3938e8fb0ff5856ac233e5729839484cc596b2a708_trns_h264/playlist.m3u8
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
