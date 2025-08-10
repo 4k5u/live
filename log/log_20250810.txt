@@ -370,3 +370,12 @@ Sun Aug 10 19:28:26 CST 2025
 Sun Aug 10 19:29:30 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除taitehambelton https://edge8-sea.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-39b76dd45c2db7af82c2b4c8178b67c85f92209fa882fc8d9ad5875753c8555e_trns_h264/playlist.m3u8
+Sun Aug 10 19:41:58 CST 2025
+Sun Aug 10 19:42:29 CST 2025
+Sun Aug 10 19:44:32 CST 2025
+Sun Aug 10 19:45:26 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除ad0res https://edge10-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-d0da533b68043fdc46a7c5cb17b5a8f4a8d6621f5fdba47fc73a792d75b3a820_trns_h264/playlist.m3u8
