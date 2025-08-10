@@ -18,7 +18,6 @@ jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 sexygamesx https://edge21-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-2ac78f74da0e34aea757bb3938e8fb0ff5856ac233e5729839484cc596b2a708_trns_h264/playlist.m3u8
-lovewindy https://edge27-phx.live.mmcdn.com/live-hls/amlst:lovewindy-sd-88b24911e864ab7724d96b78a33c604f88258a3ddb64fd5f5e24dba992d1f643_trns_h264/playlist.m3u8
 syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 bella-175 https://edge-hls.doppiocdn.live/hls/151686228/master/151686228_auto.m3u8
@@ -26,3 +25,5 @@ l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8

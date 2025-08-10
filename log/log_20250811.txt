@@ -66,3 +66,10 @@ Mon Aug 11 02:42:43 CST 2025
 删除chuing77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.V4JIuWkmLNIm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Y0Skl1V2ttTE5JbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyRjc5NzFEMi04NzA3LTRCMEItOTUwNi0wNEJDODU2OTYyQkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDgyOTk5NCwiZXhwIjoxNzU0ODMwNTk0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.WBvRHvhkX9JUBvGHwJQDOGEfGliYtVNM6nDAUJKyuFb3AQXc13tGWQV-Q0WHSqftLsWe3Ll3fhoD_K8dQnE_nOCaBTpN61MhA-bTgoQhLxfTbqZylopcMNQ2NmeA3LuG
 删除hee_jeen https://edge4-lax.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-09c2b5ad8d3c2081ddfa9bd836b6cd921507e79821ee05ef46f2017ce9ca0328_trns_h264/playlist.m3u8
 删除1004ysus ?aid=null
+Mon Aug 11 02:56:05 CST 2025
+Mon Aug 11 02:56:12 CST 2025
+Mon Aug 11 02:58:22 CST 2025
+Mon Aug 11 02:59:23 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除lovewindy https://edge27-phx.live.mmcdn.com/live-hls/amlst:lovewindy-sd-88b24911e864ab7724d96b78a33c604f88258a3ddb64fd5f5e24dba992d1f643_trns_h264/playlist.m3u8
