@@ -318,3 +318,12 @@ Mon Aug 11 18:56:09 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+Mon Aug 11 19:12:23 CST 2025
+添加imissy0u https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FHsIxEwqiitH.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZIc0l4RXdxaWl0SCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MEVDMDI3QS1FN0QyLTQ5NEYtQTYxMi02MkIwNTVGMkFCODMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDkxMDc1MiwiZXhwIjoxNzU0OTExMzUyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cDV0ZgqsU4GSQs9K8ahczdRy6Zc14JxOLO8vz4ox4_48nmD-H6xuOwKqHkh30PsfgwBNATZoh34KkTb7tA4CBaUxvrcOYyBNHjVmstQIXyz-NdFkpGdpN_J2iofme0X0
+Mon Aug 11 19:12:46 CST 2025
+Mon Aug 11 19:15:02 CST 2025
+添加sumin2005 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.197bGtZC9JUk.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC8xOTdiR3RaQzlKVWsiLCJleHAiOjE3NTQ5NTMyOTA1OTAsImlhdCI6MTc1NDkxMDA5MH0.YUyLz_ZNst2IdhIw_0996Ejm92Mx46vk1LHSbUvtmFIkm4Urgc8DubFqyhboz8UQ29gfajIofuaJ_b4XQQJEemabj2k41-zdXv30hlA-jY0lMl-VOomaoBq76yFKjJvy
+Mon Aug 11 19:16:07 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
