@@ -99,3 +99,9 @@ Tue Aug 12 03:58:10 CST 2025
 Tue Aug 12 03:58:23 CST 2025
 Tue Aug 12 04:00:34 CST 2025
 Tue Aug 12 04:01:35 CST 2025
+添加mode_bad https://edge8-sea.live.mmcdn.com/live-hls/amlst:mode_bad-sd-169091ccf97b362c983e29cad0274cfcd8679aa91321d6cb19b49afa8bb53816_trns_h264/playlist.m3u8
+Tue Aug 12 04:28:13 CST 2025
+Tue Aug 12 04:28:24 CST 2025
+Tue Aug 12 04:30:25 CST 2025
+Tue Aug 12 04:31:20 CST 2025
+删除moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.C8nlywtNTOfz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0M4bmx5d3ROVE9meiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MTZFQTA4RS0yMjU1LTQzN0ItQjU2NS0xMTJFOUU1MTk3N0IiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDkyMDM1NiwiZXhwIjoxNzU0OTIwOTU2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Y29_tPaoBZ5SIcb4KRxY0Uq1UPDoJsLxuurSwFCOXGhtGay8l2aezXFHsNRuf3WraP9tBIpPbQVuZ1fZKk-N_DUDxOKLpEZBYEur46x6LCByMVrhQV1Q39s1nckrZQBf
