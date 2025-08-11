@@ -1,0 +1,4 @@
+删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+删除rosyemily https://edge7-lax.live.mmcdn.com/live-hls/amlst:rosyemily-sd-15f572eca40dff4d66a2a61fcb9f05195a61b300027b41666cef65535646a222_trns_h264/playlist.m3u8
+删除1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
+删除lovewindy https://edge29-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-f6d552ab01445287c542a66a62b83d0bd0ecb1ef77cdeb93f6ed87f51e88ce0d_trns_h264/playlist.m3u8
