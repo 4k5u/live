@@ -107,3 +107,9 @@ Wed Aug 13 03:44:43 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Wed Aug 13 03:52:34 CST 2025
+Wed Aug 13 03:52:51 CST 2025
+Wed Aug 13 03:55:09 CST 2025
+Wed Aug 13 03:56:15 CST 2025
+删除hee_jeen https://edge29-atl.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-f09d96c8b2aa568928e67000e91e59ba3c74df04a2a9e4d53180bc6958bf6da7_trns_h264/playlist.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
