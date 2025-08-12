@@ -157,3 +157,8 @@ Tue Aug 12 07:43:23 CST 2025
 Tue Aug 12 07:45:36 CST 2025
 Tue Aug 12 07:46:40 CST 2025
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+Tue Aug 12 07:59:01 CST 2025
+Tue Aug 12 07:59:10 CST 2025
+Tue Aug 12 08:01:11 CST 2025
+Tue Aug 12 08:02:06 CST 2025
+删除mode_bad https://edge8-sea.live.mmcdn.com/live-hls/amlst:mode_bad-sd-169091ccf97b362c983e29cad0274cfcd8679aa91321d6cb19b49afa8bb53816_trns_h264/playlist.m3u8
