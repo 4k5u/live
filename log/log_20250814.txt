@@ -1,0 +1,9 @@
+Thu Aug 14 00:00:31 CST 2025
+Thu Aug 14 00:01:19 CST 2025
+Thu Aug 14 00:03:20 CST 2025
+Thu Aug 14 00:04:15 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+删除hidana https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.s1byvE3HOfIA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3MxYnl2RTNIT2ZJQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNEMwQzEyNi02MDNCLTQxNjktOUY5NC03NDk4MzcxOTYwQTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTA4NjUzMCwiZXhwIjoxNzU1MDg3MTMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.UcippG6stSrIQW280-CO7p6r9-oT09CsSm1LKA-FpAbMA0BMsab3DMxzy8Mia8qfpwsMyELSFCfdgR10hcTY5Uh_JN2FcutLXWhO8Y6IxJtUPhpy24YYVJ_2aJyfZQC0
+删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
