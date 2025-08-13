@@ -134,3 +134,8 @@ Thu Aug 14 05:28:39 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Thu Aug 14 05:42:46 CST 2025
+Thu Aug 14 05:42:53 CST 2025
+Thu Aug 14 05:45:09 CST 2025
+Thu Aug 14 05:46:13 CST 2025
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
