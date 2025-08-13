@@ -214,3 +214,11 @@ Wed Aug 13 15:46:30 CST 2025
 Wed Aug 13 15:48:44 CST 2025
 Wed Aug 13 15:49:47 CST 2025
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加foxylovesyou https://edge3-phx.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-37a67517febd8cde14448c917a0c6bde75504ea8493312e0c92ff86f9c99b168_trns_h264/playlist.m3u8
+Wed Aug 13 15:58:19 CST 2025
+Wed Aug 13 15:58:30 CST 2025
+Wed Aug 13 16:00:43 CST 2025
+Wed Aug 13 16:01:46 CST 2025
+添加Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除lovewindy https://edge29-atl.live.mmcdn.com/live-hls/amlst:lovewindy-sd-749b99d5938e5388848552f48e992b08147dadf1845a592f6fd879560c0fbbde_trns_h264/playlist.m3u8
