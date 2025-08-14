@@ -135,3 +135,8 @@ Fri Aug 15 05:46:22 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Fri Aug 15 05:58:04 CST 2025
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.C8nlywtNTOfz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0M4bmx5d3ROVE9meiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENzgxOTEwRC1CQ0I2LTQ1MTQtOTlDQi1CNjIzOERFMTYzOTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTIwODY4NywiZXhwIjoxNzU1MjA5Mjg3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cEGbjRJBX9tow2fyqIi-dMXmiCXIm3WtLs_fG-iIhFyMtx13tnbfzn8R1Tw0__A2a5CXPqiRsKozMQ17Bkdfv-KasRwIIC12MPjMTY8FHDrJU4ryAUZ9RHgDYh4nSV_V
+Fri Aug 15 05:58:12 CST 2025
+Fri Aug 15 06:00:30 CST 2025
+Fri Aug 15 06:01:34 CST 2025
