@@ -220,3 +220,9 @@ Thu Aug 14 13:34:08 CST 2025
 Thu Aug 14 13:36:23 CST 2025
 Thu Aug 14 13:37:27 CST 2025
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Thu Aug 14 13:52:55 CST 2025
+Thu Aug 14 13:53:08 CST 2025
+Thu Aug 14 13:55:23 CST 2025
+Thu Aug 14 13:56:27 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
