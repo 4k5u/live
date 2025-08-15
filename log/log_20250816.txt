@@ -92,3 +92,11 @@ Sat Aug 16 03:02:42 CST 2025
 Sat Aug 16 03:04:56 CST 2025
 Sat Aug 16 03:06:00 CST 2025
 删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.4Y6nQX_SnTOcMxL9Dkm10xoPAQ0yXvDv5VG6AAKfbQH_gnV4T180nFZZX43LIO3sqt7TtC23VRApAWVyUR-VF2ltM419nOoF_WRs_6DPwcs7dLr3qbRaunq5E-4BIAVfhPVmSorijb5PSplM9ax24qxNI-B1IN0U14NzwaUi8xD_8Ha5O2BpNFES6mFa7CYn
+添加lovewindy https://edge11-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-b0711fe024fba4511dd75caf99b5c4912ac1237f8e4d73320fc8b506ab2e18ab_trns_h264/playlist.m3u8
+Sat Aug 16 03:24:34 CST 2025
+Sat Aug 16 03:24:49 CST 2025
+Sat Aug 16 03:26:50 CST 2025
+Sat Aug 16 03:27:45 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBQjQ0Q0ExOC0wOEM1LTQzODMtOEY3MS1CM0NFQUMyQzMyRUYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTI2NTc5NywiZXhwIjoxNzU1MjY2Mzk3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qZdc4qq4WXWKLoMq57DiK8QPbAlMv_gL4Qvn2fT1btFNMRYToyDzzo_0gcgSmVZEYs0W6G4hUVA0V73U_5g1_O0nvTHkU9nzenI_s__88eRca2oDTG8W7Cr2XaWwkgyE
+删除hee_jeen https://edge8-chi.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-69185ef64982979e4e260f43720fe996a4bebcc297955eba76e40fb8660b012b_trns_h264/playlist.m3u8
