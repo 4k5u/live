@@ -252,3 +252,8 @@ Fri Aug 15 15:45:11 CST 2025
 Fri Aug 15 15:46:14 CST 2025
 添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加your_desssert https://edge5-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-354518499fef549d0e4f32b5cf20aa0dd9e4d63e38fbf72325b7ac5ae53288b9_trns_h264/playlist.m3u8
+Fri Aug 15 15:58:16 CST 2025
+Fri Aug 15 15:58:27 CST 2025
+Fri Aug 15 16:00:37 CST 2025
+Fri Aug 15 16:01:38 CST 2025
