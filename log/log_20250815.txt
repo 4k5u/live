@@ -198,3 +198,9 @@ Fri Aug 15 12:11:05 CST 2025
 Fri Aug 15 12:12:00 CST 2025
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+添加iminako https://edge27-atl.live.mmcdn.com/live-hls/amlst:iminako-sd-fe61f8f14b69fb6c59a2417e61a9c394f0ab05148f84bc24c3de69b5c724148c_trns_h264/playlist.m3u8
+Fri Aug 15 12:44:25 CST 2025
+Fri Aug 15 12:44:30 CST 2025
+Fri Aug 15 12:46:50 CST 2025
+Fri Aug 15 12:47:56 CST 2025
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
