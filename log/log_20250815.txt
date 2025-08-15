@@ -257,3 +257,10 @@ Fri Aug 15 15:58:16 CST 2025
 Fri Aug 15 15:58:27 CST 2025
 Fri Aug 15 16:00:37 CST 2025
 Fri Aug 15 16:01:38 CST 2025
+Fri Aug 15 16:35:56 CST 2025
+Fri Aug 15 16:36:07 CST 2025
+Fri Aug 15 16:38:20 CST 2025
+Fri Aug 15 16:39:24 CST 2025
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
