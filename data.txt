@@ -14,4 +14,4 @@ alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
-hee_jeen https://edge8-chi.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-69185ef64982979e4e260f43720fe996a4bebcc297955eba76e40fb8660b012b_trns_h264/playlist.m3u8
+lovewindy https://edge2-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-eb1e49eee9d4c09bff4a95739652461c9dc315472ef234df2d4caf7ebf00f3c7_trns_h264/playlist.m3u8
