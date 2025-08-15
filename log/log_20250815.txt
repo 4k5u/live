@@ -233,3 +233,9 @@ Fri Aug 15 14:39:24 CST 2025
 Fri Aug 15 14:40:28 CST 2025
 删除ioibibi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.66exLzO8T9sb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzY2ZXhMek84VDlzYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNzVCM0NFRS0zQjc2LTQxMUQtQTg4Qi02NDE0OEM2QjFGOEYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTIyODk4MywiZXhwIjoxNzU1MjI5NTgzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.SPxy-52rf__ehmg1HKZO1BSPzxZNcfU3h0MWTstImA-qgEuk0TQLpUEpriUMOMXPT9ZDBGvUWP9NSadLUpf2RA5GeIYbqyPCGlDEbdS6Kx9HkKCThsFE3XefWPuqwGef
 删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+Fri Aug 15 14:59:46 CST 2025
+Fri Aug 15 14:59:55 CST 2025
+Fri Aug 15 15:02:10 CST 2025
+Fri Aug 15 15:03:14 CST 2025
+添加Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
