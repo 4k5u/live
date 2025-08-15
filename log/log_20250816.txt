@@ -74,3 +74,16 @@ Sat Aug 16 02:30:56 CST 2025
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=null
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Sat Aug 16 02:49:21 CST 2025
+Sat Aug 16 02:49:38 CST 2025
+Sat Aug 16 02:51:56 CST 2025
+Sat Aug 16 02:53:01 CST 2025
+删除rosyemily https://edge15-aus.live.mmcdn.com/live-hls/amlst:rosyemily-sd-c930f477ee2c3245928e653998358aeb694b85b14e96b6cefa8eb6c31f2844af_trns_h264/playlist.m3u8
+删除lovewindy https://edge2-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-4e93c2685d9b12e8f5845c7c75bd34280bd63f48a59615fa2b15451810d452b4_trns_h264/playlist.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除mayonz https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qhLEZxB5WQ9A.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FoTEVaeEI1V1E5QSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNzcyMTVFMi0zRkYyLTQzN0UtODJDMi02REUyQTE2MDY0OTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTI3ODY1NSwiZXhwIjoxNzU1Mjc5MjU1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.9hI3AdwkOLsiqCUmJ0o6Vad_NFjA5GzFoYHhEsSl_uiwxVmkRhzH7nu0DCwuDrmETsxzEVLakBKAWq-XOaQz0Davcq3a8nhj7VaVjX7UmY-XykoA2flAFkUXjuh8wazo
