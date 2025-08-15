@@ -130,3 +130,7 @@ Sat Aug 16 04:42:10 CST 2025
 删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除lovewindy https://edge2-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-eb1e49eee9d4c09bff4a95739652461c9dc315472ef234df2d4caf7ebf00f3c7_trns_h264/playlist.m3u8
+Sat Aug 16 04:53:25 CST 2025
+Sat Aug 16 04:53:32 CST 2025
+Sat Aug 16 04:55:51 CST 2025
+Sat Aug 16 04:56:56 CST 2025
