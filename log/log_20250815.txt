@@ -308,3 +308,9 @@ Fri Aug 15 18:32:32 CST 2025
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除honey_pinkgreen https://edge22-atl.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-4186c0ec59f239b63d49823d3ec6c0cebfd58e12d394dcab1dd84832d173328f_trns_h264/playlist.m3u8
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+添加honey_pinkgreen https://edge6-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-cc8bd4ecb6273688f121fa586a725b3304eb9a04a4bc04dd78351516a90226eb_trns_h264/playlist.m3u8
+Fri Aug 15 18:48:53 CST 2025
+Fri Aug 15 18:49:02 CST 2025
+Fri Aug 15 18:51:16 CST 2025
+Fri Aug 15 18:52:21 CST 2025
+删除tjfflddl7 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1WilnqP2iXF5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFXaWxucVAyaVhGNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyM0E4N0NFRS1FRTc3LTQ1NzItOTk4Ri00RjVGMzlEQjI5QzEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTIzNDE0NCwiZXhwIjoxNzU1MjM0NzQ0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.i8JE-iOSQ5n9CBe0ASIpdetJstIG5XeGSdmuAa_loGexBu-zuqSdIpAshjPMqE7iW59AXk63inDrIWArPwutF3wKHCz7LGVhlAXbPleYnEy8cu3OI-qMeX39UQdEW9Em
