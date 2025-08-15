@@ -5,6 +5,7 @@ tjfflddl7 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 foxylovesyou https://edge8-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b5e78993205d0238deb99e9a7ff87f4bee5d9f565931b7a89440279d80406a11_trns_h264/playlist.m3u8
 4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wSEa8P41wwPb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dTRWE4UDQxd3dQYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RjgxRTcxOC1FOEM5LTQxQUItOEY2Ny02MDMxQjI3ODc0NTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTI0Mjg3NywiZXhwIjoxNzU1MjQzNDc3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.tYj7wD8Ji5wDcD0yJ4rJ0qpEuuxjjZsT-MtmJEHy_oK9j9icBbegMCyuZFby_GgN_YNHQe2aN2Kp1RvEBQ8MTZ3HRFxmPXB-CUBg6ut1gxGWuJZ6RdO2KxgY7bifNQcG
-Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 your_desssert https://edge5-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-354518499fef549d0e4f32b5cf20aa0dd9e4d63e38fbf72325b7ac5ae53288b9_trns_h264/playlist.m3u8
+honey_pinkgreen https://edge22-atl.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-4186c0ec59f239b63d49823d3ec6c0cebfd58e12d394dcab1dd84832d173328f_trns_h264/playlist.m3u8
+Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
