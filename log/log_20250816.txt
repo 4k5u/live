@@ -178,3 +178,8 @@ Sat Aug 16 07:43:16 CST 2025
 Sat Aug 16 07:45:29 CST 2025
 Sat Aug 16 07:46:30 CST 2025
 删除mode_bad https://edge4-sea.live.mmcdn.com/live-hls/amlst:mode_bad-sd-7c1f1c3c4b11f6c6a4e095c7fad145fa2d72c4f32e995613191be20f44c7bf43_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge22-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-267e7812f9a9db8f80f120e3514656028d92f13bf0f92d76e8d0cf592f468132_trns_h264/playlist.m3u8
+Sat Aug 16 07:58:08 CST 2025
+Sat Aug 16 07:58:17 CST 2025
+Sat Aug 16 08:00:32 CST 2025
+Sat Aug 16 08:01:36 CST 2025
