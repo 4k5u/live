@@ -128,3 +128,8 @@ Sun Aug 17 05:01:08 CST 2025
 Sun Aug 17 05:03:24 CST 2025
 Sun Aug 17 05:04:29 CST 2025
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Sun Aug 17 05:26:01 CST 2025
+Sun Aug 17 05:26:08 CST 2025
+Sun Aug 17 05:28:22 CST 2025
+Sun Aug 17 05:29:23 CST 2025
+删除lovewindy https://edge4-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-1c27c8ea4d89090641fe041fb29279d190d3d9eb47834f463294416a4338f13a_trns_h264/playlist.m3u8
