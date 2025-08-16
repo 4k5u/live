@@ -43,3 +43,6 @@ big541 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playl
 jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+lovewindy https://edge4-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-55eefe8b3e4bdb437b07b04646d3cfd4c9535c2b371cd013c2e4cbfe481d1e56_trns_h264/playlist.m3u8
+embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
