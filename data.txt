@@ -9,3 +9,4 @@ sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3
 Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 lovewindy https://edge4-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-1c27c8ea4d89090641fe041fb29279d190d3d9eb47834f463294416a4338f13a_trns_h264/playlist.m3u8
+morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
