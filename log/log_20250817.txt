@@ -351,3 +351,11 @@ Sun Aug 17 19:01:25 CST 2025
 Sun Aug 17 19:02:26 CST 2025
 添加tw_Sutew https://edge-hls.doppiocdn.live/hls/104933496/master/104933496_auto.m3u8
 删除ad0res https://edge26-atl.live.mmcdn.com/live-hls/amlst:ad0res-sd-0f227844aade407db3a2c74bac8da5ee4db0cb522ded2ad5c3b6ca7a7f1faca6_trns_h264/playlist.m3u8
+添加ad0res https://edge11-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-0f227844aade407db3a2c74bac8da5ee4db0cb522ded2ad5c3b6ca7a7f1faca6_trns_h264/playlist.m3u8
+Sun Aug 17 19:21:41 CST 2025
+添加csp1208 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1d4HVInO0aqM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFkNEhWSW5PMGFxTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwRTdFNjA4NC1EQzVDLTQxRTUtQjE5QS1BNjRFRTgzMDgzMjgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTQyOTcwNiwiZXhwIjoxNzU1NDMwMzA2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.vurbc2qB9XapnRvQfacxSPTBGC3CfIvJDHlznUEv3NPcLrA5EbxOThmz2EObyXrBmwN7cI4fhkMpyALmCH6Of0oP11q3DrWcCJDzM1j5yvosxER45TP_a_owhwtcr6a2
+Sun Aug 17 19:22:06 CST 2025
+Sun Aug 17 19:24:22 CST 2025
+Sun Aug 17 19:25:24 CST 2025
+删除honey_pinkgreen https://edge4-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-9ba8c3f9829e0bb347d799e559d1e8da55b1e72e9cc0c2779c4008ce640baa08_trns_h264/playlist.m3u8
+删除your_desssert https://edge15-ash.live.mmcdn.com/live-hls/amlst:your_desssert-sd-5488f5202fcda8577f7176e38faae7cab59693f52e463aec2d541c0f36733ad5_trns_h264/playlist.m3u8
