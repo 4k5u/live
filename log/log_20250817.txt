@@ -295,3 +295,12 @@ Sun Aug 17 16:51:16 CST 2025
 Sun Aug 17 16:53:31 CST 2025
 Sun Aug 17 16:54:32 CST 2025
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+Sun Aug 17 17:02:02 CST 2025
+Sun Aug 17 17:02:11 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Sun Aug 17 17:04:32 CST 2025
+Sun Aug 17 17:05:36 CST 2025
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除your_desssert https://edge4-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-761e7e46181cbcedcaa63eaf7bfff2d26f28431ab095551b85e4ae0825144581_trns_h264/playlist.m3u8
