@@ -424,3 +424,9 @@ Sun Aug 17 21:49:08 CST 2025
 Sun Aug 17 21:51:40 CST 2025
 Sun Aug 17 21:52:44 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Sun Aug 17 21:59:12 CST 2025
+添加zxc1002011 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mF3jjJ3wmvIt.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GM2pqSjN3bXZJdCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQUVENUQ4QS04NEY5LTQ3NzUtQUUyQi1GMzNGRTFEQ0JDMjciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTQzOTE4OSwiZXhwIjoxNzU1NDM5Nzg5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ME2EcYVRnM-Frh8Ku65b-ShkO--RXr_HyozGIirr4dzAQ0BW3HU1DkAn5-ItL85dKQnOLxiJwA0pPnBU07wgoh9ywEWtiBMyYgZ0smnWANyKq3TO9zIHjNmtokMrz9c4
+Sun Aug 17 21:59:55 CST 2025
+Sun Aug 17 22:02:05 CST 2025
+Sun Aug 17 22:03:05 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
