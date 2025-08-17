@@ -208,3 +208,9 @@ Sun Aug 17 11:45:29 CST 2025
 删除sexygamesx https://edge26-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-df2d4800669eac09a81669d1d75464a408df35e57de93915448c7105c0407a49_trns_h264/playlist.m3u8
 删除mazzanti_ https://edge4-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-793c9c2fda4b64957754de2c037e3d559a258065d15fc6c586eb327010755f05_trns_h264/playlist.m3u8
 删除ioibibi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.66exLzO8T9sb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzY2ZXhMek84VDlzYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwQjkzQUNGOC1GRThCLTREMEUtQjUyMi05N0VDRjA4Qjc1QkYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTM5NjgyNCwiZXhwIjoxNzU1Mzk3NDI0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.1YzK9ZIcdBBnbPwbFT9nxTiKxVtPxxQjKn0iH5EAn8E9CmzxiOM-y_HMAwaOcuPCRx6bxOTKlfV7Vg0grTkmJc3YK6vpOCtJbiQNJrsGKLhHXsYhbngF9dIWrqoNwexc
+Sun Aug 17 12:20:53 CST 2025
+Sun Aug 17 12:20:58 CST 2025
+Sun Aug 17 12:23:09 CST 2025
+Sun Aug 17 12:24:10 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
