@@ -289,3 +289,9 @@ Sun Aug 17 16:34:15 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除your_desssert https://edge4-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-3cd64df872b014dec142a4604b522bc4543cb1390e76fc581465b40ac4973556_trns_h264/playlist.m3u8
+添加your_desssert https://edge4-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-761e7e46181cbcedcaa63eaf7bfff2d26f28431ab095551b85e4ae0825144581_trns_h264/playlist.m3u8
+Sun Aug 17 16:51:07 CST 2025
+Sun Aug 17 16:51:16 CST 2025
+Sun Aug 17 16:53:31 CST 2025
+Sun Aug 17 16:54:32 CST 2025
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
