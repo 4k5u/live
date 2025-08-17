@@ -374,3 +374,10 @@ Sun Aug 17 19:51:45 CST 2025
 Sun Aug 17 19:52:47 CST 2025
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除ad0res https://edge11-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-0f227844aade407db3a2c74bac8da5ee4db0cb522ded2ad5c3b6ca7a7f1faca6_trns_h264/playlist.m3u8
+Sun Aug 17 19:59:55 CST 2025
+添加thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.IHzboXfOrBld.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0lIemJvWGZPckJsZCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MkRCQzQ3Qi1GRjMyLTQ5MkMtOUY5QS05ODFFNTQ4RkY0OEEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTQzMjAxNCwiZXhwIjoxNzU1NDMyNjE0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gtmTmvzcYLmpPw7K7kILFcvVQ86vbFeKo6VZv_ZrX3N3F177bw2U2XoCyP4Pr-baugKyOuJXk0QgiJMWUxOX1RkjGuT4lAOZkNhxzripDsmzjnQBtLgF3nT_JnbdFe6H
+Sun Aug 17 20:00:22 CST 2025
+添加purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.t--BAy3S51G1AsrORl-NK2bn02TuphruXoOwpGZCd_0BS-7aQ91xmfk31xbpEA9yCBQhuqwbkCI-97nnnaqmGR2T35fxLis1OI2t8pZv7GRPWAxycXOp1T0Ry4QSnFOjFH0Ox6hxOoyxWeJr2rtAUq9KDGq3rLHeH-JeW2ssolYhuCvaKYBhE9C7maqMGX5R
+Sun Aug 17 20:02:26 CST 2025
+Sun Aug 17 20:03:21 CST 2025
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
