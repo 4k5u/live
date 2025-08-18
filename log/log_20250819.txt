@@ -86,3 +86,8 @@ Tue Aug 19 03:41:49 CST 2025
 Tue Aug 19 03:44:02 CST 2025
 Tue Aug 19 03:45:04 CST 2025
 删除gkfnsus5573 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.4vTQkzhj8zas.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzR2VFFremhqOHphcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENjFCQTZBMy1BODZGLTQ3QTgtOTY3NC1DOUM4RDg5MDNFNzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTUyNDQ5NCwiZXhwIjoxNzU1NTI1MDk0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.c7QTroYA9RcIYn7EaWYoz15tZjuOEr30w9QkP1u7oKaHNSCUAYt6dt3nrQ5_Gb9L8-ykFSOdd1OwMRpQ0PVe_z-vk3ygW3JG_dcFIoLvgFTuFjvyl9rFjPdOAtI5SWZ3
+Tue Aug 19 03:53:06 CST 2025
+Tue Aug 19 03:53:13 CST 2025
+Tue Aug 19 03:55:33 CST 2025
+Tue Aug 19 03:56:40 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8

@@ -9,3 +9,4 @@ embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_aut
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 lovewindy https://edge13-atl.live.mmcdn.com/live-hls/amlst:lovewindy-sd-56e98271bdabbede098aa0d2a584ec165cc509bb9199b1619ab56f935be44994_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
