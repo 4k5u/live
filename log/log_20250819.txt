@@ -144,3 +144,10 @@ Tue Aug 19 07:01:42 CST 2025
 Tue Aug 19 07:03:59 CST 2025
 Tue Aug 19 07:05:05 CST 2025
 删除1004ysus ?aid=.A32.pxqRXFPZNcY9Qg1.7YCV8ICBl464-1VLUTo89S5yAZL-0NnEqO5p7OHcPy5FzAxrSt-HdD_hpZ2aa9kzFJYKibNCC-oXRpeas5MY5_TQl5Nr1aC9WkTRIUbaLFfrT10DobykDpqIg_X8vT6Wt4c6K27FIHlgEd7sjwmSfYsBgGiw9EyZEl4lyyCt7_TJM2fckD7w9iMP44CwuxBG
+Tue Aug 19 07:27:14 CST 2025
+添加yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMzg5RDdFRS04OTNFLTRENUQtODE3Ri00RENGRjY5QzNFMkEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTU1OTYzNSwiZXhwIjoxNzU1NTYwMjM1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9._Xebi4c91NIHY6gyOlr328M1fSgfq3U5wGRbxg8X8W9gFTuFbMxDRHbudt76l562q8rc0X_1np1Nn4Z0frq2nCJb0E2y7-6DV0HkMcfHmLJsLwXeMXahRhrGMtBbSKRa
+Tue Aug 19 07:27:21 CST 2025
+Tue Aug 19 07:29:36 CST 2025
+Tue Aug 19 07:30:42 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除mode_bad https://edge8-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-e83e981f23c24f803f6fbcb33a1143cb0a552ad187d18f33119d1c5f0d11325d_trns_h264/playlist.m3u8
