@@ -325,3 +325,8 @@ Mon Aug 18 19:31:55 CST 2025
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除Tmdgus5411 ?aid=null
+Mon Aug 18 19:44:03 CST 2025
+Mon Aug 18 19:44:18 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Mon Aug 18 19:46:40 CST 2025
+Mon Aug 18 19:47:47 CST 2025
