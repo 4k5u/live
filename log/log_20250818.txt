@@ -289,3 +289,9 @@ Mon Aug 18 17:40:09 CST 2025
 删除ake_mi https://edge1-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-4d22bc5165632572baf6fc2816026252c0390f15e678b8266d459aad6fb99061_trns_h264/playlist.m3u8
 删除taitehambelton https://edge28-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-d06dd27052be9ad395c4c2764fe329caabf1b1782317633a97d37e92e8d9b18f_trns_h264/playlist.m3u8
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+Mon Aug 18 17:53:35 CST 2025
+Mon Aug 18 17:53:44 CST 2025
+Mon Aug 18 17:56:02 CST 2025
+Mon Aug 18 17:57:06 CST 2025
+删除honey_pinkgreen https://edge2-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-91634ab2d47e8bc9240cb333626e590dfc50d6793f2799025c29d995a4acf1c9_trns_h264/playlist.m3u8
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
