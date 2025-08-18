@@ -195,3 +195,8 @@ Mon Aug 18 12:32:10 CST 2025
 添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+Mon Aug 18 13:00:35 CST 2025
+Mon Aug 18 13:00:44 CST 2025
+Mon Aug 18 13:03:06 CST 2025
+Mon Aug 18 13:04:14 CST 2025
+添加zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
