@@ -300,3 +300,10 @@ Mon Aug 18 18:29:06 CST 2025
 Mon Aug 18 18:31:24 CST 2025
 Mon Aug 18 18:32:29 CST 2025
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Mon Aug 18 18:50:49 CST 2025
+Mon Aug 18 18:50:58 CST 2025
+添加Tmdgus5411 ?aid=null
+Mon Aug 18 18:53:14 CST 2025
+Mon Aug 18 18:54:15 CST 2025
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=null
