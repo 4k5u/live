@@ -151,3 +151,7 @@ Tue Aug 19 07:29:36 CST 2025
 Tue Aug 19 07:30:42 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除mode_bad https://edge8-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-e83e981f23c24f803f6fbcb33a1143cb0a552ad187d18f33119d1c5f0d11325d_trns_h264/playlist.m3u8
+Tue Aug 19 07:42:05 CST 2025
+Tue Aug 19 07:42:10 CST 2025
+Tue Aug 19 07:44:26 CST 2025
+Tue Aug 19 07:45:33 CST 2025
