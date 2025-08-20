@@ -223,3 +223,9 @@ Wed Aug 20 12:54:03 CST 2025
 Wed Aug 20 12:56:13 CST 2025
 Wed Aug 20 12:57:14 CST 2025
 删除taitehambelton https://edge13-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-9e0710ccc02f5cd9385025c5b6b6e8ecab3d21025683aa0ce2c93dcc079974aa_trns_h264/playlist.m3u8
+Wed Aug 20 13:23:11 CST 2025
+Wed Aug 20 13:23:16 CST 2025
+Wed Aug 20 13:25:26 CST 2025
+Wed Aug 20 13:26:33 CST 2025
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
