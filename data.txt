@@ -6,7 +6,8 @@ dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_pl
 _meganmeow_ https://edge14-phx.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-3c59ec3499207e1b613e50fb99799f16f107e7a5f3af87e01f5113f1430c2ded_trns_h264/playlist.m3u8
 mizuki_aikawa_ii https://edge4-sea.live.mmcdn.com/live-hls/amlst:mizuki_aikawa_ii-sd-e12530924418a644f0cd5e7ec74138e161a130cf4dd627dcbb401763345ecc53_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
-sexygamesx https://edge4-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-a592a1d5ebb4846538e00168f40666e8e788ea2dcb866ebb92f5a294ed5af1a2_trns_h264/playlist.m3u8
 yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwRjQyNjM3My05NzBFLTQzMTUtQjc5Ni00MkQzMEY0QkFDMkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTczMjM5NywiZXhwIjoxNzU1NzMyOTk3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Qfxkz54b_Ioh7_siEQOG3vKfeC5nxQ14P2uvsX_EtDK9806o1rXlgDUW7mg4pBK2IJb08L2rtZ4yuXyYQBIZcWUcBYi1VIHHN2jN5HXIf_uRWVqD4HyR00ggV7gr4btT
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+honey_pinkgreen https://edge20-atl.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-2c0f11335bf3b0a38e079aac4013f63cba390b2db219a06533fa528154b84fcf_trns_h264/playlist.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
