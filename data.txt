@@ -10,3 +10,4 @@ sksnrnrp11 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 _meganmeow_ https://edge14-phx.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-3c59ec3499207e1b613e50fb99799f16f107e7a5f3af87e01f5113f1430c2ded_trns_h264/playlist.m3u8
 gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+honey_pinkgreen https://edge21-atl.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-ee19a223201e00e49d460e9d80f0f8a68f27b1c33cba8ea0f96c0556e7512878_trns_h264/playlist.m3u8
