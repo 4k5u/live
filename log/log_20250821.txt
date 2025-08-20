@@ -140,3 +140,9 @@ Thu Aug 21 05:27:04 CST 2025
 Thu Aug 21 05:27:16 CST 2025
 Thu Aug 21 05:29:35 CST 2025
 Thu Aug 21 05:30:41 CST 2025
+添加mizuki_aikawa_ii https://edge4-sea.live.mmcdn.com/live-hls/amlst:mizuki_aikawa_ii-sd-e12530924418a644f0cd5e7ec74138e161a130cf4dd627dcbb401763345ecc53_trns_h264/playlist.m3u8
+Thu Aug 21 05:53:26 CST 2025
+Thu Aug 21 05:53:37 CST 2025
+Thu Aug 21 05:55:49 CST 2025
+Thu Aug 21 05:56:49 CST 2025
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
