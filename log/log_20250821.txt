@@ -427,3 +427,11 @@ Thu Aug 21 21:46:13 CST 2025
 添加regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
 删除alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+添加lovewindy https://edge1-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-bf76c2e852c0bbba7a653d1cf1326662a8ff920bedcbc7973307875188da9def_trns_h264/playlist.m3u8
+Thu Aug 21 21:55:43 CST 2025
+添加saone451 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2OUFGRkMzMS0zMzUxLTQyMkQtQjRCMy0yMDNBMzVFNDg4QkIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTc4NDYwMCwiZXhwIjoxNzU1Nzg1MjAwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.7Cbb2ypi9UpIyeGOeG5_f9b1Pq01wagEMBbWsjlY1Wv7uhU8TPvToC0Z5dkpBSMMYb_Vc6Gak3ru3XFtriPlHHnrZ-ONOEIpF8WNuAbRYKDM9dPqG_P7-PsbbEUUPCos
+Thu Aug 21 21:56:54 CST 2025
+添加1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.4AP6jRlHsoICApFnUjTUj1AQrVO8enxxeFRLOvbpbG9H4JGeqtC5H0kRUodFnVkwrqTb8GxMM1mRvKhh-rEa391nKSmzrcmCp9TAa7VSppBaKEtGClFOiH9yXUbL7CB-XyEIA_yi8wcvC2To09-R2Fjt0_Wr064DFtBMRCxk38K3eZOZ1igPAWKeoLFZfMJi
+Thu Aug 21 21:59:12 CST 2025
+Thu Aug 21 22:00:16 CST 2025
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
