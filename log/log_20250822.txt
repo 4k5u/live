@@ -314,3 +314,12 @@ Fri Aug 22 17:58:41 CST 2025
 Fri Aug 22 18:00:42 CST 2025
 Fri Aug 22 18:01:41 CST 2025
 添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Fri Aug 22 18:28:37 CST 2025
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5CF4w5XAvR8X.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVDRjR3NVhBdlI4WCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0QzU5MjQ5RC0xQzc2LTQ3NEItQTA0Qi1COEFDMkNEQUU5OUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTg1ODUyMCwiZXhwIjoxNzU1ODU5MTIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.nOZYbdB35qVIj6xfCMQfTu3MrZeiHvak8zplHeZIvPXP1xaMHcebXlvnZp0xa1hA-9skbUkxrGGA6dhVkxMBZ2MzVH_x11qQSUFjA0WhT6wmTzwcYl1lJh7qqIJFfAHt
+Fri Aug 22 18:28:53 CST 2025
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.BlwHXtdihDEKmeeuOeRxz78gcH2Vz37An1pjofTeNyplvM4fS8DXB6mZuHwDGl_uj4S7iVGki_qjBZdsYpzsddPvShiObJEB13Q6MRDTGnZ3Nkf7jPzA06hHGELA2qBRTH_wFIjTNSGcLk9FgKsHds-HBq_40ZdWlAnFPArRERyGC9kr5RdAgS8XgNUOEleV
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.QEjqGl129rurQc46mfDnCDYaPp-7HY0METzF6kpj-jgCPqzAO1zuvhZ6rmdab3W-X9bp_uNlddknKNhdTzJ65Jv_H4QLNLqsPw0IMObF366L1N4H-IBUbv35zzTNfjLKw0pyMWaBCNhvtIM0a8zEGMiix60djCWdfYQC8nsXbYBDvgj8cCSxvnKp7YwAKtnW
+Fri Aug 22 18:31:20 CST 2025
+Fri Aug 22 18:32:26 CST 2025
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
