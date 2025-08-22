@@ -57,3 +57,9 @@ Sat Aug 23 07:40:09 CST 2025
 删除Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加mazzanti_ https://edge11-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-47b7134f0a93897c39bfcaee88df3be2f1fc847629e41834f18458be29ac211b_trns_h264/playlist.m3u8
+Sat Aug 23 07:51:55 CST 2025
+Sat Aug 23 07:52:02 CST 2025
+Sat Aug 23 07:54:16 CST 2025
+Sat Aug 23 07:55:20 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
