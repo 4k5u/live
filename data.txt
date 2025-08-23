@@ -17,3 +17,4 @@ Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m
 yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+lovewindy https://edge10-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-ca3a3bf45e3f601d7a90222082d7e3113be334b541f54006f179cdabcc1c7100_trns_h264/playlist.m3u8
