@@ -172,3 +172,8 @@ Sat Aug 23 15:33:04 CST 2025
 Sat Aug 23 15:35:05 CST 2025
 Sat Aug 23 15:36:01 CST 2025
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Sat Aug 23 15:49:28 CST 2025
+Sat Aug 23 15:49:39 CST 2025
+Sat Aug 23 15:51:52 CST 2025
+Sat Aug 23 15:52:52 CST 2025
+添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
