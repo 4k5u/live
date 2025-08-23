@@ -177,3 +177,10 @@ Sat Aug 23 15:49:39 CST 2025
 Sat Aug 23 15:51:52 CST 2025
 Sat Aug 23 15:52:52 CST 2025
 添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+添加your_desssert https://edge8-sea.live.mmcdn.com/live-hls/amlst:your_desssert-sd-ad95ac233ec374c4d882e81dea289beb17ce66f51ac3455efc541e03a1d79921_trns_h264/playlist.m3u8
+Sat Aug 23 16:00:21 CST 2025
+Sat Aug 23 16:00:32 CST 2025
+Sat Aug 23 16:02:33 CST 2025
+Sat Aug 23 16:03:29 CST 2025
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
