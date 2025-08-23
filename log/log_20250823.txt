@@ -279,3 +279,10 @@ Sat Aug 23 19:32:53 CST 2025
 Sat Aug 23 19:35:08 CST 2025
 Sat Aug 23 19:36:08 CST 2025
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Sat Aug 23 19:43:56 CST 2025
+添加lovelypower77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OpRSg42ryu6h.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09wUlNnNDJyeXU2aCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMUVEMkZGQi1DRDMyLTQzODktQjRFMS1FRjUwNjQ1RTQ1NjciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTk0OTQ1MSwiZXhwIjoxNzU1OTUwMDUxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.zPWLwbhkKp8Qc2-IialWrf7gk_IX31WCtKyC-W-kGQK_UdQLpRyBybFZisQ7Qy1q8KsXuAixF4GZGbFMxdYd96Rx4qtZurpOjsTe3A-yjf2QlM9UEL6b4eTZRLAaX8jy
+Sat Aug 23 19:44:27 CST 2025
+Sat Aug 23 19:46:37 CST 2025
+Sat Aug 23 19:47:38 CST 2025
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除my_eyes_higher https://edge15-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-01d3463444dd66c393fbd033b28749c6c73421ac1fba597b369872a5917776f9_trns_h264/playlist.m3u8
