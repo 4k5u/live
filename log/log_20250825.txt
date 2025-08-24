@@ -65,3 +65,12 @@ Mon Aug 25 01:52:41 CST 2025
 Mon Aug 25 01:53:00 CST 2025
 Mon Aug 25 01:55:14 CST 2025
 Mon Aug 25 01:56:17 CST 2025
+Mon Aug 25 02:31:08 CST 2025
+Mon Aug 25 02:31:27 CST 2025
+Mon Aug 25 02:33:38 CST 2025
+Mon Aug 25 02:34:40 CST 2025
+添加Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
