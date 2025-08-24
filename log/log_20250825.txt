@@ -142,3 +142,8 @@ Mon Aug 25 05:54:24 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除lovewindy https://edge9-sea.live.mmcdn.com/live-hls/amlst:lovewindy-sd-7bc97a0bd957a5504a19c540a9e14903f5f16b5cf72670542ae0a1fb7f48a937_trns_h264/playlist.m3u8
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Mon Aug 25 06:10:11 CST 2025
+Mon Aug 25 06:10:16 CST 2025
+Mon Aug 25 06:12:36 CST 2025
+Mon Aug 25 06:13:41 CST 2025
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
