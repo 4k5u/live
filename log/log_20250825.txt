@@ -1,0 +1,9 @@
+Mon Aug 25 00:01:03 CST 2025
+Mon Aug 25 00:01:36 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+Mon Aug 25 00:04:01 CST 2025
+Mon Aug 25 00:05:07 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除your_desssert https://edge2-chi.live.mmcdn.com/live-hls/amlst:your_desssert-sd-a8ec59ee17d37a3e8a6dfd77ee0e8bde2a0e688465e3d1afeea535240f4afc8b_trns_h264/playlist.m3u8
+删除bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bve2VGU61bIx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2J2ZTJWR1U2MWJJeCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMEVEREJFRS0zRjVCLTQ5OEItQkE0RC01NkFEMzY3MTg4QkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjAzOTc2MiwiZXhwIjoxNzU2MDQwMzYyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.fkd7k2NYEBNbM_igJyqhEcmpCa34eAL3nfMW7XZk9KVDdAEksg-UquKJoZBMxvIcbVUkD3JMyG1Q8riKFVQv2YHoa17rEqxvDH3ZTO08e5NZ-QS9uLuTN-_P1VP8LpS3
