@@ -278,3 +278,9 @@ Mon Aug 25 16:40:50 CST 2025
 添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 删除yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3RUE3MzFFRC00MTZBLTQ2RjAtOUE4Ni05NEVDNzU4MzVDODciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjA3ODAzNCwiZXhwIjoxNzU2MDc4NjM0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.I3fepsZ5tU6dH40WVijJpvPAmpgvUiPpxW8YOOWsmSE_E1p4XDcy8S6C6YnwKZ_-aurewrFKD31br0-um5F0xXtd1XcyBb_hfYU5b8T55gSyOIaBCLYk0cgfUU5jaB_5
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+Mon Aug 25 16:57:31 CST 2025
+Mon Aug 25 16:57:42 CST 2025
+Mon Aug 25 17:00:25 CST 2025
+Mon Aug 25 17:01:27 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
