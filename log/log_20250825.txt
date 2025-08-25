@@ -336,3 +336,8 @@ Mon Aug 25 18:53:10 CST 2025
 删除m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Mon Aug 25 19:01:30 CST 2025
+Mon Aug 25 19:01:49 CST 2025
+添加kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Mon Aug 25 19:03:57 CST 2025
+Mon Aug 25 19:04:54 CST 2025
