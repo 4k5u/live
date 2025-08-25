@@ -181,3 +181,10 @@ Mon Aug 25 09:55:04 CST 2025
 Mon Aug 25 09:57:15 CST 2025
 Mon Aug 25 09:58:16 CST 2025
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Mon Aug 25 11:10:12 CST 2025
+Mon Aug 25 11:10:19 CST 2025
+Mon Aug 25 11:12:21 CST 2025
+Mon Aug 25 11:13:16 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除_meganmeow_ https://edge14-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-9a4618d538140ef51f5cd28f37f503e66246ed32f55d66f1402a43a829884a63_trns_h264/playlist.m3u8
