@@ -237,3 +237,11 @@ Mon Aug 25 14:41:35 CST 2025
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除sexygamesx https://edge28-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-fae78cfdf27432eed9296f72faf76a3fd814704fd6b936d7fb7b55da7e2385b3_trns_h264/playlist.m3u8
 删除lovewindy https://edge19-phx.live.mmcdn.com/live-hls/amlst:lovewindy-sd-3ca37af6e2ad3fb4d17286e365f7055b0fbfa3e0baf1346c4894e66971a7baf6_trns_h264/playlist.m3u8
+添加lovewindy https://edge6-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-5802dbc1700d213585715f76c9bbeb9a545f60739f2565600d2232527ea612d4_trns_h264/playlist.m3u8
+Mon Aug 25 14:58:04 CST 2025
+Mon Aug 25 14:58:13 CST 2025
+Mon Aug 25 15:00:28 CST 2025
+Mon Aug 25 15:01:35 CST 2025
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+添加SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
