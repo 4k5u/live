@@ -214,3 +214,8 @@ Mon Aug 25 12:52:53 CST 2025
 Mon Aug 25 12:55:13 CST 2025
 Mon Aug 25 12:56:19 CST 2025
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+添加lovewindy https://edge19-phx.live.mmcdn.com/live-hls/amlst:lovewindy-sd-3ca37af6e2ad3fb4d17286e365f7055b0fbfa3e0baf1346c4894e66971a7baf6_trns_h264/playlist.m3u8
+Mon Aug 25 13:13:33 CST 2025
+Mon Aug 25 13:13:40 CST 2025
+Mon Aug 25 13:15:43 CST 2025
+Mon Aug 25 13:16:38 CST 2025
