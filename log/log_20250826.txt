@@ -296,3 +296,11 @@ Tue Aug 26 17:48:46 CST 2025
 Tue Aug 26 17:49:42 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除my_eyes_higher https://edge17-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e95cfee319f6ba47d605b37c16a02047363a1d2649adb1c79023908a85f779cc_trns_h264/playlist.m3u8
+Tue Aug 26 17:58:44 CST 2025
+Tue Aug 26 17:58:57 CST 2025
+Tue Aug 26 18:01:09 CST 2025
+Tue Aug 26 18:02:10 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除sexygamesx https://edge7-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-0f68f17ae55f18df74b5b42be85c4c26fbcd23a3c91a98d5f07ff5ebbc901f9f_trns_h264/playlist.m3u8
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
