@@ -21,3 +21,7 @@ yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_pl
 syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+my_eyes_higher https://edge17-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e95cfee319f6ba47d605b37c16a02047363a1d2649adb1c79023908a85f779cc_trns_h264/playlist.m3u8
+zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
