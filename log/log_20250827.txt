@@ -149,3 +149,9 @@ Wed Aug 27 07:39:58 CST 2025
 Wed Aug 27 07:42:08 CST 2025
 Wed Aug 27 07:43:08 CST 2025
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Wed Aug 27 07:51:02 CST 2025
+添加slime97 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ZYTY2BMJTE1E.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1pZVFkyQk1KVEUxRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RTZERjkxMS1BM0FELTRFQTktQTMzNC03RkNFMTE5QzE0QUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjI1MjI2MiwiZXhwIjoxNzU2MjUyODYyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ZgWTsRT8dil_XYV58g0PRhvXTwYW85NvIPdsVuo7N0rZslkcGEGAgGGVPV5mhqR29zN8UHLoJTqEsR7dbspYLn5pmQ2bJg9N-1nW2aGOoAofU8AQKPCuAoHrlmW3l2_F
+Wed Aug 27 07:51:10 CST 2025
+Wed Aug 27 07:53:26 CST 2025
+Wed Aug 27 07:54:30 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
