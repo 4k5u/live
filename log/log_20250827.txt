@@ -107,3 +107,9 @@ Wed Aug 27 04:59:14 CST 2025
 Wed Aug 27 05:01:28 CST 2025
 Wed Aug 27 05:04:44 CST 2025
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+Wed Aug 27 05:22:32 CST 2025
+Wed Aug 27 05:22:41 CST 2025
+Wed Aug 27 05:24:50 CST 2025
+Wed Aug 27 05:25:51 CST 2025
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMThFRjY0RC03NkE1LTREN0ItOTVCMC0zQzkxNUZEREU5OUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjIzNjYyMywiZXhwIjoxNzU2MjM3MjIzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gW6IiApWJ7B7LP9yZ9U8OGGIiMZBjUqDOojJAMuATvkpMOpIPKGvlvvX-va_fbXvaplr1Q2yl4K9jvnCm9JyMMAnp5x69nRzoPyMTw5BfUaYVNXmsBvdOm5L257FveFL
