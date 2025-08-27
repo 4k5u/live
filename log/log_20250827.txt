@@ -180,3 +180,11 @@ Wed Aug 27 11:16:33 CST 2025
 Wed Aug 27 11:17:36 CST 2025
 添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除taitehambelton https://edge12-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-c9eedab1990b8bc28ac95a5fd569b7b8c21d17319bc7ee823aa69aa73d9eefae_trns_h264/playlist.m3u8
+Wed Aug 27 11:47:41 CST 2025
+Wed Aug 27 11:47:50 CST 2025
+Wed Aug 27 11:50:02 CST 2025
+Wed Aug 27 11:51:05 CST 2025
+添加Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
