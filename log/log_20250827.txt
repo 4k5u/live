@@ -250,3 +250,9 @@ Wed Aug 27 14:58:42 CST 2025
 添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加foxylovesyou https://edge5-chi.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-9c749803d08ff0455ec916aa120aceef5c1f3bc9679480503d6787d64e0ea6e4_trns_h264/playlist.m3u8
+Wed Aug 27 15:21:56 CST 2025
+Wed Aug 27 15:22:07 CST 2025
+Wed Aug 27 15:24:24 CST 2025
+Wed Aug 27 15:25:29 CST 2025
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
