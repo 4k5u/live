@@ -261,3 +261,9 @@ Wed Aug 27 15:34:47 CST 2025
 Wed Aug 27 15:37:03 CST 2025
 Wed Aug 27 15:38:07 CST 2025
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Wed Aug 27 15:50:14 CST 2025
+Wed Aug 27 15:50:25 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.eoatBldawaEkSVGCS9WUe0HXJt374qjQHPLS2Fl1PO3hyopDoSlYxwguRIZ9VXXuso1qExwP4nQqOUoqTPs2xPoecN8YflnjMxkLdhiCXpQz5R2eSTZTkok072wA30y9dB4j6JqRZo9e7w17HziRxCyQvCdaTPjwfd62ubV7pKq7Zf6bJsTgR0DZkqL7Kail
+Wed Aug 27 15:52:32 CST 2025
+Wed Aug 27 15:53:28 CST 2025
+添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
