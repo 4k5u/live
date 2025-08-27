@@ -346,3 +346,9 @@ Wed Aug 27 19:22:04 CST 2025
 Wed Aug 27 19:24:26 CST 2025
 Wed Aug 27 19:25:29 CST 2025
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Wed Aug 27 19:34:00 CST 2025
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5CF4w5XAvR8X.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVDRjR3NVhBdlI4WCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQjY0QzcxRC05Njk4LTQ5OTAtQjZCQy1BRTAzMUNCOTRBM0EiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjI5NDQ0NCwiZXhwIjoxNzU2Mjk1MDQ0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-LG85FvKP7C4Fqkmni0K1svGJXFnmUrG7IzWlKK54iYXG6qVccsLnWlJ9-uM0GHz43cYB9KfhU5eq5x2iiwk89E-BZSWsMU2MnsZhSuaRgLgV3W5CTvV9h_2SLrpqrLZ
+Wed Aug 27 19:34:22 CST 2025
+Wed Aug 27 19:36:23 CST 2025
+Wed Aug 27 19:37:19 CST 2025
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
