@@ -256,3 +256,8 @@ Wed Aug 27 15:22:07 CST 2025
 Wed Aug 27 15:24:24 CST 2025
 Wed Aug 27 15:25:29 CST 2025
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Wed Aug 27 15:34:36 CST 2025
+Wed Aug 27 15:34:47 CST 2025
+Wed Aug 27 15:37:03 CST 2025
+Wed Aug 27 15:38:07 CST 2025
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
