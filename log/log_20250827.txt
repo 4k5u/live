@@ -221,3 +221,10 @@ Wed Aug 27 13:28:40 CST 2025
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
 删除sexygamesx https://edge10-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-fc32cffd4e565c8858a7ee625d8a71a0247a95932281e6efc1b08b345a78e17e_trns_h264/playlist.m3u8
+Wed Aug 27 13:43:40 CST 2025
+Wed Aug 27 13:43:49 CST 2025
+Wed Aug 27 13:45:58 CST 2025
+Wed Aug 27 13:46:58 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
