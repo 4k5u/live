@@ -396,3 +396,10 @@ Thu Aug 28 19:37:11 CST 2025
 添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
 删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
 删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Thu Aug 28 19:43:27 CST 2025
+Thu Aug 28 19:43:48 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+Thu Aug 28 19:46:09 CST 2025
+Thu Aug 28 19:47:15 CST 2025
+删除suee2332 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vmp1QKeAFNdG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZtcDFRS2VBRk5kRyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNjYyNzRDNi05MEY4LTRBQUEtODdFNy1DNjBBRjE3MkE4NDciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjM3MTc5NSwiZXhwIjoxNzU2MzcyMzk1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ANtFLJKDzcZxZ_BXY6UpZ1TfrF_az2oJKD-dLGEV7WH2E-hGaXgyp7We0NZyyTYYRQBKk0WpdHTDMXJyQm3P0jJhrxR5zl5EX-SpitSzew6jAOznEC05QhMpp5Ddr1uD
+删除Tmdgus5411 ?aid=null
