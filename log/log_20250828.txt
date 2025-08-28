@@ -324,3 +324,12 @@ Thu Aug 28 17:05:43 CST 2025
 Thu Aug 28 17:06:47 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+添加my_eyes_higher https://edge1-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a1967d2b9c1db25460dcd0e3bab3d7501f4f8c13f7d90476b3d36dd1716435f1_trns_h264/playlist.m3u8
+Thu Aug 28 17:30:48 CST 2025
+Thu Aug 28 17:31:05 CST 2025
+Thu Aug 28 17:33:20 CST 2025
+Thu Aug 28 17:34:24 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除Tmdgus5411 ?aid=null
