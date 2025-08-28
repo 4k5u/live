@@ -245,3 +245,10 @@ Thu Aug 28 13:43:39 CST 2025
 Thu Aug 28 13:46:04 CST 2025
 Thu Aug 28 13:47:15 CST 2025
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加sexygamesx https://edge29-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-164df6c90ebe3c25c57cb18d35183652ea4699edf8780881c079b48a95d423c5_trns_h264/playlist.m3u8
+Thu Aug 28 13:58:27 CST 2025
+Thu Aug 28 13:58:38 CST 2025
+Thu Aug 28 14:00:52 CST 2025
+Thu Aug 28 14:01:56 CST 2025
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
