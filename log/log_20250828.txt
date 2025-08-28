@@ -465,3 +465,16 @@ Thu Aug 28 21:53:49 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Thu Aug 28 22:00:45 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.MccvHaJWBvso.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL01jY3ZIYUpXQnZzbyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MEY4RTk0NS0xQ0FFLTQ3REItOEZBRi00MkE4REVDMURCRTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjM4OTY4MywiZXhwIjoxNzU2MzkwMjgzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Y25yw-3o951sk3e1js2Wv_nDRmLXpXOcoFhUPyHCgkO24EqP6cdFT85i1gpdreWM7bAqB5waDxUuoy6xPB75WmnAX2Mrg69lnzkBeQc0l_6DYx6jM5Dab_BlZXdRkNYr
+Thu Aug 28 22:01:31 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Thu Aug 28 22:03:36 CST 2025
+Thu Aug 28 22:04:42 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
+删除bo1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YaadnkvDdaQS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lhYWRua3ZEZGFRUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRjkyMzZDRi1BNjg5LTQ4RTItODdGQy1DNUUzMTNGQjdENjgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjM4NTU5MiwiZXhwIjoxNzU2Mzg2MTkyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.SItKrIkGy4S86jbSQncjunyCmAFIqPGv0zuA3FO751Rm2gQMiH_qiDGxN4VScLzXqdv25XFsJwxqGyxlNEPgXyUo2VfYbiDuKU4vWvC6GX8sEzew544qYMTC9bzFL7Tv
+删除yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
+删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
