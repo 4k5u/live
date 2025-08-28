@@ -310,3 +310,8 @@ Thu Aug 28 16:34:17 CST 2025
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除sexygamesx https://edge29-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-35280de76a6863403f786e3a8e0d02aa2c7f9d87bd8cb28a73f85bb90524da36_trns_h264/playlist.m3u8
 删除SAYA_JP https://edge-hls.doppiocdn.live/hls/160065805/master/160065805_auto.m3u8
+Thu Aug 28 16:50:28 CST 2025
+Thu Aug 28 16:50:41 CST 2025
+Thu Aug 28 16:52:55 CST 2025
+Thu Aug 28 16:53:59 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
