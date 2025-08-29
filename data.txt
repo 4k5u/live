@@ -4,3 +4,5 @@ so2so2so https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 lovewindy https://edge3-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-5fb7e269b4ba2c3564c03cb8d5b30b7e35304b3818014284812236f34746179b_trns_h264/playlist.m3u8
 stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+taitehambelton https://edge9-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-63b88c01791eeb1a5d81fdf2c2f4b53cbeb8d203aed334856b7c50faef1c3c02_trns_h264/playlist.m3u8
+alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
