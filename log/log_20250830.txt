@@ -165,3 +165,8 @@ Sat Aug 30 06:27:55 CST 2025
 Sat Aug 30 06:29:01 CST 2025
 删除qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2ODY1MDc2OC0xQkFFLTQ1MzktQTFBNS0zODU3MUU5REM3Q0UiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjQ4Njc1NywiZXhwIjoxNzU2NDg3MzU3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.EWcaZPfhbDAotEow7vhuYr9WqoP0iykrGfEVaGzmm98K-1laLot_zW66N-zpCnus_bW751a6GB9B-WPFMMotofxakkPSExCiwRPfJZTB6qSMAwnL44_Thc_LdzxL7yUk
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sat Aug 30 06:42:30 CST 2025
+Sat Aug 30 06:42:35 CST 2025
+Sat Aug 30 06:44:37 CST 2025
+Sat Aug 30 06:45:32 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
