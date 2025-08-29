@@ -480,3 +480,12 @@ Fri Aug 29 22:28:29 CST 2025
 删除mini10062 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WUDWbjGalIfX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dVRFdiakdhbElmWCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQ0JGRjk4NC0xOEQzLTQ1RkMtODYyNS0zODI1NjYwRjYwNjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjQ3MjE1NCwiZXhwIjoxNzU2NDcyNzU0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.sWGVODRsMUo3H9MyDpwaUlo5bO9XXDyrVdqovpZGi9229RhKUEBAM3ISzEzBF8trVmTvEN5nSJfSo6T_QxESKd9hjZ2U41Eq4Koa7n9iP61qarNe-LCmlrMPp7_DRqxF
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除lovewindy https://edge18-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-9bc8947e6c36235061ae53dbd408d1c412f9a92d30db26156d61d8e5ffbd260e_trns_h264/playlist.m3u8
+Fri Aug 29 22:45:05 CST 2025
+Fri Aug 29 22:46:06 CST 2025
+Fri Aug 29 22:48:08 CST 2025
+Fri Aug 29 22:49:05 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+添加regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+删除bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
