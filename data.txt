@@ -13,5 +13,4 @@ _meganmeow_ https://edge9-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-61162
 sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
-gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
 mode_bad https://edge10-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-8d38f17d69c198bf8de8533be5c4996b39401bfcaf0092af60c9a1db72c2c968_trns_h264/playlist.m3u8
