@@ -89,3 +89,10 @@ Sat Aug 30 02:53:58 CST 2025
 添加sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+Sat Aug 30 03:00:49 CST 2025
+Sat Aug 30 03:01:12 CST 2025
+Sat Aug 30 03:03:26 CST 2025
+Sat Aug 30 03:04:30 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFRUY0QjZCNi01NzM4LTQ0QUYtQUE5My03QzlEREU4RThBM0EiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjQ3NTI3OCwiZXhwIjoxNzU2NDc1ODc4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.5gMMtxXqfA1xHlb930EK_Nnxo_Hf2mcN70DvDDPhrVMUb1Tv7X3GLwlUmgZbGvg3gTSzvbnyaaQRvZ21eULM_psxENyZYVIbzIEmd88uYZa0SbPKdX_8takvfrOhQ_3M
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
