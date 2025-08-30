@@ -115,3 +115,9 @@ Sun Aug 31 04:03:22 CST 2025
 Sun Aug 31 04:03:43 CST 2025
 Sun Aug 31 04:05:55 CST 2025
 Sun Aug 31 04:06:59 CST 2025
+添加mode_bad https://edge28-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-b36b3852ccf1d67b9d77df2d9cf06a3b09d232a701922dab3bc1c7d1f7bdfcec_trns_h264/playlist.m3u8
+Sun Aug 31 04:29:39 CST 2025
+Sun Aug 31 04:29:58 CST 2025
+Sun Aug 31 04:32:13 CST 2025
+Sun Aug 31 04:33:14 CST 2025
+删除lovewindy https://edge24-chi.live.mmcdn.com/live-hls/amlst:lovewindy-sd-4a6dd461d9f0ca74df7164e93b94e65421dc9dbeb9fb7b13d954fde7afec96b7_trns_h264/playlist.m3u8
