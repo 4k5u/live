@@ -169,3 +169,8 @@ Sun Aug 31 06:53:41 CST 2025
 Sun Aug 31 06:55:55 CST 2025
 Sun Aug 31 06:56:59 CST 2025
 添加Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
+Sun Aug 31 07:20:25 CST 2025
+Sun Aug 31 07:20:30 CST 2025
+Sun Aug 31 07:22:47 CST 2025
+Sun Aug 31 07:23:53 CST 2025
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
