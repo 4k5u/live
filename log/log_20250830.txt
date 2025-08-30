@@ -350,3 +350,8 @@ Sat Aug 30 17:43:13 CST 2025
 Sat Aug 30 17:44:13 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除ake_mi https://edge18-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-aa0bc46a4aa4c65f6c4f8be231f57835c0f429ed1a8d490213b111e9b3a9ef32_trns_h264/playlist.m3u8
+Sat Aug 30 17:50:49 CST 2025
+Sat Aug 30 17:51:06 CST 2025
+Sat Aug 30 17:53:07 CST 2025
+Sat Aug 30 17:54:01 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
