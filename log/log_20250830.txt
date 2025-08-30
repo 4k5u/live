@@ -313,3 +313,9 @@ Sat Aug 30 16:05:03 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Sat Aug 30 16:33:05 CST 2025
+Sat Aug 30 16:33:14 CST 2025
+Sat Aug 30 16:35:29 CST 2025
+Sat Aug 30 16:36:33 CST 2025
+添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
