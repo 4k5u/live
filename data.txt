@@ -8,3 +8,5 @@ gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_pl
 _meganmeow_ https://edge13-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-73878a99ac12b0fea12cad27b32c54e53b2ed7c697aa86477ebbc450eeefc6fb_trns_h264/playlist.m3u8
 mode_bad https://edge28-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-b36b3852ccf1d67b9d77df2d9cf06a3b09d232a701922dab3bc1c7d1f7bdfcec_trns_h264/playlist.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8

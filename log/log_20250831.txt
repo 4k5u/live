@@ -158,3 +158,9 @@ Sun Aug 31 06:26:47 CST 2025
 Sun Aug 31 06:27:50 CST 2025
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+Sun Aug 31 06:41:33 CST 2025
+Sun Aug 31 06:41:38 CST 2025
+Sun Aug 31 06:43:52 CST 2025
+Sun Aug 31 06:44:52 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
