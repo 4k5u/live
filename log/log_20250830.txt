@@ -215,3 +215,8 @@ Sat Aug 30 11:00:49 CST 2025
 Sat Aug 30 11:01:44 CST 2025
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除mazzanti_ https://edge10-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-a64b7a79a789d623d8c0beff018f4d949e681d94c64cb646134ff2d39be253d5_trns_h264/playlist.m3u8
+Sat Aug 30 11:34:10 CST 2025
+Sat Aug 30 11:34:15 CST 2025
+Sat Aug 30 11:36:36 CST 2025
+Sat Aug 30 11:37:37 CST 2025
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
