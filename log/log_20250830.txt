@@ -467,3 +467,10 @@ Sat Aug 30 21:32:42 CST 2025
 Sat Aug 30 21:34:50 CST 2025
 Sat Aug 30 21:35:45 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+添加lovewindy https://edge10-phx.live.mmcdn.com/live-hls/amlst:lovewindy-sd-ba74c89f845231d8eb2b7a39929aa120668a06eb0e478d7bb6c9e64d8d2bb604_trns_h264/playlist.m3u8
+Sat Aug 30 21:43:25 CST 2025
+Sat Aug 30 21:44:04 CST 2025
+Sat Aug 30 21:46:07 CST 2025
+Sat Aug 30 21:47:01 CST 2025
+添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+删除yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
