@@ -355,3 +355,12 @@ Sat Aug 30 17:51:06 CST 2025
 Sat Aug 30 17:53:07 CST 2025
 Sat Aug 30 17:54:01 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Sat Aug 30 18:02:34 CST 2025
+Sat Aug 30 18:02:52 CST 2025
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Sat Aug 30 18:05:10 CST 2025
+添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3NTY1OTE1MDA3MjYsImlhdCI6MTc1NjU0ODMwMH0.vuNvfd9KtNnBBhF2sAVIwX3LugxqBhhjEhkXhZleKhmGxuIhjG5lO47mEM3-bRBUDRCaJgTQXV85q5FrxNh_67skxMDM1aFWxLyEOFfmy0k9z2gNApebqxhXSo3xm3Wa
+Sat Aug 30 18:06:11 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+删除yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
