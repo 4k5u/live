@@ -10,3 +10,4 @@ mode_bad https://edge28-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-b36b3852cc
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
