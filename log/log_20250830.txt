@@ -260,3 +260,9 @@ Sat Aug 30 13:42:36 CST 2025
 Sat Aug 30 13:44:46 CST 2025
 Sat Aug 30 13:45:47 CST 2025
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sat Aug 30 13:52:30 CST 2025
+Sat Aug 30 13:52:35 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.z3w2l2TrZsTU3VhGHimWC-0LL0lcedjZ848CEk0z_6j_UOpOUR1DPNPLGnFvCQ6Q3Dse2RxhEkqkwzm5opoeLVTT3q5H2KDSJplF1ihYJyRDLGdf0qMLzuB3zb6hxj7txKXIng_OV3JPf6mBvWa7i6Qid1W96eB2-5NRVa4z-kwZ5yAyCu0Sy13R_E97G6-E
+Sat Aug 30 13:54:55 CST 2025
+Sat Aug 30 13:55:59 CST 2025
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
