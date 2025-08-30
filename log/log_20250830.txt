@@ -238,3 +238,8 @@ Sat Aug 30 12:36:56 CST 2025
 Sat Aug 30 12:38:01 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+添加ake_mi https://edge18-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-aa0bc46a4aa4c65f6c4f8be231f57835c0f429ed1a8d490213b111e9b3a9ef32_trns_h264/playlist.m3u8
+Sat Aug 30 12:49:46 CST 2025
+Sat Aug 30 12:49:51 CST 2025
+Sat Aug 30 12:51:54 CST 2025
+Sat Aug 30 12:52:50 CST 2025
