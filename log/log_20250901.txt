@@ -60,3 +60,8 @@ Mon Sep 1 01:52:38 CST 2025
 删除1004ysus https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
 删除ake_mi https://edge29-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-ec8e32b1595402b754b73ba35f97b2a4a9227230bf22091226174a05e44de9ab_trns_h264/playlist.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+Mon Sep 1 02:00:01 CST 2025
+Mon Sep 1 02:00:16 CST 2025
+Mon Sep 1 02:02:31 CST 2025
+Mon Sep 1 02:03:35 CST 2025
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
