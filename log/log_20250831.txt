@@ -328,3 +328,11 @@ Sun Aug 31 17:01:41 CST 2025
 Sun Aug 31 17:03:55 CST 2025
 Sun Aug 31 17:04:59 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Sun Aug 31 17:24:23 CST 2025
+添加ah2love https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.0rGJrOhEtlnO.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzByR0pyT2hFdGxuTyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJERUZBQkUyRS0zQUE4LTRERDQtQTFGNS04N0Y0QzZEMDQwN0QiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjYzMjI2NCwiZXhwIjoxNzU2NjMyODY0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.oTC3dpeX96qGJFdp5Wdc89wXNbnGaEaDiXOyc9ZqZKrGc0C0dsQHmatYpgTfb-OoXR9p8Eu_DFxDXQSbaDAst0l5rMmMhnSCR_bYASIPHhlxjxMfvLR8DYws_vp4wFol
+Sun Aug 31 17:24:42 CST 2025
+Sun Aug 31 17:26:45 CST 2025
+Sun Aug 31 17:27:41 CST 2025
+添加bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除taitehambelton https://edge8-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-ff56be45a8f058221cb005d90e724daf9a8da3d952dc3ecb9306069b826a5116_trns_h264/playlist.m3u8
