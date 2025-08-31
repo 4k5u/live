@@ -236,3 +236,8 @@ Sun Aug 31 12:48:26 CST 2025
 Sun Aug 31 12:49:21 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+添加taitehambelton https://edge8-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-ff56be45a8f058221cb005d90e724daf9a8da3d952dc3ecb9306069b826a5116_trns_h264/playlist.m3u8
+Sun Aug 31 12:58:20 CST 2025
+Sun Aug 31 12:58:25 CST 2025
+Sun Aug 31 13:00:39 CST 2025
+Sun Aug 31 13:01:42 CST 2025

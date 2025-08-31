@@ -5,3 +5,4 @@ ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx
 Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+taitehambelton https://edge8-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-ff56be45a8f058221cb005d90e724daf9a8da3d952dc3ecb9306069b826a5116_trns_h264/playlist.m3u8
