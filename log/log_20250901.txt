@@ -25,3 +25,11 @@ Mon Sep 1 00:49:32 CST 2025
 添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除lovelypower77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OpRSg42ryu6h.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09wUlNnNDJyeXU2aCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNzk4M0FFOC1CQjVBLTRDRDMtOTdDMC0xOTVBMTJFNkVFQ0IiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjYzOTkwNSwiZXhwIjoxNzU2NjQwNTA1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.4aZl9oorcOOVTtX2cyMDs00Zer3Lp0T2PP3lh1scdTHr3AaEsOM3xEJzHehKJfMZ7jnYGpawx7A7jUmZBtF3khQP6u1eC3rqqjiCRIKEpKGLKT-qt6CNRTziHzVClasR
 删除rosyemily https://edge8-aus.live.mmcdn.com/live-hls/amlst:rosyemily-sd-358038244768e16132aafbd2ba02a0bda37616f2c5a010bf6b1946fea4cfea6c_trns_h264/playlist.m3u8
+Mon Sep 1 00:58:16 CST 2025
+Mon Sep 1 00:58:49 CST 2025
+Mon Sep 1 01:00:50 CST 2025
+Mon Sep 1 01:01:45 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+删除lovewindy https://edge4-sea.live.mmcdn.com/live-hls/amlst:lovewindy-sd-2a9559b4cdb32615ac2c01182ebff9c717710c53cf2d3c6b34a4fc174c173fa6_trns_h264/playlist.m3u8
