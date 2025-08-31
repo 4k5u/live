@@ -21,3 +21,7 @@ thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 ah2love https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.0rGJrOhEtlnO.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzByR0pyT2hFdGxuTyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJERUZBQkUyRS0zQUE4LTRERDQtQTFGNS04N0Y0QzZEMDQwN0QiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjYzMjI2NCwiZXhwIjoxNzU2NjMyODY0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.oTC3dpeX96qGJFdp5Wdc89wXNbnGaEaDiXOyc9ZqZKrGc0C0dsQHmatYpgTfb-OoXR9p8Eu_DFxDXQSbaDAst0l5rMmMhnSCR_bYASIPHhlxjxMfvLR8DYws_vp4wFol
 bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+honey_pinkgreen https://edge6-ash.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-71d1dee4ea6cbe10581474dd2c3e10fcee960ecd8c3999d9c3289054b0f0fca2_trns_h264/playlist.m3u8
+my_eyes_higher https://edge8-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e80df7b9a4e593a5a1817ba018a0e4ea86c60ea43a82a7b6dbf686d881b0aa45_trns_h264/playlist.m3u8
+zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
