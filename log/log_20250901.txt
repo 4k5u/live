@@ -121,3 +121,10 @@ Mon Sep 1 04:02:49 CST 2025
 Mon Sep 1 04:02:58 CST 2025
 Mon Sep 1 04:05:14 CST 2025
 Mon Sep 1 04:06:18 CST 2025
+Mon Sep 1 04:31:47 CST 2025
+Mon Sep 1 04:31:56 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Mon Sep 1 04:34:01 CST 2025
+Mon Sep 1 04:34:56 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除lovewindy https://edge6-mia.live.mmcdn.com/live-hls/amlst:lovewindy-sd-0ffde70faa9dc89d939a3b27bd2c8b975bb0c18425fd3699d517f3ab2bb4a956_trns_h264/playlist.m3u8
