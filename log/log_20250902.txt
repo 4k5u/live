@@ -222,3 +222,8 @@ Tue Sep 2 13:44:32 CST 2025
 Tue Sep 2 13:46:42 CST 2025
 Tue Sep 2 13:47:42 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Tue Sep 2 13:59:03 CST 2025
+Tue Sep 2 13:59:10 CST 2025
+Tue Sep 2 14:01:25 CST 2025
+Tue Sep 2 14:02:28 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
