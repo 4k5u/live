@@ -262,3 +262,10 @@ Tue Sep 2 15:57:15 CST 2025
 添加zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 删除kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Tue Sep 2 16:32:18 CST 2025
+Tue Sep 2 16:32:31 CST 2025
+添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Tue Sep 2 16:34:47 CST 2025
+Tue Sep 2 16:35:48 CST 2025
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
