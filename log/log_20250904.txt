@@ -100,3 +100,8 @@ Thu Sep 4 04:00:20 CST 2025
 Thu Sep 4 04:02:34 CST 2025
 Thu Sep 4 04:03:38 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加mode_bad https://edge14-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-b2b026a64eac9cc071173656649902b01aa01707a95bda337093130b9534451b_trns_h264/playlist.m3u8
+Thu Sep 4 04:28:45 CST 2025
+Thu Sep 4 04:28:58 CST 2025
+Thu Sep 4 04:30:59 CST 2025
+Thu Sep 4 04:31:54 CST 2025
