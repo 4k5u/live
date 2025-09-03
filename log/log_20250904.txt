@@ -82,3 +82,11 @@ Thu Sep 4 03:22:09 CST 2025
 Thu Sep 4 03:24:16 CST 2025
 Thu Sep 4 03:25:13 CST 2025
 删除jinricp https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.cITYKzRxe49x.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2NJVFlLelJ4ZTQ5eCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxM0E2MkQwMS0xRERELTREMzktQjZDRS0zNkUxNUE0MkM3OUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Njg4MjI0MCwiZXhwIjoxNzU2ODgyODQwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.RaBBO7WfBUGrQDputoethOWIHIO-e6q-fMaMCQm9jF4RpL-r2On0--_WiHDnFZXMYcf9Fhp8Od0pkxiZptQznnM-LEiLJ_qzCHoyCpULobfEzKlLFh5oBoNaoxM_9NNq
+Thu Sep 4 03:33:57 CST 2025
+Thu Sep 4 03:34:12 CST 2025
+Thu Sep 4 03:36:31 CST 2025
+Thu Sep 4 03:37:39 CST 2025
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除lovewindy https://edge1-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-4f6242fafc11dabe02147bf3a98b093192829537ca8df01d36ffa87990e04eda_trns_h264/playlist.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
