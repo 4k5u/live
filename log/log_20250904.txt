@@ -161,3 +161,9 @@ Thu Sep 4 07:42:37 CST 2025
 Thu Sep 4 07:42:46 CST 2025
 Thu Sep 4 07:44:59 CST 2025
 Thu Sep 4 07:46:04 CST 2025
+Thu Sep 4 07:59:12 CST 2025
+Thu Sep 4 07:59:21 CST 2025
+Thu Sep 4 08:01:34 CST 2025
+Thu Sep 4 08:02:37 CST 2025
+删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+删除mode_bad https://edge14-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-b2b026a64eac9cc071173656649902b01aa01707a95bda337093130b9534451b_trns_h264/playlist.m3u8
