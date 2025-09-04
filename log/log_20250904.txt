@@ -254,3 +254,9 @@ Thu Sep 4 15:11:40 CST 2025
 Thu Sep 4 15:11:56 CST 2025
 Thu Sep 4 15:14:14 CST 2025
 Thu Sep 4 15:15:18 CST 2025
+添加foxylovesyou https://edge15-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-0b642b10928fef3ba86059c81e970ae7a6ea73f7a5669e41d048f8e4232e12ab_trns_h264/playlist.m3u8
+Thu Sep 4 15:29:03 CST 2025
+Thu Sep 4 15:29:16 CST 2025
+Thu Sep 4 15:31:30 CST 2025
+Thu Sep 4 15:32:34 CST 2025
+添加zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
