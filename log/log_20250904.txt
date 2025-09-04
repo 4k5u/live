@@ -305,3 +305,8 @@ Thu Sep 4 17:29:39 CST 2025
 Thu Sep 4 17:32:00 CST 2025
 Thu Sep 4 17:33:05 CST 2025
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Thu Sep 4 17:43:57 CST 2025
+Thu Sep 4 17:44:12 CST 2025
+Thu Sep 4 17:46:26 CST 2025
+Thu Sep 4 17:47:28 CST 2025
+删除ad0res https://edge12-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-aed9a16badb39914c3cc81e2b535a489bf9461052b0c9b163714605c3f2788e2_trns_h264/playlist.m3u8
