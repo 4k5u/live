@@ -346,3 +346,10 @@ Thu Sep 4 19:24:50 CST 2025
 Thu Sep 4 19:25:53 CST 2025
 删除foxylovesyou https://edge15-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-0b642b10928fef3ba86059c81e970ae7a6ea73f7a5669e41d048f8e4232e12ab_trns_h264/playlist.m3u8
 删除yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+添加ad0res https://edge12-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-aed9a16badb39914c3cc81e2b535a489bf9461052b0c9b163714605c3f2788e2_trns_h264/playlist.m3u8
+Thu Sep 4 19:32:08 CST 2025
+Thu Sep 4 19:32:31 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Thu Sep 4 19:34:36 CST 2025
+Thu Sep 4 19:35:34 CST 2025
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
