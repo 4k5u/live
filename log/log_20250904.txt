@@ -260,3 +260,9 @@ Thu Sep 4 15:29:16 CST 2025
 Thu Sep 4 15:31:30 CST 2025
 Thu Sep 4 15:32:34 CST 2025
 添加zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Thu Sep 4 15:42:38 CST 2025
+Thu Sep 4 15:42:51 CST 2025
+Thu Sep 4 15:44:52 CST 2025
+Thu Sep 4 15:45:47 CST 2025
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
