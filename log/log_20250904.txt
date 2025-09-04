@@ -310,3 +310,9 @@ Thu Sep 4 17:44:12 CST 2025
 Thu Sep 4 17:46:26 CST 2025
 Thu Sep 4 17:47:28 CST 2025
 删除ad0res https://edge12-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-aed9a16badb39914c3cc81e2b535a489bf9461052b0c9b163714605c3f2788e2_trns_h264/playlist.m3u8
+添加ad0res https://edge7-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-aed9a16badb39914c3cc81e2b535a489bf9461052b0c9b163714605c3f2788e2_trns_h264/playlist.m3u8
+Thu Sep 4 17:58:58 CST 2025
+添加hidana https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.s1byvE3HOfIA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3MxYnl2RTNIT2ZJQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RjM5NkVEMS1BRTAyLTRFQ0EtQjVCMy01RUQxOUJFNTI2QzgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Njk3OTk0NywiZXhwIjoxNzU2OTgwNTQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.p7unHwrwD_Cqhz-95U1SaXvU3zpUmo-rijH62zopCrJpNW1fE8ukRukba6Ixa4G641er5VGNHljAxz2lpJmHFzzJEJOHm6hMI-PCgZvwSJsfFBQtzMnXBAxZlBr04gZK
+Thu Sep 4 17:59:18 CST 2025
+Thu Sep 4 18:01:21 CST 2025
+Thu Sep 4 18:02:17 CST 2025
