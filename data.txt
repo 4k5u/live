@@ -32,3 +32,6 @@ big541 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playl
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
 regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
+my_eyes_higher https://edge12-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1dc2956667ced2738547480b2872a75def7ef55ffd27f1bca228f9c5467fce82_trns_h264/playlist.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
