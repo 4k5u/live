@@ -57,3 +57,10 @@ Sun Sep 7 01:59:41 CST 2025
 Sun Sep 7 02:01:43 CST 2025
 Sun Sep 7 02:02:39 CST 2025
 删除regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
+添加lovewindy https://edge12-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-6f26e3f792d654f133b02d7e7d67f34ee6dc7ead2a19ba54b663112ed66c5078_trns_h264/playlist.m3u8
+Sun Sep 7 02:30:15 CST 2025
+Sun Sep 7 02:30:34 CST 2025
+Sun Sep 7 02:32:49 CST 2025
+Sun Sep 7 02:33:52 CST 2025
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.shvLpgvQjUk9.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NodkxwZ3ZRalVrOSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQUFDNDYyRC0wMjRELTRDNzItQURCNy1GQjkxRDU2NEYyRUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzE2NTAwNiwiZXhwIjoxNzU3MTY1NjA2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-ZDntCas9SudRYIDf0wFYzmIYcNc0gdq0MUm_SZJKor53xKfuLc75-pv4vEJj3egMJ8FYU7WNV4NIZ5lYukGQViVEdIT1r_XLlVHspxAvnwcomYK3mToimPD0lxxv-8Z
