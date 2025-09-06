@@ -374,3 +374,8 @@ Sat Sep 6 18:44:27 CST 2025
 Sat Sep 6 18:45:30 CST 2025
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除dign1461 ?aid=null
+Sat Sep 6 18:52:50 CST 2025
+Sat Sep 6 18:53:13 CST 2025
+Sat Sep 6 18:55:16 CST 2025
+Sat Sep 6 18:56:11 CST 2025
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
