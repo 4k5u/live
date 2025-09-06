@@ -181,3 +181,9 @@ Sat Sep 6 07:48:06 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+Sat Sep 6 08:09:16 CST 2025
+添加yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NUVDOUQ1Mi0xNUFGLTQyMjgtQTE5RS0yNTVFNkJCRDcwNTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzExNzM2MSwiZXhwIjoxNzU3MTE3OTYxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gGNsUHWsJpypR8E45Jf29MY1zv5Oq3MwseCeKV77_KCHtIDnAef8UGQ8DFMGpHj1MUW4pe3fDOWVFPUvbGvhs_Wyu0Xk3X0OQEOILmBFYyVjjsttTk2jRnM7BllV800D
+Sat Sep 6 08:09:27 CST 2025
+Sat Sep 6 08:11:29 CST 2025
+Sat Sep 6 08:12:25 CST 2025
+删除mode_bad https://edge3-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-55729cbc9203121f37fc6d525d9f4778363d4eb58c7f192b833cc30aefa85178_trns_h264/playlist.m3u8
