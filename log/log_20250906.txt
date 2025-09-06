@@ -214,3 +214,11 @@ Sat Sep 6 11:23:44 CST 2025
 添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
 删除mazzanti_ https://edge16-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-01d77bceace86ed7b23bf37cae91d88fee9baf55115105cdaac6709ec70b5692_trns_h264/playlist.m3u8
+添加taitehambelton https://edge25-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-142b63b5103a74e40d6b86905f2e98d2b9410d24759264c8f776dcf9b4d96761_trns_h264/playlist.m3u8
+Sat Sep 6 11:43:27 CST 2025
+Sat Sep 6 11:43:34 CST 2025
+Sat Sep 6 11:45:48 CST 2025
+Sat Sep 6 11:46:50 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
