@@ -228,3 +228,10 @@ Sat Sep 6 11:57:34 CST 2025
 Sat Sep 6 11:58:35 CST 2025
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除sexygamesx https://edge3-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-40a89d8ee74a9662eb9dbb61822a3688c66bbaed991b46dc3c49006757b74a5b_trns_h264/playlist.m3u8
+Sat Sep 6 12:26:22 CST 2025
+Sat Sep 6 12:26:27 CST 2025
+Sat Sep 6 12:28:30 CST 2025
+Sat Sep 6 12:29:26 CST 2025
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENUQ4NjQ1OS01Qjg2LTRGQUItQTU2Ni1BQTg2M0MwMTJCMzciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzEwNDA1NCwiZXhwIjoxNzU3MTA0NjU0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.sEtA0PYZKbbaPDrw_FP1bqvXyyUHR4Iaoi00s3uyjG0Q2JsQQGh1XIHHBgqoD9w5bwNvZ-wm55q_9flsvoiRTYa3Wor2vdFk0tUJIXX-l3zSNs_RluEEGQm5LN_SvOyv
+删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
