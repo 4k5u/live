@@ -78,3 +78,11 @@ Sun Sep 7 03:02:34 CST 2025
 删除raindropx https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1ni8OiChpuaT.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFuaThPaUNocHVhVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQTMxMEFFNC04OEZDLTQ3REUtQjhBRC04NUY1MzUzNDc3NkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzE1ODI0OSwiZXhwIjoxNzU3MTU4ODQ5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.DDLqs2QB2Sg3W29mywq9AGP_9bSeuVheEPbGe06uBzTkLoqN_yVE40h_rtp2Nydbjdenb5hscryVWSy3pRugs7go52aOlFG_VNb_yIDvVvpWd_9JamXolgrcxsAMerMT
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除lovewindy https://edge12-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-6f26e3f792d654f133b02d7e7d67f34ee6dc7ead2a19ba54b663112ed66c5078_trns_h264/playlist.m3u8
+添加lovewindy https://edge25-ash.live.mmcdn.com/live-hls/amlst:lovewindy-sd-6f26e3f792d654f133b02d7e7d67f34ee6dc7ead2a19ba54b663112ed66c5078_trns_h264/playlist.m3u8
+Sun Sep 7 03:18:40 CST 2025
+Sun Sep 7 03:18:56 CST 2025
+Sun Sep 7 03:21:11 CST 2025
+Sun Sep 7 03:22:14 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+删除gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
