@@ -35,3 +35,7 @@ regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m
 my_eyes_higher https://edge12-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1dc2956667ced2738547480b2872a75def7ef55ffd27f1bca228f9c5467fce82_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+lovewindy https://edge16-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-4e00b1f0b84ba2906670ccf4bd95d58bad3c56ddc9846e01e11c98918b4f70af_trns_h264/playlist.m3u8
+o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NjdFOEExMC0wMDNFLTQ4QTAtOUMwNi0yQTYyMjZENTdDNTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzE3MDMxOCwiZXhwIjoxNzU3MTcwOTE4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.rM2optj1F-hSFH8aA-zsTJAsAxpjkiq4OYy-TB3T2ChOaxkjVPaziM-kcf8OQXeOF_T2GxHM3KSwbDQCeqCBGXjWWZwbvtJJVrJS1P1U0iqxtrBtkxdpxFfyl-j_RaEh
+gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
