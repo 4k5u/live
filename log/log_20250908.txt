@@ -96,3 +96,9 @@ Mon Sep 8 02:48:05 CST 2025
 Mon Sep 8 02:48:14 CST 2025
 Mon Sep 8 02:50:27 CST 2025
 Mon Sep 8 02:51:28 CST 2025
+Mon Sep 8 02:58:21 CST 2025
+Mon Sep 8 02:58:30 CST 2025
+Mon Sep 8 03:00:32 CST 2025
+Mon Sep 8 03:01:28 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
