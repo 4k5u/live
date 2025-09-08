@@ -204,3 +204,8 @@ Mon Sep 8 07:52:44 CST 2025
 Mon Sep 8 07:54:46 CST 2025
 Mon Sep 8 07:55:41 CST 2025
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+添加mazzanti_ https://edge17-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-aaa83cb9494d07d338b868d9bedc7c305f2ae15084140a2a85cdeef1259ee91e_trns_h264/playlist.m3u8
+Mon Sep 8 08:02:34 CST 2025
+Mon Sep 8 08:02:41 CST 2025
+Mon Sep 8 08:04:56 CST 2025
+Mon Sep 8 08:05:59 CST 2025
