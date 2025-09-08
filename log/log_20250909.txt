@@ -145,3 +145,8 @@ Tue Sep 9 05:27:10 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除my_eyes_higher https://edge11-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b3b1dc1630f9dcc2c7db74fd85909130b6c121049dc283ce25f90c6c66cde8e6_trns_h264/playlist.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Tue Sep 9 05:34:46 CST 2025
+Tue Sep 9 05:34:57 CST 2025
+Tue Sep 9 05:37:13 CST 2025
+Tue Sep 9 05:38:18 CST 2025
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
