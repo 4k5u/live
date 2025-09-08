@@ -4,4 +4,3 @@ ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
 lovewindy https://edge8-aus.live.mmcdn.com/live-hls/amlst:lovewindy-sd-bc66b5817880e7702d079bc06209b43d936fa29a006ffbbcc6562f84413c28c3_trns_h264/playlist.m3u8
-Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
