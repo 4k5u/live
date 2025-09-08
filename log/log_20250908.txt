@@ -332,3 +332,8 @@ Mon Sep 8 17:32:32 CST 2025
 添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加rosyemily https://edge27-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-0b91972ee7eeb063e82951fc2b323fcd8412ba2800e1cd50b461ea63e4df3d63_trns_h264/playlist.m3u8
+Mon Sep 8 17:46:06 CST 2025
+Mon Sep 8 17:46:27 CST 2025
+Mon Sep 8 17:48:41 CST 2025
+Mon Sep 8 17:49:44 CST 2025
