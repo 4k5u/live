@@ -181,3 +181,8 @@ Tue Sep 9 07:23:02 CST 2025
 Tue Sep 9 07:25:22 CST 2025
 Tue Sep 9 07:26:28 CST 2025
 删除sexygamesx https://edge5-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-77994e2ba6862c7b00ddeaa5c04f9103b6eba3d46e26995b9d34b5a1c8563d3c_trns_h264/playlist.m3u8
+添加sexygamesx https://edge7-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-77994e2ba6862c7b00ddeaa5c04f9103b6eba3d46e26995b9d34b5a1c8563d3c_trns_h264/playlist.m3u8
+Tue Sep 9 07:36:16 CST 2025
+Tue Sep 9 07:36:25 CST 2025
+Tue Sep 9 07:38:35 CST 2025
+Tue Sep 9 07:39:35 CST 2025
