@@ -219,3 +219,9 @@ Tue Sep 9 11:46:40 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3QkNGQzcyNi01N0NGLTRFNDgtQTk5Ni1ERjlGN0RFMUQyMjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzM2MDYyOSwiZXhwIjoxNzU3MzYxMjI5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.QINWpj3wy3ysjIsaZuq-9DxHMFgyvhHRpjxycOnoBH7lFlBshCxoPhiGElfAmhtnn5QoXoJh2U1KOyJY2EjvpPriLDv5aQGNcBHw9pw2ZPnBohKpzA5c7d6goq8HN2Gr
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Tue Sep 9 11:55:48 CST 2025
+Tue Sep 9 11:55:55 CST 2025
+Tue Sep 9 11:58:07 CST 2025
+Tue Sep 9 11:59:08 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
