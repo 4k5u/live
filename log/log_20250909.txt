@@ -191,3 +191,7 @@ Tue Sep 9 07:48:50 CST 2025
 Tue Sep 9 07:51:09 CST 2025
 Tue Sep 9 07:52:15 CST 2025
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Tue Sep 9 08:00:27 CST 2025
+Tue Sep 9 08:00:36 CST 2025
+Tue Sep 9 08:02:51 CST 2025
+Tue Sep 9 08:03:55 CST 2025
