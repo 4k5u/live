@@ -189,3 +189,8 @@ Wed Sep 10 11:40:24 CST 2025
 Wed Sep 10 11:41:25 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除taitehambelton https://edge14-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-83e45f60c9419d1466c99542a12280ba14edbee458101058535630bed20c75d2_trns_h264/playlist.m3u8
+Wed Sep 10 11:52:53 CST 2025
+Wed Sep 10 11:53:02 CST 2025
+Wed Sep 10 11:55:22 CST 2025
+Wed Sep 10 11:56:27 CST 2025
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
