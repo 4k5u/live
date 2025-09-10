@@ -287,3 +287,9 @@ Wed Sep 10 16:38:33 CST 2025
 Wed Sep 10 16:39:34 CST 2025
 添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除taitehambelton https://edge14-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-83e45f60c9419d1466c99542a12280ba14edbee458101058535630bed20c75d2_trns_h264/playlist.m3u8
+Wed Sep 10 16:54:40 CST 2025
+Wed Sep 10 16:54:57 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Wed Sep 10 16:57:17 CST 2025
+Wed Sep 10 16:58:19 CST 2025
+删除angelovo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yl9oyxCZgYoh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lsOW95eENaZ1lvaCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RDBBOUI4RC03QjYyLTQ4QTItQTU2My02Nzg0MjAzQkMxQ0QiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzQzMjg0NywiZXhwIjoxNzU3NDMzNDQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.5rBLeUJxw6ec8mUfk0bqCoTjUDBzXA0UjsrmBz3k--5E-A6nrHcJ2IfdEciDETU1BZyzgyXmBsz_OlUVq9daPIcR_3aicGrUnxXtlELaz-jxlzKWkdCEhmaNdQnJlYOV
