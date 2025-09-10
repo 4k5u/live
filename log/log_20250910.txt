@@ -261,3 +261,8 @@ Wed Sep 10 15:26:12 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
 删除tw_Sutew https://edge-hls.doppiocdn.live/hls/104933496/master/104933496_auto.m3u8
+Wed Sep 10 15:35:34 CST 2025
+Wed Sep 10 15:35:49 CST 2025
+Wed Sep 10 15:38:08 CST 2025
+Wed Sep 10 15:39:13 CST 2025
+删除my_eyes_higher https://edge12-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-454491bb10e546cbcdcdd2ea390d2de577cd719eb027654582a7e5aba0aca645_trns_h264/playlist.m3u8
