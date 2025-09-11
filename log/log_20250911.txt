@@ -225,3 +225,11 @@ Thu Sep 11 11:55:33 CST 2025
 Thu Sep 11 11:55:52 CST 2025
 Thu Sep 11 11:58:06 CST 2025
 Thu Sep 11 11:59:09 CST 2025
+Thu Sep 11 12:27:19 CST 2025
+Thu Sep 11 12:27:36 CST 2025
+Thu Sep 11 12:29:52 CST 2025
+Thu Sep 11 12:30:56 CST 2025
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除taitehambelton https://edge3-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-48976fd7b09ccce50af5788c63b04bb38593d0dbc79793674a0d1fda53687f2d_trns_h264/playlist.m3u8
