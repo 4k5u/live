@@ -317,3 +317,10 @@ Thu Sep 11 16:39:08 CST 2025
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加honey_pinkgreen https://edge22-atl.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-44b96f6169466331d7f63fbbc37fa5061dbc0faa449bfdfe9ad3bbc314067ed4_trns_h264/playlist.m3u8
+Thu Sep 11 16:53:12 CST 2025
+Thu Sep 11 16:53:35 CST 2025
+添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Thu Sep 11 16:55:55 CST 2025
+Thu Sep 11 16:56:57 CST 2025
+添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
