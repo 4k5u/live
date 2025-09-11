@@ -211,3 +211,11 @@ Thu Sep 11 10:58:10 CST 2025
 Thu Sep 11 11:00:15 CST 2025
 Thu Sep 11 11:01:10 CST 2025
 添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+Thu Sep 11 11:34:47 CST 2025
+Thu Sep 11 11:35:02 CST 2025
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Thu Sep 11 11:37:23 CST 2025
+Thu Sep 11 11:38:27 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除taitehambelton https://edge25-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-7537f1c143ee743c503b06df11e354fde17912ff2c98619344d57239fb2a924a_trns_h264/playlist.m3u8
