@@ -345,3 +345,7 @@ Thu Sep 11 17:45:51 CST 2025
 删除bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
 删除Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+Thu Sep 11 17:54:39 CST 2025
+Thu Sep 11 17:55:08 CST 2025
+Thu Sep 11 17:57:09 CST 2025
+Thu Sep 11 17:58:04 CST 2025
