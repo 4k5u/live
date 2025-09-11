@@ -158,3 +158,9 @@ Fri Sep 12 05:51:34 CST 2025
 Fri Sep 12 05:53:46 CST 2025
 Fri Sep 12 05:54:47 CST 2025
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+Fri Sep 12 06:03:32 CST 2025
+Fri Sep 12 06:03:45 CST 2025
+Fri Sep 12 06:05:58 CST 2025
+Fri Sep 12 06:07:00 CST 2025
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
