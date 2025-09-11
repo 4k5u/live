@@ -517,3 +517,13 @@ Thu Sep 11 23:30:10 CST 2025
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.pfyLITyQ8NgVuWCmF35bu5uB1uD0sphio5Od25EnkFo8oVrOlfeXTbf3rBFJKs0HqLLa0X4pMq4nSpglJC8x6VFaXaxy74ghFSUVVUCr9O7yhHmKYmRh9ypZgobVfeOQHPCc1vQGF87xh_MTjIudCuGPSvKMzCyIgT60EiDFRz2EPqbF1A_9g8ukFaL6caEK
+Thu Sep 11 23:40:47 CST 2025
+Thu Sep 11 23:41:34 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
+Thu Sep 11 23:43:52 CST 2025
+Thu Sep 11 23:44:55 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.VYs2Yz369cZs7MOePU1aprEExwOQJt5LikI_VXMcZMJmlZMdZewkddwbxIlk7GniE3VHKrsU402jJF_C2Wa1JTyQS7QjxNXBQOOgypwYushr0ITKob77uHMetIsx-RW5T31z1s-eYPvA3OO91U95itruCESY_P2G02gdtXcko8bUjlrCELrMeaYR203SIQjT
+删除mini10062 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WUDWbjGalIfX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dVRFdiakdhbElmWCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDN0Y2MjQwNC1DQTY1LTREODEtOTBFNy05M0Y1MEExRTJBRjciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzU5NTA3MSwiZXhwIjoxNzU3NTk1NjcxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.dhdLnkFMxp1HbqqJ-QnoFoBT5cH9jVah9ZOdLDCFBNkKuzUaJ6h4n7jKkPHGQpaLRFBsRlp28yIuVFsBUNGLbnqwyBFggqkIUwhTiczs-k8stGr4nVwbbZ4cxvJQrACD
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
