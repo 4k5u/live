@@ -233,3 +233,9 @@ Thu Sep 11 12:30:56 CST 2025
 删除TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除taitehambelton https://edge3-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-48976fd7b09ccce50af5788c63b04bb38593d0dbc79793674a0d1fda53687f2d_trns_h264/playlist.m3u8
+Thu Sep 11 12:45:04 CST 2025
+Thu Sep 11 12:45:19 CST 2025
+Thu Sep 11 12:47:33 CST 2025
+Thu Sep 11 12:48:35 CST 2025
+删除mini2121 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uONLeUcpIMIq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VPTkxlVWNwSU1JcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNDNDMDcxMi01MTM0LTQ2QkUtQTY4MS05MzA3MEVGQ0UxNjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzU1NTYzOSwiZXhwIjoxNzU3NTU2MjM5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.1ZCgNyhz748xUKzPMTadjsRpBQaicQmH3ZjW7ktnx8chnmkfUswBqWspYY1ripr7NzdEi_4LWPK0uQfcoTYOWkR5P-K4qF14D2u6v-73yorD-X9Y2fcnkINZf5QUr1mG
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
