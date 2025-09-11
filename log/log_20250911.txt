@@ -253,3 +253,9 @@ Thu Sep 11 13:30:31 CST 2025
 删除100042 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.psARrA0fvXya.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BzQVJyQTBmdlh5YSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4N0JGNjY4Ni04OTkyLTQwRTgtQkU0Ri1CRjhCMzc0MDYxNTkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzU1NTYzNCwiZXhwIjoxNzU3NTU2MjM0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2YIQd6VIkIDlTXWw9SNCj_8kF1IHPxmwVH6WpXUc5MsAG7Rfkpyz72rIpsFNntQfYZrXjJXJ6aET3AnntKC2dmse4KvqobY5x5n2VyseAwc4_AvbW-R3IdyTA1BfHhqr
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Thu Sep 11 13:43:52 CST 2025
+Thu Sep 11 13:44:07 CST 2025
+Thu Sep 11 13:46:09 CST 2025
+Thu Sep 11 13:47:04 CST 2025
+添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
