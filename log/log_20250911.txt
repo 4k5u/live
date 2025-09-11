@@ -219,3 +219,9 @@ Thu Sep 11 11:38:27 CST 2025
 添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除taitehambelton https://edge25-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-7537f1c143ee743c503b06df11e354fde17912ff2c98619344d57239fb2a924a_trns_h264/playlist.m3u8
+添加taitehambelton https://edge3-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-48976fd7b09ccce50af5788c63b04bb38593d0dbc79793674a0d1fda53687f2d_trns_h264/playlist.m3u8
+Thu Sep 11 11:55:33 CST 2025
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.AzTFfdrzpRaq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F6VEZmZHJ6cFJhcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1QTE4RUYzQS1CRjk0LTQ4QUQtQTg2Mi05N0E0OEM0RERFNUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzU2MjkzNiwiZXhwIjoxNzU3NTYzNTM2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.XaHkdbyeFjUWt3sA6htXzMtgTq4t9I1_WMY8UHOpmEr8h7FoNcRgcdgoTq6rdS08GvzT_jrNnQCmS56AC3fvYRrI47-doRQtw5G3CUrQFJSVoPnTqhTS5veiBpfXcur-
+Thu Sep 11 11:55:52 CST 2025
+Thu Sep 11 11:58:06 CST 2025
+Thu Sep 11 11:59:09 CST 2025
