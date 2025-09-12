@@ -288,3 +288,11 @@ Fri Sep 12 14:55:08 CST 2025
 Fri Sep 12 14:57:10 CST 2025
 Fri Sep 12 14:58:05 CST 2025
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Fri Sep 12 15:21:07 CST 2025
+添加podo0311 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CsHMupBvEh6a.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NzSE11cEJ2RWg2YSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQzg5MjhDOC00RjAxLTQyODgtQUE5OC1CQzAwREM3QTczNjgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzY2MTY4MCwiZXhwIjoxNzU3NjYyMjgwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pYOzE5YrEke0PywyzcoVuLQXND7kUbLBlwvEdfF19ws2CS38u0iskhMkfreJ5s7zCe3-UG9eOVEQHIruz72USEg4a2YJKBQk_dVsRjMxYHLBLE0wXQYJpRXWuXfFQ0U8
+Fri Sep 12 15:21:28 CST 2025
+Fri Sep 12 15:23:44 CST 2025
+添加luvje000 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Gf5iahKoTfZt.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9HZjVpYWhLb1RmWnQiLCJleHAiOjE3NTc3MDQxNTEyOTUsImlhdCI6MTc1NzY2MDk1MX0.LLVLBet5p3ulA2_PSgV-RndIBKz_bWIONczU7uT1Og5u-yv1JTswl4S4mGpYJiYDKj0AIOHP3DimmTQqCkRzz-HGE5dncYYONrkNqofV4ICRBfXKYYkbQvEW20I14LNE
+Fri Sep 12 15:24:49 CST 2025
+删除taitehambelton https://edge29-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-215d6fe581d20b3f0676e109216131fb3ff22e9a9b3625162a05ef28ad222065_trns_h264/playlist.m3u8
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
