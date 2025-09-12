@@ -353,3 +353,9 @@ Fri Sep 12 17:54:00 CST 2025
 Fri Sep 12 17:56:11 CST 2025
 Fri Sep 12 17:57:12 CST 2025
 删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
+Fri Sep 12 18:24:56 CST 2025
+添加jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NzhFQTQzQi0zRDMxLTRERjctOEJGNS00MDhEQ0Y5QUFCMjAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzY3MjcwMCwiZXhwIjoxNzU3NjczMzAwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.rvVtgATI8geQnDkBzzotXYxqiX_lbGasxyXkdPfYgdlsH1c7emqj1Ci9uUdVFAtU3dXGeMWeM6TjhWJHNNcfHFb_uY8XJKcrbsSgmyqTU43c6NgcbHDl-XJtBqh2Njfp
+Fri Sep 12 18:25:20 CST 2025
+Fri Sep 12 18:27:20 CST 2025
+Fri Sep 12 18:28:16 CST 2025
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
