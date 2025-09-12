@@ -283,3 +283,8 @@ Fri Sep 12 14:36:57 CST 2025
 Fri Sep 12 14:37:59 CST 2025
 添加syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+Fri Sep 12 14:54:51 CST 2025
+Fri Sep 12 14:55:08 CST 2025
+Fri Sep 12 14:57:10 CST 2025
+Fri Sep 12 14:58:05 CST 2025
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
