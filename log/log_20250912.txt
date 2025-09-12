@@ -296,3 +296,8 @@ Fri Sep 12 15:23:44 CST 2025
 Fri Sep 12 15:24:49 CST 2025
 删除taitehambelton https://edge29-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-215d6fe581d20b3f0676e109216131fb3ff22e9a9b3625162a05ef28ad222065_trns_h264/playlist.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Fri Sep 12 15:32:09 CST 2025
+Fri Sep 12 15:32:28 CST 2025
+Fri Sep 12 15:34:48 CST 2025
+Fri Sep 12 15:35:54 CST 2025
+删除syy9999 https://edge-hls.doppiocdn.live/hls/167046896/master/167046896_auto.m3u8
