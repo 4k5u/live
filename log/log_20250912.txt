@@ -228,3 +228,8 @@ Fri Sep 12 11:41:57 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+Fri Sep 12 11:51:47 CST 2025
+Fri Sep 12 11:51:55 CST 2025
+Fri Sep 12 11:54:07 CST 2025
+Fri Sep 12 11:55:10 CST 2025
+删除taitehambelton https://edge9-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-a610bab5865d7494945fe48487e2433abe4951d521b007c2cbb09641f0c3d789_trns_h264/playlist.m3u8
