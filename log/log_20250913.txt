@@ -268,3 +268,8 @@ Sat Sep 13 13:52:21 CST 2025
 Sat Sep 13 13:53:25 CST 2025
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sat Sep 13 14:01:36 CST 2025
+添加flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.NSHUxphJXrrE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL05TSFV4cGhKWHJyRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1QzBGRDJFQi1BRDRBLTRFRTItOTdBQS05OTQ1MEVGQTg3Q0QiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Nzc0MzI5NywiZXhwIjoxNzU3NzQzODk3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.tMjzgMPMGa2LjMnSY2w5qFF-zOxNefcbznYH_YA2QmQ8wbe7sZBke1HjiS3h47CQkaRsYs5r_ENNXWD0DudSBt_llyUvIE60l4WQ1ua-d9IvlKInABfUGTDVJHCFC1zR
+Sat Sep 13 14:01:44 CST 2025
+Sat Sep 13 14:03:55 CST 2025
+Sat Sep 13 14:04:56 CST 2025
