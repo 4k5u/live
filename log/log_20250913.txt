@@ -223,3 +223,8 @@ Sat Sep 13 11:27:51 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除_meganmeow_ https://edge19-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-4baa08788f54a82858f285f75a0ce43733dacf78811ed018ca21e671197030b4_trns_h264/playlist.m3u8
+Sat Sep 13 11:43:29 CST 2025
+Sat Sep 13 11:43:38 CST 2025
+Sat Sep 13 11:45:48 CST 2025
+Sat Sep 13 11:46:49 CST 2025
+添加Jennie_Spa https://edge-hls.doppiocdn.live/hls/111252860/master/111252860_auto.m3u8
