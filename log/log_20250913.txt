@@ -472,3 +472,10 @@ Sat Sep 13 21:19:13 CST 2025
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除my_eyes_higher https://edge11-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8c64fcbe277c285005826f8475b1a58bb29f73aea159c3765c6905ba69a576a3_trns_h264/playlist.m3u8
 删除navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Sat Sep 13 21:32:54 CST 2025
+添加lorins2002 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.aPMytxIZ39LN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2FQTXl0eElaMzlMTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5N0FFNzQ3MC1GOTgyLTQ5MjctQkUxRi1BMzY3NjVCQ0U4ODciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Nzc3MDQwMSwiZXhwIjoxNzU3NzcxMDAxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.SW3j_4B79DAqlAEYFokgwl4AT3pIkMuRD4OYoQxcJq_mBQvrGwrv1vg-zWhIRBNAcEJoU5AFGQ4j-YKxWJ3TIt8IiTJ6yGASayAHeElqL1MrXNeRM716hSnKTxhSkaox
+Sat Sep 13 21:33:47 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Sat Sep 13 21:35:52 CST 2025
+Sat Sep 13 21:36:49 CST 2025
+添加jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
