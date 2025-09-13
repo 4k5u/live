@@ -371,3 +371,8 @@ Sat Sep 13 17:43:15 CST 2025
 Sat Sep 13 17:44:18 CST 2025
 删除my_eyes_higher https://edge5-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-54fa819950512821e9beb92468c1f57e9e611de0ab57201f82fd6ce3ec40c57c_trns_h264/playlist.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Sat Sep 13 17:52:03 CST 2025
+Sat Sep 13 17:52:26 CST 2025
+Sat Sep 13 17:54:51 CST 2025
+Sat Sep 13 17:56:01 CST 2025
+删除ad0res https://edge30-atl.live.mmcdn.com/live-hls/amlst:ad0res-sd-147aa89d28196f05d8dc32cc852b47e444e5e2afa4c0aae46d029c71ca79163b_trns_h264/playlist.m3u8
