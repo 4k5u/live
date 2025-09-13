@@ -119,3 +119,10 @@ Sun Sep 14 03:55:38 CST 2025
 Sun Sep 14 03:56:39 CST 2025
 添加Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 删除lorins2002 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.aPMytxIZ39LN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2FQTXl0eElaMzlMTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNEE3MTgyQy03NzgxLTRDMTgtOTA3OS1CMDk5RTI2ODJGNkYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Nzc4ODA4MSwiZXhwIjoxNzU3Nzg4NjgxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.VwZ3h9Kz3WGaayv2WfHdyYuNpKUdALUEB_qJ4jyAaQpRnnQc1eg1gBUIMgtDho4O43EdLwmt8TKhXzpzdnZ5GLqQ_Ngjkzaa0iASg1-RPEZa3qs29Nw9yoD5MW-XDL0N
+添加mode_bad https://edge25-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-cf2184b3ddc564c1f426f8e87e91bf2d533a525173c1b710ccd3819c7b0228b9_trns_h264/playlist.m3u8
+Sun Sep 14 04:11:00 CST 2025
+Sun Sep 14 04:11:21 CST 2025
+Sun Sep 14 04:13:32 CST 2025
+Sun Sep 14 04:14:32 CST 2025
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
