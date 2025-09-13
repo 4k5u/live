@@ -262,3 +262,9 @@ Sat Sep 13 13:37:52 CST 2025
 Sat Sep 13 13:38:47 CST 2025
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除taitehambelton https://edge28-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-94c6009b52b1f1a47381f2ac46e269988d88fb1edb9415d215c0c8c176f260cd_trns_h264/playlist.m3u8
+Sat Sep 13 13:49:57 CST 2025
+Sat Sep 13 13:50:02 CST 2025
+Sat Sep 13 13:52:21 CST 2025
+Sat Sep 13 13:53:25 CST 2025
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
