@@ -215,3 +215,11 @@ Sat Sep 13 10:59:41 CST 2025
 添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除y0ur1n12486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FZr3uLGAIDq1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZacjN1TEdBSURxMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQzU1Q0EzMy1BQ0Q5LTQ1ODktOTIzRi1CRDUzN0ZDNUJBQzAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzY4Nzc1MiwiZXhwIjoxNzU3Njg4MzUyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.GLkldPwaDIKwm5fvc2WUlN4vPen5H1iVRcLhvMQ6PCdIEAy4IxRmxGnx6lecHwHg6ea-1V9L4qkk2j2pW-sGxVvmzJgLwhWKJshAmGEX2xRDI4VM2G3x3cyecMiMR1uE
+Sat Sep 13 11:24:24 CST 2025
+Sat Sep 13 11:24:33 CST 2025
+Sat Sep 13 11:26:48 CST 2025
+Sat Sep 13 11:27:51 CST 2025
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除_meganmeow_ https://edge19-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-4baa08788f54a82858f285f75a0ce43733dacf78811ed018ca21e671197030b4_trns_h264/playlist.m3u8
