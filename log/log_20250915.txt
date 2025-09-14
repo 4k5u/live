@@ -56,3 +56,9 @@ Mon Sep 15 01:47:53 CST 2025
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+Mon Sep 15 01:59:40 CST 2025
+Mon Sep 15 01:59:57 CST 2025
+Mon Sep 15 02:01:58 CST 2025
+Mon Sep 15 02:02:53 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
