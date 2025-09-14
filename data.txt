@@ -19,5 +19,5 @@ flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_pl
 miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 my_eyes_higher https://edge26-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-fef04047bd6009d4a8b535a45736b0d8585e25cd46a9418fc45a99ddbd54e8eb_trns_h264/playlist.m3u8
-Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
