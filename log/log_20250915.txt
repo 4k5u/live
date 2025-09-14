@@ -141,3 +141,7 @@ Mon Sep 15 05:45:22 CST 2025
 删除yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
 删除hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XrYScAuJzCFf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hyWVNjQXVKekNGZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMzkxMkRCMS00MThGLTQyQjctOTIzOS0xNjMxMUFFMUZFREIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Nzg2MzQ5NSwiZXhwIjoxNzU3ODY0MDk1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.JO7EtsFAPNnmHLLpmDWfUwSv4yqFANb22To3dPceYAobLyZ4uMbBvg5YEiR6L_w-Gfdrig-7hdCOLnTdkJXdYkmEfNdLH6P-PUR5GfaLV_cDa_3Pb-nzzGdxbyQEXU9s
 删除rosyemily https://edge12-sea.live.mmcdn.com/live-hls/amlst:rosyemily-sd-96114c27f5d26dfe0f1711d19bbaca7a2627f8c6055502519e31cec0579deb01_trns_h264/playlist.m3u8
+Mon Sep 15 05:53:28 CST 2025
+Mon Sep 15 05:53:41 CST 2025
+Mon Sep 15 05:56:00 CST 2025
+Mon Sep 15 05:57:06 CST 2025
