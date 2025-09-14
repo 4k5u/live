@@ -157,3 +157,8 @@ Mon Sep 15 06:35:47 CST 2025
 Mon Sep 15 06:38:02 CST 2025
 Mon Sep 15 06:39:04 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Mon Sep 15 06:50:01 CST 2025
+Mon Sep 15 06:50:12 CST 2025
+Mon Sep 15 06:52:40 CST 2025
+Mon Sep 15 06:53:40 CST 2025
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
