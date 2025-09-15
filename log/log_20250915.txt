@@ -485,3 +485,5 @@ Mon Sep 15 23:47:11 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
 删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.pPTYNE0M_OJyMrkT3AxnWKFl6qy06JbvKPU5PGIiXYzvI57b4zB8lv9gWjLFFj43xeWJo4c2CE1ZY4JCvuoxysMrZkpaZ7oCLU9b3Lanc3Je4lodCDNvdeN-CrbuuaJEJjFXKvsSbxXvejqFjOYLfLgo7fEp1_nPnSaMWK7BMh1IBCMEcXGFOg5jc6pDdyqE
+添加rosyemily https://edge2-aus.live.mmcdn.com/live-hls/amlst:rosyemily-sd-34c1d61081c8bea00960519113f8e12086cb8068a24dd17dc6a946b214976fb9_trns_h264/playlist.m3u8
+Mon Sep 15 23:59:52 CST 2025
