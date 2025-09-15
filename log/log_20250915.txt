@@ -369,3 +369,10 @@ Mon Sep 15 19:23:49 CST 2025
 Mon Sep 15 19:24:45 CST 2025
 删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除Tmdgus5411 ?aid=null
+Mon Sep 15 19:33:43 CST 2025
+添加gyg4618 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.BXnRtkAoE1HH.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0JYblJ0a0FvRTFISCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NjUxNTk0QS0xMEI3LTQ1RjEtODA2RC02ODY3OTA2NEE3RkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzkzNjAzMywiZXhwIjoxNzU3OTM2NjMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.U5vzGD9CoV1WlN2cznPiybYWVu0XF3h0jt8TzkWUKAgy2uKY77AjoPZdOt6QqIBLAs23nXONe_CshUzY3UFDlAutNxzcExV8M7A8KLR_rzPgcHtehHv4MVYeUT9U-kOM
+Mon Sep 15 19:34:20 CST 2025
+添加Tmdgus5411 ?aid=null
+Mon Sep 15 19:36:38 CST 2025
+Mon Sep 15 19:37:44 CST 2025
+删除foxylovesyou https://edge9-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b5cdcac1a9d9ffb3030bcc583f7ef636968763948b751194c0105bd5a6aed923_trns_h264/playlist.m3u8
