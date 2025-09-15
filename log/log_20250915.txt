@@ -200,3 +200,11 @@ Mon Sep 15 10:13:41 CST 2025
 添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除mode_bad https://edge8-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-7ec89f2227f7803e34c34f7b857979904c086d3de9eb66dbfc89b39a57bc814c_trns_h264/playlist.m3u8
 删除mazzanti_ https://edge7-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-ebc41f8a75e970ff2458a53638aac301a6229f132d8ea929a72da00fc4e137e6_trns_h264/playlist.m3u8
+Mon Sep 15 11:16:06 CST 2025
+Mon Sep 15 11:16:19 CST 2025
+Mon Sep 15 11:18:34 CST 2025
+Mon Sep 15 11:19:37 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除sexygamesx https://edge11-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-7ead728ec60d6d5b9ef3ff7099abe88abe1720d82724af1d212012140095d8b8_trns_h264/playlist.m3u8
