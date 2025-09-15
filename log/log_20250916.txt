@@ -112,3 +112,9 @@ Tue Sep 16 04:54:12 CST 2025
 Tue Sep 16 04:54:21 CST 2025
 Tue Sep 16 04:56:35 CST 2025
 Tue Sep 16 04:57:37 CST 2025
+Tue Sep 16 05:20:24 CST 2025
+Tue Sep 16 05:20:31 CST 2025
+Tue Sep 16 05:22:49 CST 2025
+Tue Sep 16 05:23:51 CST 2025
+删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+删除holymoly62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WdvC1ozRpNW8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dkdkMxb3pScE5XOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMjM0NzRERi0yMzg2LTQ3RTgtQUNBRS05NzY5NDIxRTAxNjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Nzk2ODg5OCwiZXhwIjoxNzU3OTY5NDk4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.hDfFuXnbk8FqcYf3Z9oZ6d3hne-Nm5CewHQ2hcqLvhrBw68n9aUKf2sd5nhzS8uFqg4HEomFinh5o6iMufg6RSImNQ8FPJPECUSlzPebGfl9t8EHpF0XNSDUQRnEU8Tk
