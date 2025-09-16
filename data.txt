@@ -16,3 +16,4 @@ stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_au
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 tw_Sutew https://edge-hls.doppiocdn.live/hls/104933496/master/104933496_auto.m3u8
 Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8

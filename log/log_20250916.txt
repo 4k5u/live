@@ -257,3 +257,8 @@ Tue Sep 16 15:45:58 CST 2025
 删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Tue Sep 16 15:52:37 CST 2025
+Tue Sep 16 15:52:54 CST 2025
+Tue Sep 16 15:55:10 CST 2025
+Tue Sep 16 15:56:14 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
