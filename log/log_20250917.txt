@@ -166,3 +166,9 @@ Wed Sep 17 06:54:47 CST 2025
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Wed Sep 17 07:01:32 CST 2025
+Wed Sep 17 07:01:43 CST 2025
+Wed Sep 17 07:03:59 CST 2025
+Wed Sep 17 07:05:03 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
