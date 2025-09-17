@@ -268,3 +268,9 @@ Wed Sep 17 14:38:33 CST 2025
 删除yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQzU4RDdFNy0xNTE3LTRCOTctQTdGQS0wRTM4MDZBNjRCNTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODA2NDk4NiwiZXhwIjoxNzU4MDY1NTg2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.yZUaq-13RG7bKFgEdC9XG82JOn7_1a5u7fUBi7__uoWSepZs9oQYRZECXGOjPV8lG7_70ARNrtJC6xVgRSkctLyKSdWmpW-BpmC6MG6a6It5BbdvFmEX361CjeNH6FN7
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加taitehambelton https://edge5-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-0b0d942e3e37c2d4ad2d309f3febb90645e80aceeba143b93b3372fcc643bcc9_trns_h264/playlist.m3u8
+Wed Sep 17 14:53:43 CST 2025
+Wed Sep 17 14:54:00 CST 2025
+Wed Sep 17 14:56:15 CST 2025
+Wed Sep 17 14:57:18 CST 2025
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
