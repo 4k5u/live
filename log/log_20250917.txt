@@ -211,3 +211,9 @@ Wed Sep 17 11:02:35 CST 2025
 Wed Sep 17 11:03:41 CST 2025
 添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+Wed Sep 17 11:34:20 CST 2025
+Wed Sep 17 11:34:27 CST 2025
+Wed Sep 17 11:36:27 CST 2025
+Wed Sep 17 11:37:22 CST 2025
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除hidana https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.s1byvE3HOfIA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3MxYnl2RTNIT2ZJQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NzU0Q0RCNi1DRjZFLTRCQzItQjI4OS02NDQ1QTQwMTczNUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODAxODQxNywiZXhwIjoxNzU4MDE5MDE3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.77gPzJg5KoPDiBHFs76EWAd4b_LCQN0B8i4o-hdhuxmzc-JZP9hSVFo9lNebgsav86GM7Au2TziCiVW7DEaeNCFYSPzihZ0zHJfqpcAWWiUymy31fFDbjUT4gshD7iIJ
