@@ -204,3 +204,10 @@ Wed Sep 17 09:59:22 CST 2025
 删除mode_bad https://edge4-sea.live.mmcdn.com/live-hls/amlst:mode_bad-sd-4cdde23ff616ff0c8a9cb3a27b4594de93a7cbf2dc1aa7a13f1dd1af0e0585b5_trns_h264/playlist.m3u8
 删除hncsphj https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sxeVh17EklfW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3N4ZVZoMTdFa2xmVyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNEEyQUNCQS1CNjM0LTQ4MkEtQjU3My0wNTlGRDI0MzZCNTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODA1Nzc0MywiZXhwIjoxNzU4MDU4MzQzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.8JGICCiSFxmC-eIE8xChT82p4URmDCFx-rzRRy1NJdEo6680BEdmfRqeRq1Vr6_mtLYdk_K3OAimimuY7G9OcfxuqKH3yXmI8DRxawVl3-VdbLB66gUv_riB1onAUntD
 删除sexygamesx https://edge24-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-0c2a65b2f3d4ff6c26fd61e4596333f769f5f24197eb01fefdaac1366fd2b9e6_trns_h264/playlist.m3u8
+添加taitehambelton https://edge5-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-0b0d942e3e37c2d4ad2d309f3febb90645e80aceeba143b93b3372fcc643bcc9_trns_h264/playlist.m3u8
+Wed Sep 17 11:00:10 CST 2025
+Wed Sep 17 11:00:17 CST 2025
+Wed Sep 17 11:02:35 CST 2025
+Wed Sep 17 11:03:41 CST 2025
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
