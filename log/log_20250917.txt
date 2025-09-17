@@ -494,3 +494,11 @@ Wed Sep 17 22:47:45 CST 2025
 Wed Sep 17 22:48:47 CST 2025
 删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.apMPqX_MkqV7Axny72HNN-OFcdGY1HW6HxaRIoKV1Ir_u12RDaQVQWNSveOkUkFbUm1VuOWFT0dJhPjUvkBMBWXohzOAx59tHKVt00cft9SY-4N5LpEYyWU7Eevtm4EH3xbVK0PRLTT1zWUUrriXcq8FtUORV6AggqEy28oZKl8BQzrEO8bl7gXhmrkc5Ocz
 删除bo1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YaadnkvDdaQS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lhYWRua3ZEZGFRUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQUQwQUU5NC0xQUY4LTQ4NDYtQkM1Qy0yMjc1N0ZGMzM2NEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODExMzczOCwiZXhwIjoxNzU4MTE0MzM4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ONzovlx63algk5mKkCsIvxW7cawbY27vHV_8DfsQGfjoApRl2sgPe3dhAxDsh7iTw-PoAMsfGnmAl2dYXHD3yhWmUxd2UoMc3WvrpNVPBd6A7_5mZT4DgoJIBOfLJNrL
+Wed Sep 17 22:59:12 CST 2025
+Wed Sep 17 23:00:05 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Wed Sep 17 23:02:25 CST 2025
+Wed Sep 17 23:03:35 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=null
