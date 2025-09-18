@@ -333,3 +333,8 @@ Thu Sep 18 17:44:25 CST 2025
 Thu Sep 18 17:46:38 CST 2025
 Thu Sep 18 17:47:42 CST 2025
 删除my_eyes_higher https://edge7-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2d545e13b262b780f76fc68aee9201781610f6157f5b178167638cf91f4c6ec6_trns_h264/playlist.m3u8
+Thu Sep 18 17:58:52 CST 2025
+Thu Sep 18 17:59:17 CST 2025
+Thu Sep 18 18:01:18 CST 2025
+Thu Sep 18 18:02:16 CST 2025
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
