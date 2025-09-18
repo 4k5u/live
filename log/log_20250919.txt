@@ -104,3 +104,12 @@ Fri Sep 19 03:43:46 CST 2025
 Fri Sep 19 03:44:09 CST 2025
 Fri Sep 19 03:46:25 CST 2025
 Fri Sep 19 03:47:28 CST 2025
+添加mode_bad https://edge26-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-c1fa88e2ca7aa2463f31fb394d345e14523fd5290f763ac5cbd58b3b7b001fb1_trns_h264/playlist.m3u8
+Fri Sep 19 04:25:52 CST 2025
+Fri Sep 19 04:26:11 CST 2025
+Fri Sep 19 04:28:26 CST 2025
+Fri Sep 19 04:29:30 CST 2025
+删除rico0210 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.UF2fRqfPd4Dv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1VGMmZScWZQZDREdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEODhDNUVDMy00RDhDLTQ3QzgtOTkyMi1CQzA0NkU4QzEyNzAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODIwMDAwMSwiZXhwIjoxNzU4MjAwNjAxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Qtu-vTJIqkYsFfuwGmEcxigLhCJDbD-F-Ha3xabHbAV1AScT8-WiPNfHhG0VlNBxzq74yVx3DcBbjTz4f5T1O0xOtvyX38W1tkHR7LFR4vJ9sQqrpRIbd90n5iopRcId
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除kiriko_chan https://edge15-lax.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-cc36bef102a493de1161acf26fd84d2f9d90af1cb63fc5c8203752a37965a9d9_trns_h264/playlist.m3u8
