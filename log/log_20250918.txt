@@ -328,3 +328,8 @@ Thu Sep 18 17:26:28 CST 2025
 Thu Sep 18 17:29:23 CST 2025
 Thu Sep 18 17:30:39 CST 2025
 删除taitehambelton https://edge27-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-ff7bea70dcf6164126a94e990fd48c679df5c4e565ebc58a0c84d7992b9ee545_trns_h264/playlist.m3u8
+Thu Sep 18 17:43:59 CST 2025
+Thu Sep 18 17:44:25 CST 2025
+Thu Sep 18 17:46:38 CST 2025
+Thu Sep 18 17:47:42 CST 2025
+删除my_eyes_higher https://edge7-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2d545e13b262b780f76fc68aee9201781610f6157f5b178167638cf91f4c6ec6_trns_h264/playlist.m3u8
