@@ -217,3 +217,11 @@ Thu Sep 18 11:04:57 CST 2025
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除kiriko_chan https://edge12-aus.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-f67057f443c20f17bbd6f570fafe615b8d1d59ce5e411e61fce850057a678a00_trns_h264/playlist.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加my_eyes_higher https://edge12-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1f7a2179fc57692540af2d587a57d1b93943976bdfa7a75c976c46c016113a44_trns_h264/playlist.m3u8
+Thu Sep 18 11:37:42 CST 2025
+Thu Sep 18 11:37:53 CST 2025
+Thu Sep 18 11:40:03 CST 2025
+Thu Sep 18 11:41:06 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8

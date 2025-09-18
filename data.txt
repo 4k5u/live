@@ -10,3 +10,7 @@ hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_play
 stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+my_eyes_higher https://edge12-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1f7a2179fc57692540af2d587a57d1b93943976bdfa7a75c976c46c016113a44_trns_h264/playlist.m3u8
+Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
