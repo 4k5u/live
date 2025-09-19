@@ -7,3 +7,4 @@ mini2121 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+taitehambelton https://edge11-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-057d1d8b9a278022c5126bb5d2256aa7a3f8c380a70589c61863acf1da9648a6_trns_h264/playlist.m3u8
