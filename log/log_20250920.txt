@@ -171,3 +171,8 @@ Sat Sep 20 05:59:25 CST 2025
 Sat Sep 20 06:01:54 CST 2025
 Sat Sep 20 06:03:01 CST 2025
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+添加sexygamesx https://edge9-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-6707559cffbc8aca6a66f17d994a1794ca2339a5b4dc9170281d7f9b74c4fffc_trns_h264/playlist.m3u8
+Sat Sep 20 06:22:37 CST 2025
+Sat Sep 20 06:22:50 CST 2025
+Sat Sep 20 06:25:01 CST 2025
+Sat Sep 20 06:26:02 CST 2025
