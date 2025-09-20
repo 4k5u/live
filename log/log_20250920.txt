@@ -297,3 +297,11 @@ Sat Sep 20 14:50:13 CST 2025
 Sat Sep 20 14:52:16 CST 2025
 Sat Sep 20 14:53:12 CST 2025
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Sat Sep 20 15:01:42 CST 2025
+添加pandaclass https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HokIhTiNoJCw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hva0loVGlOb0pDdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNUYxMjU1MS1BNzYwLTRBNEYtQjI5Ny1EMEExNDczOTY0NjgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODM1MTcxMSwiZXhwIjoxNzU4MzUyMzExLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.W6psbPDkxEbw48vUcvzBKf-QZQgx_xLEp195zZ6mG8t7TS0puxJ6yid4gowVU0lGn67NeZWDwTeEucr6ekno26FLivkJv0YFDjR6VQ3B2qouASmGaLpUev5TWnPPqOmX
+Sat Sep 20 15:01:59 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Sat Sep 20 15:04:03 CST 2025
+Sat Sep 20 15:04:58 CST 2025
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
