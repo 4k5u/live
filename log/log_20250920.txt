@@ -361,3 +361,10 @@ Sat Sep 20 17:02:12 CST 2025
 Sat Sep 20 17:04:27 CST 2025
 Sat Sep 20 17:05:23 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加ad0res https://edge13-atl.live.mmcdn.com/live-hls/amlst:ad0res-sd-ac6db2c14cabade02edf8d1265df716cc66283fb609937b5eab425e3326952ec_trns_h264/playlist.m3u8
+Sat Sep 20 17:26:01 CST 2025
+Sat Sep 20 17:26:16 CST 2025
+Sat Sep 20 17:28:56 CST 2025
+Sat Sep 20 17:29:57 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
