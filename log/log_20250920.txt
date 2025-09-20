@@ -409,3 +409,9 @@ Sat Sep 20 18:51:57 CST 2025
 Sat Sep 20 18:52:52 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+Sat Sep 20 19:00:22 CST 2025
+添加csp1208 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1d4HVInO0aqM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFkNEhWSW5PMGFxTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMTdCMjhDNi1FNzg3LTRBRTktOEZBOS04MTJCNTU1ODE2NzYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODM2NjAyNCwiZXhwIjoxNzU4MzY2NjI0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.sfSUygOS4QtSYK2Bu9UUMoryqDeQ_60SMZP3SmoOEd5PaC3vijWKLj7vjAziU35RlbInGNOm72KR46u4_D4X0zwCfXRARp_G0U4ZMgBoyqyljZgbZ5Wq6LZUjI4qDeC1
+Sat Sep 20 19:00:48 CST 2025
+Sat Sep 20 19:03:04 CST 2025
+Sat Sep 20 19:04:18 CST 2025
+删除ad0res https://edge3-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-ac6db2c14cabade02edf8d1265df716cc66283fb609937b5eab425e3326952ec_trns_h264/playlist.m3u8
