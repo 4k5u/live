@@ -237,3 +237,11 @@ Sun Sep 21 12:04:03 CST 2025
 添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Sun Sep 21 12:31:24 CST 2025
+Sun Sep 21 12:31:38 CST 2025
+Sun Sep 21 12:33:54 CST 2025
+Sun Sep 21 12:34:58 CST 2025
+添加Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除_meganmeow_ https://edge5-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-15fc5491d93a6a7241417b3bc6f30477c779542aaacb68c639517447c5433bfc_trns_h264/playlist.m3u8
+删除mazzanti_ https://edge16-aus.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-720a8a613d63383eb3727630f95f001700670fba5173b8dd24c20df32746f347_trns_h264/playlist.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
