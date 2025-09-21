@@ -30,3 +30,6 @@ Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.
 dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
 Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
