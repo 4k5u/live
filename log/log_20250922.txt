@@ -109,3 +109,8 @@ Mon Sep 22 04:58:18 CST 2025
 Mon Sep 22 04:58:32 CST 2025
 Mon Sep 22 05:00:47 CST 2025
 Mon Sep 22 05:01:48 CST 2025
+添加rosyemily https://edge28-atl.live.mmcdn.com/live-hls/amlst:rosyemily-sd-0ff3ad4debc4aa02423641556241f514648e4ecb36e4c9ec2494c44b9d507120_trns_h264/playlist.m3u8
+Mon Sep 22 05:20:53 CST 2025
+Mon Sep 22 05:21:06 CST 2025
+Mon Sep 22 05:23:21 CST 2025
+Mon Sep 22 05:24:25 CST 2025
