@@ -1,0 +1,7 @@
+Tue Sep 23 00:00:20 CST 2025
+Tue Sep 23 00:01:14 CST 2025
+Tue Sep 23 00:03:15 CST 2025
+Tue Sep 23 00:04:12 CST 2025
+添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
