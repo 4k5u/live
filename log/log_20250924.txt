@@ -1,0 +1,7 @@
+Wed Sep 24 00:02:00 CST 2025
+Wed Sep 24 00:03:04 CST 2025
+添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+添加badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+删除iminako https://edge22-phx.live.mmcdn.com/live-hls/amlst:iminako-sd-4ae653a5b124cea6c28e0c867116a77bd56499cd5c031f11abed948de74df4b7_trns_h264/playlist.m3u8
+删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
