@@ -263,3 +263,8 @@ Tue Sep 23 15:43:05 CST 2025
 Tue Sep 23 15:45:14 CST 2025
 Tue Sep 23 15:46:15 CST 2025
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+Tue Sep 23 15:53:30 CST 2025
+Tue Sep 23 15:53:53 CST 2025
+Tue Sep 23 15:56:06 CST 2025
+Tue Sep 23 15:57:07 CST 2025
+删除mini2121 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uONLeUcpIMIq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VPTkxlVWNwSU1JcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCRTc0MkZCRC0wNzc3LTRCODQtODJEMy1GNzZBQkM4MzdFNUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODU5NTk3NSwiZXhwIjoxNzU4NTk2NTc1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wXNf7WTy5yBOL18s_XAX51CpAJCMDg_0Dg_hEkTdamL1n1RnG-BfFlTBfsncqbPR8yRIQdSU0AZ-dSBDarfouKhD6s9ai7LoAWDhL-_LrYz1Wkh4ocgMQzy05YCylKzT
