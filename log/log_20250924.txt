@@ -195,3 +195,9 @@ Wed Sep 24 11:56:38 CST 2025
 Wed Sep 24 11:57:43 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Wed Sep 24 12:26:43 CST 2025
+Wed Sep 24 12:26:56 CST 2025
+Wed Sep 24 12:29:10 CST 2025
+Wed Sep 24 12:30:13 CST 2025
+删除nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGOEM5MzFCNi1GRjE4LTQ2RjAtQjVBOS0xRTRFNEZFRDhCOEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODYwOTQ1NCwiZXhwIjoxNzU4NjEwMDU0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.CYQ0CCSmudpmOoOGK4lxldhjNxzjG-TeLZN_MjU-6ZK2GxZm5OHoeVBy3KSYeCCpmjScSkekgmGlxCsXVN-bcTCFLiN6kBOo-3LkW8Sw4D80kuWPDy9q11FVzgaFfuDN
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
