@@ -158,3 +158,9 @@ Wed Sep 24 07:43:26 CST 2025
 Wed Sep 24 07:45:42 CST 2025
 Wed Sep 24 07:46:45 CST 2025
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Wed Sep 24 07:59:42 CST 2025
+Wed Sep 24 07:59:51 CST 2025
+Wed Sep 24 08:02:09 CST 2025
+Wed Sep 24 08:03:14 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
