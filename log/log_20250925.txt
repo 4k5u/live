@@ -165,3 +165,8 @@ Thu Sep 25 07:25:49 CST 2025
 Thu Sep 25 07:25:57 CST 2025
 Thu Sep 25 07:28:00 CST 2025
 Thu Sep 25 07:28:55 CST 2025
+Thu Sep 25 07:40:29 CST 2025
+Thu Sep 25 07:40:36 CST 2025
+Thu Sep 25 07:42:37 CST 2025
+Thu Sep 25 07:43:33 CST 2025
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
