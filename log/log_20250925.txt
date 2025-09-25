@@ -229,3 +229,8 @@ Thu Sep 25 13:42:54 CST 2025
 Thu Sep 25 13:43:07 CST 2025
 Thu Sep 25 13:45:21 CST 2025
 Thu Sep 25 13:46:25 CST 2025
+Thu Sep 25 13:58:23 CST 2025
+Thu Sep 25 13:58:37 CST 2025
+Thu Sep 25 14:00:46 CST 2025
+Thu Sep 25 14:01:47 CST 2025
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
