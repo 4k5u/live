@@ -20,3 +20,4 @@ Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
 ad0res https://edge5-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-1df4ccb42cde155c88cf4d59d280815954597cc0a5e64db294602eb35ac5c0bf_trns_h264/playlist.m3u8
 my_eyes_higher https://edge5-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d015ba000bead18552957d26254188083f37ffa6acaa80f20d17f3bf42b8ec2e_trns_h264/playlist.m3u8
 dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Tmdgus5411 ?aid=null
