@@ -11,3 +11,4 @@ rosyemily https://edge2-ash.live.mmcdn.com/live-hls/amlst:rosyemily-sd-875067886
 gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
 calliadesigner https://edge12-aus.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-710f0c1d005c15f5d8a8ba148e316046a301bdd0d2fd414f2300ffdfab940153_trns_h264/playlist.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+mode_bad https://edge4-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-34a90d5ec07fa794495151f1bf18e230219779feb3e0efac47758d5825b561d2_trns_h264/playlist.m3u8

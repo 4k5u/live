@@ -87,3 +87,8 @@ Sat Sep 27 04:02:27 CST 2025
 Sat Sep 27 04:04:28 CST 2025
 Sat Sep 27 04:05:23 CST 2025
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+添加mode_bad https://edge4-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-34a90d5ec07fa794495151f1bf18e230219779feb3e0efac47758d5825b561d2_trns_h264/playlist.m3u8
+Sat Sep 27 04:28:34 CST 2025
+Sat Sep 27 04:28:47 CST 2025
+Sat Sep 27 04:31:01 CST 2025
+Sat Sep 27 04:32:04 CST 2025
