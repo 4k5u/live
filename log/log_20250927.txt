@@ -325,3 +325,7 @@ Sat Sep 27 17:54:56 CST 2025
 Sat Sep 27 17:56:00 CST 2025
 添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Sat Sep 27 18:03:09 CST 2025
+Sat Sep 27 18:03:28 CST 2025
+Sat Sep 27 18:05:50 CST 2025
+Sat Sep 27 18:06:56 CST 2025
