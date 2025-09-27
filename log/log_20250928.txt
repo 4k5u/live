@@ -113,3 +113,9 @@ Sun Sep 28 05:10:06 CST 2025
 Sun Sep 28 05:10:19 CST 2025
 Sun Sep 28 05:12:31 CST 2025
 Sun Sep 28 05:13:34 CST 2025
+Sun Sep 28 05:27:14 CST 2025
+Sun Sep 28 05:27:27 CST 2025
+Sun Sep 28 05:29:40 CST 2025
+Sun Sep 28 05:30:41 CST 2025
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除mode_bad https://edge4-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-887fa297ad4e81cc376ba8a02bba7041860732fc8ff4314894274cde0287db0f_trns_h264/playlist.m3u8
