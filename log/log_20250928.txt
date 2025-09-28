@@ -174,3 +174,8 @@ Sun Sep 28 07:52:41 CST 2025
 Sun Sep 28 07:52:46 CST 2025
 Sun Sep 28 07:54:56 CST 2025
 Sun Sep 28 07:55:58 CST 2025
+Sun Sep 28 08:47:12 CST 2025
+Sun Sep 28 08:47:17 CST 2025
+Sun Sep 28 08:49:18 CST 2025
+Sun Sep 28 08:50:13 CST 2025
+删除mode_bad https://edge18-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-887fa297ad4e81cc376ba8a02bba7041860732fc8ff4314894274cde0287db0f_trns_h264/playlist.m3u8
