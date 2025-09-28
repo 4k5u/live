@@ -108,3 +108,8 @@ Mon Sep 29 04:44:32 CST 2025
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除my_eyes_higher https://edge28-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-59ca82c4b3fd3819c9f8591a210c6d2883cdfc2bd1f1814f38ed7d25d49f6cf2_trns_h264/playlist.m3u8
 删除sexygamesx https://edge19-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-ff43682fab73363c09d477cd5dbf278e153bec8066cc49507f9e5c54d8601c3d_trns_h264/playlist.m3u8
+Mon Sep 29 05:01:23 CST 2025
+Mon Sep 29 05:01:30 CST 2025
+Mon Sep 29 05:03:31 CST 2025
+Mon Sep 29 05:04:26 CST 2025
+删除jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NDU4OTQ5MS1GNzcwLTRDRDctOEUxNi03QjdDQzc2OEY5MDkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTA2NTkzMywiZXhwIjoxNzU5MDY2NTMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.9M7zX6Cr85QF8-HBWDTyX1RD4Ma8KHjO7-kc_kTepfIeS9dSKvI-9YAAgGPBtQqw8pAdZmqAZXfLeCsAWV01PLp7t-IyCX0DA-3EmX8ER4HXjJuf2eW9arr1Ylao5kcx
