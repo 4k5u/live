@@ -369,3 +369,10 @@ Sun Sep 28 19:32:27 CST 2025
 删除hhj11230 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ABhcRJKCxzYA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0FCaGNSSktDeHpZQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MDM3MkI4Qy00NzZCLTRCODYtQUFFRi00RTkyQTA0OEMzMTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTA0ODQwNiwiZXhwIjoxNzU5MDQ5MDA2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.K9-iOvqoz45VreZ5-5bkfeRI8xxs7d7Xt8ZixuX_ZLNp3dASYtbh91fFe57a8YQh6c_lXIUNuUqqo6xwy0JBkcPd2uDyH2dGK8TvgGGsyYm6fCwp_vnASjwNQRZVj4xN
 删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Sun Sep 28 19:42:46 CST 2025
+Sun Sep 28 19:43:13 CST 2025
+Sun Sep 28 19:45:28 CST 2025
+Sun Sep 28 19:46:30 CST 2025
+删除yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+删除iminako https://edge2-phx.live.mmcdn.com/live-hls/amlst:iminako-sd-1fd5b26b49ef717e361c02b5ef7e0620f035c02ac790f6a07ef77e3f713310dc_trns_h264/playlist.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
