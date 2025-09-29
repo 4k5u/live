@@ -120,3 +120,9 @@ Tue Sep 30 03:53:30 CST 2025
 Tue Sep 30 03:53:43 CST 2025
 Tue Sep 30 03:55:56 CST 2025
 Tue Sep 30 03:56:59 CST 2025
+添加mode_bad https://edge25-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-a912aea415fbfb11cc33303f3de38cf3f64cb10069aa915300e616abf5c9cbd2_trns_h264/playlist.m3u8
+Tue Sep 30 04:22:01 CST 2025
+Tue Sep 30 04:22:14 CST 2025
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Tue Sep 30 04:24:34 CST 2025
+Tue Sep 30 04:25:38 CST 2025
