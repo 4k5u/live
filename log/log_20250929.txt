@@ -328,3 +328,10 @@ Mon Sep 29 19:33:04 CST 2025
 添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Rj0NF28SCBVRZT3GmPmmoypj5uIhFahW6LOjFPLdqXOPELNm5cs4pDmMRzkh6Yznl8ZI_vdrMvEyOboJqyKnkAng5lAM-_VZHxePP3URQLGaAYV0Rg4kFsKWFwQApY2lGwMCz6mfx6jOk_9Yvc_2VDlTQeA2Hus1A5NreZ5ty1LXF90bewNkjRzdt2DS6-KF
 Mon Sep 29 19:35:08 CST 2025
 Mon Sep 29 19:36:09 CST 2025
+Mon Sep 29 19:48:20 CST 2025
+Mon Sep 29 19:48:57 CST 2025
+添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.ieTehWMqQFvZpIrpZ95ZnbdQjrHqE0Z1FAMbM1aC4MRPmNFO5kk8hFtwFuwLD9wdKz_OHWbgo6z2mvcoR2AxL1LJ_6SVlmxUB15mERM1riB3oCBn1hTqBBXP1H8OsS-zR8u36Q8k-xJOukVAOarqswnR2ml1NQtsdKJsorfMdt1byvVsmciC7zLxTeVPnsdS
+Mon Sep 29 19:51:20 CST 2025
+Mon Sep 29 19:52:37 CST 2025
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除Tmdgus5411 ?aid=null
