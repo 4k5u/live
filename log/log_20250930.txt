@@ -196,3 +196,9 @@ Tue Sep 30 07:52:38 CST 2025
 Tue Sep 30 07:52:45 CST 2025
 Tue Sep 30 07:54:46 CST 2025
 Tue Sep 30 07:55:42 CST 2025
+Tue Sep 30 08:39:30 CST 2025
+Tue Sep 30 08:39:37 CST 2025
+Tue Sep 30 08:41:47 CST 2025
+Tue Sep 30 08:42:47 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除mode_bad https://edge25-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-a912aea415fbfb11cc33303f3de38cf3f64cb10069aa915300e616abf5c9cbd2_trns_h264/playlist.m3u8
