@@ -1,0 +1,2 @@
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除rosyemily https://edge7-lax.live.mmcdn.com/live-hls/amlst:rosyemily-sd-452ba671a4e6159e5df897c1a048ea2a7d926a0f2f9d0905bef5f6f5fd3c0a9e_trns_h264/playlist.m3u8
