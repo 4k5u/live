@@ -134,3 +134,9 @@ Thu Oct 2 06:28:56 CST 2025
 Thu Oct 2 06:31:16 CST 2025
 Thu Oct 2 06:32:17 CST 2025
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+Thu Oct 2 06:42:07 CST 2025
+添加hncsphj https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sxeVh17EklfW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3N4ZVZoMTdFa2xmVyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MjhERDkyOS1CMkQ5LTRGNEEtQjkyNi0wNjlGMTMxRDVFMTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTM1ODUyNywiZXhwIjoxNzU5MzU5MTI3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.DIWInhUsqhVl_bfS6n8zOozUh2V6Xx7kJ-jXHxb3tgTJoGUa0wHTCxzpiBAiJwTLtBLXuJ4a5-_1pB2tL8i-pOW8x7yg8gdKwLUjzzoFJKsTu6GK7bxkU_XRMGfZeJX9
+Thu Oct 2 06:42:15 CST 2025
+Thu Oct 2 06:44:16 CST 2025
+Thu Oct 2 06:45:11 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
