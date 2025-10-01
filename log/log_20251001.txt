@@ -250,3 +250,9 @@ Wed Oct 1 15:57:53 CST 2025
 Wed Oct 1 15:58:47 CST 2025
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Wed Oct 1 16:30:15 CST 2025
+Wed Oct 1 16:30:34 CST 2025
+添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Wed Oct 1 16:32:51 CST 2025
+Wed Oct 1 16:33:54 CST 2025
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
