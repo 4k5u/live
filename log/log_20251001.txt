@@ -256,3 +256,9 @@ Wed Oct 1 16:30:34 CST 2025
 Wed Oct 1 16:32:51 CST 2025
 Wed Oct 1 16:33:54 CST 2025
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+Wed Oct 1 16:53:35 CST 2025
+Wed Oct 1 16:53:54 CST 2025
+Wed Oct 1 16:56:07 CST 2025
+Wed Oct 1 16:57:12 CST 2025
+删除honey_pinkgreen https://edge3-sea.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-adf41dbc11d954bc7ffe226c93c156466fbd03628938c6a75b0a5083c6098f16_trns_h264/playlist.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
