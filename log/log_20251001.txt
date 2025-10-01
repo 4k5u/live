@@ -236,3 +236,9 @@ Wed Oct 1 15:28:40 CST 2025
 Wed Oct 1 15:30:40 CST 2025
 Wed Oct 1 15:31:34 CST 2025
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Wed Oct 1 15:42:13 CST 2025
+Wed Oct 1 15:42:32 CST 2025
+Wed Oct 1 15:44:48 CST 2025
+Wed Oct 1 15:45:49 CST 2025
+删除homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.55cHFi6IeBXm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzU1Y0hGaTZJZUJYbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MjNBODE1RC1BQjc0LTRENDUtQTJGNC1GMUE1QjkxNEM3NzMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTI5NjIzMCwiZXhwIjoxNzU5Mjk2ODMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.EtkbqndtqBhG_datrsdmBR9MLbjn214o40H728x6ubigi1rezzSDy-PKIuNCnCSxze0-tbs5DxUwSI3cEeQBU8kX24AfWKuUzukPC4vGQ4U6_pzXNiHox-kHqkss9poE
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
