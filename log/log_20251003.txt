@@ -147,3 +147,8 @@ Fri Oct 3 06:26:19 CST 2025
 Fri Oct 3 06:28:33 CST 2025
 Fri Oct 3 06:29:35 CST 2025
 删除calliadesigner https://edge16-aus.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-9db8ab87431799ff772fa8309dd5f94a6b0d46ad86b8800e45564aa5e871e1b5_trns_h264/playlist.m3u8
+Fri Oct 3 06:41:51 CST 2025
+Fri Oct 3 06:42:04 CST 2025
+Fri Oct 3 06:44:19 CST 2025
+Fri Oct 3 06:45:24 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
