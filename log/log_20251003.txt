@@ -174,3 +174,10 @@ Fri Oct 3 07:43:04 CST 2025
 Fri Oct 3 07:43:17 CST 2025
 Fri Oct 3 07:45:32 CST 2025
 Fri Oct 3 07:46:39 CST 2025
+Fri Oct 3 07:59:49 CST 2025
+Fri Oct 3 08:00:02 CST 2025
+Fri Oct 3 08:02:21 CST 2025
+Fri Oct 3 08:03:28 CST 2025
+删除dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.R08hSBzp9fY3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1IwOGhTQnpwOWZZMyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NENBQzc1My1CRjk1LTQxOEYtQTM4Mi03QzBBM0UwQ0E3RDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTQwOTQ4NSwiZXhwIjoxNzU5NDEwMDg1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.IKhkKiRuAPJQ_76bfYgUBENpTfBLsHl_DPYSI5ewfoB-E4qPfXtZiq5CSdPHI5CMsJj7ogWOjEt1HdIWV7YiGQ_GP_W_6U4craZyD_BLzPA3euuUxb4dBoYbbz_1Cowk
+删除mode_bad https://edge12-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-690e35c113d00d0a8473358b29e2cee3976cba120c37c99587c05bbf3b81afe3_trns_h264/playlist.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
