@@ -274,3 +274,10 @@ Fri Oct 3 14:53:52 CST 2025
 Fri Oct 3 14:56:13 CST 2025
 Fri Oct 3 14:57:16 CST 2025
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加taitehambelton https://edge7-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-6340a0b9c5bdb2b824c97c1a71e6678f2dccbbe08811c5b981913ca3bd836a21_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge6-chi.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-73da8406f2071b8f6b568967b14dd4523f9173311979e5c9e89d93ac5725e0b5_trns_h264/playlist.m3u8
+Fri Oct 3 15:28:01 CST 2025
+Fri Oct 3 15:28:22 CST 2025
+Fri Oct 3 15:30:34 CST 2025
+Fri Oct 3 15:31:37 CST 2025
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
