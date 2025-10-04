@@ -162,3 +162,8 @@ Sun Oct 5 07:04:29 CST 2025
 Sun Oct 5 07:06:47 CST 2025
 Sun Oct 5 07:07:47 CST 2025
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+Sun Oct 5 07:27:25 CST 2025
+Sun Oct 5 07:27:30 CST 2025
+Sun Oct 5 07:29:30 CST 2025
+Sun Oct 5 07:30:25 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
