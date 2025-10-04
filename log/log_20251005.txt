@@ -102,3 +102,8 @@ Sun Oct 5 03:56:43 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Sun Oct 5 04:23:09 CST 2025
+Sun Oct 5 04:23:20 CST 2025
+Sun Oct 5 04:25:34 CST 2025
+Sun Oct 5 04:26:38 CST 2025
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
