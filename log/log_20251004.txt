@@ -169,3 +169,11 @@ Sat Oct 4 07:52:38 CST 2025
 Sat Oct 4 07:54:47 CST 2025
 Sat Oct 4 07:55:48 CST 2025
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sat Oct 4 08:03:34 CST 2025
+Sat Oct 4 08:03:39 CST 2025
+Sat Oct 4 08:05:54 CST 2025
+Sat Oct 4 08:06:58 CST 2025
+删除qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBOUU1REMwMC1FOENGLTQyMDMtOTJCOC1CRTMxMjgxMDZBM0EiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTUwNjg4NSwiZXhwIjoxNzU5NTA3NDg1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.rG2vBC5Jv68XwOBiX6nKpwnGG5J9sDJAZ3wLq2p2buc_NIl0fCJw2T6LUOuCnzhyWYi3uMnJUquH19HQUAGyUchsPczM2yUXDAlPbqe58q9bP0zdla0T7FsoPdol1vmS
+删除rosyemily https://edge30-ash.live.mmcdn.com/live-hls/amlst:rosyemily-sd-aaf1e77b16d131d0e57c0430938528320b2674480a3aee83a2bfb41a32d6fd99_trns_h264/playlist.m3u8
+删除mode_bad https://edge15-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-01fbbd269fd758f63d01f2a3be51f89864a51ddd5b81094b48bc54f05c8537b0_trns_h264/playlist.m3u8
+删除sexygamesx https://edge23-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-5db4ad9806131c4eb9e9951c12210a07801f029ead61d2cdf5964cffd30fd56f_trns_h264/playlist.m3u8
