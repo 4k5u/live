@@ -90,3 +90,8 @@ Sun Oct 5 03:30:24 CST 2025
 Sun Oct 5 03:32:38 CST 2025
 Sun Oct 5 03:33:40 CST 2025
 删除uoan2xoak3j0skq https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FHLaTfUZ9rJV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZITGFUZlVaOXJKViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMDkxMTBFMi0wQTY0LTRCMkEtOEM3MS02NDFCMUUwN0U4MzEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTU3ODg0MSwiZXhwIjoxNzU5NTc5NDQxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.VZ472F6ekV9zeEM8-kWAR46JaFc1rioEyKlk5rh59vl_mFdzzUb8yTZTDMrgpmSRAitQtinl5HNsnZdv_mgZ7auF0zAUu8Pe33AYm8oRQ9Nj5nYdVRV9DRXXx7jbQ040
+添加rosyemily https://edge28-ash.live.mmcdn.com/live-hls/amlst:rosyemily-sd-47f6e40f631e0d2fc53b6ad9d90be548d980926d4cba41346bd69f35cd695fb4_trns_h264/playlist.m3u8
+Sun Oct 5 03:41:03 CST 2025
+Sun Oct 5 03:41:14 CST 2025
+Sun Oct 5 03:43:28 CST 2025
+Sun Oct 5 03:44:29 CST 2025

@@ -13,3 +13,4 @@ hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 _meganmeow_ https://edge19-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-12357b5a9db5a3cf7bbbba19afe53b11199f8c858140ea588c8f6abb6efd8140_trns_h264/playlist.m3u8
 m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+rosyemily https://edge28-ash.live.mmcdn.com/live-hls/amlst:rosyemily-sd-47f6e40f631e0d2fc53b6ad9d90be548d980926d4cba41346bd69f35cd695fb4_trns_h264/playlist.m3u8
