@@ -329,3 +329,7 @@ Sat Oct 4 17:44:18 CST 2025
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除ad0res https://edge9-ash.live.mmcdn.com/live-hls/amlst:ad0res-sd-a118fc3e40300b9228f6c3c8b954fc3dbeafe26076bfae1b7f787462313f5ce1_trns_h264/playlist.m3u8
 删除m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+Sat Oct 4 17:51:51 CST 2025
+Sat Oct 4 17:52:06 CST 2025
+Sat Oct 4 17:54:19 CST 2025
+Sat Oct 4 17:55:23 CST 2025
