@@ -337,3 +337,9 @@ Sat Oct 4 18:03:25 CST 2025
 Sat Oct 4 18:03:40 CST 2025
 Sat Oct 4 18:05:56 CST 2025
 Sat Oct 4 18:06:52 CST 2025
+Sat Oct 4 18:28:08 CST 2025
+Sat Oct 4 18:28:23 CST 2025
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Sat Oct 4 18:30:41 CST 2025
+Sat Oct 4 18:31:46 CST 2025
+删除yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
