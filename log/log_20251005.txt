@@ -351,3 +351,7 @@ Sun Oct 5 19:18:58 CST 2025
 Sun Oct 5 19:19:53 CST 2025
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Sun Oct 5 19:30:11 CST 2025
+Sun Oct 5 19:30:22 CST 2025
+Sun Oct 5 19:32:32 CST 2025
+Sun Oct 5 19:33:33 CST 2025
