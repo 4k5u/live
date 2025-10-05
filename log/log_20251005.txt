@@ -299,3 +299,8 @@ Sun Oct 5 16:59:47 CST 2025
 Sun Oct 5 17:01:57 CST 2025
 Sun Oct 5 17:02:58 CST 2025
 删除ad0res https://edge2-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-eb03bb8655995c953471f045121426b0cdb5497ced15c4ebb20aaae4c5049c3a_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge19-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-68f5ea65588e315a952e55aff88591b695910b37bd5116d6a837a26b24b07b0e_trns_h264/playlist.m3u8
+Sun Oct 5 17:23:04 CST 2025
+Sun Oct 5 17:23:15 CST 2025
+Sun Oct 5 17:25:32 CST 2025
+Sun Oct 5 17:26:40 CST 2025
