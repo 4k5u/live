@@ -97,3 +97,10 @@ Mon Oct 6 04:03:32 CST 2025
 删除yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
 删除rosyemily https://edge12-lax.live.mmcdn.com/live-hls/amlst:rosyemily-sd-0923cda5c5643338176d4b35331fc2861e29cd97c6f7e04248781ff1276e9044_trns_h264/playlist.m3u8
 删除calliadesigner https://edge3-aus.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-aac88018e24e7b36fa11701c0ec92e49a310b041956058e3c252b3819fc4ebbb_trns_h264/playlist.m3u8
+添加rosyemily https://edge17-ash.live.mmcdn.com/live-hls/amlst:rosyemily-sd-e44c7fe26e18636100610ea01f9d4897c3a98b7869bdb9d13451522a97d4b9df_trns_h264/playlist.m3u8
+添加_meganmeow_ https://edge23-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-27ed9ebdd771db44a87089673f86dcf9918569ac51037c43afc4694bf8fbdcf2_trns_h264/playlist.m3u8
+添加mode_bad https://edge5-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-5e3bce936999f9c43a5048c45dc5b2abb4c3de6e28be7a5af86d5fef48374018_trns_h264/playlist.m3u8
+Mon Oct 6 04:26:28 CST 2025
+Mon Oct 6 04:26:39 CST 2025
+Mon Oct 6 04:28:50 CST 2025
+Mon Oct 6 04:29:52 CST 2025
