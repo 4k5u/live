@@ -277,3 +277,10 @@ Sun Oct 5 15:33:45 CST 2025
 Sun Oct 5 15:36:00 CST 2025
 Sun Oct 5 15:37:04 CST 2025
 删除my_eyes_higher https://edge12-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b82407d37dfc77cb1a5809f9498edfd511680bf0885449e3cab5940a05acdb42_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge3-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-c985b268d1a8a63bf712cd39372e07e57450d38b073f4b58dcd9251b5696af02_trns_h264/playlist.m3u8
+Sun Oct 5 15:50:24 CST 2025
+Sun Oct 5 15:50:35 CST 2025
+Sun Oct 5 15:52:50 CST 2025
+Sun Oct 5 15:53:51 CST 2025
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
