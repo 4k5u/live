@@ -297,3 +297,8 @@ Mon Oct 6 18:32:59 CST 2025
 添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
 Mon Oct 6 18:35:17 CST 2025
 Mon Oct 6 18:36:20 CST 2025
+Mon Oct 6 18:48:43 CST 2025
+Mon Oct 6 18:48:52 CST 2025
+Mon Oct 6 18:51:02 CST 2025
+Mon Oct 6 18:52:03 CST 2025
+删除dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.R08hSBzp9fY3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1IwOGhTQnpwOWZZMyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQjhFN0U2Qy01QkQ2LTREQTgtQkQwQy1FRDg4MDA2NzgzOUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTU4MDMwOCwiZXhwIjoxNzU5NTgwOTA4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.G_u7obywGK_YU8fcLITTzi96ayicmsN0RnNvLwE8IRiTHfLUcWIO-8Buf2hxn0ANolj0ZDXwRJ8AIcxcmcQfB6JaP67SypX5od-TB51fDyTgfDclB760fPOefYoyeSRP
