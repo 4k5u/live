@@ -327,3 +327,9 @@ Mon Oct 6 19:48:50 CST 2025
 Mon Oct 6 19:51:00 CST 2025
 Mon Oct 6 19:52:01 CST 2025
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Mon Oct 6 19:59:48 CST 2025
+Mon Oct 6 20:00:01 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Mon Oct 6 20:02:21 CST 2025
+Mon Oct 6 20:03:22 CST 2025
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
