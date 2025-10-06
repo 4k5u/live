@@ -2,3 +2,4 @@ angelovo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 rosyemily https://edge9-aus.live.mmcdn.com/live-hls/amlst:rosyemily-sd-41261a0f90f96ebec7dfdf742bea96f389aecbc8486ff8062baa1d7d12b87492_trns_h264/playlist.m3u8
 mode_bad https://edge28-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-0222c1d2a20c478864e1eb734057abe20fa0f359961729699f7f0fcbb39384ac_trns_h264/playlist.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
