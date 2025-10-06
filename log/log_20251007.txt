@@ -108,3 +108,11 @@ Tue Oct 7 06:53:28 CST 2025
 Tue Oct 7 06:55:41 CST 2025
 Tue Oct 7 06:56:44 CST 2025
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+添加sexygamesx https://edge12-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-96ad69e4b6e05ca0d24f4686ddc910cc03c6b29172fe23c2cea0e6d459e0e7d1_trns_h264/playlist.m3u8
+Tue Oct 7 07:21:40 CST 2025
+Tue Oct 7 07:21:43 CST 2025
+Tue Oct 7 07:23:54 CST 2025
+Tue Oct 7 07:24:54 CST 2025
+添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+删除rosyemily https://edge9-aus.live.mmcdn.com/live-hls/amlst:rosyemily-sd-41261a0f90f96ebec7dfdf742bea96f389aecbc8486ff8062baa1d7d12b87492_trns_h264/playlist.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
