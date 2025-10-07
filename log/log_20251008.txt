@@ -103,3 +103,8 @@ Wed Oct 8 05:51:00 CST 2025
 Wed Oct 8 05:51:03 CST 2025
 Wed Oct 8 05:53:19 CST 2025
 Wed Oct 8 05:54:23 CST 2025
+Wed Oct 8 06:05:02 CST 2025
+Wed Oct 8 06:05:05 CST 2025
+Wed Oct 8 06:07:15 CST 2025
+Wed Oct 8 06:08:16 CST 2025
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
