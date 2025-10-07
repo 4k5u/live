@@ -31,3 +31,8 @@ Wed Oct 8 01:50:22 CST 2025
 Wed Oct 8 01:52:36 CST 2025
 Wed Oct 8 01:53:41 CST 2025
 添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+Wed Oct 8 02:01:22 CST 2025
+Wed Oct 8 02:01:37 CST 2025
+Wed Oct 8 02:03:42 CST 2025
+Wed Oct 8 02:04:41 CST 2025
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
