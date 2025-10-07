@@ -2,3 +2,4 @@ angelovo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 mode_bad https://edge28-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-0222c1d2a20c478864e1eb734057abe20fa0f359961729699f7f0fcbb39384ac_trns_h264/playlist.m3u8
 sexygamesx https://edge12-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-96ad69e4b6e05ca0d24f4686ddc910cc03c6b29172fe23c2cea0e6d459e0e7d1_trns_h264/playlist.m3u8
 fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
