@@ -125,3 +125,10 @@ Wed Oct 8 07:23:34 CST 2025
 Wed Oct 8 07:23:37 CST 2025
 Wed Oct 8 07:25:40 CST 2025
 Wed Oct 8 07:26:37 CST 2025
+Wed Oct 8 07:35:24 CST 2025
+Wed Oct 8 07:35:27 CST 2025
+Wed Oct 8 07:37:33 CST 2025
+Wed Oct 8 07:38:41 CST 2025
+添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+删除mode_bad https://edge15-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-df3b0ac47f24739d2b1c55ed9193dcd4e91dda2cb13a46656689e4ae90ad6f93_trns_h264/playlist.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
