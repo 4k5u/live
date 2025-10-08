@@ -280,3 +280,8 @@ Wed Oct 8 18:01:57 CST 2025
 删除Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Wed Oct 8 18:28:18 CST 2025
+Wed Oct 8 18:28:35 CST 2025
+Wed Oct 8 18:30:42 CST 2025
+Wed Oct 8 18:31:40 CST 2025
+删除Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
