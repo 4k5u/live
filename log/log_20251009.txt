@@ -57,3 +57,8 @@ Thu Oct 9 03:18:43 CST 2025
 Thu Oct 9 03:21:00 CST 2025
 Thu Oct 9 03:22:01 CST 2025
 删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Thu Oct 9 03:30:46 CST 2025
+Thu Oct 9 03:30:57 CST 2025
+Thu Oct 9 03:33:11 CST 2025
+Thu Oct 9 03:34:15 CST 2025
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
