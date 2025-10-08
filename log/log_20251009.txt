@@ -62,3 +62,9 @@ Thu Oct 9 03:30:57 CST 2025
 Thu Oct 9 03:33:11 CST 2025
 Thu Oct 9 03:34:15 CST 2025
 删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+添加kiriko_chan https://edge3-chi.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-3d69f77b81b449e35e3736fa7c68996439205f3fa9ddd58bb3bbf41c942555bd_trns_h264/playlist.m3u8
+Thu Oct 9 03:43:36 CST 2025
+Thu Oct 9 03:43:47 CST 2025
+Thu Oct 9 03:45:58 CST 2025
+Thu Oct 9 03:46:59 CST 2025
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
