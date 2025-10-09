@@ -413,3 +413,4 @@ Thu Oct 9 23:45:41 CST 2025
 添加-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
 删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Thu Oct 9 23:59:36 CST 2025

@@ -1,0 +1,7 @@
+Fri Oct 10 00:00:05 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Fri Oct 10 00:02:24 CST 2025
+Fri Oct 10 00:03:27 CST 2025
+添加-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+删除rosyemily https://edge30-ash.live.mmcdn.com/live-hls/amlst:rosyemily-sd-e3deb1b317b98061e18fc2f96814dda459064eb4e4b14a5cbee7ab84425e1b18_trns_h264/playlist.m3u8
+删除Tmdgus5411 ?aid=null
