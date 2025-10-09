@@ -153,3 +153,8 @@ Fri Oct 10 07:24:31 CST 2025
 Fri Oct 10 07:25:36 CST 2025
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除sexygamesx https://edge4-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-137656dcba8e5ec355de77c4e84c05ddd376290539a992c5d13cdb7e38be0d3e_trns_h264/playlist.m3u8
+Fri Oct 10 07:39:47 CST 2025
+Fri Oct 10 07:39:52 CST 2025
+Fri Oct 10 07:42:07 CST 2025
+Fri Oct 10 07:43:10 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
