@@ -316,3 +316,9 @@ Thu Oct 9 19:32:46 CST 2025
 Thu Oct 9 19:33:14 CST 2025
 Thu Oct 9 19:35:30 CST 2025
 Thu Oct 9 19:36:35 CST 2025
+Thu Oct 9 19:48:11 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzN0ZDQUQzRi0wNjZBLTQyQTktOTg2Ri03QkIwRjkwNjg3ODgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDAxMDUwNCwiZXhwIjoxNzYwMDExMTA0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.I1CMrzGS0h11qPZJhqQdwJOo0yGW5hhSItB_uZ_GOC4tZStajJrQ1n2sMu4YOtGc3bOj-jaHJ7Fzm-5MIouXnWO1ZDadXDRAk8tDPZxq57neEbFC5gIPsbEgaTXdsTsq
+Thu Oct 9 19:48:39 CST 2025
+Thu Oct 9 19:50:54 CST 2025
+Thu Oct 9 19:51:58 CST 2025
+删除amilia4u https://edge2-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-8978a2e97b24473e41d4cd2d634bc0ba840a71b4d0cf2c36aaf5f414af0da5fb_trns_h264/playlist.m3u8
