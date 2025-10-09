@@ -238,3 +238,11 @@ Thu Oct 9 15:54:47 CST 2025
 Thu Oct 9 15:55:53 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.1AwrWFDimE0qCGPDPnf8L6wi0svUP4Z0aliDWb43Z2lAwdX8kqobQXwTPXrdJNMda6sg_IzfahQCgARK-0omjEtC-tkz3eMJYkOKe9EjmMF6Yo2OcnfAdRZnFlLRU-9y9TkWoLOpPXBBP2tWY9aUV1HNlQW4YtV1fd_yXKxZRmQEQIdBrsO_qN3pEH8b_zvT
+Thu Oct 9 16:36:42 CST 2025
+Thu Oct 9 16:36:53 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Thu Oct 9 16:39:14 CST 2025
+Thu Oct 9 16:40:19 CST 2025
+删除twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.joDS7PqE9CF3-SGmGap0nOj5EkQptkdw0LBzG39gvKorPyLdELcscmOVto8e3AqVSSOzGrgOKM_HfLg0AIhYwa4HtRnLzjHQ_ze9KH1II6BMqfQkkO0T7NwQr357JaSt4Geu0F12Yy3LX50_trldfkVLvYqFW-Ppl_XaMVRzFwWHFERruErAwQ-edWGQgNQl
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.ppYZ8gZPMnDyBJBUTM7RBsCfbpSOa4TLZ6uwMtSPBJLqZY_QjV5_F9HLZMexLSBcyd5u-idlrJyPHyP0TRX_xWX6CJxWLdTGohba_pGZRlwSzqwZ_xO-dVipX-dlmZvHXncuhbY0I3H-Jo33i8Fy-aDBZ5nONGrTnTL7z7deLk2av_89smW2jQDBc9BMXPoU
