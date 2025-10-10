@@ -145,3 +145,8 @@ Sat Oct 11 07:21:25 CST 2025
 Sat Oct 11 07:23:26 CST 2025
 Sat Oct 11 07:24:21 CST 2025
 删除sexygamesx https://edge20-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-547898e35b074ac243d873c8fc75ac8d1f1af11ebc700241b6d08db7009450fd_trns_h264/playlist.m3u8
+Sat Oct 11 07:31:30 CST 2025
+Sat Oct 11 07:31:37 CST 2025
+Sat Oct 11 07:33:38 CST 2025
+Sat Oct 11 07:34:33 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
