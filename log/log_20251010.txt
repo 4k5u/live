@@ -234,3 +234,10 @@ Fri Oct 10 14:02:37 CST 2025
 Fri Oct 10 14:03:39 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+添加my_eyes_higher https://edge20-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-50de3358da5e54388ae823ac9cb9d85e41d155753f5b75608d16e9284bed6899_trns_h264/playlist.m3u8
+Fri Oct 10 14:37:14 CST 2025
+添加heenoo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ywUbkq1nt6bx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3l3VWJrcTFudDZieCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RkRGMkQzRi1DN0UxLTQzNzgtOThFRi00NkVGNDlCRDZDNDMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDA3ODIzOCwiZXhwIjoxNzYwMDc4ODM4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.0WknB-I4_C3szsd8WjNPiEhPHFES3DFwd7Sb5IIPVQi1e4m3YVw2E-OJkpRThD1UaqFc_wOqhZ1OUz5_wHuztQAxmppnDNNRPvAD42UJyLCP-YYiL_KBf0KiHz6r3H9x
+Fri Oct 10 14:37:29 CST 2025
+Fri Oct 10 14:39:42 CST 2025
+Fri Oct 10 14:40:43 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
