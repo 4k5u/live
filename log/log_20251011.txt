@@ -357,3 +357,11 @@ Sat Oct 11 19:22:01 CST 2025
 添加zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除ad0res https://edge28-ash.live.mmcdn.com/live-hls/amlst:ad0res-sd-8acdc403bf59361985bd3df4d4cba7c26aa861d8a37b3dda2368f6f80d5fd6de_trns_h264/playlist.m3u8
+添加rosyemily https://edge24-atl.live.mmcdn.com/live-hls/amlst:rosyemily-sd-9a9d3987d508b2a96353feb94ab835a1601ab5793f7f4289b35f1b57c3aceec5_trns_h264/playlist.m3u8
+添加ad0res https://edge28-ash.live.mmcdn.com/live-hls/amlst:ad0res-sd-8acdc403bf59361985bd3df4d4cba7c26aa861d8a37b3dda2368f6f80d5fd6de_trns_h264/playlist.m3u8
+Sat Oct 11 19:30:01 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCRDNGRkZBMS1ERTdGLTREMEUtQjBBRC03QjQ5QjVCNTUyRTQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDE4MjIxMywiZXhwIjoxNzYwMTgyODEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ROo0mZ-FbR8OE3XwaiD8mqgmMJsQHg2Sgp0MvPw_ZBkbcRpR44c1NdDC36YV9Lg4sylzZ9TXDJnU8AJD2lczol7OZ60rSwoWHsNYPweIeIpb93VjRK_5rcopkuRo9Bc9
+Sat Oct 11 19:30:33 CST 2025
+Sat Oct 11 19:32:54 CST 2025
+Sat Oct 11 19:34:01 CST 2025
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
