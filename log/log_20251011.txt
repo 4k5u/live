@@ -230,3 +230,8 @@ Sat Oct 11 13:45:34 CST 2025
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除unauna99 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.l0eyAfDBv8rs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2wwZXlBZkRCdjhycyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0RDlEMzgxMC1GRjY2LTQxNjMtQTkwQy03NTk3RkY3MUVDNkEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDE1Mjg2MywiZXhwIjoxNzYwMTUzNDYzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.TPN-UOAbcLUr4fDtSq_OEzNSBjM9Ual0jrjb0HZknZnC_JDEWlr3Dadf6ourap5BABAiivcC2OHMUeu-3brFIjh0NwSsZiN8RXX7ZfmwIVUbWmY3BteJE7F6z3cVOFoD
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加taitehambelton https://edge19-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-901eac7e4936f5f5d65742f113012a2e7cec2a67733a41ce16513b04423380fc_trns_h264/playlist.m3u8
+Sat Oct 11 13:53:33 CST 2025
+Sat Oct 11 13:53:46 CST 2025
+Sat Oct 11 13:56:00 CST 2025
+Sat Oct 11 13:57:02 CST 2025
