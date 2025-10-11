@@ -18,3 +18,4 @@ fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
