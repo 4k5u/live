@@ -10,3 +10,4 @@ _meganmeow_ https://edge21-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-9c4f
 calliadesigner https://edge10-ash.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-67045dc67a079ac9f71279bb9eaafa275a9f28b5476fd9418f6fc6eaed0e32d5_trns_h264/playlist.m3u8
 mode_bad https://edge28-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-25e975b4c6c4d59bb2404081c55295826c2d4e5f5fe7445954e5faec71b89bcb_trns_h264/playlist.m3u8
 sexygamesx https://edge23-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-f82872c446364fb4597fcf65b9ee3e68d68c44af778be854bbbd161c2d48db4e_trns_h264/playlist.m3u8
+gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
