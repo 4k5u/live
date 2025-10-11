@@ -14,5 +14,4 @@ Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m
 _meganmeow_ https://edge21-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-9c4f2ac26b140f643a2a4e3676d8d0f8e7ea0e17a1556715b94abed4278754ed_trns_h264/playlist.m3u8
 mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 calliadesigner https://edge10-ash.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-67045dc67a079ac9f71279bb9eaafa275a9f28b5476fd9418f6fc6eaed0e32d5_trns_h264/playlist.m3u8
-l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
 sexygamesx https://edge23-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-34fa9ac10275db7cb8d9a863320df88c390f833556793130b7b060cad4526afa_trns_h264/playlist.m3u8
