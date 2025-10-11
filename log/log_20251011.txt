@@ -245,3 +245,8 @@ Sat Oct 11 14:35:10 CST 2025
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 添加Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 删除100042 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.psARrA0fvXya.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BzQVJyQTBmdlh5YSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFREIzOUJCNS04N0I1LTRBRkMtODkyMC1GRDk1REZDNTY3NzgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDE1MDgxNiwiZXhwIjoxNzYwMTUxNDE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.oAFN5OF6xsypcJ_BckNqYNBm2lXb9VygWTJY9Nts-R_O9H2PnxgzXPTnpcRu7ZQKduJ-zZYZXXItDeyOorTTLy8FXugjODPMHGh0oHiV5zHGUtrAE711Ocx72B8gnWS4
+Sat Oct 11 14:50:00 CST 2025
+Sat Oct 11 14:50:13 CST 2025
+Sat Oct 11 14:52:27 CST 2025
+Sat Oct 11 14:53:29 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
