@@ -280,3 +280,10 @@ Sat Oct 11 16:06:11 CST 2025
 Sat Oct 11 16:07:20 CST 2025
 删除homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.55cHFi6IeBXm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzU1Y0hGaTZJZUJYbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwQzQzMDRBQi0zRjRCLTRFOEUtQjZCMC0xOEE5QkRDMUQyODMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDE2MDIyOCwiZXhwIjoxNzYwMTYwODI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.y2jYgRnqMt47lt04W2iiWee46rBMDy8ayIF18k4i-1Pyn14WRF7Gvl501EnFQ-qgwm4T2Zd74IGHb95kiodX6mXFHDI2-PD7FxGotBlwH4CY-FQno2oJynfZZsRBv0U_
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Sat Oct 11 16:34:07 CST 2025
+Sat Oct 11 16:34:23 CST 2025
+Sat Oct 11 16:36:35 CST 2025
+Sat Oct 11 16:37:38 CST 2025
+删除taitehambelton https://edge19-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-901eac7e4936f5f5d65742f113012a2e7cec2a67733a41ce16513b04423380fc_trns_h264/playlist.m3u8
+删除my_eyes_higher https://edge17-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-fb28f2507db27e97ce746ea38854e5a39012042d6168b1b8c8fbfd5c5bafb63e_trns_h264/playlist.m3u8
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
