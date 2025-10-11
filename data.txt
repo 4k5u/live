@@ -5,3 +5,4 @@ hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 _meganmeow_ https://edge21-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-9c4f2ac26b140f643a2a4e3676d8d0f8e7ea0e17a1556715b94abed4278754ed_trns_h264/playlist.m3u8
 mode_bad https://edge28-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-25e975b4c6c4d59bb2404081c55295826c2d4e5f5fe7445954e5faec71b89bcb_trns_h264/playlist.m3u8
 gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
