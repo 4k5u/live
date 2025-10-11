@@ -102,3 +102,10 @@ Sun Oct 12 03:53:34 CST 2025
 Sun Oct 12 03:53:49 CST 2025
 Sun Oct 12 03:56:06 CST 2025
 Sun Oct 12 03:57:11 CST 2025
+添加mode_bad https://edge28-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-25e975b4c6c4d59bb2404081c55295826c2d4e5f5fe7445954e5faec71b89bcb_trns_h264/playlist.m3u8
+Sun Oct 12 04:12:52 CST 2025
+Sun Oct 12 04:13:07 CST 2025
+Sun Oct 12 04:15:08 CST 2025
+Sun Oct 12 04:16:03 CST 2025
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
