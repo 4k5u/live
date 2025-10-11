@@ -313,3 +313,9 @@ Sat Oct 11 17:41:45 CST 2025
 Sat Oct 11 17:42:49 CST 2025
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除ad0res https://edge4-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-8acdc403bf59361985bd3df4d4cba7c26aa861d8a37b3dda2368f6f80d5fd6de_trns_h264/playlist.m3u8
+Sat Oct 11 17:52:18 CST 2025
+添加mayonz https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qhLEZxB5WQ9A.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FoTEVaeEI1V1E5QSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0N0M0OUQwRS01Q0NBLTREOEQtQkZCNy0wMkRFOUY4QkQ3QzAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDE3NjM0NCwiZXhwIjoxNzYwMTc2OTQ0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.A0y49CG5wWJnxz2Kiveu-1LX3fFMA_HHUxVDsH91AmVSDP-UJQR54IRczREla_TkFxDALbEbsglQYbUddSh1ZrNkxKnneJmOyWCwTpg9A8PvFC3lLWB4ZYbm16gbFXBF
+Sat Oct 11 17:52:36 CST 2025
+Sat Oct 11 17:54:49 CST 2025
+Sat Oct 11 17:55:51 CST 2025
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
