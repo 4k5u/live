@@ -230,3 +230,10 @@ Sun Oct 12 12:29:21 CST 2025
 Sun Oct 12 12:31:39 CST 2025
 Sun Oct 12 12:32:46 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Sun Oct 12 12:43:58 CST 2025
+Sun Oct 12 12:44:13 CST 2025
+Sun Oct 12 12:46:27 CST 2025
+Sun Oct 12 12:47:30 CST 2025
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除ioibibi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.66exLzO8T9sb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzY2ZXhMek84VDlzYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MDE3MkJFQy1DMEZELTQ5MTctODA3Mi0yMURFMjkyNDhFMEUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDIzODcyOSwiZXhwIjoxNzYwMjM5MzI5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.HmcSh5k7GLoDRjn0jWY1Hm0kjiAoLZ8JUmYBxQ-w7SjXO10Om_wX8OfOoUm9bxSn8HinlYF9jtmkd-KQX6C6wuxSy7W0yl-Vb1EKeMcova3r442d3aGH7IUpwYk0G6Ei
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
