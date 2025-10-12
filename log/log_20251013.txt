@@ -16,3 +16,9 @@ Mon Oct 13 00:47:40 CST 2025
 Mon Oct 13 00:48:11 CST 2025
 Mon Oct 13 00:50:13 CST 2025
 Mon Oct 13 00:51:07 CST 2025
+Mon Oct 13 00:59:54 CST 2025
+Mon Oct 13 01:00:23 CST 2025
+Mon Oct 13 01:02:38 CST 2025
+Mon Oct 13 01:03:44 CST 2025
+添加Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
+删除vip000 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vhpckied8hiu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZocGNraWVkOGhpdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFN0ZENzk4RS1GOUUzLTQwQUMtQUMzQS04NDZBQzZFNDU5QjkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDI3ODg1MywiZXhwIjoxNzYwMjc5NDUzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wvnnWKl_LmE5tpg1jfgzGlSk3-ZpHiwuIti49TFWI97wOA1AY7zwlKw3OqtkW8YGXmi47NlxqD-2aXdJkX-XMnxLd2IGxxjJ5m6Mgv0jP66Ndd9-OSPjFTHX8aan70kk
