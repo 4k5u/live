@@ -96,3 +96,11 @@ Mon Oct 13 03:59:57 CST 2025
 Mon Oct 13 04:02:16 CST 2025
 Mon Oct 13 04:03:19 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加mode_bad https://edge18-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-1700a550121f49004b6387c1fa03948ded140ec53b0fcf0ff5490655301e9a7f_trns_h264/playlist.m3u8
+添加sexygamesx https://edge15-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-1bc6f281af4070df55c0e868e9d2d2cdc4e5c96eed275915e4f074c7cd721bdd_trns_h264/playlist.m3u8
+Mon Oct 13 04:26:28 CST 2025
+Mon Oct 13 04:26:33 CST 2025
+Mon Oct 13 04:28:33 CST 2025
+Mon Oct 13 04:29:28 CST 2025
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除calliadesigner https://edge21-sea.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-0178765178f3627e5999eb29de5d1c8d17421e3c20e49e8c684634a5ec04fd4b_trns_h264/playlist.m3u8
