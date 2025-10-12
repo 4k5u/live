@@ -324,3 +324,9 @@ Sun Oct 12 16:46:46 CST 2025
 Sun Oct 12 16:48:58 CST 2025
 Sun Oct 12 16:49:59 CST 2025
 删除taitehambelton https://edge22-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b51d2a03aba676c172de5363cf8a311a98aa7c1cba4884df71572a7cfa6eab7a_trns_h264/playlist.m3u8
+Sun Oct 12 17:00:03 CST 2025
+Sun Oct 12 17:00:16 CST 2025
+Sun Oct 12 17:02:32 CST 2025
+Sun Oct 12 17:03:34 CST 2025
+删除my_eyes_higher https://edge29-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ae10c7a9b1e8d07fe62169f690780fad93de9aa6f61a5fce8b6768b6d0026cc8_trns_h264/playlist.m3u8
+删除ad0res https://edge19-ash.live.mmcdn.com/live-hls/amlst:ad0res-sd-cb17db6ea9d9931d55edaa9a3dfb7c52c37a707bee92903b4f5ae0650a7bfec1_trns_h264/playlist.m3u8
