@@ -112,3 +112,9 @@ Mon Oct 13 04:51:48 CST 2025
 Mon Oct 13 04:51:53 CST 2025
 Mon Oct 13 04:54:05 CST 2025
 Mon Oct 13 04:55:07 CST 2025
+Mon Oct 13 05:09:09 CST 2025
+Mon Oct 13 05:09:14 CST 2025
+Mon Oct 13 05:11:27 CST 2025
+Mon Oct 13 05:12:30 CST 2025
+删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qqjfWikIJTnr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FxamZXaWtJSlRuciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxRjRCMzIyMy1DNTZCLTQxMEUtOTNENi0xMTFGRjM5Q0RDOTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDI4MjY4MCwiZXhwIjoxNzYwMjgzMjgwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.1GRLXVAsiqEeCV6bRlt62xs7leiFw20Sg4htabYjJuobakw0AkQ7ESfDnM_g21UeqgYX1oSEL4sWhkzuip6EQLpZNB-4cNbg-gZfoVtsS8q4zqUwu99xQTtwo7kk-IZm
+删除rosyemily https://edge15-aus.live.mmcdn.com/live-hls/amlst:rosyemily-sd-642e5a46f7975ac64571a35e5baff59c7cc78aa4a50df811b94f0ddead322697_trns_h264/playlist.m3u8
