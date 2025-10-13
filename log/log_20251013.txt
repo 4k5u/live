@@ -237,3 +237,8 @@ Mon Oct 13 14:43:19 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMjk5MTc3MC0wNzMxLTQ4QTgtQjZDNS1DNjc3REZEMDJGQTMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDMxMTMyMCwiZXhwIjoxNzYwMzExOTIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.uVIgt7dkfEmr0rhaUklKqI1ekNrjdiValcHzLCU8P6gH_k7uq7OxEE-pA3p6ZLDx8c1Ig7qhzvOdtLjQJk0EBzcvJ99jaYAOlJpzQssekLhNzFrD34kOP6FQOg63q-mv
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Mon Oct 13 14:57:12 CST 2025
+Mon Oct 13 14:57:25 CST 2025
+Mon Oct 13 14:59:26 CST 2025
+Mon Oct 13 15:00:22 CST 2025
+添加Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
