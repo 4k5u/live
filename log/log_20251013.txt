@@ -247,3 +247,9 @@ Mon Oct 13 15:23:51 CST 2025
 Mon Oct 13 15:26:05 CST 2025
 Mon Oct 13 15:27:08 CST 2025
 添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+Mon Oct 13 15:43:44 CST 2025
+Mon Oct 13 15:43:57 CST 2025
+Mon Oct 13 15:46:11 CST 2025
+Mon Oct 13 15:47:14 CST 2025
+删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
