@@ -12,3 +12,4 @@ heenoo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8

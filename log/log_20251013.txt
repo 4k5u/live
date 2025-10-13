@@ -253,3 +253,8 @@ Mon Oct 13 15:46:11 CST 2025
 Mon Oct 13 15:47:14 CST 2025
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+Mon Oct 13 15:59:38 CST 2025
+Mon Oct 13 15:59:51 CST 2025
+Mon Oct 13 16:02:06 CST 2025
+Mon Oct 13 16:03:10 CST 2025
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
