@@ -95,3 +95,22 @@ Tue Oct 14 05:00:40 CST 2025
 Tue Oct 14 05:01:43 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除mode_bad https://edge18-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-50c586b3b2e4b1ba029568982484b4bd3aef5f00f62309c976fa9064854c0af6_trns_h264/playlist.m3u8
+添加mode_bad https://edge18-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-50c586b3b2e4b1ba029568982484b4bd3aef5f00f62309c976fa9064854c0af6_trns_h264/playlist.m3u8
+Tue Oct 14 05:24:06 CST 2025
+Tue Oct 14 05:24:15 CST 2025
+Tue Oct 14 05:26:29 CST 2025
+Tue Oct 14 05:27:32 CST 2025
+删除moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.18Sh9VG8RRGY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzE4U2g5Vkc4UlJHWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MkI1NEE4RC1DQkJBLTQ1QUQtODU2OS1DMDE1MUQ1RkU4RTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDM2Mjk1NSwiZXhwIjoxNzYwMzYzNTU1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.T8I0h-VNmGoBOcyL0E4GguYCmjkZC3Q8feCACMyGGPAAyPpxWAk3SBAc5OGcsVDADGYvyFR5C5JNrlRqJhRjCuWNNJ_kWhkw7yXYTaknqi5_70sp62S5xM8UrdOnBr-5
+删除holymoly62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WdvC1ozRpNW8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dkdkMxb3pScE5XOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0RTg1N0YzQy1EODQ4LTQwNjUtODU3MS02OTM1RDNDMkY5REQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDM2NTQzNCwiZXhwIjoxNzYwMzY2MDM0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.La91bdJJAEnkBeSwZo05OFzrVejbdM9hvebYdBq_XrfPxIdtazKVCZ8y-NVauvbvUJ29qXXmOCI53gffZgnr-ugQ-2U_qlWtMnQAwg19CygxX5olfYyvr88NTgs_obe3
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
