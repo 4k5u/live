@@ -15,7 +15,7 @@ Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
-mode_bad https://edge18-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-50c586b3b2e4b1ba029568982484b4bd3aef5f00f62309c976fa9064854c0af6_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 sexygamesx https://edge30-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-1522fbe83f6ab8833a5b6c874dd28e875599b8c2dac2f59863d2a2eba3ecab30_trns_h264/playlist.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8

@@ -89,3 +89,9 @@ Tue Oct 14 04:43:45 CST 2025
 Tue Oct 14 04:45:45 CST 2025
 Tue Oct 14 04:46:41 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Tue Oct 14 04:58:13 CST 2025
+Tue Oct 14 04:58:26 CST 2025
+Tue Oct 14 05:00:40 CST 2025
+Tue Oct 14 05:01:43 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除mode_bad https://edge18-atl.live.mmcdn.com/live-hls/amlst:mode_bad-sd-50c586b3b2e4b1ba029568982484b4bd3aef5f00f62309c976fa9064854c0af6_trns_h264/playlist.m3u8
