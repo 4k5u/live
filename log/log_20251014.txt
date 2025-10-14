@@ -249,3 +249,9 @@ Tue Oct 14 15:28:08 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+添加foxylovesyou https://edge4-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-ea6f9690d283693668e5b225a453fc931821c71b7dcea61350b9f57d17b6026d_trns_h264/playlist.m3u8
+Tue Oct 14 15:42:27 CST 2025
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.AzTFfdrzpRaq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F6VEZmZHJ6cFJhcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQTlDODMwNy05MTk4LTQ0RkQtODFCMC1DRjZCMUI3QkQyQUQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDQyNzc1MSwiZXhwIjoxNzYwNDI4MzUxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Vz7VBj9FjSOm5QSyj--BDbD5Fd4PwTchozg8g3-kug8yT3fhbOPNDCAPP7HBuiMziyM8U0eRAxrKNGErgK7wq3iG25R-IdKHItjJA8_PCQLEAcdLZiroMl5HEZWZdcIM
+Tue Oct 14 15:42:47 CST 2025
+Tue Oct 14 15:44:47 CST 2025
+Tue Oct 14 15:45:41 CST 2025
