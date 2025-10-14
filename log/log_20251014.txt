@@ -295,3 +295,8 @@ Tue Oct 14 17:39:27 CST 2025
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 删除foxylovesyou https://edge4-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-ea6f9690d283693668e5b225a453fc931821c71b7dcea61350b9f57d17b6026d_trns_h264/playlist.m3u8
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加my_eyes_higher https://edge24-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-39cfcceb3ade4894332c169cc5642727a142cbc80a931ca4bf722cd04e19f0d6_trns_h264/playlist.m3u8
+Tue Oct 14 17:46:46 CST 2025
+Tue Oct 14 17:47:01 CST 2025
+Tue Oct 14 17:49:14 CST 2025
+Tue Oct 14 17:50:17 CST 2025

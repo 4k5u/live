@@ -19,3 +19,4 @@ y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlis
 amilia4u https://edge14-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-2eb061e98c16e48312140d49da2c5e94653f119bf79baf0f805bce2e038a8850_trns_h264/playlist.m3u8
 alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
 Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+my_eyes_higher https://edge24-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-39cfcceb3ade4894332c169cc5642727a142cbc80a931ca4bf722cd04e19f0d6_trns_h264/playlist.m3u8
