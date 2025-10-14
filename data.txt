@@ -14,3 +14,4 @@ SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u
 my_eyes_higher https://edge20-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-cc5e538054e7029ff5acc7be82c1528191db243de63f3bc4aff34c09a767211b_trns_h264/playlist.m3u8
 zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
 Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
