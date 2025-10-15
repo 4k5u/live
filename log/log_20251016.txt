@@ -175,3 +175,8 @@ Thu Oct 16 07:24:24 CST 2025
 Thu Oct 16 07:25:28 CST 2025
 删除Monica-888 https://edge-hls.doppiocdn.live/hls/149668001/master/149668001_auto.m3u8
 删除_meganmeow_ https://edge7-sea.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-6a8d465c7e7752f95d17f7a588696df1c3601161543a172ad457d6dd3913a043_trns_h264/playlist.m3u8
+Thu Oct 16 07:33:10 CST 2025
+Thu Oct 16 07:33:17 CST 2025
+Thu Oct 16 07:35:17 CST 2025
+Thu Oct 16 07:36:11 CST 2025
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
