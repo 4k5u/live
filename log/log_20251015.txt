@@ -190,3 +190,8 @@ Wed Oct 15 11:50:18 CST 2025
 Wed Oct 15 11:51:21 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Wed Oct 15 12:00:46 CST 2025
+添加mini2121 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uONLeUcpIMIq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VPTkxlVWNwSU1JcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RDdFMDM3Qi05RDlFLTQzRTUtODBGQi1CQzAwRkIxNDg5Q0MiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDUwMDg1MCwiZXhwIjoxNzYwNTAxNDUwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2N4m9PoUQ2N7MrkxuU19yT4ZlPPURq2F0HoHEEIT4wboKkvOs1T1vvetxsEjp75CVjH-up5RO8SX0M-IFMEh-jzDd20vphlrx2mRwZ9zmbmNjmAufQO8Qn5WaK9fSCiy
+Wed Oct 15 12:01:04 CST 2025
+Wed Oct 15 12:03:16 CST 2025
+Wed Oct 15 12:04:18 CST 2025
