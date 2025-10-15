@@ -18,3 +18,4 @@ _meganmeow_ https://edge7-sea.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-6a8d4
 mode_bad https://edge13-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-792510067655c1f1ff1373d712d4fb87a82b5599a778341263a93f3593fc8e57_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
