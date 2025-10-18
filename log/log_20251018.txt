@@ -254,3 +254,11 @@ Sat Oct 18 15:02:27 CST 2025
 Sat Oct 18 15:02:38 CST 2025
 Sat Oct 18 15:04:55 CST 2025
 Sat Oct 18 15:05:59 CST 2025
+Sat Oct 18 15:24:05 CST 2025
+Sat Oct 18 15:24:14 CST 2025
+Sat Oct 18 15:26:30 CST 2025
+Sat Oct 18 15:27:35 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MjFFQjBDNC03OTA1LTQ0MTktOEQ5NC00MjY5RDYyRjQ2OTkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDc0MzIyOSwiZXhwIjoxNzYwNzQzODI5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.R9eqA_uFm65vLGok2iOEwmH5QvSOnwqdG21_YqYftKjHPwlBQg5X5FkHw--2s6c-XfMkWeAHLVaKzoGip500pfSPVO9KExMTqP3TEEsKX1D09GHPD8FO_ul7fbbvyRVS
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
