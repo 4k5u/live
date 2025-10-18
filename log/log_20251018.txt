@@ -269,3 +269,8 @@ Sat Oct 18 15:43:52 CST 2025
 添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Sat Oct 18 15:51:00 CST 2025
+Sat Oct 18 15:51:10 CST 2025
+Sat Oct 18 15:53:25 CST 2025
+Sat Oct 18 15:54:29 CST 2025
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
