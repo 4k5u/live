@@ -11,3 +11,4 @@ starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 sexygamesx https://edge3-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-4451ec4a11c7f0f757f8773e570e50137c60876e3c72296c716988510d9e2bcd_trns_h264/playlist.m3u8
 yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stm-14/auth_master_playlist.m3u8?aid=null
 Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+_meganmeow_ https://edge14-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-c3633f36c276021cb8b249aad1f0e8490f83bc47f057c946551d20acc858abbf_trns_h264/playlist.m3u8
