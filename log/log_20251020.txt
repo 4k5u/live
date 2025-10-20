@@ -176,3 +176,9 @@ Mon Oct 20 12:06:48 CST 2025
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除_meganmeow_ https://edge14-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-c3633f36c276021cb8b249aad1f0e8490f83bc47f057c946551d20acc858abbf_trns_h264/playlist.m3u8
+Mon Oct 20 12:37:28 CST 2025
+添加redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMEFEQTcyMS00ODEyLTQ2NkEtQkM1OC1BQzAxN0NFMTFEQzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDkzNTA1MCwiZXhwIjoxNzYwOTM1NjUwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Mz2_M9Uhi0i-liJJOKMh3lFnVOMbqD6aseKGAZ2sQZFlwTfxIZlMlVuuEEC_G48I0sxawfMKngNifQQiGyWjhEiaZLeESEpmmpNCL9US2jPGknMs5GtYL0NhDQLUKZTQ
+Mon Oct 20 12:37:40 CST 2025
+Mon Oct 20 12:39:55 CST 2025
+Mon Oct 20 12:41:01 CST 2025
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
