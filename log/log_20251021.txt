@@ -343,3 +343,22 @@ Tue Oct 21 19:36:57 CST 2025
 Tue Oct 21 19:38:00 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+Tue Oct 21 19:50:32 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFRjc1OEQ1QS04RjU0LTQ2OTItOUIyQS05QkI0MkY4QTg4NEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTA0NzQ0OSwiZXhwIjoxNzYxMDQ4MDQ5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ugcbPCvnjwJnSwRaHfLYQNld-l8C2nJkB6RgIa_8eIuGwXzMad4UjXXPKGKga3e5mYr57uo0OTn-oeZmfHjciqRqQO0HM-XWxm9vAeFfy51jkV2hIR8XbdWenwcAhyKo
+添加redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEOEIzMDQ1OS1FNzM3LTQxQjUtOEQzRC0zODgwNUVFQkEzQ0IiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTA0NzQ2MCwiZXhwIjoxNzYxMDQ4MDYwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.VD82ya5umbuHNUcF_Ej4tsoTsoRp0dNuqeF2xzJBmqs32zCiQbAMydbbjOtwsKVEoAT-l6T7nNSWl7aTLnMX8Jnf9Qd1i-BwBwIvWVZFEgvsPq8ZoaisjBJpthlmvX-A
+添加thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.IHzboXfOrBld.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0lIemJvWGZPckJsZCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQzI0RTc5RS1DNDUyLTQ4QjMtOEM5RC00NENBOTRGMjdBREUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTA0NzQ2OCwiZXhwIjoxNzYxMDQ4MDY4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.QVaP_sn-LYp6CYCMFO4DTGpfC_GT5qOFVGPZ9GLUcBIvfMVVe5vqp1UlSt2-WnCBLM8EloDaZTvBK7IUR8URfZnfWus14VDoN0VoDQ8002SfTbNhuz32R3lTiVIcNVtB
+Tue Oct 21 19:51:15 CST 2025
+Tue Oct 21 19:53:28 CST 2025
+Tue Oct 21 19:54:32 CST 2025
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
