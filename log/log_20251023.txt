@@ -140,3 +140,8 @@ Thu Oct 23 06:32:55 CST 2025
 Thu Oct 23 06:34:57 CST 2025
 Thu Oct 23 06:35:51 CST 2025
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Thu Oct 23 06:50:04 CST 2025
+Thu Oct 23 06:50:11 CST 2025
+Thu Oct 23 06:52:21 CST 2025
+Thu Oct 23 06:53:21 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
