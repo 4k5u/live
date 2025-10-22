@@ -292,3 +292,11 @@ Wed Oct 22 16:35:38 CST 2025
 Wed Oct 22 16:36:33 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加honey_pinkgreen https://edge4-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-3bb5ca7665eff6561d59fb4336b107ee529337b5ac7b156d76fa5672448000cb_trns_h264/playlist.m3u8
+Wed Oct 22 16:56:44 CST 2025
+Wed Oct 22 16:56:57 CST 2025
+Wed Oct 22 16:59:08 CST 2025
+Wed Oct 22 17:00:10 CST 2025
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除my_eyes_higher https://edge19-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-963465a99a1e94706592f5597ea6466a19ef63b4e058981c9999f630e8fd5bb5_trns_h264/playlist.m3u8
+删除redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNTREMTQyQi0wQ0JFLTQwMUQtOUY3My1DNUNENzVBNkQ4REIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTEyMjAwNCwiZXhwIjoxNzYxMTIyNjA0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.dnh0_6e5_kD_l0ngk036l4j7pKzf2ajfDPm0e359PQYH7SIn5VJ6TdsCidB_-SHSjXLt3iaxjIO70U5PMvCorPrOPDW5IZacR1G30wJGIgmC665pQ3jrxpgxNgm-q2KQ
