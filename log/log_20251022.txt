@@ -387,3 +387,9 @@ Wed Oct 22 19:45:11 CST 2025
 删除Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
 删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Wed Oct 22 19:54:34 CST 2025
+Wed Oct 22 19:55:08 CST 2025
+Wed Oct 22 19:57:09 CST 2025
+Wed Oct 22 19:58:03 CST 2025
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除ake_mi https://edge3-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-31166343da0432562de632a2e5e2a8a157838096d55434ae52eb4a0f270818a2_trns_h264/playlist.m3u8
