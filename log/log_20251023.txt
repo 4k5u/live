@@ -96,3 +96,10 @@ Thu Oct 23 03:46:35 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加mode_bad https://edge10-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-23d7167a23162728fefbfc0a9fd72e9ca27af9abe738709900972a2f31ccbe5a_trns_h264/playlist.m3u8
+Thu Oct 23 04:31:10 CST 2025
+Thu Oct 23 04:31:19 CST 2025
+Thu Oct 23 04:33:34 CST 2025
+Thu Oct 23 04:34:37 CST 2025
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
