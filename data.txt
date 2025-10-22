@@ -18,3 +18,8 @@ suee2332 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.onuBSyluAHWv4gWLk08t9FJMxO_KZLbNTmARqD-f5PF2Wfm4s4WhsyKUVc6Ul3zm05hQX5XxqSWD_Y1zDpdbbC73EqO21dzTu-kfWjoRAgR4HhMzCeHIWQoaYVEjl0JGEkwhOAQ8MgAQUqGcTPbyVzrjaFkhUKkzKs2N2f9yB-bJscg0ZKKWhtKdE-KnG_nC
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 honey_pinkgreen https://edge4-aus.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-3bb5ca7665eff6561d59fb4336b107ee529337b5ac7b156d76fa5672448000cb_trns_h264/playlist.m3u8
+yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.0bCwEbeTRJrwrZs2gF2dcXcAIEF1w-8qh8kMOBtRJbMtVNS1ICV6lxPJ1dGj3_b62W7xJU4PJp2tBXEyh2tjby3lxPZOrOML4TsNHFAg5cNzax5bvawU6RA34PfbmhR_ptI_ApK0ACNaSnXHXzMl761K9kdOQSCW-MJm_zqYWMemypY9nw5exGRzyy0dmL-6
+navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.NNZ6d9Ouz2JPAjzupNda7hKOPsGuEH_BQZ_fMQOQkEQrdKBaW_W7iUI4I2P0e1UoBEDBJ3_nts8F3MG9l-b_7qy3sopwzuDgHsJF4XrHxJX9Kl1V5V_UtZT_zi8k5RrlV0KUxJB6r4bw7YcIYfFzDNCAICZmUXiG5mhqYOzTYjlHvuYFA4wBZ2TO8vOLHuQg
+Luli-bae https://edge-hls.doppiocdn.live/hls/115225393/master/115225393_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
