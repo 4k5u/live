@@ -15,3 +15,5 @@ heenoo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CO0rg6s2RKkP.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NPMHJnNnMyUktrUCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNEEyNzI2RC0xMDU4LTQ5NjAtOUMyQS1FOTIyQTMyQUFBNjgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTExNzg5NiwiZXhwIjoxNzYxMTE4NDk2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.JS4M7R8xQVbPSAWMIdFZ_w76t3z6ARe5odfjUQ3xsdFYncoB4yyLFRNLh2Q4M6Kf7nE1TfbHLceDYD17FAlv9BMSO3w02Nq7G6CYcAVz05C53C9LFuzgF239VG5X1Rx2
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
