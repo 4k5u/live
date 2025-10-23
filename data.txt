@@ -34,3 +34,5 @@ Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_au
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDREVGQUUxQi0xRDE3LTRBMTEtOTY3NS1CM0IxMTU3MDA4QjEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTIzNTI0NywiZXhwIjoxNzYxMjM1ODQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.LqZoqmZzCre1VN-z7DmyKPdLsV6-7HsUozp4tJ-oUtOHHQ1dx6CE67s4Sdd7pHVcxRYfTmtE6ZsHJFsktLZXzkK92Dp8Sc23TpSSSU-8a0Pw_iMm16Tlzy35P61Bo6lq
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
