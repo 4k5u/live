@@ -436,3 +436,12 @@ Thu Oct 23 22:03:08 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+添加ake_mi https://edge23-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-641a8d92263af0b494f25d98a8759c12a9f0b9e92f6e6638f79000df93299f76_trns_h264/playlist.m3u8
+Thu Oct 23 22:29:06 CST 2025
+添加qwe1240 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qt3BjpE5nAwY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3F0M0JqcEU1bkF3WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNjA0OTg3Qy04RTBGLTRDNTMtOTQ2OS04NkVCMTA4OTg0M0UiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTIyOTc4MCwiZXhwIjoxNzYxMjMwMzgwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.7O9ledWdYU1eu-nM8a1a5HFRQ7uQm5jv0nSohmA0djito0DvpD_U3EREi8Vfq3IeinXJHos_SAJQURrwWRYTW5rf8NJ1AdOFxFbDgutbI-BwjRc3TRpiyHEt_2poSnh6
+Thu Oct 23 22:29:56 CST 2025
+Thu Oct 23 22:32:06 CST 2025
+Thu Oct 23 22:33:09 CST 2025
+添加-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
