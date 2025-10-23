@@ -6,3 +6,4 @@ hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 sexygamesx https://edge12-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-02319a0f3329c7bc9bcc757843ab78864d0e21720ef0997c3c4991c19f9cb601_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+rosyemily https://edge18-atl.live.mmcdn.com/live-hls/amlst:rosyemily-sd-e692fe8855a320c0238a36710de05383c76ed0415d9106d84ae88931de66342f_trns_h264/playlist.m3u8
