@@ -434,3 +434,9 @@ Fri Oct 24 22:01:01 CST 2025
 Fri Oct 24 22:03:02 CST 2025
 Fri Oct 24 22:03:58 CST 2025
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+添加ake_mi https://edge5-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-52e5afa465154ed083d269ce74c477e8fbc38f93b3dc8bd31b9b14eb8e6126b0_trns_h264/playlist.m3u8
+Fri Oct 24 22:29:09 CST 2025
+Fri Oct 24 22:30:10 CST 2025
+Fri Oct 24 22:32:23 CST 2025
+Fri Oct 24 22:33:25 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
