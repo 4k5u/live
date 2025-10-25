@@ -254,3 +254,7 @@ Sat Oct 25 14:34:47 CST 2025
 添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Sat Oct 25 14:49:17 CST 2025
+Sat Oct 25 14:49:30 CST 2025
+Sat Oct 25 14:51:32 CST 2025
+Sat Oct 25 14:52:26 CST 2025
