@@ -158,3 +158,8 @@ Sat Oct 25 07:40:13 CST 2025
 Sat Oct 25 07:42:17 CST 2025
 Sat Oct 25 07:43:12 CST 2025
 删除kiriko_chan https://edge4-chi.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-2747d97ad09112832b76e1b693ef0db74e1b8465daa914958e2fda7fded0f78c_trns_h264/playlist.m3u8
+Sat Oct 25 07:53:12 CST 2025
+Sat Oct 25 07:53:23 CST 2025
+Sat Oct 25 07:55:39 CST 2025
+Sat Oct 25 07:56:43 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
