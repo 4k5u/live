@@ -475,3 +475,12 @@ Sat Oct 25 23:39:05 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除ake_mi https://edge7-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-48809d1ae3f9175dc2bcc76346d667db6a868189d2328c6d418520641559e9a6_trns_h264/playlist.m3u8
+Sat Oct 25 23:49:53 CST 2025
+Sat Oct 25 23:50:38 CST 2025
+Sat Oct 25 23:52:47 CST 2025
+Sat Oct 25 23:53:48 CST 2025
+删除ah2love https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.0rGJrOhEtlnO.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzByR0pyT2hFdGxuTyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMTYwODYxRC0xNEI4LTREMEMtQjM5OS1CMkEwREY4QzA0NTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTM5NjQ3NiwiZXhwIjoxNzYxMzk3MDc2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Gz-QOaH7SSczYs6qM-NdhguYZ4qA64a13VHcWg0X6GlC-F2a4yjsA9tEaHSj4xZCpq34o37bOs6rrPkexPbu08KINLZmdv5B6YNQB7W7uWsBXGZXN_YtdQBeWjZzxjKa
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
