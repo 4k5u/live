@@ -145,3 +145,8 @@ Sun Oct 26 07:10:23 CST 2025
 Sun Oct 26 07:12:38 CST 2025
 Sun Oct 26 07:13:39 CST 2025
 删除rosyemily https://edge15-lax.live.mmcdn.com/live-hls/amlst:rosyemily-sd-d96193a56e24c4ca2a0cfdd93bd74d9cc9c69f7601fac9667b4184b2f948ecac_trns_h264/playlist.m3u8
+Sun Oct 26 07:29:40 CST 2025
+Sun Oct 26 07:29:47 CST 2025
+Sun Oct 26 07:31:52 CST 2025
+Sun Oct 26 07:32:46 CST 2025
+删除kiriko_chan https://edge11-lax.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-e2060c28dcccdfd29d8021e547c21283bc35718768e130362a2c4c62f366720c_trns_h264/playlist.m3u8
