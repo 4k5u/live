@@ -206,3 +206,9 @@ Sat Oct 25 12:03:04 CST 2025
 Sat Oct 25 12:04:06 CST 2025
 添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+Sat Oct 25 12:30:55 CST 2025
+Sat Oct 25 12:31:06 CST 2025
+Sat Oct 25 12:33:16 CST 2025
+Sat Oct 25 12:34:17 CST 2025
+删除mazzanti_ https://edge26-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-64ea554f4d6105a1d5c436c3744adbc2ba2e61be49b505dd3cf599c6a07edf25_trns_h264/playlist.m3u8
+删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
