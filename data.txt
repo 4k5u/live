@@ -18,3 +18,5 @@ zmalqp6666 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 rosyemily https://edge8-ash.live.mmcdn.com/live-hls/amlst:rosyemily-sd-a6b8f7d44a77b03b7c596a16d06ee51a3fe0f5bb1fcc379004661e743267bde5_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+_meganmeow_ https://edge7-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-7d96ef3816c98abac98a9c25baadf1458a824d0e3b82750017f507e59b6ce4dc_trns_h264/playlist.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
