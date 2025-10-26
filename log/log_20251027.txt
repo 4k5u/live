@@ -79,3 +79,9 @@ Mon Oct 27 03:32:04 CST 2025
 Mon Oct 27 03:34:11 CST 2025
 Mon Oct 27 03:35:08 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Mon Oct 27 03:43:38 CST 2025
+Mon Oct 27 03:43:47 CST 2025
+Mon Oct 27 03:45:54 CST 2025
+Mon Oct 27 03:46:54 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除podo0311 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CsHMupBvEh6a.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NzSE11cEJ2RWg2YSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQjVDQTgzMy00RjM0LTRBMzktQjk2RS1DQTlCQUJBMkRGODYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTQ4MjYxNywiZXhwIjoxNzYxNDgzMjE3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.zm-oV8S1n0CRs-mevNU6_nWTzHbzM8kqdqCsR_t4vqp_mi7LsNG9GJAgC5m0nWpUZJzWKSvKvYqYpoxMSwDA_3bYbXVCJtPtR_NBqA9S-4sCQnwsbkTC5djIMQwLzfLl
