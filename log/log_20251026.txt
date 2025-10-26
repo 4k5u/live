@@ -346,3 +346,8 @@ Sun Oct 26 19:30:08 CST 2025
 添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除lovelypower77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OpRSg42ryu6h.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09wUlNnNDJyeXU2aCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNUVEMDg2My03NDhGLTREMTgtQUJGOS1DNzlGMUREOUZDNDEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTQ2MzM0NiwiZXhwIjoxNzYxNDYzOTQ2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.c2j8cPJukLcV2NJAsW2TY2fik880egkYza-jnE5xZ2XiSsDckMltefEgPNQdyKIWuJSyodiuI85yTGlsKpzA07UxGdek_80W34Dt-wKr2fQUdHtDO1iSgad22CS_1w95
+Sun Oct 26 19:43:20 CST 2025
+Sun Oct 26 19:43:50 CST 2025
+Sun Oct 26 19:46:02 CST 2025
+Sun Oct 26 19:47:04 CST 2025
+删除ad0res https://edge12-chi.live.mmcdn.com/live-hls/amlst:ad0res-sd-8be0ddd986d87f4248e4ec2578aa5c5895c0799eba29378ff92b5e5723dcf87e_trns_h264/playlist.m3u8
