@@ -132,3 +132,8 @@ Mon Oct 27 05:25:14 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Mon Oct 27 05:33:35 CST 2025
+Mon Oct 27 05:33:40 CST 2025
+Mon Oct 27 05:35:45 CST 2025
+Mon Oct 27 05:36:45 CST 2025
+删除rosyemily https://edge8-ash.live.mmcdn.com/live-hls/amlst:rosyemily-sd-a6b8f7d44a77b03b7c596a16d06ee51a3fe0f5bb1fcc379004661e743267bde5_trns_h264/playlist.m3u8
