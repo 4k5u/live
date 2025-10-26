@@ -153,3 +153,7 @@ Mon Oct 27 06:30:46 CST 2025
 Mon Oct 27 06:31:50 CST 2025
 删除yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Mon Oct 27 06:44:31 CST 2025
+Mon Oct 27 06:44:36 CST 2025
+Mon Oct 27 06:46:42 CST 2025
+Mon Oct 27 06:47:41 CST 2025
