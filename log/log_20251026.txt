@@ -183,3 +183,10 @@ Sun Oct 26 11:31:41 CST 2025
 Sun Oct 26 11:34:00 CST 2025
 Sun Oct 26 11:35:04 CST 2025
 添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+Sun Oct 26 11:56:31 CST 2025
+Sun Oct 26 11:56:40 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=null
+Sun Oct 26 11:59:08 CST 2025
+Sun Oct 26 12:00:13 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
