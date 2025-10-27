@@ -295,3 +295,8 @@ Mon Oct 27 17:32:19 CST 2025
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除honey_pinkgreen https://edge8-chi.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-5b7bb79a03b14027870d59557e63a0b3123a4c28fb89f0aad77a77b9c79c9259_trns_h264/playlist.m3u8
 删除Tmdgus5411 ?aid=null
+Mon Oct 27 17:47:28 CST 2025
+Mon Oct 27 17:47:51 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Mon Oct 27 17:50:09 CST 2025
+Mon Oct 27 17:51:10 CST 2025
