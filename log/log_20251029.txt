@@ -113,3 +113,8 @@ Wed Oct 29 04:58:38 CST 2025
 Wed Oct 29 04:58:47 CST 2025
 Wed Oct 29 05:00:58 CST 2025
 Wed Oct 29 05:02:00 CST 2025
+添加mode_bad https://edge2-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-ce036b9bb06f1d20a08366ced8a01d09c6f34856b31dc55b106ee150bb61948e_trns_h264/playlist.m3u8
+Wed Oct 29 05:26:17 CST 2025
+Wed Oct 29 05:26:26 CST 2025
+Wed Oct 29 05:28:37 CST 2025
+Wed Oct 29 05:29:38 CST 2025
