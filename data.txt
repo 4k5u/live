@@ -13,3 +13,5 @@ zmalqp6666 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+sexygamesx https://edge4-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-8d45c46dc5f0dafcb083fc0ff30db9def8d0f98a06be27a0c058c80de4eea851_trns_h264/playlist.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
