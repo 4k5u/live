@@ -7,3 +7,4 @@ taitehambelton https://edge3-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd
 my_eyes_higher https://edge8-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1392fee84ce37081eb19502b20db2c44b9d0e486a38622635e49b72d2c3ba49a_trns_h264/playlist.m3u8
 stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+foxylovesyou https://edge23-atl.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-1904f376ff4d3666843f19aebd8a6bd38b98d82f6613ce8276cb353a7da53039_trns_h264/playlist.m3u8
