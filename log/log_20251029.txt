@@ -252,3 +252,8 @@ Wed Oct 29 15:47:35 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除ake_mi https://edge16-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-3a37aac8332ba7822d731af7d49836adf384870bfe19b48468be19c979c5734d_trns_h264/playlist.m3u8
 删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+Wed Oct 29 15:58:40 CST 2025
+Wed Oct 29 15:58:57 CST 2025
+Wed Oct 29 16:01:09 CST 2025
+Wed Oct 29 16:02:11 CST 2025
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
