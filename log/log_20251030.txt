@@ -151,3 +151,9 @@ Thu Oct 30 07:26:10 CST 2025
 Thu Oct 30 07:28:11 CST 2025
 Thu Oct 30 07:29:05 CST 2025
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Thu Oct 30 07:41:44 CST 2025
+Thu Oct 30 07:41:51 CST 2025
+Thu Oct 30 07:44:05 CST 2025
+Thu Oct 30 07:45:07 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除sexygamesx https://edge29-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-ebcd70fd7ec8b36f8f6e3ad774c22bb38b91d7b3cef1118abb304abda98877b2_trns_h264/playlist.m3u8
