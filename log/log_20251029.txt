@@ -257,3 +257,10 @@ Wed Oct 29 15:58:57 CST 2025
 Wed Oct 29 16:01:09 CST 2025
 Wed Oct 29 16:02:11 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加honey_pinkgreen https://edge27-ash.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-9a6eb84c47d600486f0939f8bfa1e132e9c232a5d1f12068739c67e7d3af9cdf_trns_h264/playlist.m3u8
+Wed Oct 29 16:35:48 CST 2025
+Wed Oct 29 16:36:05 CST 2025
+Wed Oct 29 16:38:22 CST 2025
+Wed Oct 29 16:39:26 CST 2025
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
