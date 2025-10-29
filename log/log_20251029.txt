@@ -203,3 +203,11 @@ Wed Oct 29 13:32:06 CST 2025
 Wed Oct 29 13:34:18 CST 2025
 Wed Oct 29 13:35:20 CST 2025
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加ake_mi https://edge20-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-3a37aac8332ba7822d731af7d49836adf384870bfe19b48468be19c979c5734d_trns_h264/playlist.m3u8
+Wed Oct 29 13:48:27 CST 2025
+Wed Oct 29 13:48:36 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Wed Oct 29 13:50:54 CST 2025
+Wed Oct 29 13:51:56 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
