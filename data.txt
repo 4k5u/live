@@ -30,5 +30,7 @@ rico0210 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
-fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+rosyemily https://edge17-atl.live.mmcdn.com/live-hls/amlst:rosyemily-sd-6beed81f5dd254f0a269e7040dd193ba73f55143a4b428274f4900c112650ed3_trns_h264/playlist.m3u8
+gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
