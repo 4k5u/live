@@ -292,3 +292,12 @@ Thu Oct 30 16:55:16 CST 2025
 添加Tmdgus5411 ?aid=null
 Thu Oct 30 16:57:36 CST 2025
 Thu Oct 30 16:58:39 CST 2025
+添加rosyemily https://edge17-atl.live.mmcdn.com/live-hls/amlst:rosyemily-sd-7514b81d77aef3c718475b6a60acb6e3e1e09eba682584838b88b7ee7ed8ea55_trns_h264/playlist.m3u8
+添加ad0res https://edge8-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-f4a0a245dc16a76f1ce54aca11bec421287fa290499faa85b5bc87d434ad844a_trns_h264/playlist.m3u8
+Thu Oct 30 17:25:30 CST 2025
+添加mayonz https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qhLEZxB5WQ9A.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FoTEVaeEI1V1E5QSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyODZCMUE3MC0zODJDLTQ3QTItQTlCQy1BNzdEMUJEOEEwQTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTgxNjMzNiwiZXhwIjoxNzYxODE2OTM2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.QzO7fimpv0b7VAmssuKN0GiXvsg7oZ8Z92pGs66KqHZu9JKE3n32WWfjCaCkYRS65E5k-s6VnHHhKWRtRCkFfMQhb3CJuXbquM2DfrMqBa2EE6EziiuFhNzRTT_yaimh
+Thu Oct 30 17:25:46 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Thu Oct 30 17:28:06 CST 2025
+Thu Oct 30 17:29:11 CST 2025
+删除Tmdgus5411 ?aid=null
