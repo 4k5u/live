@@ -92,3 +92,8 @@ Sat Nov 1 04:45:20 CST 2025
 Sat Nov 1 04:46:22 CST 2025
 删除362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ubVpRfmJs2zx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ViVnBSZm1KczJ6eCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMDhCNUFDNi1BRDFDLTQ2NzYtQThCNy04QTAyMDBDRjYxNEYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTkxNTQ3NywiZXhwIjoxNzYxOTE2MDc3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.7u7ZC3R3uMtq_Ma5i3PLKIPLZi5LxYBoHORxJjY_Ty0VTbyUotuTyHeYsgdsSskYjOSLVdRafW2a2heD46g7a9lVEtqpjdFG8v024UK4gg1oMui-fDYJvCJPPnWZEuFP
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Sat Nov 1 04:58:34 CST 2025
+Sat Nov 1 04:58:49 CST 2025
+Sat Nov 1 05:01:05 CST 2025
+Sat Nov 1 05:02:10 CST 2025
+删除rosyemily https://edge10-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-101be10bb8b8c690de82ee40e5794e0bc504245f988d6411bdae2a3b54ef9080_trns_h264/playlist.m3u8
