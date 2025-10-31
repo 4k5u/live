@@ -24,3 +24,10 @@ Sat Nov 1 01:22:23 CST 2025
 Sat Nov 1 01:24:37 CST 2025
 Sat Nov 1 01:25:41 CST 2025
 添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+添加sexygamesx https://edge24-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-86544c75dd3f2b2e70c59c137231663f5744c005ca7011174b6654ce4f8e0440_trns_h264/playlist.m3u8
+Sat Nov 1 01:39:31 CST 2025
+Sat Nov 1 01:40:04 CST 2025
+Sat Nov 1 01:42:18 CST 2025
+Sat Nov 1 01:43:22 CST 2025
+删除jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NDNCMUNCMC0yODg3LTQ5QkQtOTIxQy1FRjc1QzRGRkFDRDIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTkxNzcxOSwiZXhwIjoxNzYxOTE4MzE5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Pyfi1_Ct2DgPSS-k2dfyKqaJExD18v_O_HXlXEKdlS3LZDgPoCFFz5-YctQAuUEdn3J32WqUx21iXgxTMz5hbo90Zn7sde10yR2_FTmlTOMHvQPFFVB7NeS8n96ArKHg
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
