@@ -285,3 +285,12 @@ Fri Oct 31 16:40:59 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除taitehambelton https://edge20-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b646253dd84cb83b40760204a7915e284579a4626541e1a31055f260b50b8be2_trns_h264/playlist.m3u8
 删除my_eyes_higher https://edge22-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1b5eaebf23c40465a7a07f0e0a23520a75b5ce7eb5b6fe4119c1a892bffa362a_trns_h264/playlist.m3u8
+添加taitehambelton https://edge28-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-f5f0a2cf8818ce7544b3787e74bf8dfeca49db65d12726874a8310c0acdcb401_trns_h264/playlist.m3u8
+添加amilia4u https://edge22-atl.live.mmcdn.com/live-hls/amlst:amilia4u-sd-68ddc6730cdc3ccf5dddbaa1ebde8a64d3e8b68c7f926293594c27fd612be7cb_trns_h264/playlist.m3u8
+Fri Oct 31 16:56:12 CST 2025
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9NSvvPFVsZaA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlOU3Z2UEZWc1phQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxREE0NDg3QS00MTk1LTQzOTUtOENBMi02QkRENDlGQzY5RDEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTkwMDk3MiwiZXhwIjoxNzYxOTAxNTcyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gP5lfDhLwsTGsxTNZadZilkTPWQnmBatESwMSxI1P9qnRYami-BbHdjB_Y8salJRvBk9x8QkEBx0Wl1xeSW5mlY9xGO4IhdJNLcofeQ7zZxjIAiUeduYrFwkKv5TVWmr
+Fri Oct 31 16:56:28 CST 2025
+Fri Oct 31 16:58:41 CST 2025
+Fri Oct 31 16:59:45 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
