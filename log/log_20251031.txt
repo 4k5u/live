@@ -353,3 +353,11 @@ Fri Oct 31 19:22:17 CST 2025
 Fri Oct 31 19:22:58 CST 2025
 Fri Oct 31 19:25:14 CST 2025
 Fri Oct 31 19:26:20 CST 2025
+添加ake_mi https://edge5-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2013a66a88106635a21daa0dcae070a7656a7bc6afecc5b29b4137dd203a6fa3_trns_h264/playlist.m3u8
+Fri Oct 31 19:33:03 CST 2025
+Fri Oct 31 19:33:38 CST 2025
+Fri Oct 31 19:35:54 CST 2025
+Fri Oct 31 19:36:57 CST 2025
+删除foxylovesyou https://edge4-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-fd73a63fc235f92207062c75d93d60edf8aed88c08ae215241067c138abbacb7_trns_h264/playlist.m3u8
+删除zhiyao99 https://edge-hls.doppiocdn.live/hls/155676997/master/155676997_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
