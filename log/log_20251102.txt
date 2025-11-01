@@ -165,3 +165,8 @@ Sun Nov 2 06:59:46 CST 2025
 Sun Nov 2 07:02:00 CST 2025
 Sun Nov 2 07:03:04 CST 2025
 删除hfpw4i19 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XrYScAuJzCFf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hyWVNjQXVKekNGZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEOTE2Q0FDMy0wOUNGLTQyQkUtOUM1OC1FQzQwQzg2ODY4RkUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTk5NjA0NywiZXhwIjoxNzYxOTk2NjQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9._Az_FHu7-_sT0uvZawJbAS2zaCsKezEEEdHA3Umv7nz5O6VWfByUgMv_j5XObeD3dcADB0KYANE5MB4cVVaKun3OZkVKbRaXYcugVeFHiYXXNgkgCxqLJ6O1kXhTpZoM
+Sun Nov 2 07:23:24 CST 2025
+Sun Nov 2 07:23:31 CST 2025
+Sun Nov 2 07:25:40 CST 2025
+Sun Nov 2 07:26:40 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
