@@ -12,5 +12,7 @@ fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 ake_mi https://edge8-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-b625eefe1455b385d10b8afb9153b0135c656acbc09d74b389380e3f168ac910_trns_h264/playlist.m3u8
 N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
-_meganmeow_ https://edge5-sea.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-7ee0b5af4c86ccf1430e1d896cad7cd65a5d513ad34a88b3f0c4e367102671c9_trns_h264/playlist.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+taitehambelton https://edge2-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b100ecedacda2a441474bc61677df24f1dc8830f3c99dc734ae890286e7dc442_trns_h264/playlist.m3u8
+yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
