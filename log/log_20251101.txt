@@ -197,3 +197,11 @@ Sat Nov 1 12:58:15 CST 2025
 Sat Nov 1 12:58:28 CST 2025
 Sat Nov 1 13:00:41 CST 2025
 Sat Nov 1 13:01:44 CST 2025
+添加ake_mi https://edge8-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-b625eefe1455b385d10b8afb9153b0135c656acbc09d74b389380e3f168ac910_trns_h264/playlist.m3u8
+Sat Nov 1 13:24:39 CST 2025
+Sat Nov 1 13:24:51 CST 2025
+Sat Nov 1 13:27:03 CST 2025
+Sat Nov 1 13:28:05 CST 2025
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+删除yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQTI4Rjk5MC1DQ0FCLTRDQkItQUU2MC0xMkZCRDQ2QkMwOTMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTk2MzEwMiwiZXhwIjoxNzYxOTYzNzAyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.fWy9-h29oYMfvUR6GOZQ8rwJzLbXgpzIVObpfxQxFKyAg4bW7Wzg2nfIn9jqrMaLuZDggdMoDAI9_wdrVydyfEktvURwR5LoWbiRSlPmxo85e7KMNkGX7eEO0z2mrrn7
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
