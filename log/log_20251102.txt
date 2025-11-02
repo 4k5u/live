@@ -195,3 +195,13 @@ Sun Nov 2 10:32:51 CST 2025
 添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除mscrew33 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.kbJeIquJbOJJ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tiSmVJcXVKYk9KSiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNDU1MUE5NS1BQjVFLTQxQTktQUI3Qy1GNkJDMTU2RDAwQzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTkwMzkxOSwiZXhwIjoxNzYxOTA0NTE5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.obSfDREWFNWIKBFRgpNv13QB7_CYTT_MuOqAeV2TiK51JljT7OYu3Ds9xaDo2X6vQ3EXiRjUQFKwz866YbKcg_i0psZtudu38ZVpN0NQGrXEgtIMS25JN3oEwwd15bn5
 删除sexygamesx https://edge7-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-4d58ee7b55e1b1be78e58f07992f7f875ace56fe9e512921a67a2b42e0b165a5_trns_h264/playlist.m3u8
+Sun Nov 2 11:37:18 CST 2025
+Sun Nov 2 11:37:25 CST 2025
+Sun Nov 2 11:39:32 CST 2025
+Sun Nov 2 11:40:31 CST 2025
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除_meganmeow_ https://edge16-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-f83f6cc992ecd774b1fa7cf17e0c6d89d8e387721f0f219ab7c006955cbc6261_trns_h264/playlist.m3u8
