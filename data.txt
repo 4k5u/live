@@ -24,3 +24,4 @@ ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 hee_jeen https://edge12-chi.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-30aa2098e28aaae8faadd1b2fb6b2dbaa34d4e4815d79d0319da8ceea0674811_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
