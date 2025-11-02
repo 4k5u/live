@@ -327,3 +327,8 @@ Sun Nov 2 17:42:11 CST 2025
 Sun Nov 2 17:43:13 CST 2025
 添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+Sun Nov 2 17:53:52 CST 2025
+Sun Nov 2 17:54:11 CST 2025
+Sun Nov 2 17:56:25 CST 2025
+Sun Nov 2 17:57:28 CST 2025
+删除taitehambelton https://edge23-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-89ced1aa9d54894d16eb3053068c4c9331b48cd0109066ce88a99dd9aa53e167_trns_h264/playlist.m3u8
