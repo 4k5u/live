@@ -345,3 +345,9 @@ Sun Nov 2 18:44:38 CST 2025
 Sun Nov 2 18:45:07 CST 2025
 Sun Nov 2 18:47:25 CST 2025
 Sun Nov 2 18:48:28 CST 2025
+Sun Nov 2 18:59:33 CST 2025
+添加gyg4618 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.BXnRtkAoE1HH.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0JYblJ0a0FvRTFISCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0M0MzQjVERS1GRTVELTQ1NTEtQTU5Ni03Q0JFMjk5Q0Q0QzAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjA4MTE3OCwiZXhwIjoxNzYyMDgxNzc4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.fzdZD9_FM2LIkSMjpANjqAgTHWZRzYpVNMYWNYeTUO45eve3WwV0-RhFbt8pUKB42Qpj2oRx-5LFRg1Jq---4KGn_vvpxeCAcX1lwvqwPl6SIzYPBHMvWezx4X0eDPbA
+Sun Nov 2 19:00:04 CST 2025
+Sun Nov 2 19:02:13 CST 2025
+Sun Nov 2 19:03:15 CST 2025
+删除ad0res https://edge17-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-62c9288a56557362a7c237799e6e0646312d878421d09e310d11453dcf1edf4b_trns_h264/playlist.m3u8
