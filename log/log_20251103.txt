@@ -197,3 +197,12 @@ Mon Nov 3 10:15:56 CST 2025
 添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 删除_meganmeow_ https://edge11-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-8e7b3b98b5b35d8b8796c6624de6d2209ad4b9e43bbb54ca584c55d51e8b8b54_trns_h264/playlist.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加taitehambelton https://edge14-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-0b669fed6f2f90603e58cb68ceb0754f29af61f603ac6d5c2e90547759cba678_trns_h264/playlist.m3u8
+Mon Nov 3 11:35:05 CST 2025
+Mon Nov 3 11:35:10 CST 2025
+Mon Nov 3 11:37:21 CST 2025
+Mon Nov 3 11:38:24 CST 2025
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除mazzanti_ https://edge6-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6ec67df8cd986dfaf3105f02a506b860590afc77edf9d3ce6ac057be5be076bb_trns_h264/playlist.m3u8
