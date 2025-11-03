@@ -236,3 +236,8 @@ Mon Nov 3 13:45:01 CST 2025
 Mon Nov 3 13:47:17 CST 2025
 Mon Nov 3 13:48:21 CST 2025
 删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Mon Nov 3 13:58:25 CST 2025
+添加nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NERBNzJDRS03RkNDLTRGQzYtQjYwRi0xNzhGRDRBMTU3NTMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjE0OTUwOCwiZXhwIjoxNzYyMTUwMTA4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.uJrKYy1TCSlobiPOA4iJlmbAtDCVs9vzamuMg8UAvQ2cPaHJdZVo3lUqi0A3Do3hoFm58a-XGOfLuBznB8si8CvJKBORC-7jH9DpbuS-0l8cSmRtsbdqE_G_nbJHBbot
+Mon Nov 3 13:58:37 CST 2025
+Mon Nov 3 14:00:52 CST 2025
+Mon Nov 3 14:01:55 CST 2025
