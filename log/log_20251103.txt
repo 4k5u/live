@@ -432,3 +432,8 @@ Mon Nov 3 22:50:44 CST 2025
 删除redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMEMwODY3Mi0xMDk1LTQzNzYtQUFBOS0wQjZBQ0Y1Q0NERjEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjE2NTk3NiwiZXhwIjoxNzYyMTY2NTc2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.4g5nxPNO1OcBOJ9X62V2HAe5T50-41TaFEfIUxx6jQpshU0q3QA_XbT0Z99Xhg0HEpaNb2L6_Y3JhzW5JFam9pPNQ8aKvg_4LiWg0-9He9bd4hv4J27CnNNrDtugSWFy
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Mon Nov 3 22:58:38 CST 2025
+Mon Nov 3 22:59:28 CST 2025
+Mon Nov 3 23:01:56 CST 2025
+Mon Nov 3 23:03:00 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
