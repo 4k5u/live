@@ -206,3 +206,9 @@ Mon Nov 3 11:38:24 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除mazzanti_ https://edge6-chi.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6ec67df8cd986dfaf3105f02a506b860590afc77edf9d3ce6ac057be5be076bb_trns_h264/playlist.m3u8
+Mon Nov 3 12:05:34 CST 2025
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.AzTFfdrzpRaq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F6VEZmZHJ6cFJhcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBQzlFNjMzMC1BMDFBLTQxNTctOTg5NC1EQzgyNkFGNzFCQzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjE0MjczNCwiZXhwIjoxNzYyMTQzMzM0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wcArGq2_4EIvwUwTZhZhZ2E0fdg8fw8h3CrTaKDowrccyjNtpZH-EE0y0LSF41-NxaAZLe1KyUlbeulKi3kTfsuUNFzFsH5cY8UE3eqbZFK7Dp4odK1LEnN3yovMx5oX
+Mon Nov 3 12:05:42 CST 2025
+Mon Nov 3 12:08:08 CST 2025
+Mon Nov 3 12:09:13 CST 2025
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
