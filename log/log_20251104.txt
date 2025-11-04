@@ -222,3 +222,8 @@ Tue Nov 4 13:37:25 CST 2025
 Tue Nov 4 13:39:35 CST 2025
 Tue Nov 4 13:40:36 CST 2025
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Tue Nov 4 13:49:34 CST 2025
+Tue Nov 4 13:49:42 CST 2025
+Tue Nov 4 13:51:55 CST 2025
+Tue Nov 4 13:53:00 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8

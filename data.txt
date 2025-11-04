@@ -8,3 +8,4 @@ May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 taitehambelton https://edge4-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-a7b913f7c4e8d5c3075d025fe3a27f990a0d90f9d42b8331930e155db91d3e7b_trns_h264/playlist.m3u8
+SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
