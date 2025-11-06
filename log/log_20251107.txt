@@ -135,3 +135,7 @@ Fri Nov 7 07:28:21 CST 2025
 Fri Nov 7 07:29:23 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除sexygamesx https://edge27-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-4fd7a794abc2d47f9d85d196287261251d74e2c2a0d9ade307e24fb7ee592c79_trns_h264/playlist.m3u8
+Fri Nov 7 07:40:32 CST 2025
+Fri Nov 7 07:40:37 CST 2025
+Fri Nov 7 07:42:43 CST 2025
+Fri Nov 7 07:43:39 CST 2025
