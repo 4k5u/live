@@ -40,3 +40,9 @@ Fri Nov 7 01:48:07 CST 2025
 删除honey_pinkgreen https://edge22-phx.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-2924efb568155022eeef7cf1c9bca5bda307f11d282d7c6ee98b88046a8b9831_trns_h264/playlist.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Fri Nov 7 01:58:42 CST 2025
+Fri Nov 7 01:59:03 CST 2025
+Fri Nov 7 02:01:21 CST 2025
+Fri Nov 7 02:02:25 CST 2025
+删除jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NkFERUVCOC0zQ0E3LTRCNDktQThCQi1GQjY4MEQxQzM1RTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjQzMzMyNSwiZXhwIjoxNzYyNDMzOTI1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.70BPlQhMUzDnw6Az2RxDXnxpGMF_Yjj1ajO4kBcZYSVuhATqsE0n0Q1iJGXzgVr2hSheV8lZH4XRp7RT7OGTvEGs4gtLvYySclr5NM-fvnBZ9F7LhVwIPnyPvlMnTs7J
+删除Aliceblush https://edge-hls.doppiocdn.live/hls/128301540/master/128301540_auto.m3u8
