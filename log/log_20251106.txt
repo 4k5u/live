@@ -317,3 +317,9 @@ Thu Nov 6 18:54:22 CST 2025
 删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 删除Tmdgus5411 ?aid=null
+Thu Nov 6 19:01:01 CST 2025
+添加csp1208 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.IkeFsDGZW76n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0lrZUZzREdaVzc2biIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEMkZGNEQ2Ri00NjI3LTQ0QzEtQUU4OC1BNDc0NDYyMjczMzciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjQyNjg2MSwiZXhwIjoxNzYyNDI3NDYxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.yVIGIHwa1SD8YqR8fpMMYpRm_mqgBoFSZsWLg3X4F5tQgB1R3F5hX52hUHXuZlBZDm_Yhee8T71q-5N31KrWuSP-JApY8uQqo3Gb8tiWa9b8UF0C4aRkl1tsGytVYtdR
+Thu Nov 6 19:01:19 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Thu Nov 6 19:03:39 CST 2025
+Thu Nov 6 19:04:43 CST 2025
