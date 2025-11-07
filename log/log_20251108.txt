@@ -171,3 +171,8 @@ Sat Nov 8 07:24:36 CST 2025
 Sat Nov 8 07:26:37 CST 2025
 Sat Nov 8 07:27:31 CST 2025
 删除calliadesigner https://edge17-phx.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-8ea8a316a5aaff5aa11fecd100c088b562b3c7a1a57f828172d107f4a10342c6_trns_h264/playlist.m3u8
+Sat Nov 8 07:40:24 CST 2025
+Sat Nov 8 07:40:31 CST 2025
+Sat Nov 8 07:42:45 CST 2025
+Sat Nov 8 07:43:48 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
