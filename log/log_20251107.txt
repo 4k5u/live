@@ -234,3 +234,9 @@ Fri Nov 7 14:59:39 CST 2025
 Fri Nov 7 15:01:54 CST 2025
 Fri Nov 7 15:02:58 CST 2025
 删除taitehambelton https://edge4-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-90426ffd0c643272fd01ccb888a7ede6b0fa8671498e7292d01e86f3d18bbf2e_trns_h264/playlist.m3u8
+Fri Nov 7 15:24:38 CST 2025
+Fri Nov 7 15:24:47 CST 2025
+Fri Nov 7 15:27:00 CST 2025
+Fri Nov 7 15:28:02 CST 2025
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
