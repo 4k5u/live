@@ -229,3 +229,8 @@ Fri Nov 7 14:45:45 CST 2025
 Fri Nov 7 14:46:48 CST 2025
 添加Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 删除yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMjRENDE0OC1BRkZCLTRDMzUtQkQ1Ni00QzFBQzhDN0NFMDciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjQ3NjQ2NywiZXhwIjoxNzYyNDc3MDY3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.WArBvYUda6v49Il_JD4otp3oC5um2wenPrhGW0LyUQEaR6DLD570lbyx2sANgHDZoozZ_5RatzIaM2gUbolHCoTJBy3vBNMetfzCYgO9RADt4B3xD9PnIea4dEn_eHjz
+Fri Nov 7 14:59:30 CST 2025
+Fri Nov 7 14:59:39 CST 2025
+Fri Nov 7 15:01:54 CST 2025
+Fri Nov 7 15:02:58 CST 2025
+删除taitehambelton https://edge4-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-90426ffd0c643272fd01ccb888a7ede6b0fa8671498e7292d01e86f3d18bbf2e_trns_h264/playlist.m3u8
