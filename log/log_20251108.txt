@@ -181,3 +181,9 @@ Sat Nov 8 07:53:05 CST 2025
 Sat Nov 8 07:55:19 CST 2025
 Sat Nov 8 07:56:22 CST 2025
 添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+Sat Nov 8 08:43:36 CST 2025
+添加yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMzA0NDBGOS02MUU0LTQ3NjYtQjMwNS0xOTZCNDk5MjYxOTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjU2MjYyMSwiZXhwIjoxNzYyNTYzMjIxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cFsLU2CMXCW7uvXBNEW88mh-K34ZEGlzub5Vr_jX0P-3A5-Ya7RFMWYRcqXLb6LHPD0a3Jp3XWXfxGLsZAqrmtxBtGa4LJd4xdCVFKJeTROoVZ3N1hHkDNdV6iBx5_uP
+Sat Nov 8 08:43:47 CST 2025
+Sat Nov 8 08:45:55 CST 2025
+Sat Nov 8 08:46:52 CST 2025
+删除sexygamesx https://edge20-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-dbec1b873a4fa72c4c3514544da480f87b830b992193d0fd39931a7de1165063_trns_h264/playlist.m3u8
