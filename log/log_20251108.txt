@@ -176,3 +176,8 @@ Sat Nov 8 07:40:31 CST 2025
 Sat Nov 8 07:42:45 CST 2025
 Sat Nov 8 07:43:48 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Sat Nov 8 07:52:57 CST 2025
+Sat Nov 8 07:53:05 CST 2025
+Sat Nov 8 07:55:19 CST 2025
+Sat Nov 8 07:56:22 CST 2025
+添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
