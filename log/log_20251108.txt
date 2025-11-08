@@ -243,3 +243,9 @@ Sat Nov 8 13:28:47 CST 2025
 Sat Nov 8 13:29:48 CST 2025
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除taitehambelton https://edge21-sea.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-2acb14890d62944b1f210896beae008c36089249bb92b1c129e25d97837cdc09_trns_h264/playlist.m3u8
+添加taitehambelton https://edge21-sea.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-2acb14890d62944b1f210896beae008c36089249bb92b1c129e25d97837cdc09_trns_h264/playlist.m3u8
+Sat Nov 8 13:42:38 CST 2025
+Sat Nov 8 13:42:47 CST 2025
+Sat Nov 8 13:44:46 CST 2025
+Sat Nov 8 13:45:41 CST 2025
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
