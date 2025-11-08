@@ -346,3 +346,8 @@ Sat Nov 8 18:29:47 CST 2025
 Sat Nov 8 18:30:49 CST 2025
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
 删除taitehambelton https://edge14-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-2acb14890d62944b1f210896beae008c36089249bb92b1c129e25d97837cdc09_trns_h264/playlist.m3u8
+Sat Nov 8 18:42:29 CST 2025
+Sat Nov 8 18:42:54 CST 2025
+Sat Nov 8 18:45:04 CST 2025
+Sat Nov 8 18:46:06 CST 2025
+删除dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
