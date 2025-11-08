@@ -214,3 +214,7 @@ Sat Nov 8 11:50:49 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
 删除taitehambelton https://edge11-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-2acb14890d62944b1f210896beae008c36089249bb92b1c129e25d97837cdc09_trns_h264/playlist.m3u8
+Sat Nov 8 11:58:57 CST 2025
+Sat Nov 8 11:59:04 CST 2025
+Sat Nov 8 12:01:21 CST 2025
+Sat Nov 8 12:02:25 CST 2025
