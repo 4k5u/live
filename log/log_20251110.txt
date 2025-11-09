@@ -80,3 +80,11 @@ Mon Nov 10 03:48:59 CST 2025
 Mon Nov 10 03:50:59 CST 2025
 Mon Nov 10 03:51:54 CST 2025
 删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qqjfWikIJTnr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FxamZXaWtJSlRuciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NjQyRDJENi04ODNFLTRDRDktQjAyRS02Q0YwMTkwRjFEQzgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjcwODg3MSwiZXhwIjoxNzYyNzA5NDcxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.kMT871hu8VLgBIje8Ofvgp39BW6_UvugnJ1OkdmB9Jv21vGmKK2iodrQ-41BEs7EXP321Tw8cV2jfqmdyksokd6BXGnZlaBS3UTL3qMGXICFhzkYkH5kRfvZQHy_F1AE
+Mon Nov 10 04:00:13 CST 2025
+Mon Nov 10 04:00:22 CST 2025
+Mon Nov 10 04:02:40 CST 2025
+Mon Nov 10 04:03:42 CST 2025
+删除yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
