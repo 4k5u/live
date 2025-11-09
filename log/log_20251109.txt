@@ -331,3 +331,8 @@ Sun Nov 9 19:25:51 CST 2025
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除ad0res https://edge15-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-425119997f5aa6bc4b3175469040855f51653dfd751c066a9c4074b49ffacacb_trns_h264/playlist.m3u8
 删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Sun Nov 9 19:32:57 CST 2025
+Sun Nov 9 19:33:24 CST 2025
+Sun Nov 9 19:35:39 CST 2025
+Sun Nov 9 19:36:43 CST 2025
+删除dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JcgFVlEPlGEn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pjZ0ZWbEVQbEdFbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNTAwQUVDQi05NERELTQ1N0UtOEUzMi1DNDVFRDE1RTZFNTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjYwNjA3MSwiZXhwIjoxNzYyNjA2NjcxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.L_8y_f669RfWfr0uZqPKEKsatxbxaJFsbvlw84KSPOnxRdg804XWZN0HW5ENkeJXHPQYUnNv11HIzmP2eO-EmCPR5MNifBp2zrSLKA1IWMqJdx6It8zOdSoQJv5Iydu5
