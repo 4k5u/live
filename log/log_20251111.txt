@@ -43,3 +43,11 @@ Tue Nov 11 01:39:14 CST 2025
 Tue Nov 11 01:41:14 CST 2025
 Tue Nov 11 01:42:09 CST 2025
 添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+Tue Nov 11 01:50:03 CST 2025
+Tue Nov 11 01:50:30 CST 2025
+Tue Nov 11 01:52:41 CST 2025
+Tue Nov 11 01:53:43 CST 2025
+添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+删除sumin2005 https://medialive-pull.ttinglive.com/live/prod_C652548_004cfb772a0d47cfafc7082302d4ae31_uhd.flv?expire=1763379624&sign=289d2fde4f00cb85915ed1226757c5b3
+删除jin__ray https://edge-hls.doppiocdn.live/hls/79859503/master/79859503_auto.m3u8
+删除saone451 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNjAyNkIyNC02MjdCLTQ4NUQtOUZEMy0yNkQ4MDBFOUE0QTkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Mjc4Mjg4MywiZXhwIjoxNzYyNzgzNDgzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.5QFXabde1r98SUXBQ_EQMzMrmRXQkRWYKH2UfzIUnkJ7oT5atZ3woID3CItcOcItD9BOQyh4Il9xTJunPpnBZylhDiJ-8a7kMqPeXIcVLOviIopZg5KGbas19N4h5lo7
