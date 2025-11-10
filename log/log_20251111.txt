@@ -69,3 +69,13 @@ Tue Nov 11 02:05:08 CST 2025
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+Tue Nov 11 02:41:03 CST 2025
+Tue Nov 11 02:41:23 CST 2025
+Tue Nov 11 02:43:34 CST 2025
+Tue Nov 11 02:44:37 CST 2025
+删除jinricp https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.13OCVCOlHKNe.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzEzT0NWQ09sSEtOZSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MjZCQTU1MS0yNDEyLTQ4QzQtQjUzQy01QUQ3N0ZBM0IxMzAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Mjc2NDk1NCwiZXhwIjoxNzYyNzY1NTU0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gAtP7HntzskHsp-KXeUJJoKM-F_cHhCYzfk6aPNsspYRcZJFWyN8uFd7ykYsht8zMSfRgUs4oka_taZhklonY9U6l7HD-fAuYJOz9PvviwJdUfgOkklIpo_-o4xFO9gl
+删除big541 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.kdwBbxYGmXb8bszZ7dhg00NLVe6B-YRIvUVNWRYV6HT2UtaH8oucZ7wPcEmhE8PrNhbL9PP0FKSpv0Qu4cd0oYSWEJex076R2OGKV7TXd05m5XDbYv3v_xaAGUzybaoG54wGN1mibDcfmydQcKSdfEQccmObQ0CB66T7uen6EwO56-XqgcO9gGIrYi04KaGN
+删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.37fGic4aOZlJFxd6Pe7Fk-JwKYdBt9q5-DL1zI7QIfDv2SQoEPoKeWcR8hWkmAdLGq-C29ykdZAz3a2ERnz9FsxpHal6sSY_A20UtLf2lsGg9oPYfBRiqsYpymy7YcjmeBxHSanj25v6YxMMEV3UCSflND5pye1hiI6g_pHZBHMsfX1yO0Xm6AGQIjShlOVC
+删除dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.vrNTvcch5W8nicldGXMw8VBBvQvXTQhFwAFbJPwJdDrZmahuA_tXxMwbcIZikMPMf1ofC6f5UmzjCoxdgCm_b9QM4yd5uJGODQdsaSMjyavv9GZnCQYYRKKSUBHu-k-0ZP6-5OlLYEp1gsQX6UiPQ8ThmLLYHMh3wvi3UDmxtGE0Dp6RGSrbT6y0wltQpHR8
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
