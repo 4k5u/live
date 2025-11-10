@@ -35,3 +35,4 @@ dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_pl
 -Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
 N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
