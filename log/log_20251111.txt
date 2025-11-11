@@ -318,3 +318,9 @@ Tue Nov 11 18:31:25 CST 2025
 Tue Nov 11 18:33:46 CST 2025
 Tue Nov 11 18:34:47 CST 2025
 添加regina0807 https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
+Tue Nov 11 18:49:43 CST 2025
+添加holymoly62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WdvC1ozRpNW8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dkdkMxb3pScE5XOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBQTY2OEJBNC0yNjhFLTRERTItQTU5Mi1BMTMwRDI3QzhEMEYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Mjg1ODE5MiwiZXhwIjoxNzYyODU4NzkyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.5HvgCPeAsiK_GMani3Sdj7fT_KsAjwa535ztwAi9Sqs73fWUrFqgkPAY4JRRU518YYYytpS2ncK-l-R6U8Iejg8iq1I6-l0lNxXtRkfCPDcWctxxorFQWOZukPCaUCTP
+Tue Nov 11 18:50:14 CST 2025
+Tue Nov 11 18:52:27 CST 2025
+Tue Nov 11 18:53:29 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
