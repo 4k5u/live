@@ -281,3 +281,13 @@ Tue Nov 11 16:56:00 CST 2025
 Tue Nov 11 16:56:15 CST 2025
 Tue Nov 11 16:58:31 CST 2025
 Tue Nov 11 16:59:35 CST 2025
+添加alicechina https://edge15-ash.live.mmcdn.com/live-hls/amlst:alicechina-sd-cc121d775e454d0158aa9022af79fc167619166674415e8e832f9c1a312994f0_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge27-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-10eae375b2ba8fb475fbcc9c9698f0b499a3b61b6772a277228776788968825b_trns_h264/playlist.m3u8
+Tue Nov 11 17:27:05 CST 2025
+Tue Nov 11 17:27:20 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.rP499y_eX9gmZFJQ7TbyC2qQQIrHl3x4KKXkEf5OTzpBbI7P5NHzrs8UGD59w5j1TfTe-Wju3mnNtq3TKxU2YqN7eaQiP598wbpLVWq459jzlYCCHLqdvvrDImnEtqKuLQ4c3sW9pXEgIYunrD_LpDd2lUbB8Fmp_dlJ9V-O0bVc3DqVrR7moocIEir5ng1D
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.-5KTT87GEk1X7xCUJMs2-_8NqejuB5AA5wclLybp7ch-UpKp-nrxUS5zFE3OfSahGR49YhrsG3jY6IDb3tWB0ci7sV1iRc4zv2ssjAfUHeW9p3KSLqlhkOhWXGjqvQni-phia7IIEAeyZEmjo35o7d3PyZOQVtNU9N60-ZO8Ewgr66x_zJI-jdnk53Dmy6TM
+Tue Nov 11 17:29:40 CST 2025
+Tue Nov 11 17:30:41 CST 2025
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
