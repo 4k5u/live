@@ -324,3 +324,10 @@ Tue Nov 11 18:50:14 CST 2025
 Tue Nov 11 18:52:27 CST 2025
 Tue Nov 11 18:53:29 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加ake_mi https://edge8-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-4f38e01bab4dfeb8ee89cd4ad3d681f1d0bd77fe6ddee931b6d3a267bb9981a4_trns_h264/playlist.m3u8
+Tue Nov 11 19:01:23 CST 2025
+添加hidana https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.s1byvE3HOfIA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3MxYnl2RTNIT2ZJQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMDFDNjhCQi1CMDUxLTRBMEQtOTI0RC0xMzRENzc2QzNCODUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Mjg1ODg5MiwiZXhwIjoxNzYyODU5NDkyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.NlVjWs_zFVeTMfDlCaiagInwlU2UVSB17bOlcyLvbkvHtuqOIMIl6rizVCZnzTh-7lwT228HGTDhRnXUemU9Lqr-LCtsdrp21vQ__xEaAdDuMSXenpLwKUvszxHlSuEu
+Tue Nov 11 19:01:56 CST 2025
+Tue Nov 11 19:04:07 CST 2025
+Tue Nov 11 19:05:07 CST 2025
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
