@@ -277,3 +277,7 @@ Tue Nov 11 16:37:47 CST 2025
 Tue Nov 11 16:38:51 CST 2025
 删除purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.usGT_DV_TqTSblVaV-3L1zkEUGaYv0byx84RhcECpqiwi_Okx6PTXczmFGrNvT5JspEDwznxZrfAfuBuxzxicYH-_EprualIayT4obHsKk8d84BGrsxYwv0uJlRUl0GXbLy8bgKVPhBZ1L0_Hxf_2Q4s1F3HwHFgHmwseXQPtw2rBAxaKjQsu7nDD5-5-5gS
 删除my_eyes_higher https://edge28-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-08105b956ccdabaefa578d9f5979459912f565b1fcb790f907853395e20b440c_trns_h264/playlist.m3u8
+Tue Nov 11 16:56:00 CST 2025
+Tue Nov 11 16:56:15 CST 2025
+Tue Nov 11 16:58:31 CST 2025
+Tue Nov 11 16:59:35 CST 2025
