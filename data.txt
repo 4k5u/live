@@ -43,3 +43,6 @@ suee2332 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+qwe1240 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qt3BjpE5nAwY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3F0M0JqcEU1bkF3WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFOTI0ODJBMi1DQUNFLTQ2RkMtODQyOS04Q0M0MEQ3MTE3ODMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Mjk2MjUyMSwiZXhwIjoxNzYyOTYzMTIxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wrv9RzhlT3vAhvz162c6xT6004OpAfXAT3iJL3P7J1aP-lMK_tiCKFOmt3kZ3a8KezgSprriUVsnsjCPPw0nAm3CP802ZsFapC2iKJANJtT2BahbSqWDtMv3KLJjs2vo
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
