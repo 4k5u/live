@@ -186,3 +186,8 @@ Wed Nov 12 12:31:31 CST 2025
 Wed Nov 12 12:32:35 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+Wed Nov 12 12:49:01 CST 2025
+Wed Nov 12 12:49:14 CST 2025
+Wed Nov 12 12:51:24 CST 2025
+Wed Nov 12 12:52:25 CST 2025
+删除taitehambelton https://edge18-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-a91797e07f4baa381ed8326e48ad2d39b1b74e294bf6d7c9ed5ee2f140168f39_trns_h264/playlist.m3u8
