@@ -259,3 +259,9 @@ Wed Nov 12 16:03:06 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+Wed Nov 12 16:36:33 CST 2025
+Wed Nov 12 16:36:46 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Wed Nov 12 16:39:15 CST 2025
+Wed Nov 12 16:40:27 CST 2025
+删除my_eyes_higher https://edge8-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-4186f8aa1ceeab42773d2f6e2771d9eb50c9edc4642b2726217d5a5ae1c35c7f_trns_h264/playlist.m3u8
