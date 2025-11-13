@@ -238,3 +238,8 @@ Thu Nov 13 14:39:43 CST 2025
 Thu Nov 13 14:42:04 CST 2025
 Thu Nov 13 14:43:08 CST 2025
 删除ake_mi https://edge10-phx.live.mmcdn.com/live-hls/amlst:ake_mi-sd-3b7e3bef1778a32d2bafa84392e0b75544b3f169102a544c730c37d5b14c9794_trns_h264/playlist.m3u8
+Thu Nov 13 14:58:10 CST 2025
+Thu Nov 13 14:58:23 CST 2025
+Thu Nov 13 15:00:37 CST 2025
+Thu Nov 13 15:01:38 CST 2025
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
