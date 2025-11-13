@@ -343,3 +343,11 @@ Thu Nov 13 19:31:56 CST 2025
 删除navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
 删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Thu Nov 13 19:41:28 CST 2025
+添加thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.IHzboXfOrBld.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0lIemJvWGZPckJsZCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEOTBFM0I3Qy1CNDc0LTQ2NkQtODVCQS1EMUZGMjExN0UzQTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MzAzNDExMiwiZXhwIjoxNzYzMDM0NzEyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.0Jpv-fJv5GxOihGZmuEVnPzqsVPSrE3r6VC9j3cf0W7KTxYAKTz0NMs8YZ6TMYljKP1IXFSB4iwnJBSplKDFvcmCymVKl3aWuaDNcTtgc72Z1DW6KrlFj73nIYln-HpH
+Thu Nov 13 19:41:58 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Thu Nov 13 19:44:22 CST 2025
+Thu Nov 13 19:45:25 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
