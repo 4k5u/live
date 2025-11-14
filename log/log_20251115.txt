@@ -142,3 +142,8 @@ Sat Nov 15 05:01:27 CST 2025
 Sat Nov 15 05:01:38 CST 2025
 Sat Nov 15 05:03:48 CST 2025
 Sat Nov 15 05:04:50 CST 2025
+Sat Nov 15 05:27:12 CST 2025
+Sat Nov 15 05:27:23 CST 2025
+Sat Nov 15 05:29:35 CST 2025
+Sat Nov 15 05:30:36 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
