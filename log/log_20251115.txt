@@ -157,3 +157,8 @@ Sat Nov 15 05:52:48 CST 2025
 Sat Nov 15 05:55:04 CST 2025
 Sat Nov 15 05:56:07 CST 2025
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Sat Nov 15 06:22:46 CST 2025
+Sat Nov 15 06:22:55 CST 2025
+Sat Nov 15 06:25:07 CST 2025
+Sat Nov 15 06:26:09 CST 2025
+删除rosyemily https://edge5-aus.live.mmcdn.com/live-hls/amlst:rosyemily-sd-36ffa629821390361a1531e1e5f1d24dae5fb33c90a93eb4844d11c94dca9e3b_trns_h264/playlist.m3u8
