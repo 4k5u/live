@@ -327,3 +327,12 @@ Sat Nov 15 16:59:20 CST 2025
 Sat Nov 15 16:59:31 CST 2025
 Sat Nov 15 17:01:47 CST 2025
 Sat Nov 15 17:02:50 CST 2025
+添加my_eyes_higher https://edge15-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-10857994ed6b1c50c297c11297cb175f84c3df09f07f3a078dd0abc17d228245_trns_h264/playlist.m3u8
+Sat Nov 15 17:26:20 CST 2025
+添加mayonz https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.63XEYxMeXRyo.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzYzWEVZeE1lWFJ5byIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMTVBRjM1RC03NkM0LTQxNUUtODU3Ni03QjQ3NDRFRkM5MDMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MzE5ODc4NywiZXhwIjoxNzYzMTk5Mzg3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.L-aQfrLATmu2jUm_H6AFKkxJigsR9XqWDIhQXS171l4iNsX3IrzLkuWYNBpWxzNIeDRL0Ws1NuAll-vFd66IvJeurSz1SC_JHdgwozjujX7WFr5rNgCXiwTrNhtscUFY
+Sat Nov 15 17:26:35 CST 2025
+Sat Nov 15 17:28:35 CST 2025
+Sat Nov 15 17:29:29 CST 2025
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
