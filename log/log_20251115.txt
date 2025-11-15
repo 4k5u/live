@@ -479,3 +479,9 @@ Sat Nov 15 22:44:25 CST 2025
 Sat Nov 15 22:45:21 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+Sat Nov 15 22:52:33 CST 2025
+Sat Nov 15 22:53:20 CST 2025
+Sat Nov 15 22:55:30 CST 2025
+Sat Nov 15 22:56:32 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
