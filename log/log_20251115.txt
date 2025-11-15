@@ -224,3 +224,11 @@ Sat Nov 15 12:02:46 CST 2025
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除_meganmeow_ https://edge11-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-eda1b7cc9b01f5b95b1fedb88f28816e7b3b0f53cbbf2b3c76ecf0cbd6d2890a_trns_h264/playlist.m3u8
+Sat Nov 15 12:31:50 CST 2025
+Sat Nov 15 12:31:59 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sat Nov 15 12:34:20 CST 2025
+Sat Nov 15 12:35:24 CST 2025
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
