@@ -384,3 +384,7 @@ Sat Nov 15 19:02:27 CST 2025
 Sat Nov 15 19:03:29 CST 2025
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 删除ad0res https://edge7-atl.live.mmcdn.com/live-hls/amlst:ad0res-sd-1164ea4493b818854518507ca7b1d2c746118fef676d0821eefbd89954a671c1_trns_h264/playlist.m3u8
+Sat Nov 15 19:21:28 CST 2025
+Sat Nov 15 19:21:55 CST 2025
+Sat Nov 15 19:24:05 CST 2025
+Sat Nov 15 19:25:06 CST 2025
