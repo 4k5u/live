@@ -363,3 +363,9 @@ Sat Nov 15 18:14:06 CST 2025
 删除iminako https://edge17-ash.live.mmcdn.com/live-hls/amlst:iminako-sd-152d10e84178f00c7203fe7d1ea8aafeeb7a4f48b4c2a590334262c137e1e1ed_trns_h264/playlist.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除ad0res https://edge7-atl.live.mmcdn.com/live-hls/amlst:ad0res-sd-1164ea4493b818854518507ca7b1d2c746118fef676d0821eefbd89954a671c1_trns_h264/playlist.m3u8
+添加ad0res https://edge7-atl.live.mmcdn.com/live-hls/amlst:ad0res-sd-1164ea4493b818854518507ca7b1d2c746118fef676d0821eefbd89954a671c1_trns_h264/playlist.m3u8
+Sat Nov 15 18:34:02 CST 2025
+Sat Nov 15 18:34:25 CST 2025
+Sat Nov 15 18:36:44 CST 2025
+Sat Nov 15 18:37:51 CST 2025
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
