@@ -421,3 +421,11 @@ Sun Nov 16 21:20:02 CST 2025
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除iminako https://edge12-chi.live.mmcdn.com/live-hls/amlst:iminako-sd-b6a1fedeb4880752dfcf1161389d271ab85a8156991f49cf009712456ec98c30_trns_h264/playlist.m3u8
+Sun Nov 16 21:37:28 CST 2025
+Sun Nov 16 21:38:24 CST 2025
+Sun Nov 16 21:40:24 CST 2025
+Sun Nov 16 21:41:19 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除lovelypower77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OpRSg42ryu6h.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09wUlNnNDJyeXU2aCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRURFM0FBRi1DNTMxLTRDMUMtOEVENy1BMTdDN0QxQTQ3RkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MzI3NjA4MiwiZXhwIjoxNzYzMjc2NjgyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.x4NE8VTTahiV41OS5u3RQJ7X860LfsWUorjYq5qKILSzgUfeeHKMMvL-12GN_umHYl4kJLAUcsnoXyiTncJ-U-2Cwo3BN2W5IOpSVVKlXf2TGSQh3WuslfDF0_VF0WtE
+删除rosyemily https://edge8-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-03bedb28ababd86a714601ef95160408cfb852c5ce0861dd15c275a020aff062_trns_h264/playlist.m3u8
