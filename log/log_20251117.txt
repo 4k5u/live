@@ -194,3 +194,9 @@ Mon Nov 17 11:59:20 CST 2025
 Mon Nov 17 12:00:24 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除_meganmeow_ https://edge12-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-ea48cb91302c966ea8ba6e2a4f62ab46edcc972876a84d0ba6595dea1e5890bd_trns_h264/playlist.m3u8
+Mon Nov 17 12:30:06 CST 2025
+Mon Nov 17 12:30:17 CST 2025
+Mon Nov 17 12:32:31 CST 2025
+Mon Nov 17 12:33:36 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
