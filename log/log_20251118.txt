@@ -189,3 +189,10 @@ Tue Nov 18 13:45:59 CST 2025
 Tue Nov 18 13:48:10 CST 2025
 Tue Nov 18 13:49:12 CST 2025
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加ake_mi https://edge7-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-39657b987cc7128e467cee022fe7215e63d8b4571dbdda207690eaf9bfd7da29_trns_h264/playlist.m3u8
+Tue Nov 18 13:58:30 CST 2025
+Tue Nov 18 13:58:41 CST 2025
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=null
+Tue Nov 18 14:00:46 CST 2025
+Tue Nov 18 14:01:41 CST 2025
+删除Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
