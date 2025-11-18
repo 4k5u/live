@@ -231,3 +231,10 @@ Tue Nov 18 16:01:40 CST 2025
 添加Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除ake_mi https://edge7-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-39657b987cc7128e467cee022fe7215e63d8b4571dbdda207690eaf9bfd7da29_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge18-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-3ea88cc5adee9234f67ce7481063bff2f8e36b0eef6298f6bedd3baa4a10df1b_trns_h264/playlist.m3u8
+Tue Nov 18 16:35:53 CST 2025
+Tue Nov 18 16:36:04 CST 2025
+添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Tue Nov 18 16:38:10 CST 2025
+Tue Nov 18 16:39:05 CST 2025
+删除my_eyes_higher https://edge23-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a822421db7babaad503494d336444b5ea0eef03d19153c533e2ea5de2f2fbf2e_trns_h264/playlist.m3u8
