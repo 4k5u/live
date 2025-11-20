@@ -144,3 +144,9 @@ Fri Nov 21 06:27:25 CST 2025
 Fri Nov 21 06:27:36 CST 2025
 Fri Nov 21 06:29:49 CST 2025
 Fri Nov 21 06:30:50 CST 2025
+Fri Nov 21 06:42:15 CST 2025
+Fri Nov 21 06:42:26 CST 2025
+Fri Nov 21 06:44:41 CST 2025
+Fri Nov 21 06:45:44 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除sumin2005 https://medialive-pull.ttinglive.com/live/prod_C652548_004cfb772a0d47cfafc7082302d4ae31_uhd.flv?expire=1764243593&sign=73fdfae1704cf66e0a263784c2ac7efe
