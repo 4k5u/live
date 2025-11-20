@@ -150,3 +150,8 @@ Fri Nov 21 06:44:41 CST 2025
 Fri Nov 21 06:45:44 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除sumin2005 https://medialive-pull.ttinglive.com/live/prod_C652548_004cfb772a0d47cfafc7082302d4ae31_uhd.flv?expire=1764243593&sign=73fdfae1704cf66e0a263784c2ac7efe
+Fri Nov 21 06:58:14 CST 2025
+Fri Nov 21 06:58:23 CST 2025
+Fri Nov 21 07:00:38 CST 2025
+Fri Nov 21 07:01:43 CST 2025
+删除jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzODU2RkUyNi01MTY0LTRGQTktQTQ4QS0yREQ2RERFOEFFRDUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MzY2NzIzNywiZXhwIjoxNzYzNjY3ODM3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.1PlwX394B-TWLWsJF3VjpLdpriCtP0RBlQVDHOXnJp3Cjldl1qP_WM-ejQfdc7E3eW-wPB5usE8NxN5cmwYitZBpfJ__TfhtuI4wTxhMEHcTp0tS804shcqb3XNKcrKs
