@@ -225,3 +225,8 @@ Fri Nov 21 13:45:46 CST 2025
 Fri Nov 21 13:46:02 CST 2025
 Fri Nov 21 13:48:18 CST 2025
 Fri Nov 21 13:49:22 CST 2025
+Fri Nov 21 13:58:10 CST 2025
+Fri Nov 21 13:58:25 CST 2025
+Fri Nov 21 14:00:40 CST 2025
+Fri Nov 21 14:01:43 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
