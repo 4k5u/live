@@ -271,3 +271,10 @@ Fri Nov 21 16:40:03 CST 2025
 Fri Nov 21 16:41:14 CST 2025
 删除ee5844 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.BATRWzSE2Nrb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0JBVFJXelNFMk5yYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0OUVGOEU5OS05QkI3LTRDREEtQThCMC00MjUwNTY0REZFQkEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MzY5NDI4MSwiZXhwIjoxNzYzNjk0ODgxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.A4WRWBg4irK9jlnV78xo83_laSoFZkwxtfo0x5DOlwlbkx4PTIM5SFPYuauAmVCMg0XrtVCH2QzEj28H1n8fSaDcrCcTAv5tr1L7zoSVYjPlyNINrwtNbOBopOjmr0ju
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+添加amilia4u https://edge11-chi.live.mmcdn.com/live-hls/amlst:amilia4u-sd-e14f4dd15bbd14687fdc61435d0db5b572c0d8c3f4f30c7906a6ceb8efe358de_trns_h264/playlist.m3u8
+Fri Nov 21 16:55:48 CST 2025
+Fri Nov 21 16:55:59 CST 2025
+Fri Nov 21 16:58:12 CST 2025
+Fri Nov 21 16:59:15 CST 2025
+删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除ake_mi https://edge15-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-204339cdd94b4a75f91a8ad7dc0065b7435276f0e16ba24a6fb3bb55d5104d47_trns_h264/playlist.m3u8
