@@ -169,3 +169,9 @@ Sat Nov 22 06:59:39 CST 2025
 Sat Nov 22 07:01:52 CST 2025
 Sat Nov 22 07:02:55 CST 2025
 删除sexygamesx https://edge25-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-1848e588d6946dc054eae54a24c62d0a28e011487102388df7016bc2be662d18_trns_h264/playlist.m3u8
+Sat Nov 22 07:26:34 CST 2025
+Sat Nov 22 07:26:41 CST 2025
+Sat Nov 22 07:28:51 CST 2025
+Sat Nov 22 07:29:52 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
