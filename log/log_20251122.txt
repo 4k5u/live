@@ -128,3 +128,8 @@ Sat Nov 22 04:45:08 CST 2025
 Sat Nov 22 04:47:09 CST 2025
 Sat Nov 22 04:48:04 CST 2025
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+Sat Nov 22 04:58:18 CST 2025
+Sat Nov 22 04:58:25 CST 2025
+Sat Nov 22 05:00:39 CST 2025
+Sat Nov 22 05:01:43 CST 2025
+删除calliadesigner https://edge6-ash.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-33b542fb5a9fd7073f61e6ae4cb45858a16efe4f90b75b1d374d27108a4905b8_trns_h264/playlist.m3u8
