@@ -4,3 +4,4 @@ gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_pl
 _meganmeow_ https://edge7-sea.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-6677846624bebd1a95bbd0c4bf08c2385b8593c06684d6e70dc88fc0a1bb849a_trns_h264/playlist.m3u8
 calliadesigner https://edge14-aus.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-33b542fb5a9fd7073f61e6ae4cb45858a16efe4f90b75b1d374d27108a4905b8_trns_h264/playlist.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
