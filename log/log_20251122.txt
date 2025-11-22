@@ -283,3 +283,7 @@ Sat Nov 22 15:24:50 CST 2025
 添加Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
 删除twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+Sat Nov 22 15:33:14 CST 2025
+Sat Nov 22 15:33:29 CST 2025
+Sat Nov 22 15:35:44 CST 2025
+Sat Nov 22 15:36:46 CST 2025
