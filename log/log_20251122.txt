@@ -306,3 +306,8 @@ Sat Nov 22 16:37:41 CST 2025
 删除my_eyes_higher https://edge19-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-9583d35acd7a91bfa7344eaa715274505994641847bb91cbd0231e9b3d414777_trns_h264/playlist.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
+Sat Nov 22 16:52:12 CST 2025
+Sat Nov 22 16:52:29 CST 2025
+Sat Nov 22 16:54:44 CST 2025
+Sat Nov 22 16:55:48 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
