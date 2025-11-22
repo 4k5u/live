@@ -21,3 +21,5 @@ mini2121 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 ad0res https://edge27-ash.live.mmcdn.com/live-hls/amlst:ad0res-sd-5429927e41516dac3dab1f42b2a3b61840754960d50ef8b9b332323c9666e262_trns_h264/playlist.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
