@@ -230,3 +230,8 @@ Sat Nov 22 12:31:55 CST 2025
 Sat Nov 22 12:34:21 CST 2025
 Sat Nov 22 12:35:30 CST 2025
 删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Sat Nov 22 12:47:15 CST 2025
+Sat Nov 22 12:47:26 CST 2025
+Sat Nov 22 12:49:37 CST 2025
+Sat Nov 22 12:50:39 CST 2025
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
