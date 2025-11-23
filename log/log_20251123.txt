@@ -224,3 +224,10 @@ Sun Nov 23 13:58:27 CST 2025
 Sun Nov 23 13:58:40 CST 2025
 Sun Nov 23 14:00:51 CST 2025
 Sun Nov 23 14:01:53 CST 2025
+添加my_eyes_higher https://edge6-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-6a1ee89bd5d9e5ba165003ecdb056fa9b017d951aa62aa79262c00a176ed1cfc_trns_h264/playlist.m3u8
+Sun Nov 23 14:37:54 CST 2025
+Sun Nov 23 14:38:07 CST 2025
+Sun Nov 23 14:40:24 CST 2025
+Sun Nov 23 14:41:26 CST 2025
+添加Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+删除l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
