@@ -276,3 +276,11 @@ Sun Nov 23 16:52:23 CST 2025
 Sun Nov 23 16:54:44 CST 2025
 Sun Nov 23 16:55:48 CST 2025
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+添加ad0res https://edge23-ash.live.mmcdn.com/live-hls/amlst:ad0res-sd-a900a4289e69a96f1b373f44cf9bf991e75cf4422bf3365e327ac42753c3b564_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge27-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-03de414cfc885f50ec7ae463fb81d84da5af6585e91bdfcdef0b2bdc44207852_trns_h264/playlist.m3u8
+Sun Nov 23 17:23:02 CST 2025
+添加tyy750ii https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.46xdis94uIHn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzQ2eGRpczk0dUlIbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwNjhBNDgxMS1CQUM3LTRCMDItQTU5RS02QzdBOUUwOUVGMTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Mzg4OTc4NywiZXhwIjoxNzYzODkwMzg3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.F6k5rkCa7tJC80AXu9zOx_XfZdiIsYzlBeSsrzBxPamXlqqNSOct5oNiYQeDjAzE5Ab7mQIThsx-NmILHMWwLRW6X6bLnZfv2qotOiy9MX46D8ABHewDmBbNd0MZKRBw
+Sun Nov 23 17:23:12 CST 2025
+Sun Nov 23 17:25:25 CST 2025
+Sun Nov 23 17:26:28 CST 2025
+删除taitehambelton https://edge26-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-c34a787b8372a1309080031cf07373bbfc96af5da2addf08114a4d009ab05295_trns_h264/playlist.m3u8
