@@ -447,3 +447,9 @@ Sun Nov 23 23:38:20 CST 2025
 添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+Sun Nov 23 23:48:03 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qqjfWikIJTnr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FxamZXaWtJSlRuciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMENCNkUyQi1CMzc5LTQzQzUtQjcyQS0zQThBM0VGRjUwQTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MzkxMjkxMSwiZXhwIjoxNzYzOTEzNTExLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.XnzUspN9N69ZmhUdZYJFQ75K1qnp2_9LmdFxvax5CE4b5wdGUEmQsRFv48QmfOn1nguHLfNMe9UNZewbdQk5376jY7oX4NcE7llvcwg7saGhs6qTf0xaLPLLLvZnaGGH
+Sun Nov 23 23:48:40 CST 2025
+Sun Nov 23 23:50:54 CST 2025
+Sun Nov 23 23:51:57 CST 2025
+添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
