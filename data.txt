@@ -9,3 +9,4 @@ heenoo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 my_eyes_higher https://edge6-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-6a1ee89bd5d9e5ba165003ecdb056fa9b017d951aa62aa79262c00a176ed1cfc_trns_h264/playlist.m3u8
 Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
 Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
