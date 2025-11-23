@@ -138,3 +138,8 @@ Mon Nov 24 06:49:05 CST 2025
 Mon Nov 24 06:51:17 CST 2025
 Mon Nov 24 06:52:19 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Mon Nov 24 07:00:06 CST 2025
+添加ioibibi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.66exLzO8T9sb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzY2ZXhMek84VDlzYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RUFFMDM4Mi0zREE1LTRBRTUtQTREQi03NUUzRkRFOTc5RkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MzkzODgwNywiZXhwIjoxNzYzOTM5NDA3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.5JmH2QfgI4WaVc13vLLxcYtuTUBGZw2iu0EUCsPS__ViKl3zxqVg8bzAi91n7TrARbVfR6Ry-FkOmscsL5vwhTrwmDQX2xH2TcKMN0aLgytg8salaPumpW3sTAc3KgAg
+Mon Nov 24 07:00:14 CST 2025
+Mon Nov 24 07:02:26 CST 2025
+Mon Nov 24 07:03:27 CST 2025
