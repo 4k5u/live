@@ -85,3 +85,9 @@ Tue Nov 25 03:31:42 CST 2025
 Tue Nov 25 03:31:59 CST 2025
 Tue Nov 25 03:34:24 CST 2025
 Tue Nov 25 03:35:28 CST 2025
+添加calliadesigner https://edge27-atl.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-67e3a21b4e0b2e3e9b098a36bceb6bbfdef121578813c38e8cab8113ed671677_trns_h264/playlist.m3u8
+Tue Nov 25 03:43:35 CST 2025
+Tue Nov 25 03:43:50 CST 2025
+Tue Nov 25 03:46:04 CST 2025
+Tue Nov 25 03:47:05 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
