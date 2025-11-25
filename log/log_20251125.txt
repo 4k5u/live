@@ -405,3 +405,10 @@ Tue Nov 25 22:29:37 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除ah2love https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.0rGJrOhEtlnO.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzByR0pyT2hFdGxuTyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFRjU3NEE5RS0xNUIwLTQ1OTItODAxMS1GRTA1NjkwNDRBQTMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDA2Njk4MSwiZXhwIjoxNzY0MDY3NTgxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pMMVkFuowc1vVTxLM1rOD6mNKLDkTDQZ6MR5gbNVl8fyEZHVEPndNy9eD7d4K-7piObHMsFinX-SwJRelPflhYu9X7YiFzFziDYXV4RuJlRtGgl3URzc9COBUdDmMza6
 删除ake_mi https://edge14-atl.live.mmcdn.com/live-hls/amlst:ake_mi-sd-4563d03f285425e25737baccd84110f5b1096e30c8b4884c051846dbb12ff61a_trns_h264/playlist.m3u8
+Tue Nov 25 22:48:23 CST 2025
+Tue Nov 25 22:49:16 CST 2025
+Tue Nov 25 22:51:17 CST 2025
+Tue Nov 25 22:52:13 CST 2025
+添加fafa-888 https://edge-hls.doppiocdn.live/hls/90409842/master/90409842_auto.m3u8
+添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
