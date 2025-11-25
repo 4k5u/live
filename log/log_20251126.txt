@@ -77,3 +77,9 @@ Wed Nov 26 03:38:18 CST 2025
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+Wed Nov 26 03:48:21 CST 2025
+Wed Nov 26 03:48:42 CST 2025
+Wed Nov 26 03:50:53 CST 2025
+Wed Nov 26 03:51:54 CST 2025
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除gkfnsus5573 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.4vTQkzhj8zas.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzR2VFFremhqOHphcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMkYzNzNERC00REYzLTQzMjAtQUYyMS0yNTcwNENDRUJGNTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDA3ODk1MywiZXhwIjoxNzY0MDc5NTUzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.bZ1omQN8GtBYERK79IHa_7IDyMCusztyLKvXIY2Lk1IjmGC-FSE8jl7O23b08VCN5wpU0RGZjDa8IwEZkU5wijpf6miPrhpRomxmq9TfwMbXk87sQrLwEafNC80ERhcP
