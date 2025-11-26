@@ -258,3 +258,8 @@ Wed Nov 26 16:39:34 CST 2025
 删除ake_mi https://edge21-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-0dfc808b1b095eec0f16d015b7d8739f1e0f6d8b1a9c51d248fd641f4a243817_trns_h264/playlist.m3u8
 删除my_eyes_higher https://edge12-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e17c343fa8044642f379c84b8e96b5581d6f36a7ae4f02e69b9cd40f6c2c37e4_trns_h264/playlist.m3u8
 删除sexygamesx https://edge19-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-ddf86a49b5ae5c9791f984087683c06366c2b5d70658f5b9fde3a8960acb35ad_trns_h264/playlist.m3u8
+Wed Nov 26 16:56:38 CST 2025
+Wed Nov 26 16:56:51 CST 2025
+Wed Nov 26 16:59:05 CST 2025
+Wed Nov 26 17:00:08 CST 2025
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
