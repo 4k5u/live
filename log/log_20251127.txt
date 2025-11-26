@@ -141,3 +141,8 @@ Thu Nov 27 07:24:49 CST 2025
 Thu Nov 27 07:24:56 CST 2025
 Thu Nov 27 07:26:56 CST 2025
 Thu Nov 27 07:27:51 CST 2025
+Thu Nov 27 07:41:18 CST 2025
+Thu Nov 27 07:41:25 CST 2025
+Thu Nov 27 07:43:38 CST 2025
+Thu Nov 27 07:44:41 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
