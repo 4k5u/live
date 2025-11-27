@@ -262,3 +262,9 @@ Thu Nov 27 17:28:10 CST 2025
 添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
 Thu Nov 27 17:30:32 CST 2025
 Thu Nov 27 17:31:35 CST 2025
+Thu Nov 27 17:45:49 CST 2025
+添加mini2121 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uONLeUcpIMIq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VPTkxlVWNwSU1JcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0OTUyOEQ3NC0zQjg5LTQzRDktQkVFQy1GMDMzRTFFMjlGNjciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDIzNjc2MCwiZXhwIjoxNzY0MjM3MzYwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.GH0C4VvsC0QT5B4UShwXEIkHnfmRnyrvoZ3I1WqpI9jzf9WxbtRIOyX-KkPYHIOG0h7wiiEzQViVXRmiSQsIgXtiJoKOsIPX4dv_JZXRrQnJhO7t5DsxjhTRNFBM8vb8
+Thu Nov 27 17:46:18 CST 2025
+Thu Nov 27 17:48:28 CST 2025
+Thu Nov 27 17:49:29 CST 2025
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
