@@ -249,3 +249,8 @@ Thu Nov 27 16:36:59 CST 2025
 Thu Nov 27 16:39:18 CST 2025
 Thu Nov 27 16:40:20 CST 2025
 删除kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+添加ake_mi https://edge11-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-44357a78ebb7a4d72851b90c416610b17b6be9c386d7afac356f4b4d38e7b526_trns_h264/playlist.m3u8
+Thu Nov 27 16:56:27 CST 2025
+Thu Nov 27 16:56:46 CST 2025
+Thu Nov 27 16:59:01 CST 2025
+Thu Nov 27 17:00:05 CST 2025
