@@ -181,3 +181,9 @@ Sat Nov 29 07:26:40 CST 2025
 Sat Nov 29 07:29:03 CST 2025
 Sat Nov 29 07:30:11 CST 2025
 删除qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MDBFMDQzOC1BOUUzLTQxMjYtOEIwNi02REE5OEEwRjFBQjgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDM0NzYzOCwiZXhwIjoxNzY0MzQ4MjM4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.fjqY9xZQNsE5WBGI12UTsADfbSEQALu7qq7bNgkDVeAp_5vp8fm23hV4TCgHdDbZlQD8L0_FiQZ_BnJqWVcpIoX_qFIDxnrgecupBeEdEHlsOjoIBWT4lHF0_Bx-c4SF
+添加sexygamesx https://edge8-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-682671a0961a5aaaf8d7e9d240517e585d69e60d70a62b9a5d816deeda856d34_trns_h264/playlist.m3u8
+Sat Nov 29 07:41:58 CST 2025
+Sat Nov 29 07:42:03 CST 2025
+Sat Nov 29 07:44:06 CST 2025
+Sat Nov 29 07:45:02 CST 2025
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
