@@ -395,3 +395,11 @@ Sat Nov 29 20:58:27 CST 2025
 删除my_eyes_higher https://edge10-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-fc926427fe909367b278771944fc08d49e78f81e7962f22a73109c953482b380_trns_h264/playlist.m3u8
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
 删除yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Sat Nov 29 21:30:09 CST 2025
+添加redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMzJCRDY2Mi0zNzFDLTRCMjQtQTJGRC03QzQ0NjNCNjhGMDciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDQyMzAzNywiZXhwIjoxNzY0NDIzNjM3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.WokCIOwue-H0ZxM9_zy7wo7Z9WIz7Y3tfxXslXDEJThU5vXckrIDEYKFAgU93kg8mo0wp6e4XTKcola_QQSCbptF0E21AV-VodTGwJ2XhAelNQmNNaAuU1ZVszxhq9Jk
+Sat Nov 29 21:30:45 CST 2025
+Sat Nov 29 21:32:54 CST 2025
+Sat Nov 29 21:33:55 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除ake_mi https://edge4-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-aeb4b05d7cf72d437703377086c42209e5cea801818bc8ab32f632e3e4bc19be_trns_h264/playlist.m3u8
