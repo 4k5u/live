@@ -77,3 +77,9 @@ Sun Nov 30 02:56:57 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Sun Nov 30 03:18:38 CST 2025
+添加roaaa10 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VoonCnFzPL1G.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Zvb25DbkZ6UEwxRyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NTkzMDRGMy0yQ0FBLTRFRkEtOThFNi02RDJDMzgzQjEzMzYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDQ0MzkyNywiZXhwIjoxNzY0NDQ0NTI3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2tpPw2LgncyFs7fXUx5rnR-U_z8YrkQxLOlc2G4kiG6aIOSh56D86Ub7PeBzwVcWUpF15htoefHwV7nlFaTdee1Q7VJPNf_77K8RNXzqKI8MPFQACuo5LsVQ5UV_zHFr
+Sun Nov 30 03:18:57 CST 2025
+Sun Nov 30 03:21:13 CST 2025
+Sun Nov 30 03:22:17 CST 2025
+添加Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
