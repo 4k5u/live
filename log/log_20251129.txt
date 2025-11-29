@@ -364,3 +364,9 @@ Sat Nov 29 19:33:31 CST 2025
 Sat Nov 29 19:35:48 CST 2025
 Sat Nov 29 19:36:51 CST 2025
 添加nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+Sat Nov 29 19:48:30 CST 2025
+添加howru010 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.tbx1hnezY0m2.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3RieDFobmV6WTBtMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRDczN0RGNC1DQ0ZBLTQ5NEQtQUMxRC05MjIyQjMwRDVFMDEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDQxNjkxNiwiZXhwIjoxNzY0NDE3NTE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pXal7MuxNVQf5tjchyVs2I9NEShLLfep0L2JqhLe_Covqo9Ndfu-9Axvou5JBWHp39OwdCUDKIG_e4L7dAp3ptzm5oiUUuf_STSBkA99nCjStQSg-qNoqBdab95aE8ei
+Sat Nov 29 19:48:56 CST 2025
+Sat Nov 29 19:51:23 CST 2025
+Sat Nov 29 19:52:31 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
