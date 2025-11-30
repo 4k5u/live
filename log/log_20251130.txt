@@ -221,3 +221,8 @@ Sun Nov 30 14:41:45 CST 2025
 Sun Nov 30 14:42:54 CST 2025
 添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNjhENjUyQy05MDI1LTRDNDItQjMyNi0zNDU2MTEwRTlBOUQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDQ2ODAxMywiZXhwIjoxNzY0NDY4NjEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.i7kDOz7_q7TyihlV1Z1PBMX7kLyz0A6wjLj3uJeNdWA4ELw40nC_T31UxSTsvy5eWKV5mFoWaVGTCANC7OFDKCnTS83vhzRSmh2Iiqtt_VyzMcsuXllXxLC8UpnB_bMU
+Sun Nov 30 14:56:26 CST 2025
+Sun Nov 30 14:56:39 CST 2025
+Sun Nov 30 14:58:40 CST 2025
+Sun Nov 30 14:59:34 CST 2025
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
