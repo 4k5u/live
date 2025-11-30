@@ -153,3 +153,9 @@ Sun Nov 30 07:41:22 CST 2025
 Sun Nov 30 07:43:22 CST 2025
 Sun Nov 30 07:44:18 CST 2025
 添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
+Sun Nov 30 07:52:54 CST 2025
+Sun Nov 30 07:53:05 CST 2025
+Sun Nov 30 07:55:40 CST 2025
+Sun Nov 30 07:56:48 CST 2025
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
