@@ -143,3 +143,8 @@ Tue Dec 2 07:42:53 CST 2025
 Tue Dec 2 07:45:02 CST 2025
 Tue Dec 2 07:46:04 CST 2025
 删除sexygamesx https://edge22-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-fe679b399c1ea7472b62ef5bdd93063878fa74f6ebabe2a25023afdecff491d5_trns_h264/playlist.m3u8
+Tue Dec 2 07:58:27 CST 2025
+Tue Dec 2 07:58:36 CST 2025
+Tue Dec 2 08:00:59 CST 2025
+Tue Dec 2 08:02:04 CST 2025
+添加l1lpamp https://edge-hls.doppiocdn.live/hls/125997063/master/125997063_auto.m3u8
