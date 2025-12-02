@@ -239,3 +239,13 @@ Tue Dec 2 16:01:24 CST 2025
 添加twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.gAxL9FDBm1Adc41r55JKeGh9aQfbYLrMrNbuQL_pJXugtHESPeDrkdA1me1VYyVLEEOPC7USi2lNlozzCFOibZQNLVmU6M3grDJH3umXtutb3BdKmu9-Mk2iwiWh7lMClgjbxY2PyT-4oDSe_59klZ8H9ydZReID56SfYrkdzup7jbW0-H1p4BCzHHMljBmM
 Tue Dec 2 16:03:52 CST 2025
 Tue Dec 2 16:04:58 CST 2025
+Tue Dec 2 16:41:47 CST 2025
+Tue Dec 2 16:42:00 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.BYdXyfxkZoc0EymmGehjOlaKKN4Rq7LhQiTwyia8H-Y4Qn9KLSmlT-XhuY_8oggF-h8pcROsDXuxvaattQCn6jBeTn1BhO-tj-FxQeicG3pFs9OEKHhK30SNb_idQqZW1kGwVHOk4vkhU3nT3N5q6a4JZkHtxzy31RqKjX1nKhns-QQFJElajwYe3W-62uKK
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.NUYaVp4BkMMP0YlLtfuyYXNB1W0vC8F4vbH6RmveTeS0Gd3VyImJCi1JIDD_FeRHx1dOLTp39w6bW5LF1JCW8PNSmlCYa890gzSbfrTVw2KWuhKVfmyJfCif66ZKr-gu7UKXXQA6jJRDj-4Iou1LvvB71VAl93raV8UPXHEP2HnL7ZCbLWeriC2wbqLjfyy9
+Tue Dec 2 16:44:25 CST 2025
+Tue Dec 2 16:45:29 CST 2025
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.AzTFfdrzpRaq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F6VEZmZHJ6cFJhcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMTVFQUE1OC1BMDk3LTQwQTQtQUZCRS1ERTk3RTVFMkUzQjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDY1MzQ4MCwiZXhwIjoxNzY0NjU0MDgwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.GuTyV-oGQTIzEabZM4fihgAfOX1dcZjvz3mEcbRIPS_ZZbv1oGL7d2yxQcMO6D5ttHX4ulnal4LtI1ySfjA8puatyf_CS4-kRxAGhKrG9Ya0eTE6oR3QYkrHS-Ys4bKz
