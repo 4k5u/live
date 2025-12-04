@@ -159,3 +159,7 @@ Thu Dec 4 07:48:32 CST 2025
 Thu Dec 4 07:50:46 CST 2025
 Thu Dec 4 07:51:49 CST 2025
 删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Thu Dec 4 07:59:32 CST 2025
+Thu Dec 4 07:59:39 CST 2025
+Thu Dec 4 08:01:53 CST 2025
+Thu Dec 4 08:02:56 CST 2025
