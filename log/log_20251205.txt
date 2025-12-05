@@ -229,3 +229,9 @@ Fri Dec 5 15:02:20 CST 2025
 Fri Dec 5 15:02:35 CST 2025
 Fri Dec 5 15:04:51 CST 2025
 Fri Dec 5 15:05:54 CST 2025
+Fri Dec 5 15:33:18 CST 2025
+Fri Dec 5 15:33:31 CST 2025
+Fri Dec 5 15:35:53 CST 2025
+Fri Dec 5 15:37:00 CST 2025
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
