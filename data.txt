@@ -6,7 +6,6 @@ qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 _meganmeow_ https://edge27-ash.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-def3b29ec8e7f60a7c94ed0871c7bff3b54e1f683950767ed1d22e3961582c95_trns_h264/playlist.m3u8
-calliadesigner https://edge8-atl.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-63a6caae45eadd0cf6df974ab83b7da5376b96d90c0171b936c40283db486932_trns_h264/playlist.m3u8
 gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
 mode_bad https://edge6-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-920baa6f05d564fc8eaaf4262f6a94e2e0ab365cccde7cc0ad176281ff085959_trns_h264/playlist.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
