@@ -124,3 +124,8 @@ Sat Dec 6 05:10:14 CST 2025
 Sat Dec 6 05:10:19 CST 2025
 Sat Dec 6 05:12:35 CST 2025
 Sat Dec 6 05:13:40 CST 2025
+添加mode_bad https://edge6-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-920baa6f05d564fc8eaaf4262f6a94e2e0ab365cccde7cc0ad176281ff085959_trns_h264/playlist.m3u8
+Sat Dec 6 05:31:23 CST 2025
+Sat Dec 6 05:31:28 CST 2025
+Sat Dec 6 05:33:46 CST 2025
+Sat Dec 6 05:34:51 CST 2025
