@@ -283,3 +283,12 @@ Fri Dec 5 17:58:29 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
 Fri Dec 5 18:00:37 CST 2025
 Fri Dec 5 18:01:32 CST 2025
+Fri Dec 5 18:29:40 CST 2025
+Fri Dec 5 18:29:57 CST 2025
+添加h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.wedYnbo3VSa4tWw9r7MWf9HjsDq8FVBhNpYf5nQOhBPZfxidZuBgUVWny4ISq8AZfpf-jXZDnkQxOsLt-JTEmvHmTZVWKFMgSiz4MdhyiKEPOgR3XcsuxcEt418g9xle4W8Sw1Qez9mNmjHkKVpAKk-Au4s4JZbAyWMOV2_50L8J7yMVdEsDOCc_YZimdgGu
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.i55P-bgNaVq0uOyDBeMNKpjw5UTKoBOyMNNH_iIRO2gghHVoI89ggHb3h6S7IwlzpzA3myNq4l_WJZmb1ep7ptx7NUatMoIoLytzkpNbd_YkXyshSsoamGd-iyQMDpouQOxJaebk-QVdm6T6NT04X3DowjA8g8Jr3STUMNkHP6QpftoOd73l3dzCG10kw8ml
+Fri Dec 5 18:32:22 CST 2025
+Fri Dec 5 18:33:26 CST 2025
+删除taitehambelton https://edge12-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-c728019e67c177b4b5df9713452b643d16d2c7a5422ecf156a651f8d19fd907b_trns_h264/playlist.m3u8
+删除yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMTg4OUNEQy04M0FFLTREQkQtODM5NS1FMkJBQUU1REZCQ0QiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDkwMDIwOSwiZXhwIjoxNzY0OTAwODA5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.WXFb9I0iOd2iL3FUDR03JhMxhyuo90DSEw59rTfFY8mIkk8MOV7l5g1DwzRF3-ZWoIRRP7B_ufXAeWBtwL-rFV7wTnG0hbChH1Nx8wZJ4EBsBGTOGCnJdL7GeLIhUGnl
+删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-14/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.vFDairggOkHSw3tf0fAcaM8S63RApHzZ60YaNEPhmUAed-Imc7L-YdCf9sni4mlBwyRU9b4Um5nKVhBy3CiREJXE7NS4-n9zJATBdpybxnPQtjCjh-Zp-gMskhVml6ukTznPMTkA65GZEFSyythlPvxd6aPkDjZShmisqq-jugIxE11H3DBS2yCIvk9ZJH79
