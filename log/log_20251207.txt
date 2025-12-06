@@ -91,3 +91,8 @@ Sun Dec 7 03:51:25 CST 2025
 Sun Dec 7 03:53:36 CST 2025
 Sun Dec 7 03:54:37 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Sun Dec 7 04:10:46 CST 2025
+Sun Dec 7 04:10:59 CST 2025
+Sun Dec 7 04:13:10 CST 2025
+Sun Dec 7 04:14:10 CST 2025
+删除rosyemily https://edge11-aus.live.mmcdn.com/live-hls/amlst:rosyemily-sd-a1a2412c7bcfce962374c840e5d9c65ce497ac75de4e1795581fc87a83a74020_trns_h264/playlist.m3u8
