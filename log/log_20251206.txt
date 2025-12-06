@@ -180,3 +180,11 @@ Sat Dec 6 09:49:29 CST 2025
 删除qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMUQ5RDY1RC0wRTJDLTRENDYtQkUwNy1CMzZEQUNDMUY3QTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDk1MjczMywiZXhwIjoxNzY0OTUzMzMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.PcwPjf_zHOhbkbzGVJglIA1t4iHbMwxwmBqXurmP75Ft2JGBHkwLP3Gda7XX3ZQf5ZSJYUGN0sUMexh1o240pgA0F0j4c3ZL8zmuPTyP2BIz56fqdusArLKXJGQf-qS_
 删除sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 删除Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+添加mazzanti_ https://edge18-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-65a93cb9e66dc4e734076bb9b94820ab36512180986a52a4b7b40b5b51bbca2c_trns_h264/playlist.m3u8
+Sat Dec 6 11:03:13 CST 2025
+Sat Dec 6 11:03:21 CST 2025
+Sat Dec 6 11:05:54 CST 2025
+Sat Dec 6 11:06:59 CST 2025
+删除mode_bad https://edge6-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-920baa6f05d564fc8eaaf4262f6a94e2e0ab365cccde7cc0ad176281ff085959_trns_h264/playlist.m3u8
+删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
