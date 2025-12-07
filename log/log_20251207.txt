@@ -300,3 +300,13 @@ Sun Dec 7 17:42:10 CST 2025
 Sun Dec 7 17:44:23 CST 2025
 Sun Dec 7 17:45:27 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加iminako https://edge5-chi.live.mmcdn.com/live-hls/amlst:iminako-sd-4668818c19bf75f08ae60482817959f9d7b2976768c6955d4aba6d5ecb2e8720_trns_h264/playlist.m3u8
+Sun Dec 7 17:53:13 CST 2025
+Sun Dec 7 17:53:30 CST 2025
+添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Sun Dec 7 17:55:53 CST 2025
+Sun Dec 7 17:57:00 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+删除ad0res https://edge13-atl.live.mmcdn.com/live-hls/amlst:ad0res-sd-0b7d50b16ec0d705a6964bb5067194333611cf88c8ba4a02a0582a3921e6f029_trns_h264/playlist.m3u8
