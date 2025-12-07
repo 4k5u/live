@@ -332,3 +332,13 @@ Sun Dec 7 18:46:04 CST 2025
 Sun Dec 7 18:47:10 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Sun Dec 7 18:58:16 CST 2025
+添加hncsphj https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sxeVh17EklfW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3N4ZVZoMTdFa2xmVyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzRUI0OTFGRi05RUNGLTQ5QkMtOEQzOS00NjM2M0U5RjlENjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTEwNTEwNSwiZXhwIjoxNzY1MTA1NzA1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2z0-JylB5H4vzUwgJZtHbs8GV4DtT3etiOVeQ_zFSF9Tq7NWaGdB9e3zTj5H21wVeAFBYZ0ZLQGVkUMI6AenzXNdS-TBOPgaLwolSAtx6UKklrVAZuCJx5M3dBAAcanX
+添加tyy750ii https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.46xdis94uIHn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzQ2eGRpczk0dUlIbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RUJGRTdCMy1CODEyLTQxMUYtOTU1Ny0xNTAyNzVEMDhFMzciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTEwNTEyMywiZXhwIjoxNzY1MTA1NzIzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.TG1uIvu1vcnYQBVOnywM-moSwcKsgNDqFIWy2HoBrnUYGPidxSjHBzbhfFmh6Z0N1DvrBqhdGPG5WTe1qNag-qLe9bAFI0hC0q3xON7G_JWLk5lOjfiaZvUyZ0EUQrFj
+Sun Dec 7 18:58:49 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
+Sun Dec 7 19:00:53 CST 2025
+Sun Dec 7 19:01:48 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
