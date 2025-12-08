@@ -375,3 +375,8 @@ Mon Dec 8 23:37:38 CST 2025
 删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除hncsphj https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sxeVh17EklfW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3N4ZVZoMTdFa2xmVyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MTg5Qzg4Ny03NkJDLTRDRjItQTg2Ri00N0YxOTNGNzIzMUQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTIwMTA5NiwiZXhwIjoxNzY1MjAxNjk2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Q3Kz-x02I9QJupSA66BPdcFUOQIpVt9sbSNg4g8Ew3ryH5JwKEV5EjY0Addysv4XPV6Pg6OFm_8Tw0d5CecRmhIClKxYtnslfut9ieXKRGtoNYVMt35EAxNAzVAedtxQ
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+Mon Dec 8 23:50:41 CST 2025
+Mon Dec 8 23:51:38 CST 2025
+Mon Dec 8 23:53:56 CST 2025
+Mon Dec 8 23:55:02 CST 2025
+删除foxylovesyou https://edge8-aus.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-35d21183d704912a711e65b2813c4ced3ee5794deb9f57b6ee92e06cd82f297b_trns_h264/playlist.m3u8
