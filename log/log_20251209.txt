@@ -396,3 +396,5 @@ Tue Dec 9 23:50:05 CST 2025
 Tue Dec 9 23:51:08 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=null
+Tue Dec 9 23:59:00 CST 2025
+Tue Dec 9 23:59:43 CST 2025
