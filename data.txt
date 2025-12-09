@@ -10,3 +10,8 @@ pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-w
 fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+my_eyes_higher https://edge11-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-784ad3b76da723d70f5bd35bcb5fe74dd53d69104b0daeee35c28b2888aeed75_trns_h264/playlist.m3u8
+bee-my https://edge-hls.doppiocdn.live/hls/108823606/master/108823606_auto.m3u8
+Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
