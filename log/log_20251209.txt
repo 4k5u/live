@@ -184,3 +184,9 @@ Tue Dec 9 13:48:45 CST 2025
 Tue Dec 9 13:49:50 CST 2025
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除100042 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.psARrA0fvXya.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BzQVJyQTBmdlh5YSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MTFEQzFFQy0yQjMyLTRFOEUtQjBCMi00NjdBNDMxM0FCRDQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTI0NTgwOCwiZXhwIjoxNzY1MjQ2NDA4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.yDTnXOAXuj1WearcOIRcR2YhcUZYH8UUMZpWOocyYrOYIhqa-YYShwT-JKjD-VLiP3idkpLe6imkgRe0wwPWHbv6u8A4CqCduDITOnxh55hK42C8vOcTxcQVEU47DisA
+Tue Dec 9 13:58:50 CST 2025
+Tue Dec 9 13:59:01 CST 2025
+Tue Dec 9 14:01:18 CST 2025
+Tue Dec 9 14:02:21 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
