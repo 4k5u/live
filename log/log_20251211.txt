@@ -70,3 +70,10 @@ Thu Dec 11 03:02:25 CST 2025
 Thu Dec 11 03:04:34 CST 2025
 Thu Dec 11 03:05:33 CST 2025
 删除o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENTdEM0U0OS01QTQ0LTQ5NjQtOTgwOS0yQkYzQTFEQ0RCNzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTM3NDIzMCwiZXhwIjoxNzY1Mzc0ODMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.dP32MRjcDPnGntmgbAW89pQt3c2_0mydg1zf9vcNdu-DZEAsfzl_NqNBnNhI4L65EO0XwUn0exACGCd3XvufG9v6_V_itExseZUvrrOG9ZZ7aGoSJyn9zZp9tPUFuI9n
+Thu Dec 11 03:28:31 CST 2025
+Thu Dec 11 03:28:48 CST 2025
+Thu Dec 11 03:30:48 CST 2025
+Thu Dec 11 03:31:42 CST 2025
+删除purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.kmXq-fFmAmf8WN6pHa-boU2SuLYB_u2-vd4l0NSkYrHT8LtaJWdgUKhzVT89rAcXg1V-rMO6sj7gPLemt-qtUSmgYPISl2ZYT5pvX998empi3oQSIUY5Xen4mQU70tI1wcoajL0CVf36Imr4-h4nkGtwnCk8RFXSBBkHw65VLMmlsKZAicajFUJjqr9bcRPv
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除rosyemily https://edge13-lax.live.mmcdn.com/live-hls/amlst:rosyemily-sd-0f9310b85d7ce23742f045e355efa847c851fad90fd239b2fdd3767d21cebcd5_trns_h264/playlist.m3u8
