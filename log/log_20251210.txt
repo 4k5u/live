@@ -198,3 +198,9 @@ Wed Dec 10 13:38:51 CST 2025
 Wed Dec 10 13:39:53 CST 2025
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 删除taitehambelton https://edge11-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-2681b738ed5283e4401e540e3903d3d41588a93ffe646aed36ab63e02f391260_trns_h264/playlist.m3u8
+添加taitehambelton https://edge9-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-3873a8eb94b4026cf004dae512b3a329bab5860ac404440a3814ef7122b21cac_trns_h264/playlist.m3u8
+Wed Dec 10 13:52:37 CST 2025
+Wed Dec 10 13:52:46 CST 2025
+Wed Dec 10 13:54:58 CST 2025
+Wed Dec 10 13:55:58 CST 2025
+删除100042 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.psARrA0fvXya.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BzQVJyQTBmdlh5YSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1REYxRjE4QS1GNjRELTQzNzgtOEI5Ni0zRjFERjg5OEYxNjEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTMzMTY1OCwiZXhwIjoxNzY1MzMyMjU4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.FL47lRmvutGEhRaBrRmrtPcGGpyxz9jQOE3UnFmaSh3Xvc8zv192oyP5wT1zALSddCnzgD0iYMyimun9HSSj7IQWxgfK-jP7Cax7iFegcIHcFRLLcM5sPzN7PYRvsdsH
