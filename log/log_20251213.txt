@@ -337,3 +337,9 @@ Sat Dec 13 19:33:20 CST 2025
 Sat Dec 13 19:33:55 CST 2025
 Sat Dec 13 19:35:55 CST 2025
 Sat Dec 13 19:36:50 CST 2025
+Sat Dec 13 19:48:19 CST 2025
+Sat Dec 13 19:48:54 CST 2025
+Sat Dec 13 19:51:07 CST 2025
+Sat Dec 13 19:52:09 CST 2025
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除ad0res https://edge11-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-cb77f7a67644b51f6f406bc86fd25a975de21e2b4b521b3624a3b0cd18024891_trns_h264/playlist.m3u8
