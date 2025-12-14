@@ -206,3 +206,10 @@ Sun Dec 14 13:58:33 CST 2025
 Sun Dec 14 14:00:37 CST 2025
 Sun Dec 14 14:01:32 CST 2025
 删除mazzanti_ https://edge13-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-8399a7339d2c5236151446ea6c934f8272c4becd2ff9e61da0ffa8fc9f3a6463_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge27-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-dfea9195f6a5baf768ac98f031cb7fdca667bd967e121043aaa07f7664be5492_trns_h264/playlist.m3u8
+Sun Dec 14 14:38:55 CST 2025
+添加1919152 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vWTwIt4u84JZ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZXVHdJdDR1ODRKWiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQUNFQUY0My01MEFCLTQwMjMtODJGNi04QTZCODRGRkQ4MzUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTY5NDMzNSwiZXhwIjoxNzY1Njk0OTM1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2pFnz2qrGpsdBOsHoDmgj1lQhopPEqB83H6nqbtMXUyA0GrT0u9YAk4gHBuXR5DckEpyZBvOf8ifL5ZqBO2kqhagpDbSEV8LGQ-0R3I0dnSCdKF26r0VyTjWLghjr_tF
+Sun Dec 14 14:39:09 CST 2025
+Sun Dec 14 14:41:23 CST 2025
+Sun Dec 14 14:42:26 CST 2025
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
