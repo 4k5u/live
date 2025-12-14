@@ -151,3 +151,12 @@ Sun Dec 14 07:53:22 CST 2025
 Sun Dec 14 07:53:27 CST 2025
 Sun Dec 14 07:55:37 CST 2025
 Sun Dec 14 07:56:38 CST 2025
+Sun Dec 14 10:01:20 CST 2025
+添加yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJERkVGQzYxQy03NjI4LTQ3RkQtQkQ4OC04NjhGNDMzMENEQ0EiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTY3NzY4MiwiZXhwIjoxNzY1Njc4MjgyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.nbKRbgNQGHBefjNonjAb1T1SsV3mjV-KkjAtI_l7CqWTcXdPilCLd_QyreztSyFVhdHJCcTUSsD2O7vaMK7jzQC2CN-fuS2KXbSfV1ujqHe1a7qQCs-haVZf8rIQlp7-
+Sun Dec 14 10:01:28 CST 2025
+Sun Dec 14 10:03:30 CST 2025
+Sun Dec 14 10:04:26 CST 2025
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除sexygamesx https://edge9-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-99bee61e3dd0ddfec13c4cad423ac32639632d99cd390edb05c0d56377894dca_trns_h264/playlist.m3u8
