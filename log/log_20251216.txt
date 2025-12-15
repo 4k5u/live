@@ -68,3 +68,10 @@ Tue Dec 16 02:48:02 CST 2025
 删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Lu_McFJtmjPfpxmNzm1ZQlMKwXzg9x3FTLhmKOuVOvyFUYR6w04sPkIfI2twNrTLs0LYk_VDf0MQfLvRco-arc05xOxkARO5RAznTCikP4xpok9MkZHT2hidef2-nxXKLgrPR0YgFWaFf9Ejjc4FA_Fbf5XZ0cjXNcVIAV39geSlCYBd7qfzKUAcaQmbBxhS
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Tue Dec 16 03:04:02 CST 2025
+添加qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJERkMwNzMzNS0xNjZGLTQ5MTUtQjhFNi0wQ0IyNjMyQTdENDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTgyNTQ1NiwiZXhwIjoxNzY1ODI2MDU2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wm9JbaHttn4pWpV9MkfEhVpRtl6s2Rjz2nHJ__fxZnoqBLcVFeMT2dpAX_clqIFE1oFGk1U8acSVKio9BW3F3UI5gPQjxv2MV5aJbjWJVrdU6HWbSBhciYjQ-F858uNS
+Tue Dec 16 03:04:22 CST 2025
+Tue Dec 16 03:06:27 CST 2025
+Tue Dec 16 03:07:23 CST 2025
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
