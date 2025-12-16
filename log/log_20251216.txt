@@ -175,3 +175,8 @@ Tue Dec 16 12:27:41 CST 2025
 添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+Tue Dec 16 12:57:15 CST 2025
+Tue Dec 16 12:57:26 CST 2025
+Tue Dec 16 12:59:35 CST 2025
+Tue Dec 16 13:00:34 CST 2025
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
