@@ -108,3 +108,8 @@ Thu Dec 18 05:25:15 CST 2025
 Thu Dec 18 05:27:30 CST 2025
 Thu Dec 18 05:28:33 CST 2025
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+添加mode_bad https://edge4-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-cfa08378e32a9734c0745fb88c55b80a5e779daed5b8399d908b90f902f4994e_trns_h264/playlist.m3u8
+Thu Dec 18 05:44:32 CST 2025
+Thu Dec 18 05:44:43 CST 2025
+Thu Dec 18 05:46:55 CST 2025
+Thu Dec 18 05:47:56 CST 2025
