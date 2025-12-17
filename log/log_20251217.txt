@@ -201,3 +201,10 @@ Wed Dec 17 13:58:33 CST 2025
 Wed Dec 17 13:58:47 CST 2025
 Wed Dec 17 14:00:54 CST 2025
 Wed Dec 17 14:01:53 CST 2025
+添加my_eyes_higher https://edge24-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-cb47e0c8a6fe006b7f96117a3fc49c385680771655cea580ab76574e4045ec70_trns_h264/playlist.m3u8
+Wed Dec 17 14:43:48 CST 2025
+Wed Dec 17 14:43:59 CST 2025
+Wed Dec 17 14:46:11 CST 2025
+Wed Dec 17 14:47:13 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCREMxMzAzMy00RjFFLTRGMzktQjU5My01NjJGMTQ3MTFGODEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTkzNzEzMywiZXhwIjoxNzY1OTM3NzMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.OzsoZg-dxSUAKd3-whlfT47KaxpVovSUyHze0iD7kweHFjdZoS2hVENJ-elECSqfnTaRqp5-xmLafcp9cs5x6QfJDWYbWO9Nuybu5uGTZ82OWiElZzdO4NdLW38SeenM
