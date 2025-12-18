@@ -106,3 +106,9 @@ Fri Dec 19 04:29:03 CST 2025
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Fri Dec 19 04:44:33 CST 2025
+Fri Dec 19 04:44:46 CST 2025
+Fri Dec 19 04:46:57 CST 2025
+Fri Dec 19 04:47:57 CST 2025
+删除chuing77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Y2KGjCsy9Ldr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1kyS0dqQ3N5OUxkciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMzBGQjlCNC02NUM4LTQxOTktQjdDOS02OUVDNkIyMUZBRDgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NjA2NTIwMiwiZXhwIjoxNzY2MDY1ODAyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Vxt3EtTzumooXtU4NTKWCA02UaJetR9G8DlVr4XZjpGAGpjvp1lepwgHRwJFI1HnH-YWB9PRnUYXSYLWc1MRo18Uf7Nx3gwwEkZWV4IqeKyV7ZKreeWdmuwW3qqxs_A2
+删除rosyemily https://edge9-aus.live.mmcdn.com/live-hls/amlst:rosyemily-sd-79308895fea1ece64f9f689395f2cb59080f5627de00a1a9cd92f3665c0bbfc7_trns_h264/playlist.m3u8
