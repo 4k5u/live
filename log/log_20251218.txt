@@ -170,3 +170,9 @@ Thu Dec 18 11:42:28 CST 2025
 删除mode_bad https://edge4-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-cfa08378e32a9734c0745fb88c55b80a5e779daed5b8399d908b90f902f4994e_trns_h264/playlist.m3u8
 删除taitehambelton https://edge11-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-023fd5f76b44023ddf2103ec4e03c0112498787442e8ff2cc30d765dfbee1eab_trns_h264/playlist.m3u8
 删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+添加taitehambelton https://edge11-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-3cbe27cc0fe537d412b37289386b822bb99ae0b057ea7fa2d0eb1dc5266761e2_trns_h264/playlist.m3u8
+Thu Dec 18 12:20:43 CST 2025
+Thu Dec 18 12:20:52 CST 2025
+Thu Dec 18 12:23:03 CST 2025
+Thu Dec 18 12:24:04 CST 2025
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
