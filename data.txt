@@ -14,3 +14,4 @@ starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 rosyemily https://edge4-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-12ff564f5ee8246fe37bf1cb39a00d73e3e06073b4fb2c57dfe2ed5a843f5096_trns_h264/playlist.m3u8
 calliadesigner https://edge7-aus.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-feae54fbe1da7290a44e275575c03ab473b9319d18ac6af72429105dc3cdcbd3_trns_h264/playlist.m3u8
 _meganmeow_ https://edge7-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-15feaf6fa909a0b3e94d22b18568ba6796c0a2b0b34b1c6ebe922a6c1cfafb1b_trns_h264/playlist.m3u8
+Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
