@@ -191,3 +191,9 @@ Fri Dec 19 12:24:25 CST 2025
 Fri Dec 19 12:25:23 CST 2025
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除sexygamesx https://edge24-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-e055c0fd6de97438c73873fa68871cd685a07bc662c00b86161c93c9ecaf59fe_trns_h264/playlist.m3u8
+添加sexygamesx https://edge24-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-e055c0fd6de97438c73873fa68871cd685a07bc662c00b86161c93c9ecaf59fe_trns_h264/playlist.m3u8
+Fri Dec 19 12:56:27 CST 2025
+Fri Dec 19 12:56:38 CST 2025
+Fri Dec 19 12:58:47 CST 2025
+Fri Dec 19 12:59:48 CST 2025
+删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
