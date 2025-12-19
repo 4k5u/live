@@ -79,3 +79,8 @@ Sat Dec 20 03:42:01 CST 2025
 Sat Dec 20 03:44:14 CST 2025
 Sat Dec 20 03:45:16 CST 2025
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加calliadesigner https://edge7-aus.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-feae54fbe1da7290a44e275575c03ab473b9319d18ac6af72429105dc3cdcbd3_trns_h264/playlist.m3u8
+Sat Dec 20 03:53:13 CST 2025
+Sat Dec 20 03:53:34 CST 2025
+Sat Dec 20 03:55:39 CST 2025
+Sat Dec 20 03:56:36 CST 2025
