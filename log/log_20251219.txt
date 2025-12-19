@@ -405,3 +405,9 @@ Fri Dec 19 23:36:52 CST 2025
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.esxNrxxtxwoL.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VzeE5yeHh0eHdvTCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1QjgxODA1Qi05QjIwLTQxODAtODFGNi1BN0JEMTA2RjcyRkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NjE1MTQxMiwiZXhwIjoxNzY2MTUyMDEyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.OA4WJ69utotR8gM8iw9RM_JTWbaZYBZYAlIKIDO0AVwjngecjBvD70rGaz_KJTQ2Ckzjq5OqGcU0eYmGG0REE0oQija9EuacGlIsC8-6FzjvqpqMV_E8nauS9RdafVka
+Fri Dec 19 23:53:08 CST 2025
+Fri Dec 19 23:53:49 CST 2025
+Fri Dec 19 23:56:01 CST 2025
+Fri Dec 19 23:57:02 CST 2025
+添加embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
