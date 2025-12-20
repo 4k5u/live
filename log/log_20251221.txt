@@ -129,3 +129,9 @@ Sun Dec 21 05:52:14 CST 2025
 Sun Dec 21 05:54:31 CST 2025
 Sun Dec 21 05:55:31 CST 2025
 删除rosyemily https://edge30-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-37041c526ac42a4414721b56425ddd19df2ef39890ae0e3e45d2896ab9464df8_trns_h264/playlist.m3u8
+Sun Dec 21 06:11:30 CST 2025
+Sun Dec 21 06:11:39 CST 2025
+Sun Dec 21 06:13:47 CST 2025
+Sun Dec 21 06:14:46 CST 2025
+删除rico0210 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.UVVNmWrRCNCy.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1VWVk5tV3JSQ05DeSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNTREM0E5Qy0wREVFLTRFMUMtOUJGMi00ODkzNTA1Qjk4N0UiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NjI0MTkxMCwiZXhwIjoxNzY2MjQyNTEwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.a3fGvKKYcS7HoUyyVLtYBFnHejfacO5zYqSrHG84DSP25L50UzT5zoloAN2ie3MbVQ2zSRr93m1wiXoP__fvAFr_kMnKTBMz1a9eBd3nO70rQe65kDUa5WnBbn7xC-Qg
+删除calliadesigner https://edge13-atl.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-a8bf2bde1b8f3d9b23ab3278de963f2a657d71b8d76e6ea94ade30df85a1d7bf_trns_h264/playlist.m3u8
