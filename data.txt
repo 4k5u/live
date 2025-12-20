@@ -14,3 +14,4 @@ alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m
 embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
 my_eyes_higher https://edge24-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-76628a991a120ee8a60bd45562d48cede0f9407c3c74e3d4c04c3e3438197d29_trns_h264/playlist.m3u8
 badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+rosyemily https://edge30-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-37041c526ac42a4414721b56425ddd19df2ef39890ae0e3e45d2896ab9464df8_trns_h264/playlist.m3u8
