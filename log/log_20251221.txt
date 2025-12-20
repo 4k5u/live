@@ -97,3 +97,10 @@ Sun Dec 21 03:53:33 CST 2025
 Sun Dec 21 03:53:44 CST 2025
 Sun Dec 21 03:55:45 CST 2025
 Sun Dec 21 03:56:39 CST 2025
+添加calliadesigner https://edge13-atl.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-a8bf2bde1b8f3d9b23ab3278de963f2a657d71b8d76e6ea94ade30df85a1d7bf_trns_h264/playlist.m3u8
+Sun Dec 21 04:25:05 CST 2025
+Sun Dec 21 04:25:16 CST 2025
+Sun Dec 21 04:27:31 CST 2025
+Sun Dec 21 04:28:35 CST 2025
+删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.R_jMa6_PyDt-LUv8P3xAUkyGWSEod-hIZ7KOJiVIgA9P67AQ4jscrTk5Z3I85rwnGVSib3Q7_oBD1QY0PkfnVW2vnyqbXymrwx7Ku9u2u_FyJlkcbglM4ObQrN0AMJ97XalgADgKNEyT3VMAitI_5roLaSaz4vJjzdklCvb8bZtTWNHQdcUOliLoNkPCvNA5
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
