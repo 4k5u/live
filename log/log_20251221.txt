@@ -272,3 +272,10 @@ Sun Dec 21 16:34:51 CST 2025
 删除taitehambelton https://edge19-ash.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-9df98e9ac9a566dd168b061c610490037c90cd27027ef8a47b9907233394533b_trns_h264/playlist.m3u8
 删除my_eyes_higher https://edge17-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-edf050cc7fdf746ec55aa1f014f4c10929d38356f06c35759b3efc6f104cfb98_trns_h264/playlist.m3u8
 删除_meganmeow_ https://edge16-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-9f570d2c1d1ec3465dfea9c02af66b63ee964ee6bd65c639aae900912be6960e_trns_h264/playlist.m3u8
+添加taitehambelton https://edge8-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-9df98e9ac9a566dd168b061c610490037c90cd27027ef8a47b9907233394533b_trns_h264/playlist.m3u8
+Sun Dec 21 16:52:18 CST 2025
+Sun Dec 21 16:52:29 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Sun Dec 21 16:54:50 CST 2025
+Sun Dec 21 16:55:53 CST 2025
+删除hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.AzTFfdrzpRaq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F6VEZmZHJ6cFJhcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNTdENjhDQy02RUQyLTRBRUItQTdEOC1DQzQ5OUUzRERERDkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NjI5NDcwOSwiZXhwIjoxNzY2Mjk1MzA5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.B5T3KP0kwsMO6CEdiC6cArAPJWNc3S1d5-iarlRQxZ8iHNLnLIIncwd6mW9iYu_8JLabNhyYO6MlgKSQZ34YC1K24-EsO6im8tyGhdOlbCjAcvDaFBWAHd9Ww65hv12R
