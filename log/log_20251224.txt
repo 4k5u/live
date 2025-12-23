@@ -131,3 +131,8 @@ Wed Dec 24 06:48:54 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除calliadesigner https://edge10-chi.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-f99ba164ded19d173f61061152284f5b9c6bf5c53dd2f87fced2d65dc6f5f04c_trns_h264/playlist.m3u8
 删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Wed Dec 24 06:58:19 CST 2025
+Wed Dec 24 06:58:28 CST 2025
+Wed Dec 24 07:00:38 CST 2025
+Wed Dec 24 07:01:39 CST 2025
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
