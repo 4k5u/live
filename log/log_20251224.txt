@@ -136,3 +136,8 @@ Wed Dec 24 06:58:28 CST 2025
 Wed Dec 24 07:00:38 CST 2025
 Wed Dec 24 07:01:39 CST 2025
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+Wed Dec 24 07:26:24 CST 2025
+Wed Dec 24 07:26:33 CST 2025
+Wed Dec 24 07:28:47 CST 2025
+Wed Dec 24 07:29:50 CST 2025
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
