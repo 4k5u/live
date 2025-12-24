@@ -236,3 +236,11 @@ Wed Dec 24 16:38:29 CST 2025
 Wed Dec 24 16:40:32 CST 2025
 Wed Dec 24 16:41:32 CST 2025
 删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+添加foxylovesyou https://edge12-atl.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-35e102c668a9d2c5faaa0abf3cc5dc9e2be1796762e5b81444ff1317949f43f7_trns_h264/playlist.m3u8
+Wed Dec 24 16:59:55 CST 2025
+Wed Dec 24 17:00:04 CST 2025
+Wed Dec 24 17:02:15 CST 2025
+Wed Dec 24 17:03:15 CST 2025
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除my_eyes_higher https://edge14-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-fb53ae8dd7e7c4ca81b80679679ab879a072228e59de388768848733974d20c7_trns_h264/playlist.m3u8
+删除miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
