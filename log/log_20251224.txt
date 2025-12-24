@@ -230,3 +230,9 @@ Wed Dec 24 16:00:32 CST 2025
 Wed Dec 24 16:01:33 CST 2025
 添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加sexygamesx https://edge5-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-fb919cd861143f4b1e0e708cbbed72e155afcf8a1d63280310adc12d1c298164_trns_h264/playlist.m3u8
+Wed Dec 24 16:38:20 CST 2025
+Wed Dec 24 16:38:29 CST 2025
+Wed Dec 24 16:40:32 CST 2025
+Wed Dec 24 16:41:32 CST 2025
+删除Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
