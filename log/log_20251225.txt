@@ -395,3 +395,14 @@ Thu Dec 25 21:43:38 CST 2025
 添加-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
 删除navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
 删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Thu Dec 25 21:54:45 CST 2025
+添加o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MzQ2OEZBQi1DMERBLTQ4QjUtQkMyOS1GOUQzRTRERTgyMUYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NjY3MDkzMCwiZXhwIjoxNzY2NjcxNTMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wdFHXutAM4v3QvMvkeE3qnwWIDmqQqVWQKReptgTCrdfHTw-t787aLikeDw6AZ2-r58KRHb6KmHQmb1o44ElKNh1q4MQD-XSgpmdUIZ2Sfo4gteBZihwQ3il9q1T88Wm
+Thu Dec 25 21:55:50 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Thu Dec 25 21:57:54 CST 2025
+Thu Dec 25 21:58:49 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加-M_Hinano_ https://edge-hls.doppiocdn.live/hls/78667727/master/78667727_auto.m3u8
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9NSvvPFVsZaA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlOU3Z2UEZWc1phQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MTNDMjIzOS0wMTQ2LTQ1NTAtQkJBNS1DMzRGQTc3MzBFQUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NjY1NTAxMywiZXhwIjoxNzY2NjU1NjEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.jFDGwf1hfDJfNBO9Xv4yL-dymFwkvbOb3LpEa488g-lGFldee-gq__MlgtnBFtQ79YGdYrP7y6-0Pefs7zxlc-TwgbCxMv96BBP84RMxzF1Ak92Z5msLHBm2jQUiwLyh
