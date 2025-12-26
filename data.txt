@@ -35,3 +35,6 @@ purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_pla
 big541 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
 Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+hee_jeen https://edge6-ash.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-7874007bffe1cceaaa9b2a3b960e76bd1058df967905563f5e58d92ea4412f2b_trns_h264/playlist.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
