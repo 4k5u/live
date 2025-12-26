@@ -319,3 +319,9 @@ Fri Dec 26 19:25:03 CST 2025
 Fri Dec 26 19:26:04 CST 2025
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Fri Dec 26 19:42:12 CST 2025
+Fri Dec 26 19:42:35 CST 2025
+Fri Dec 26 19:44:45 CST 2025
+Fri Dec 26 19:45:46 CST 2025
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除my_eyes_higher https://edge20-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-0536ddbc3775667be4cf42b9b9897b18502d766dd3bc21512ebb5917096eac55_trns_h264/playlist.m3u8
