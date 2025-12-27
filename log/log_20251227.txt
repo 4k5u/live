@@ -175,3 +175,10 @@ Sat Dec 27 11:42:49 CST 2025
 添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sat Dec 27 12:19:08 CST 2025
+Sat Dec 27 12:19:17 CST 2025
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.YjsgHDc64AmV_f9-FpaTw3wY85nOc5AylTWCOos6ttCWYGWCibUURJieoLNIvfbSLiGH2WWEcydziPKaIVh5c_Y7bHV6Ir98vHrHfeBQi8RLgn2lLZnnnX27N0HcssQz6xuENPw584g8CSKHWfoB1ripmw1MEr9tgPwXbviDOdxpoRJo9NOXOYuVIAmzFu6k
+Sat Dec 27 12:21:34 CST 2025
+Sat Dec 27 12:22:34 CST 2025
+删除ioibibi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.66exLzO8T9sb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzY2ZXhMek84VDlzYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBQTYyQTczQi1FRUUzLTRDM0MtQUJERC1EQUE5RjhGRDYyMjgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NjgwMTExNywiZXhwIjoxNzY2ODAxNzE3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.KKbO9wn3ef3k82UTJUZ3hyEa2_HxcwWa92NHCSr9EimFMCQftbCMJ405rbfzTrpI06ipu_5-pMjapQzDt1xBRX_ZuOql52BuHGv0LjHPngVx-mp7vr0zvfx66e2XHoHY
+删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
