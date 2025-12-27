@@ -114,3 +114,10 @@ Sun Dec 28 04:58:28 CST 2025
 Sun Dec 28 05:00:29 CST 2025
 Sun Dec 28 05:01:23 CST 2025
 删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qqjfWikIJTnr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FxamZXaWtJSlRuciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQzQ5QjUzOS05NDIxLTQyMUEtQTQyMC01QzJFRTM5QkYwNTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Njg2MzE4MSwiZXhwIjoxNzY2ODYzNzgxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.fuN-EoK2fgFtBY-us21A4MYH9EuuyZqePB-h1Cgu17ydekMkV9TdkOQ8Un3H-xboLaUxtyQwnmluf2Uf-A55_DXmgk0FZlO6hk7V8KMxqt6g78qudzAHGggMOxU5_03Q
+Sun Dec 28 05:24:42 CST 2025
+Sun Dec 28 05:24:53 CST 2025
+Sun Dec 28 05:27:06 CST 2025
+Sun Dec 28 05:28:09 CST 2025
+删除rosyemily https://edge29-phx.live.mmcdn.com/live-hls/amlst:rosyemily-sd-0a4ef51dbcd31073063ede2057476ac23cf7500f43eb87a7e99f26fb5a21ae5c_trns_h264/playlist.m3u8
+删除hee_jeen https://edge15-lax.live.mmcdn.com/live-hls/amlst:hee_jeen-sd-af633f9bc9b1ce3fbb41378eaca15e13916e1ae8a2f416c4c23881d84b01480e_trns_h264/playlist.m3u8
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
