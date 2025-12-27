@@ -224,3 +224,9 @@ Sat Dec 27 15:27:48 CST 2025
 Sat Dec 27 15:28:43 CST 2025
 删除twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.36Pxc9GiP8fLmYNAEiHpDNgX6lZHZ9qKlnph-VbHtj_EKXojkVvjTDbpFowlGfFq8oSgkWbAKr7h2QO5Tt6UL4DA-6e0nTqMdXAUkIUGNnU4n53iJ2gs8Gg7J5KeUC-tWptHGp6PhhPTfoIXcpvFxsms5fAeI65LkOsX6RjXJBjXfmyBScHSR-FrYQQtWdr4
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+Sat Dec 27 15:42:04 CST 2025
+Sat Dec 27 15:42:15 CST 2025
+Sat Dec 27 15:44:17 CST 2025
+Sat Dec 27 15:45:12 CST 2025
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.IDQYJNnqBswc-VBLLYBzuBvT25SSbkX5EchuEKhwQyCU6zXyVA3n6oCAejsdNgyYB-Ki9RINN3E2nUxwMAIPVa64-JrcY17_mIc4FwWk4B5hgCjAIaHBnP96mAgrtNlDnOMFOK3K3-I6YEdKS3FnvCYCpd8S9fHtwUC3plBFfx0644dJJ29eun0drkz6S5PN
