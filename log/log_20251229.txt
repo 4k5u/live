@@ -79,3 +79,10 @@ Mon Dec 29 03:25:34 CST 2025
 Mon Dec 29 03:27:36 CST 2025
 Mon Dec 29 03:28:30 CST 2025
 删除rosyemily https://edge9-atl.live.mmcdn.com/live-hls/amlst:rosyemily-sd-aae067c46530b6cbfff16fdd63f90f56bd2a4dc45e97f0083764851bf02911ae_trns_h264/playlist.m3u8
+添加_meganmeow_ https://edge27-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-e1a7f03402eeec20e9c0fd1eb2846605c270a9227a40f2bd952682c35aa79347_trns_h264/playlist.m3u8
+Mon Dec 29 03:40:40 CST 2025
+Mon Dec 29 03:40:55 CST 2025
+Mon Dec 29 03:43:07 CST 2025
+Mon Dec 29 03:44:09 CST 2025
+删除chuing77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Y2KGjCsy9Ldr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1kyS0dqQ3N5OUxkciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMEFFRjExMC1DRDkyLTQ1ODMtODNEOS1EMkZGNDA4MzQ4RDMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NjkyODE4MywiZXhwIjoxNzY2OTI4NzgzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.5ABuK4VRzUGSGCr43q2plzVfVcgVl5Fzd2knRkSbXLICM8i6EUXDY0EoHnrgmyAOgVGMPNQGxKcsM_GdnYrcNjhL7ri7JlCv5z6xSU_kk4asfeezMekKEMy5KaPaf9TL
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
