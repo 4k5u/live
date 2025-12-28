@@ -278,3 +278,9 @@ Sun Dec 28 17:25:43 CST 2025
 Sun Dec 28 17:27:56 CST 2025
 Sun Dec 28 17:28:59 CST 2025
 删除SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Sun Dec 28 17:43:56 CST 2025
+Sun Dec 28 17:44:17 CST 2025
+Sun Dec 28 17:46:20 CST 2025
+Sun Dec 28 17:47:15 CST 2025
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
