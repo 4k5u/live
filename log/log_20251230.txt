@@ -178,3 +178,10 @@ Tue Dec 30 12:31:05 CST 2025
 Tue Dec 30 12:32:09 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+Tue Dec 30 13:00:34 CST 2025
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.AzTFfdrzpRaq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F6VEZmZHJ6cFJhcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEOUMwQ0ZFOS04OTE0LTQzNzAtOTBFNC04QTFGQjNENjAxNUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NzA3MDgzOCwiZXhwIjoxNzY3MDcxNDM4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.BDnbH3sch6j_P-FU3NFb67LOgI8HLtFXDyP8KBXIlN1ank36ILh3GxkDrvyUFjzF67VsdenywiPh1k7USKtByOuVrmSlHARm1yuiNGAZwvR7rDPInt22zNsnDOlvVfJN
+Tue Dec 30 13:00:50 CST 2025
+Tue Dec 30 13:02:59 CST 2025
+Tue Dec 30 13:03:59 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
