@@ -109,3 +109,8 @@ Thu Jan 1 04:55:31 CST 2026
 删除100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.6DPr1O2FX1sC.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzZEUHIxTzJGWDFzQyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENjIxMTIxNi05MEJDLTQ0NDctOEREQy1CQjlCNEMyNzg1MkEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NzE3ODg4NiwiZXhwIjoxNzY3MTc5NDg2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.3aJ_gdMH5WkxgSTehdiNVtOpqyPDiusDfpAPluO3ygQ3NMb5LX0JeKrgdJnuEod0AqQlcW0iVMIFCStqgJoGfyLw9aKa8KToIBt8q9FyrKh8KbhCv19dhW2znzLWnQab
 删除Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 删除sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+添加mode_bad https://edge24-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-5fc7b02189f7162260a930baaecbe4f51538033871f9da42f447a0fa20c2e9da_trns_h264/playlist.m3u8
+Thu Jan 1 05:22:35 CST 2026
+Thu Jan 1 05:22:50 CST 2026
+Thu Jan 1 05:25:00 CST 2026
+Thu Jan 1 05:26:01 CST 2026
