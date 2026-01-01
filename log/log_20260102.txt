@@ -123,3 +123,8 @@ Fri Jan 2 06:31:07 CST 2026
 删除100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.6DPr1O2FX1sC.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzZEUHIxTzJGWDFzQyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MEI5NzEzQi1DNTIxLTQwQ0MtQkE5Qi1FMDYwNDA5Q0U5NkYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NzI3MjI1OSwiZXhwIjoxNzY3MjcyODU5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.N5IDIJwxkEvlxRE9qp6C8ybxL2uztOM6wDTuzLbDG6bFD7YLMlNUwN_PmiYLMK39H7J_K3frIBXNROmtn7CcPXjC2j2AV9w4RuYoSEpq9hK5W5OdLaQEiEpr9DRc1TNr
 删除sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 删除Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+Fri Jan 2 06:47:18 CST 2026
+Fri Jan 2 06:47:25 CST 2026
+Fri Jan 2 06:49:37 CST 2026
+Fri Jan 2 06:50:37 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
