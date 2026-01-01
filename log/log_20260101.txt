@@ -144,3 +144,8 @@ Thu Jan 1 07:43:37 CST 2026
 Thu Jan 1 07:43:50 CST 2026
 Thu Jan 1 07:45:51 CST 2026
 Thu Jan 1 07:46:47 CST 2026
+Thu Jan 1 07:58:16 CST 2026
+Thu Jan 1 07:58:29 CST 2026
+Thu Jan 1 08:00:41 CST 2026
+Thu Jan 1 08:01:44 CST 2026
+删除mode_bad https://edge24-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-5fc7b02189f7162260a930baaecbe4f51538033871f9da42f447a0fa20c2e9da_trns_h264/playlist.m3u8
