@@ -27,3 +27,9 @@ Fri Jan 2 01:00:44 CST 2026
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vZtUuZX8EzEU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZadFV1Wlg4RXpFVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFN0JFQTM1Mi05RTRCLTQ0ODUtOTNCRC0xMzdDODBBRDBFRkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NzI3NDY5MSwiZXhwIjoxNzY3Mjc1MjkxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.sJShUiuDAAdGvX2D7EjnLUbOQc_Dj270-8DT6Ge5YTaJhreV6PMdv1JyUpDQ90uGNzkZEzGoRshsdfTNQGELawW2sMAFRM8tkelhUqo97mKdr7FSRd4-bzQ3LafIoAEN
 删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+添加rosyemily https://edge13-phx.live.mmcdn.com/live-hls/amlst:rosyemily-sd-01e9b2cd516222a919279d5f74c6f175d6c6a594753b53fee0d25587d685a673_trns_h264/playlist.m3u8
+Fri Jan 2 01:23:35 CST 2026
+Fri Jan 2 01:24:02 CST 2026
+Fri Jan 2 01:26:16 CST 2026
+Fri Jan 2 01:27:19 CST 2026
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8

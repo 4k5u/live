@@ -24,3 +24,5 @@ sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+rosyemily https://edge13-phx.live.mmcdn.com/live-hls/amlst:rosyemily-sd-01e9b2cd516222a919279d5f74c6f175d6c6a594753b53fee0d25587d685a673_trns_h264/playlist.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
