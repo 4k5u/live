@@ -263,3 +263,10 @@ Fri Jan 2 18:26:47 CST 2026
 Fri Jan 2 18:29:07 CST 2026
 Fri Jan 2 18:30:10 CST 2026
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Fri Jan 2 18:47:49 CST 2026
+添加lovelypower77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OpRSg42ryu6h.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09wUlNnNDJyeXU2aCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMUQyNDZBNC04RTlCLTQ2MUYtOEJBNC0zQzNCRUE1NEQ4NjkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NzM1MDg3NSwiZXhwIjoxNzY3MzUxNDc1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.n467l7QyP7RJg5g_54CZadE6oCrcLXtkDzCb9uRBo97dV8UxekGCbSEAalmlmfGll-mBpvXjM25lAoF12VqnpyZWjxJY5DKs7qK32FJjxwUuazYInotN4NWHjGf6mVo-
+Fri Jan 2 18:48:07 CST 2026
+Fri Jan 2 18:50:19 CST 2026
+Fri Jan 2 18:51:19 CST 2026
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
