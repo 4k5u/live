@@ -140,3 +140,8 @@ Sat Jan 3 06:28:37 CST 2026
 删除qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNTA4QjYxRC0xMjg4LTQwODEtQjFEQS1ENDczOEQ4RTBEOTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NzM2Nzk2NCwiZXhwIjoxNzY3MzY4NTY0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Ky4-EwX7M-l7jnDWxwHh7aiOkVI3mvNm55wTpDV7UQKjx5xtTgKhvJgi2VYya2lrPXhw2eF6a2IQL1PMa36OaGYCA9pD-moknBVppyBuVIYr2lIYgX3sKMCzLJjbw_cZ
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
 删除calliadesigner https://edge19-chi.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-b13b869bea7c2e82f20de123df269c47173129b568cae703f385404e358070bf_trns_h264/playlist.m3u8
+Sat Jan 3 06:46:56 CST 2026
+Sat Jan 3 06:47:07 CST 2026
+Sat Jan 3 06:49:21 CST 2026
+Sat Jan 3 06:50:23 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
