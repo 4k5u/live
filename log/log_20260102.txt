@@ -165,3 +165,11 @@ Fri Jan 2 11:52:53 CST 2026
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.EFjgNzN8ufNO.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0VGamdOek44dWZOTyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxRTA5RjY2Ny05NTBBLTRBNTQtOTEwQi00M0U5MjlENDkxNzkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NzIxMDUwNiwiZXhwIjoxNzY3MjExMTA2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.XWR1m1hmme23HBYx98HZFLaPAALjpEFdj6aUURPvlLQvQ05hTncysXOY1VN8IDdI1_tWIGr8AjtUzHEIJKs6emh-OC1f7zmLUUKp-E3u7jq5meyUA3plZrn4Hxv1Voxt
 删除rosyemily https://edge13-phx.live.mmcdn.com/live-hls/amlst:rosyemily-sd-01e9b2cd516222a919279d5f74c6f175d6c6a594753b53fee0d25587d685a673_trns_h264/playlist.m3u8
+Fri Jan 2 12:31:46 CST 2026
+Fri Jan 2 12:31:57 CST 2026
+Fri Jan 2 12:34:11 CST 2026
+Fri Jan 2 12:35:14 CST 2026
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
