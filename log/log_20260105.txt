@@ -127,3 +127,9 @@ Mon Jan 5 05:24:48 CST 2026
 Mon Jan 5 05:25:52 CST 2026
 删除rico0210 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.UVVNmWrRCNCy.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1VWVk5tV3JSQ05DeSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NjdGQTBGQS00MjUwLTQ5MTgtQkU5Ri01OUUwMTQxQkRENjEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NzUzNjk0MCwiZXhwIjoxNzY3NTM3NTQwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.e1aaWUwGZ7fuccEwMxsDER_xmZMCYTM3Gkhf_ssjej8ZHfQ77LZgFqD3m8t6PrzOGf4oi1Slt85jGnYXOLje3Uj17g39ob6PWHJ87fTBxJyY_ewfso2g6anCpdt5blIx
 删除my_eyes_higher https://edge23-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-01a0b5c7a65ccb8c054e12d96771fef4c497706121723dd5c30a462a84516e93_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge12-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-01a0b5c7a65ccb8c054e12d96771fef4c497706121723dd5c30a462a84516e93_trns_h264/playlist.m3u8
+Mon Jan 5 05:42:50 CST 2026
+Mon Jan 5 05:42:59 CST 2026
+Mon Jan 5 05:45:20 CST 2026
+Mon Jan 5 05:46:30 CST 2026
+删除rosyemily https://edge19-atl.live.mmcdn.com/live-hls/amlst:rosyemily-sd-ad3b0feaf0aae00987b022d58a003c673b0727f91f11e9e72a735dfb6d463649_trns_h264/playlist.m3u8
