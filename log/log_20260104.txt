@@ -233,3 +233,8 @@ Sun Jan 4 15:33:50 CST 2026
 添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.vapF1V4SVoejVdXWUfPvaZNCCbLwMDfzJd_NHbOEuidOnqQ3Hi2KP9CG1O4hQe0Nv9YdpnBprxWDpkiKxGgMtwtaMYsfn6JzWJh50p5tYSrprC4VJ3865pQ_y1DC1pwX1KAIh1N0EgmfkeKzvzfyUYiOoVWHf2H70cGGwDAyQD-XYrZ369Rfgcp_xg5BPPid
 删除twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.QmHV53GFs12Vjyg5mWOya-G--JoaooLMfmG0KDuVzPDjlJbkYuE7aYWFJmU4nR_JmXR6-cav7GzDc5xR0U7TwSz_4Wem8zHbtHETM1bNU0WqDEG4_9EyRuVLt6JhrkEazeTmCxVO55CsN4mN73uivSVMs_i09j-pZF8qYU2mwmd-2u7NLNEJ5wbu3XJx0H2h
+Sun Jan 4 15:45:10 CST 2026
+Sun Jan 4 15:45:27 CST 2026
+Sun Jan 4 15:47:38 CST 2026
+Sun Jan 4 15:48:39 CST 2026
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
