@@ -111,3 +111,9 @@ Mon Jan 5 04:13:18 CST 2026
 Mon Jan 5 04:15:30 CST 2026
 Mon Jan 5 04:16:31 CST 2026
 删除rosyemily https://edge17-ash.live.mmcdn.com/live-hls/amlst:rosyemily-sd-67f7a09284e432f531e75e2b71daba6ef0164bad4f864b37e028c521c9a3be8d_trns_h264/playlist.m3u8
+添加rosyemily https://edge19-atl.live.mmcdn.com/live-hls/amlst:rosyemily-sd-ad3b0feaf0aae00987b022d58a003c673b0727f91f11e9e72a735dfb6d463649_trns_h264/playlist.m3u8
+Mon Jan 5 04:41:00 CST 2026
+Mon Jan 5 04:41:11 CST 2026
+Mon Jan 5 04:43:26 CST 2026
+Mon Jan 5 04:44:28 CST 2026
+删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
