@@ -143,3 +143,8 @@ Mon Jan 5 06:27:36 CST 2026
 Mon Jan 5 06:29:50 CST 2026
 Mon Jan 5 06:30:53 CST 2026
 删除calliadesigner https://edge30-atl.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-a11237d3ec3c084030a2da63de5fb14e4aa90a1c1ad6ab4b001615628b78fb39_trns_h264/playlist.m3u8
+Mon Jan 5 06:46:52 CST 2026
+Mon Jan 5 06:47:03 CST 2026
+Mon Jan 5 06:49:17 CST 2026
+Mon Jan 5 06:50:20 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
