@@ -116,3 +116,9 @@ Wed Jan 7 06:29:19 CST 2026
 Wed Jan 7 06:31:34 CST 2026
 Wed Jan 7 06:32:37 CST 2026
 删除rosyemily https://edge35-phx.live.mmcdn.com/live-hls/amlst:rosyemily-sd-1a6c1a78aa9564d2598df67d6ce9bc5adf5b9449e6e827511bec6627756b7036_trns_h264/playlist.m3u8
+Wed Jan 7 06:50:34 CST 2026
+Wed Jan 7 06:50:43 CST 2026
+Wed Jan 7 06:53:24 CST 2026
+Wed Jan 7 06:54:30 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除calliadesigner https://edge13-lax.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-7ff81d5ae60489e123ec635f5aa9bab681f5c14329c2af22b2685418295849f7_trns_h264/playlist.m3u8
