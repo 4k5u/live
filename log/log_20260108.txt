@@ -40,3 +40,13 @@ Thu Jan 8 01:44:36 CST 2026
 删除wintersnowwin https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.O8FkQHRwvjEh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL084RmtRSFJ3dmpFaCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEMTQzMkI0My03OTk0LTQ2MzktODE3RC03NjU4MTNDOEEwNUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Nzc5Mzc1NSwiZXhwIjoxNzY3Nzk0MzU1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.W9iepOLuqjamm2KxOaTh8v4OMlqmiwuvm6QtvsrR-tWoVDwC3e1Z8-KTb-F9W5fhdcFA7C4lyq8Evbmfin0AskYh3q2JkKPLh6hL5kVqAiP_E65GKDrCiZda5z4A68fG
 删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
 删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qqjfWikIJTnr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FxamZXaWtJSlRuciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNDAwMDdFMC04RTFFLTRERjItQjdDQy05OTc4ODE2QkJEQkEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NzgwMTQyNywiZXhwIjoxNzY3ODAyMDI3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pxtWZPY1ehY1ZyWOUtTXg9eglvvjCrmUhuGN92wS0_HDe5yIzbLhJUpcTTP8NLT693FOFibM8djzglSDVZoxf5OW9M9wPOZlbIYUZtI2kq7dsuryd9ptK8Cx-5D29UYs
+Thu Jan 8 01:57:52 CST 2026
+Thu Jan 8 01:58:21 CST 2026
+Thu Jan 8 02:00:02 CST 2026
+Thu Jan 8 02:00:58 CST 2026
+删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
