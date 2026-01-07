@@ -142,3 +142,9 @@ Thu Jan 8 06:49:08 CST 2026
 Thu Jan 8 06:50:51 CST 2026
 Thu Jan 8 06:51:50 CST 2026
 删除calliadesigner https://edge17-aus.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-87001fb6535d00ffc78ebd8a98d9c8d69233ab0bccb9e9eec1ec3c3b131ced11_trns_h264/playlist.m3u8
+添加sexygamesx https://edge30-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-1a9a80165b0c0ed7e7f76fc600f8aab962bd681f5fb5111546c4d924798a58a8_trns_h264/playlist.m3u8
+Thu Jan 8 07:00:04 CST 2026
+Thu Jan 8 07:00:09 CST 2026
+Thu Jan 8 07:01:55 CST 2026
+Thu Jan 8 07:02:57 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
