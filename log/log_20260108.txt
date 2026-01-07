@@ -132,3 +132,8 @@ Thu Jan 8 05:58:06 CST 2026
 Thu Jan 8 05:58:11 CST 2026
 Thu Jan 8 05:59:55 CST 2026
 Thu Jan 8 06:00:58 CST 2026
+添加mode_bad https://edge4-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-c2c45848179daa5b4acbb3832bfcbb2e41347c5e07083e8b9e30c37be933bd74_trns_h264/playlist.m3u8
+Thu Jan 8 06:28:46 CST 2026
+Thu Jan 8 06:28:51 CST 2026
+Thu Jan 8 06:30:31 CST 2026
+Thu Jan 8 06:31:25 CST 2026
