@@ -360,3 +360,12 @@ Thu Jan 8 22:53:19 CST 2026
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9NSvvPFVsZaA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlOU3Z2UEZWc1phQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQTQxMjYwNC0zNEM5LTQyNjUtOTZFNy0yODU2NTU2M0VGQ0QiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Nzg2NTE2OCwiZXhwIjoxNzY3ODY1NzY4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.WQLC7MTEWBYqzHm7kSGGpwjBCkKbCQAZRtiwCHTGAgcG7zdxKnV4UxDdzc8xl3tMOFJg4JxRkoabL8uWkp0EEdqTETFmCsX1S3EMu5yoNqeTKXkkaJ2GtafRTKznQkFq
+Thu Jan 8 23:13:37 CST 2026
+Thu Jan 8 23:14:46 CST 2026
+Thu Jan 8 23:16:33 CST 2026
+Thu Jan 8 23:17:36 CST 2026
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+删除ake_mi https://edge23-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-3cad8eb26547661cf455a6fdaf1c4d32cb7999c9372d5cff1b83be684b59b71c_trns_h264/playlist.m3u8
+删除Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
