@@ -18,10 +18,8 @@ imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qqjfWikIJTnr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FxamZXaWtJSlRuciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3RDZBMTMyNy1DMDEzLTQ0MzUtODMzQi1DNDJFNzE5REIwRTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Nzg5MjY1MywiZXhwIjoxNzY3ODkzMjUzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pbJV-mCziGjZj_OPtIces9BWGJRYld3XTtsf0ob74cWotM5MDgPKDwQGwYHZArY4TpgMbsXV0rPHgyJVqwzCwcAdZYqqM75AtcT0kSWQa4nCI35XIMhIVelp8Au2MW93
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
--Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
--Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
 -ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
--Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
