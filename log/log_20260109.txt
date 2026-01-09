@@ -201,3 +201,8 @@ Fri Jan 9 12:33:08 CST 2026
 Fri Jan 9 12:34:06 CST 2026
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+Fri Jan 9 13:01:38 CST 2026
+Fri Jan 9 13:01:49 CST 2026
+Fri Jan 9 13:03:33 CST 2026
+Fri Jan 9 13:04:36 CST 2026
+添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
