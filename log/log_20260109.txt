@@ -380,3 +380,12 @@ Fri Jan 9 22:40:58 CST 2026
 删除gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
 删除somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stm-20/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.rTfnkU0N9KgDiUM36jtNN_iR2bx5XNcT-r1wHBBsOL7rIewepj5QkaGzvDUpoOm-S0PXNW4lCGcYvLvrLqerB7XXnMzEai8SjYh8X9_oKa_7M31NLU_csV0_WrODX8PAbuteJ9TjSH_RqVLRRp9JJ6SYO3P46RMPWgvZpFHkomh69OYw3dJpSBRm4_dSnGoP
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+添加honey_pinkgreen https://edge28-atl.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-59b361666a8268ae0accb41c67b847ae2c0cdc835d2e5100dfe21f3a2f913e28_trns_h264/playlist.m3u8
+Fri Jan 9 22:56:49 CST 2026
+Fri Jan 9 22:57:46 CST 2026
+Fri Jan 9 22:59:30 CST 2026
+Fri Jan 9 23:00:36 CST 2026
+添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+删除cccc01235 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.aslFG3gnwUAV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2FzbEZHM2dud1VBViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQ0ZCQjZBRS1FNTZELTRGQjctQjRDMS0yOEZDQkI2RTQwOTQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Nzk2MzYzMCwiZXhwIjoxNzY3OTY0MjMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.1FHgUiELnp5lqFjMH2jDa8ohmJDSYZqCy1DIPlMtTdiYyKNwp2czTOU6CLkTE6dnAH97727RU3GOnICI6sBzLOIndGXkic7AIihtSFqoQlKEtwbGCOtzsrCzAUotSCII
+删除m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.ghqgyfw4B68VBZmhny8Qeb_14IfL5uzkw1PRBEvjnMSkz8j0O-ihKfv5Zr64qvNj22yVUXjXr72xVHB9rfbE9hpTUCw-BcYRM0eEMTnY5VREYAuvKuXINs8vyin9F6yG-yRCXB3ewkBtJz0E5oFaR2xYhQ4MDcyCPBNocyRGPtDRYVWY4GYA4RbTwsoB7szd
