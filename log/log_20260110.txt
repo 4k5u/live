@@ -235,3 +235,8 @@ Sat Jan 10 15:43:51 CST 2026
 Sat Jan 10 15:44:52 CST 2026
 添加Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Sat Jan 10 15:53:18 CST 2026
+Sat Jan 10 15:53:37 CST 2026
+Sat Jan 10 15:55:17 CST 2026
+Sat Jan 10 15:56:12 CST 2026
+删除taitehambelton https://edge11-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-7ab9024f4825196e025961074269eb2b5e7f96a8c002721a16a925a926b0ffc0_trns_h264/playlist.m3u8
