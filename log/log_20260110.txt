@@ -229,3 +229,9 @@ Sat Jan 10 15:28:42 CST 2026
 删除ioibibi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.66exLzO8T9sb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzY2ZXhMek84VDlzYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQTI5M0I5OS1DMDAzLTQxMzUtODJFOC1FMDBDMUExNkZEQjEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2ODAxODg3OCwiZXhwIjoxNzY4MDE5NDc4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.dzEplKqURydhMeS-lOv63__T-6QMtkX7rM8EPho4QGE-1PwLmSjEjzNqNO1jZgdBmsYPOxHy5LedwT9LC4fhsA6rYqkB6WVg9aoKnCAXrkt7igHAsaSQP4nlMndNyAAE
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
 删除Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+Sat Jan 10 15:41:49 CST 2026
+Sat Jan 10 15:42:08 CST 2026
+Sat Jan 10 15:43:51 CST 2026
+Sat Jan 10 15:44:52 CST 2026
+添加Sakura_Anne https://edge-hls.doppiocdn.live/hls/82030055/master/82030055_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
