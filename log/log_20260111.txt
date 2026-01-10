@@ -52,3 +52,9 @@ Sun Jan 11 01:53:22 CST 2026
 Sun Jan 11 01:54:16 CST 2026
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除ake_mi https://edge5-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-bc855fa330751594bf6889b31982af5f8f973277766cd87280ea1c65c5341b96_trns_h264/playlist.m3u8
+Sun Jan 11 02:02:43 CST 2026
+Sun Jan 11 02:03:16 CST 2026
+Sun Jan 11 02:04:59 CST 2026
+Sun Jan 11 02:06:02 CST 2026
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+删除Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
