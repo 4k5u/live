@@ -128,3 +128,9 @@ Sun Jan 11 04:43:06 CST 2026
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+Sun Jan 11 04:53:25 CST 2026
+Sun Jan 11 04:53:42 CST 2026
+Sun Jan 11 04:55:27 CST 2026
+Sun Jan 11 04:56:29 CST 2026
+添加Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+删除rosyemily https://edge20-sea.live.mmcdn.com/live-hls/amlst:rosyemily-sd-f92189393062e9efe2cfeb1f2c735ae37b84396a97cf2c8ab2596431f2e168cd_trns_h264/playlist.m3u8
