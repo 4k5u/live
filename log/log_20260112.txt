@@ -51,3 +51,8 @@ Mon Jan 12 01:42:23 CST 2026
 Mon Jan 12 01:43:23 CST 2026
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=null
+Mon Jan 12 01:51:33 CST 2026
+Mon Jan 12 01:52:00 CST 2026
+Mon Jan 12 01:53:44 CST 2026
+Mon Jan 12 01:54:47 CST 2026
+删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
