@@ -270,3 +270,9 @@ Mon Jan 12 18:50:26 CST 2026
 Mon Jan 12 18:51:28 CST 2026
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Mon Jan 12 19:01:53 CST 2026
+添加lovelypower77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OpRSg42ryu6h.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09wUlNnNDJyeXU2aCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1QUJCNDE2RC05NUNELTQzM0YtOEY1QS01N0Y3MDQ2QkI0RTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2ODIxNTcyOSwiZXhwIjoxNzY4MjE2MzI5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.I_D_Zi7BK6fo8CWHlOHKIwtRdOt5FcnzsmlZAzj5egfAczD0vlR9nnnB7QGWkig0W3AuDBqGIkov__86axHdclim9q0GY6-SHKwcqLG5GiMAhJMTfzB9OvR8rOZzTId3
+Mon Jan 12 19:02:25 CST 2026
+Mon Jan 12 19:04:08 CST 2026
+添加sumin2005 https://medialive-pull.ttinglive.com/live/prod_C652548_004cfb772a0d47cfafc7082302d4ae31_uhd.flv?expire=1768820271&sign=ddc5075cc684bfdbf5f743c150300a7d
+Mon Jan 12 19:05:09 CST 2026
