@@ -97,3 +97,10 @@ Thu Jan 15 05:58:20 CST 2026
 Thu Jan 15 05:58:31 CST 2026
 Thu Jan 15 06:00:16 CST 2026
 Thu Jan 15 06:01:23 CST 2026
+添加mode_bad https://edge7-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-2f17e956e8f01c9ec30d1b9e9ae65ce35896a1ed0e54e6b90b76708b5cf97123_trns_h264/playlist.m3u8
+Thu Jan 15 06:31:08 CST 2026
+Thu Jan 15 06:31:19 CST 2026
+Thu Jan 15 06:33:03 CST 2026
+Thu Jan 15 06:34:02 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
