@@ -20,3 +20,10 @@ Thu Jan 15 00:49:16 CST 2026
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
 删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
+Thu Jan 15 01:17:30 CST 2026
+Thu Jan 15 01:18:01 CST 2026
+Thu Jan 15 01:19:43 CST 2026
+Thu Jan 15 01:20:42 CST 2026
+删除ake_mi https://edge24-ash.live.mmcdn.com/live-hls/amlst:ake_mi-sd-48c52a6200db119731b34f872736c341da7e31d3ec30c1b0ef0534794831270c_trns_h264/playlist.m3u8
+删除podo0311 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CsHMupBvEh6a.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NzSE11cEJ2RWg2YSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzRUU3MDUwRS0yRDI3LTQ4MzUtOEJCMS01MkU4QUY5NEZCQ0UiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2ODM5NTczOSwiZXhwIjoxNzY4Mzk2MzM5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.xTh2SJR7o9trwEqs0WtleM8qCD3z50lacAjwl0eZfjDfaFbyjNN0ALmLeh5oK-fMm3mQNU3xztrrvQhkJQU760gaPBDUA5SXg3ZR7jyjYE3PV8DXtyySq0hvkz0stFKj
+删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
