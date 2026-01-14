@@ -81,3 +81,10 @@ Thu Jan 15 04:54:00 CST 2026
 Thu Jan 15 04:54:11 CST 2026
 Thu Jan 15 04:55:59 CST 2026
 Thu Jan 15 04:57:04 CST 2026
+Thu Jan 15 05:26:35 CST 2026
+添加mini10062 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.WUDWbjGalIfX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1dVRFdiakdhbElmWCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMUE3MDVGNi0wM0VELTQ0RkYtQUE2NS0wOTZENkI5OENBQzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2ODQyNTk5NywiZXhwIjoxNzY4NDI2NTk3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.LeuljMra8n3VVgtKx9jkNcLeYU5CwiK_1FhTP5d5-uuRglHKHuTOJRjA1mRdCW4a0s7WZyBuxLoJcGT1qB7IUalI87NLuxNMvr_9YXf46WqrBPXYTo50b0fF8GO_s2jg
+Thu Jan 15 05:26:49 CST 2026
+Thu Jan 15 05:28:32 CST 2026
+Thu Jan 15 05:29:39 CST 2026
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=null
