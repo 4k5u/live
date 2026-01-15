@@ -77,3 +77,8 @@ Fri Jan 16 03:50:47 CST 2026
 Fri Jan 16 03:51:46 CST 2026
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+Fri Jan 16 04:00:13 CST 2026
+Fri Jan 16 04:00:28 CST 2026
+Fri Jan 16 04:02:15 CST 2026
+Fri Jan 16 04:03:18 CST 2026
+删除rosyemily https://edge13-atl.live.mmcdn.com/live-hls/amlst:rosyemily-sd-5013ec273929f420caaaa60d0c61ff62c8e1c4bd960d347b6d240fc2327c6424_trns_h264/playlist.m3u8
