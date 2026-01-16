@@ -248,3 +248,11 @@ Fri Jan 16 18:32:23 CST 2026
 删除taitehambelton https://edge9-chi.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-85cc8e3c60aa7dd1ecc143cc86c631a240f7672a9b2e5d45cb0ff4e72fa682e0_trns_h264/playlist.m3u8
 删除so2so2so https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.krpKWaeykruo.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tycEtXYWV5a3J1byIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1RERDQUYyNi1ERkNCLTRCQjQtODI0NS01RjJGNENCRDdBNDEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2ODUzOTExMywiZXhwIjoxNzY4NTM5NzEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.KOg_2knPp4rDSt7SLcpy3-igjtjLMTl9HmAaoIwKlRRXB4B_sVXPLgP1rSSJ7ip3CKAFO8WwMStkc_Eogxxg97QhU18D92jYV-p2DDoX8nLquhV8d5ESyWeuvUWJo3ue
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+添加ake_mi https://edge5-chi.live.mmcdn.com/live-hls/amlst:ake_mi-sd-650b13317af01365b46558d9c97ad3d4a53a77f950dea62e6fe4be08e78b151c_trns_h264/playlist.m3u8
+Fri Jan 16 18:52:53 CST 2026
+Fri Jan 16 18:53:08 CST 2026
+Fri Jan 16 18:54:56 CST 2026
+Fri Jan 16 18:56:01 CST 2026
+添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
+删除ad0res https://edge4-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-8e38bfc81f298a460766ed9b208132f8135c15b9a26d3e3de87aa4fdab85dca8_trns_h264/playlist.m3u8
+删除mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
