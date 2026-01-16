@@ -15,3 +15,5 @@ alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m
 embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
 my_eyes_higher https://edge11-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-af92171c959c606b4d3bed9695b33ef97ef4073c2a8426a266a90d60d5dd685f_trns_h264/playlist.m3u8
 gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+_meganmeow_ https://edge6-phx.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-d83d2e72106e3fcb1bc5b7cf9d2f4a7e150aec80bdddfe172635b7ca619dcde6_trns_h264/playlist.m3u8
+sexygamesx https://edge15-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-72110454c315972e10c5f89c7032689f6d48021b2387858346eea7aa9c0250fc_trns_h264/playlist.m3u8
