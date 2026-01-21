@@ -188,3 +188,9 @@ Wed Jan 21 16:37:43 CST 2026
 Wed Jan 21 16:39:31 CST 2026
 Wed Jan 21 16:40:32 CST 2026
 删除Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
+Wed Jan 21 17:03:39 CST 2026
+Wed Jan 21 17:03:52 CST 2026
+Wed Jan 21 17:05:35 CST 2026
+Wed Jan 21 17:06:35 CST 2026
+删除yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNDI2QjI0NC02RjIzLTQ3QTEtODI0OC1CRkE0OTQ4NUFDQjEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2ODk2MjYwMCwiZXhwIjoxNzY4OTYzMjAwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.eLItEPbN9TVXvjSkQHTij_cO3Bb973rX7XfKJr_FP1PW7Vw2b9UHbmH5LhPuy1-fCOgIIpVimDGMDnLE0M0qs5gwfWbaPTlYk_ZxLbYCcemuBs2_TnE_ZqVL12AHIa-Z
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
