@@ -115,3 +115,18 @@ Thu Jan 22 10:06:35 CST 2026
 删除mode_bad https://edge24-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-0ecb360896a0ec95783d239aac084fb4610e991ef2b668eb37d34829b6ee7fc6_trns_h264/playlist.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加taitehambelton https://edge17-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-c4ac0c270afa18a48c1c96c4e5739dd30878ab55431f6d9b92d96a15194102dc_trns_h264/playlist.m3u8
+Thu Jan 22 11:56:04 CST 2026
+添加yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEOTc1MzhBOC0yQjQ4LTRDQzUtQjQxNy0xM0Y1QzY2NjQwQzkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2OTA1NDE3MCwiZXhwIjoxNzY5MDU0NzcwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.hoVb8a-eDx3pRn47dY1ky4FAYBE-QqeylOtvw_ueVxEikukdD5cJyKUm02nO2zA6jVpaWKrX5Zd8TZvDGpKz_glwBHA-aqAEWybL02e61LUjFBcjuJ-tZuy2WfUR7-Lq
+Thu Jan 22 11:56:16 CST 2026
+Thu Jan 22 11:57:58 CST 2026
+Thu Jan 22 11:58:52 CST 2026
+添加bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
+添加Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-20/auth_master_playlist.m3u8?aid=null
+删除nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.EFjgNzN8ufNO.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0VGamdOek44dWZOTyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNzU0OUI3OS05MUVDLTRDM0QtQUEwMS1DNDE4ODBBRTQ2NTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2OTAzMDI1NiwiZXhwIjoxNzY5MDMwODU2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.LAVkkuAahY7Vd5XYsWBhms0E82RoxuZG4OVdUWYS7RtQR_2-UtQmMA8nLQBU_i6HlAt_gVoccyO5hBYdwt1e2XU-NmJj8VkkhApfVfO1h-ifJ2trx181gJII2NUJ5-Hb
+删除sexygamesx https://edge20-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-95b00f4790b2eb97a3f33ed55a61f2a459cf62b789e0291084e0aa6febf721ff_trns_h264/playlist.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
