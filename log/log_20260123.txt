@@ -105,3 +105,9 @@ Fri Jan 23 06:37:55 CST 2026
 Fri Jan 23 06:38:56 CST 2026
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除sexygamesx https://edge30-ash.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-a7601ecd0a4fb7b4ee8823613535fa6936926372bf65f6962da22bdd0a2f61c9_trns_h264/playlist.m3u8
+Fri Jan 23 06:55:27 CST 2026
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qqjfWikIJTnr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FxamZXaWtJSlRuciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMUFEREU3My1GOTAxLTRDNzgtQTIwNi1GRkJGRkYyQjk2MDIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2OTEyMjUzNCwiZXhwIjoxNzY5MTIzMTM0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.eCHM0ct-lAclNptdIDud4junkydBT6C4odzqzoAzjIbPWmDTJkUuLZszMPUG3DFXAF0Oi_WDmtTwUmZEM2vNHtfIgQavMVz7WMWdPHIsk2sgW4PnifuefBeP-ZDrW8o2
+Fri Jan 23 06:55:39 CST 2026
+Fri Jan 23 06:57:24 CST 2026
+Fri Jan 23 06:58:31 CST 2026
+删除mode_bad https://edge30-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-b2c1b0233efc7bef6f67612c35eeee901aabb0316e0af5cf7bed175b5895f486_trns_h264/playlist.m3u8
