@@ -119,3 +119,8 @@ Sat Jan 24 06:58:36 CST 2026
 Sat Jan 24 07:00:19 CST 2026
 Sat Jan 24 07:01:20 CST 2026
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+Sat Jan 24 07:29:39 CST 2026
+Sat Jan 24 07:29:50 CST 2026
+Sat Jan 24 07:31:33 CST 2026
+Sat Jan 24 07:32:33 CST 2026
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
