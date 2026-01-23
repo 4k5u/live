@@ -109,3 +109,8 @@ Sat Jan 24 06:30:15 CST 2026
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBOUUxMkZFOC0wNTBFLTRDMzUtOEY4QS02MjEzNzdGQzdCMDQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2OTE4MDIwNywiZXhwIjoxNzY5MTgwODA3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.yHNmzY1tM36Ng33EqiwUIW1083XGDxtLEQ_d0oyNFa8s8qIrHTAQROC_rHiuFlaLbZiTSBN4F60q1nIAR4DRro8TSHjU_xWasAtJQES7vI3ykNVtFTfad1BaYtF3D3xQ
 删除mode_bad https://edge12-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-3d7e5d26485000f6a732f3649a9d03b139c5602cd8002842449c67617a9f57d4_trns_h264/playlist.m3u8
+添加mode_bad https://edge3-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-3d7e5d26485000f6a732f3649a9d03b139c5602cd8002842449c67617a9f57d4_trns_h264/playlist.m3u8
+Sat Jan 24 06:46:44 CST 2026
+Sat Jan 24 06:46:55 CST 2026
+Sat Jan 24 06:48:37 CST 2026
+Sat Jan 24 06:49:36 CST 2026
