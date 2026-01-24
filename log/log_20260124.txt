@@ -372,3 +372,8 @@ Sat Jan 24 22:27:48 CST 2026
 删除csp1208 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.IkeFsDGZW76n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0lrZUZzREdaVzc2biIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1QjVDMjAzRi0wRjlELTRBM0UtOTVCQS1ENkU4QUE0NDNFMzUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2OTI1NDAyMiwiZXhwIjoxNzY5MjU0NjIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.n2zTYTQY4q3amS_KFsg7EqPWHCfou40iE7i0T9LYwOADCcEc0-bw3EP1IgoVzCWbdp7hmOCcl6YOEdrPOGC-TYimSgSh06-kKia7YnUHDuZ6fTRXpaGImcgs5_2iYmj7
 删除lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Sat Jan 24 22:46:19 CST 2026
+Sat Jan 24 22:47:00 CST 2026
+Sat Jan 24 22:48:47 CST 2026
+Sat Jan 24 22:49:48 CST 2026
+删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
