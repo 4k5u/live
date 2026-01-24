@@ -12,3 +12,4 @@ calliadesigner https://edge19-chi.live.mmcdn.com/live-hls/amlst:calliadesigner-s
 _meganmeow_ https://edge8-chi.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-cb100fe8343e2a3963865a3221bc9b4b34cc6abb6daf11c10e352e77898e0c11_trns_h264/playlist.m3u8
 gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
