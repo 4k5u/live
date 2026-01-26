@@ -93,3 +93,8 @@ Tue Jan 27 05:50:06 CST 2026
 Tue Jan 27 05:50:17 CST 2026
 Tue Jan 27 05:52:03 CST 2026
 Tue Jan 27 05:53:05 CST 2026
+添加mode_bad https://edge11-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-d9378beb9812f4d6f4899a9179c5c07a2b259d71036de69bd728a00dcb959e4f_trns_h264/playlist.m3u8
+Tue Jan 27 06:01:40 CST 2026
+Tue Jan 27 06:01:51 CST 2026
+Tue Jan 27 06:03:39 CST 2026
+Tue Jan 27 06:04:43 CST 2026
