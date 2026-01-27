@@ -182,3 +182,10 @@ Tue Jan 27 15:40:31 CST 2026
 Tue Jan 27 15:42:24 CST 2026
 Tue Jan 27 15:43:30 CST 2026
 删除my_eyes_higher https://edge21-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-99334de342c17ae23e8c0c6cd237d66dce017db36e2ccbe34b32356428e80cf7_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge23-sea.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-2be2ce57cb63b22118cb2cc2d18746764a2e1f1f7d76787dc077ada8b4a841dd_trns_h264/playlist.m3u8
+Tue Jan 27 15:56:44 CST 2026
+添加lovelypower77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OpRSg42ryu6h.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09wUlNnNDJyeXU2aCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwQkQ1NDdFNC0zQUEwLTQwQUItOENCOC1DMDU2MTZGNEY2NDkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2OTUwMDYxMiwiZXhwIjoxNzY5NTAxMjEyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.eJjPaxo3gwgdfWkrQf-r_Mf_99cHeRXgTjztXszIyeLv6mvVO5ZYPk4uvgVFb7Bb4fU7j9jTvnv2E6bNH5OyTwWvd458WYon1bFYVgjJmHrQDFN2ka2IPawAEO6iXDmb
+Tue Jan 27 15:57:04 CST 2026
+Tue Jan 27 15:58:44 CST 2026
+Tue Jan 27 15:59:39 CST 2026
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
