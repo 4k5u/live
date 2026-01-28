@@ -178,3 +178,9 @@ Wed Jan 28 13:50:06 CST 2026
 Wed Jan 28 13:51:52 CST 2026
 Wed Jan 28 13:52:55 CST 2026
 添加May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Wed Jan 28 14:02:41 CST 2026
+Wed Jan 28 14:02:56 CST 2026
+Wed Jan 28 14:04:42 CST 2026
+Wed Jan 28 14:05:46 CST 2026
+删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
