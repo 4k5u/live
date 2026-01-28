@@ -192,3 +192,9 @@ Wed Jan 28 14:57:19 CST 2026
 Wed Jan 28 14:58:21 CST 2026
 添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Wed Jan 28 15:30:38 CST 2026
+Wed Jan 28 15:30:53 CST 2026
+Wed Jan 28 15:32:41 CST 2026
+Wed Jan 28 15:33:46 CST 2026
+添加stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
+删除sexygamesx https://edge11-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-ca674d651bdc6cc05c993170d25398a3846d4c49d717dd0b36fc28bca908f13a_trns_h264/playlist.m3u8
