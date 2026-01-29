@@ -94,3 +94,9 @@ Fri Jan 30 06:02:58 CST 2026
 Fri Jan 30 06:03:05 CST 2026
 Fri Jan 30 06:04:47 CST 2026
 Fri Jan 30 06:05:47 CST 2026
+添加mode_bad https://edge21-sea.live.mmcdn.com/live-hls/amlst:mode_bad-sd-6171b362cc80b32a037b05c29eee14b215fb75f43701d6101c0c54cee6023c0e_trns_h264/playlist.m3u8
+Fri Jan 30 06:47:22 CST 2026
+Fri Jan 30 06:47:29 CST 2026
+Fri Jan 30 06:49:10 CST 2026
+Fri Jan 30 06:50:05 CST 2026
+删除rosyemily https://edge12-phx.live.mmcdn.com/live-hls/amlst:rosyemily-sd-622242a0cd3bf8b3a1d90c1146595ffe4f294805032c6042a05b6fa1e3cae07d_trns_h264/playlist.m3u8
