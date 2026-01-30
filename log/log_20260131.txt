@@ -100,3 +100,8 @@ Sat Jan 31 05:59:39 CST 2026
 Sat Jan 31 05:59:52 CST 2026
 Sat Jan 31 06:01:36 CST 2026
 Sat Jan 31 06:02:37 CST 2026
+添加mode_bad https://edge36-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-c52c411cfd4c87a0b3fe835b92ee66071e157c29c6e8c65bc8bcdca774512693_trns_h264/playlist.m3u8
+Sat Jan 31 06:37:57 CST 2026
+Sat Jan 31 06:38:10 CST 2026
+Sat Jan 31 06:40:00 CST 2026
+Sat Jan 31 06:41:04 CST 2026
