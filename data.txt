@@ -12,3 +12,4 @@ o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-we
 alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 _meganmeow_ https://edge30-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-5d4283c28f309803695de46f72815f5a6dfb4c32ee0909d2a4a629fb338abf69_trns_h264/playlist.m3u8
 my_eyes_higher https://edge24-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ebc8372b74a33523dcf3e3ae69746916bcbedb3fe7209bcf76b01d968e59bdcf_trns_h264/playlist.m3u8
+gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=null
