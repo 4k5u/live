@@ -328,3 +328,9 @@ Sat Jan 31 22:47:31 CST 2026
 Sat Jan 31 22:49:18 CST 2026
 Sat Jan 31 22:50:19 CST 2026
 删除Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加rosyemily https://edge16-lax.live.mmcdn.com/live-hls/amlst:rosyemily-sd-3985dbe1326710395048ab1c43e0fc476410b2c8ef7ced4376d740ca51851d3c_trns_h264/playlist.m3u8
+Sat Jan 31 23:02:17 CST 2026
+Sat Jan 31 23:03:04 CST 2026
+Sat Jan 31 23:04:52 CST 2026
+Sat Jan 31 23:05:56 CST 2026
+删除ad0res https://edge7-atl.live.mmcdn.com/live-hls/amlst:ad0res-sd-7b552d24795d5589348a2b989160ca0e52b36ba03ac87801dc252aba73b51c88_trns_h264/playlist.m3u8
