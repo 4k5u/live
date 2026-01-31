@@ -188,3 +188,9 @@ Sat Jan 31 15:48:21 CST 2026
 Sat Jan 31 15:49:18 CST 2026
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除taitehambelton https://edge17-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-d3b195e998d5de85ef3ee838f80c8c46fa3f42e8e16a29437f8ca7532cd8ad4b_trns_h264/playlist.m3u8
+添加taitehambelton https://edge21-atl.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-d3b195e998d5de85ef3ee838f80c8c46fa3f42e8e16a29437f8ca7532cd8ad4b_trns_h264/playlist.m3u8
+Sat Jan 31 16:00:46 CST 2026
+Sat Jan 31 16:01:02 CST 2026
+Sat Jan 31 16:02:47 CST 2026
+Sat Jan 31 16:03:48 CST 2026
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
