@@ -113,3 +113,8 @@ Sun Feb 1 06:29:52 CST 2026
 Sun Feb 1 06:30:51 CST 2026
 删除rosyemily https://edge10-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-237175787a7c9ec1d3910744e82055f5041d209efaf95a85a64d4df3f203dc5d_trns_h264/playlist.m3u8
 删除mazzanti_ https://edge20-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-86950f81099ff4d1a368b428f4815cf27c68044eea5e27acc539af0c8ea58fb6_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge20-atl.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-86950f81099ff4d1a368b428f4815cf27c68044eea5e27acc539af0c8ea58fb6_trns_h264/playlist.m3u8
+Sun Feb 1 06:51:18 CST 2026
+Sun Feb 1 06:51:25 CST 2026
+Sun Feb 1 06:53:09 CST 2026
+Sun Feb 1 06:54:17 CST 2026
