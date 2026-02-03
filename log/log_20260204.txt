@@ -77,3 +77,10 @@ Wed Feb 4 06:04:40 CST 2026
 Wed Feb 4 06:04:53 CST 2026
 Wed Feb 4 06:06:36 CST 2026
 Wed Feb 4 06:07:37 CST 2026
+添加mode_bad https://edge36-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-bb84c849d945956a4751195e2055d3a127be287ca1b565e2c2874566196c9f45_trns_h264/playlist.m3u8
+Wed Feb 4 06:51:09 CST 2026
+Wed Feb 4 06:51:20 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Wed Feb 4 06:53:04 CST 2026
+Wed Feb 4 06:53:58 CST 2026
+删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qqjfWikIJTnr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FxamZXaWtJSlRuciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQkMwRjM2MS05ODkwLTQ2NEQtQUJBQi05MEJENjQ5N0QyNkUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MDE0OTE0NiwiZXhwIjoxNzcwMTQ5NzQ2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ZbCjI-pstYy4fCGlKaoD8qWtfe4wBu1IDQedLfJ0coHnPvLUeR_-lT7d2PNJ7J68-KYhkSdSsLAEjaqOOpfcQgnkhZf3RwSU5znP46GuBo4fl19__6iYyzEapP39el3r
