@@ -164,3 +164,15 @@ Wed Feb 4 17:04:00 CST 2026
 删除my_eyes_higher https://edge18-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2ea5b3adbc8083025ba0e30568a9465dac3e3a8a282e54055a1223197f681261_trns_h264/playlist.m3u8
 删除leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.WcNRHCIjEXxzUsxyLfhvJeCbjQvf9UL3yK80ZdLKRh_UZboPsGnZqbwHGhamV1nndb6uThM4CEHGKpPdNEqbX1EMc0VFf_vPXlCi3wdaGZ-Afsprac4_DAzMsn8sFA5Bvh3D6o29pv3_Pcs2YxjNVBcdAADvhxJGeirW-ygRfmJvgqo77lWJfAwBH6rkJX2X
 删除foxylovesyou https://edge23-atl.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-bf65b822149ec47e01708402b09c72188219522363fdcc927c2a9e9d744bc2ed_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge18-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-bf65b822149ec47e01708402b09c72188219522363fdcc927c2a9e9d744bc2ed_trns_h264/playlist.m3u8
+Wed Feb 4 17:58:48 CST 2026
+添加mayonz https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.63XEYxMeXRyo.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzYzWEVZeE1lWFJ5byIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MEM2QkEyMS04RDFFLTQ3MzgtQjA0OS1ERjAyNUJEOTVDRTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MDE5OTEzNiwiZXhwIjoxNzcwMTk5NzM2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.YZVdoey5I_X91NIBe_Dsro8V_AJIsSTr4xCqaVeFoz4Izmg_mOxE_WFAMGQ5uAeVehX8NSZrLzZHBQL3lTzkKGGZI9dj_IXrQzPKV35m7SFihhB1RYyRIEx6HL8UAGcz
+Wed Feb 4 17:59:08 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.dtDRZRRy6jTEgy4I_Z1eMpCNEFZhdCdpUE6YmvcpJPeCuBzQs37CTkqwZNYw8KTDgC6u6S5FPlIPGFd6Ro7766yJnIaf5c08IKpcDzMfoXvQpFDBbx6gRHXsKg5mTjgAOOEwkahUziZnrvSBFMBPYiVyO7hJCwi32CYrmn6DBSAly_-THKVZkxORVhxaqY6n
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.mwvBFITkhYa7_ptoMxl4nm1ewwFSIozpQiBiqifiWsNWJfXG7oo2X-mLSIvDHSkmkoEhSOJkdM5Guw8e-1yvAOvAPHxh7uPB7G2SDdNare-MPECqH7YrXn8vdGPik27U2coUUvWJUxvHA-fVOK2S-r28VaKuQBtnT5u4kc0vmI2l7sd3B0sgdQs53rVZTFMs
+Wed Feb 4 18:01:00 CST 2026
+Wed Feb 4 18:01:54 CST 2026
+添加Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
+删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
