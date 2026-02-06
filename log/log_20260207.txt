@@ -79,3 +79,8 @@ Sat Feb 7 05:51:56 CST 2026
 Sat Feb 7 05:52:50 CST 2026
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除123phmaaa https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.udi9awMHT2vj.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VkaTlhd01IVDJ2aiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNkUxQUQ4NS1GMDAxLTRGQjMtOTlCRS1EMkM5MTU3Rjk0NzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MDM4NjkyNiwiZXhwIjoxNzcwMzg3NTI2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.DbRU-MVzDjvmBb0ARrIYb9xWN7x45NeoNpUJVYPDqxHY5jQr4IONtzlVNDiIPmZkSf_WZuc4EqW1rR5Dgu6i79etCN0uvL3VOlVup-gXCnvPpg7kUokF9j3j6-PEZ04Z
+Sat Feb 7 06:02:47 CST 2026
+Sat Feb 7 06:03:04 CST 2026
+Sat Feb 7 06:04:44 CST 2026
+Sat Feb 7 06:05:39 CST 2026
+删除my_eyes_higher https://edge26-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-123e7cb123dbacfb5faba775b26eb56dce5b609087fa93a8fdfff5fb6e2f4545_trns_h264/playlist.m3u8
