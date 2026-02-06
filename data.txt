@@ -12,3 +12,4 @@ alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m
 sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 my_eyes_higher https://edge27-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3fd9b68a0f96be26058258700a549454824ebedc78ec6bbe0195e63c5bf4010a_trns_h264/playlist.m3u8
 Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
