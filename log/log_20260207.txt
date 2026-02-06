@@ -63,3 +63,9 @@ Sat Feb 7 04:01:36 CST 2026
 删除chuing77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Y2KGjCsy9Ldr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1kyS0dqQ3N5OUxkciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQTc2QjgxNC05NTkxLTQ1MTUtQjcxMC1EMzM3Mjg3MzM4RkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MDM5MzE2OSwiZXhwIjoxNzcwMzkzNzY5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.412UICrG4l4YBz9_0g0-WcdoBAk_kgxmQc4fr6yFNgpXoJwxoZbUzDhbNRyoQDRB_sImLjxKq6RNsIfQzpsmFkdSlREv55Yaq2cjh6uuPeiwc1TEORsOGqOtEJlHCE2c
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+添加calliadesigner https://edge14-ash.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-097147c989a3fe72e8affe6c52fcf6b230cf62532a53b2168fc61561dd2b3933_trns_h264/playlist.m3u8
+添加_meganmeow_ https://edge19-atl.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-031a5f560c8edeb8648169e2dc8701394bb8f3590ac330600d90d79d03f83b3e_trns_h264/playlist.m3u8
+Sat Feb 7 04:42:52 CST 2026
+Sat Feb 7 04:43:11 CST 2026
+Sat Feb 7 04:44:56 CST 2026
+Sat Feb 7 04:46:04 CST 2026
