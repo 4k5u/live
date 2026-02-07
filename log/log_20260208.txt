@@ -112,3 +112,8 @@ Sun Feb 8 06:34:08 CST 2026
 Sun Feb 8 06:35:08 CST 2026
 删除my_eyes_higher https://edge16-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-9945566f5662c1bc69f5a2fe44097b528c6befeeca291dbce03239f68c9151f3_trns_h264/playlist.m3u8
 删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
+Sun Feb 8 06:59:37 CST 2026
+Sun Feb 8 06:59:50 CST 2026
+Sun Feb 8 07:01:34 CST 2026
+Sun Feb 8 07:02:34 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
