@@ -283,3 +283,12 @@ Sat Feb 7 22:18:04 CST 2026
 Sat Feb 7 22:19:12 CST 2026
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+Sat Feb 7 22:49:06 CST 2026
+添加qwe1240 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qt3BjpE5nAwY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3F0M0JqcEU1bkF3WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMTc0RERCMy1FRTRBLTRDMTQtQjkzQi1FNDNDQ0YyN0Y2OTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MDQ3NTc5MSwiZXhwIjoxNzcwNDc2MzkxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.k8QoiiX7awzMiIPCkenCO1k7dzaHUf4aEH-zJBCfQVagGwrsdkWNKJto0RyyBujM5tqNNIrQsLGWJbxUlLh8soTpGkD5srR0qJ_I3oOfNUIXJPGj8DbA3Uu1sgY9WFuk
+Sat Feb 7 22:50:09 CST 2026
+Sat Feb 7 22:51:51 CST 2026
+Sat Feb 7 22:52:54 CST 2026
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
+添加-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+删除kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.-WQpUPSuAuAfjlRiUZJ0fhLL4-RQI-zrNFmuarsGWvEEsmA2DQsdVTUnJ6Sjx7ykeZky7wdrHA7jNAAqqNGzs0quN8GfHYRacoCo8JdwKD8kWArtv3HzRrDpkf-K9niCuEyxTLbwYdhzupXZYQ3DLlf0iQK7fpZSGRhfyORlIs6Bfg6xSWXUUP3TXu5xHL-s
+删除somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.BBs39ozH9IJ4ryktuX280WrhHgY2YiSHV-cwe5k8y7rh1SLyqt_OOSuh3RNIH1ot2mXxohu_GPb02Osbs1WpVaE6S_rMoTAYYqXQE_dctfCoz80YKHoSqRSAfC7oq5_sVJvBfZY5rSiI02OT6OdruxLutgCdlWB9jQFtcMft6CcI-sPwkT86dTN_J5bJhkO7
