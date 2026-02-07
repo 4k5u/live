@@ -99,3 +99,8 @@ Sat Feb 7 07:39:59 CST 2026
 Sat Feb 7 07:41:48 CST 2026
 Sat Feb 7 07:42:55 CST 2026
 删除calliadesigner https://edge14-ash.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-097147c989a3fe72e8affe6c52fcf6b230cf62532a53b2168fc61561dd2b3933_trns_h264/playlist.m3u8
+Sat Feb 7 07:58:51 CST 2026
+Sat Feb 7 07:59:11 CST 2026
+Sat Feb 7 08:00:57 CST 2026
+Sat Feb 7 08:02:00 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
