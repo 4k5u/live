@@ -73,3 +73,8 @@ Mon Feb 9 03:51:48 CST 2026
 Mon Feb 9 03:52:43 CST 2026
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Mon Feb 9 04:00:50 CST 2026
+Mon Feb 9 04:01:05 CST 2026
+Mon Feb 9 04:02:50 CST 2026
+Mon Feb 9 04:03:57 CST 2026
+删除Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
