@@ -153,3 +153,9 @@ Mon Feb 9 14:41:57 CST 2026
 删除Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
 删除Li_Li_ https://edge-hls.doppiocdn.live/hls/134351184/master/134351184_auto.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加amilia4u https://edge7-aus.live.mmcdn.com/live-hls/amlst:amilia4u-sd-30ab7266943cae76137324971c46b7c166603127ca565cb71e2adb194854c04a_trns_h264/playlist.m3u8
+Mon Feb 9 15:43:14 CST 2026
+Mon Feb 9 15:43:31 CST 2026
+Mon Feb 9 15:45:18 CST 2026
+Mon Feb 9 15:46:14 CST 2026
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
