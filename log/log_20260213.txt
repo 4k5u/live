@@ -96,3 +96,11 @@ Fri Feb 13 07:02:57 CST 2026
 Fri Feb 13 07:04:38 CST 2026
 Fri Feb 13 07:05:32 CST 2026
 删除my_eyes_higher https://edge12-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f18086587791fed6388590e61f6d17c192adb55bb73cb2532b8caedd511ce2a3_trns_h264/playlist.m3u8
+Fri Feb 13 07:45:24 CST 2026
+Fri Feb 13 07:45:34 CST 2026
+Fri Feb 13 07:47:14 CST 2026
+Fri Feb 13 07:48:09 CST 2026
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除qkeksms3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Py1tt2eS9YPA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B5MXR0MmVTOVlQQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NjExOUEyRC1DQzcyLTQwNjYtQTQ5RC1FQTNGODU2ODdBREUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MDkwOTE2NiwiZXhwIjoxNzcwOTA5NzY2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.UpvxifGMRr1_I-yqjwPb4Y_ttNCIO3KnoRLGPWf4MGKkb349spKFOkKeMh-6w6_77wrFsvZllU0KycKcomXyo9igPEU0AYAPkQ2-vJdqF-X2Ee5waBU4BI5foozJM6j1
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
+删除sexygamesx https://edge24-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-7a8cc928d3f99d590fd92fb22194bee2fa41966d43bf0c844980a28fdfb3024b_trns_h264/playlist.m3u8
