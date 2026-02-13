@@ -87,3 +87,12 @@ Sat Feb 14 06:55:33 CST 2026
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除wintersnowwin https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.O8FkQHRwvjEh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL084RmtRSFJ3dmpFaCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFRjA5NThGMi05NkVELTQxMjItOUVGRS04Q0U4RDkzODc1MjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MDk5MjExMCwiZXhwIjoxNzcwOTkyNzEwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.kRNoG-6FhgLBzLfMWDxRM46azXryJmgMFplNs_ZORj1HyEMiTrnDb76SKeUDn-5zWrcnLh4n-gm-yfSCAarJlqNfNa44Kb7FdY31s2GwhwkIMZoE9b9ZyOd8h4Hcrr1K
 删除calliadesigner https://edge21-sea.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-a176fcf155baebf534b093aa1e805561ab597a56b84bd4306066b6d9b82c3ecf_trns_h264/playlist.m3u8
+添加sexygamesx https://edge27-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-f1254940626518900c20444dd6d8ce1542431ec322e9ae7ec6b7f3086c792cb5_trns_h264/playlist.m3u8
+Sat Feb 14 07:35:37 CST 2026
+Sat Feb 14 07:35:50 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Sat Feb 14 07:37:43 CST 2026
+Sat Feb 14 07:38:47 CST 2026
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除rosyemily https://edge21-sea.live.mmcdn.com/live-hls/amlst:rosyemily-sd-00588844a1cdc43a4b61d63ebd659a93fa896938d2cd40b8eb6e48112c7a3be4_trns_h264/playlist.m3u8
+删除my_eyes_higher https://edge7-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-58da32ccd662bb582ea93c9698f785a69e9b6ab0a758ad99a087cabcc980a042_trns_h264/playlist.m3u8
