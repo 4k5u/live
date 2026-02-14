@@ -96,3 +96,7 @@ Sat Feb 14 07:38:47 CST 2026
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除rosyemily https://edge21-sea.live.mmcdn.com/live-hls/amlst:rosyemily-sd-00588844a1cdc43a4b61d63ebd659a93fa896938d2cd40b8eb6e48112c7a3be4_trns_h264/playlist.m3u8
 删除my_eyes_higher https://edge7-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-58da32ccd662bb582ea93c9698f785a69e9b6ab0a758ad99a087cabcc980a042_trns_h264/playlist.m3u8
+Sat Feb 14 08:00:07 CST 2026
+Sat Feb 14 08:00:20 CST 2026
+Sat Feb 14 08:02:04 CST 2026
+Sat Feb 14 08:03:03 CST 2026
