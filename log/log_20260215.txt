@@ -122,3 +122,9 @@ Sun Feb 15 07:41:21 CST 2026
 添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 删除my_eyes_higher https://edge5-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e414ae93b385a65f83ba5818ebed8be4e3c16cec3f1f6c4d7227f76d6fee2a1c_trns_h264/playlist.m3u8
 删除starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qqjfWikIJTnr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FxamZXaWtJSlRuciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMTM1QjBCRC0wNjAzLTQzRjUtQTA0NC00RTI4NzU2RUNDMjMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MTEwNTkzMywiZXhwIjoxNzcxMTA2NTMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.CloF-wJ-ptUz6z6XkkUJ5ZZTkf_lz4_B-ySEdYsHNPq9FkbvFx8rUgdvIVwICUcrVHglQsFklkmmfjxjYZ7D3f9JXWSunMFbAY1-z2jGvkjkaU-kByMMSW0xosA-ss4p
+Sun Feb 15 07:57:17 CST 2026
+Sun Feb 15 07:57:28 CST 2026
+Sun Feb 15 07:59:14 CST 2026
+Sun Feb 15 08:00:18 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除rosyemily https://edge9-sea.live.mmcdn.com/live-hls/amlst:rosyemily-sd-a5bf338f948dadf8d0b0e5d8eb197868d9c8f7e40ac3487dc7ff00310a3aed37_trns_h264/playlist.m3u8
