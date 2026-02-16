@@ -170,3 +170,10 @@ Mon Feb 16 17:09:57 CST 2026
 添加fog- https://edge-hls.doppiocdn.live/hls/127611815/master/127611815_auto.m3u8
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+添加foxylovesyou https://edge17-phx.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-3603f6550af55bc9f556828336941eb884665e866a5fde5126d0650c6c116d71_trns_h264/playlist.m3u8
+Mon Feb 16 18:10:52 CST 2026
+Mon Feb 16 18:11:05 CST 2026
+Mon Feb 16 18:12:50 CST 2026
+Mon Feb 16 18:13:50 CST 2026
+添加Sunshineeve23 https://edge-hls.doppiocdn.live/hls/90748816/master/90748816_auto.m3u8
+删除ioibibi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.66exLzO8T9sb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzY2ZXhMek84VDlzYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQTEwRTMzMi0yMzJFLTRERUEtOTlGRS1GRjQxN0M0M0ExRTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MTIyOTExNSwiZXhwIjoxNzcxMjI5NzE1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.WfhlYxvzfe_GznBxQheDkftRhKbP7Mhy_EPOfhUsYzbC0B68lhMtLfq94-U18Y3JwlhsmLAHjYh-twXR-WpLWvrb71kcpBw_ayLaHDj50wESg5IVywVE-efCYBKBLYvl
