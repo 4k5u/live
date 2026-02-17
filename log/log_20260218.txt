@@ -45,3 +45,8 @@ Wed Feb 18 03:57:21 CST 2026
 Wed Feb 18 03:59:19 CST 2026
 Wed Feb 18 04:00:27 CST 2026
 删除niunew https://edge-hls.doppiocdn.live/hls/106158883/master/106158883_auto.m3u8
+Wed Feb 18 04:42:46 CST 2026
+Wed Feb 18 04:42:51 CST 2026
+Wed Feb 18 04:44:35 CST 2026
+Wed Feb 18 04:45:36 CST 2026
+删除eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=null
