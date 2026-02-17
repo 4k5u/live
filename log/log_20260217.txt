@@ -100,3 +100,9 @@ Tue Feb 17 14:17:30 CST 2026
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除rosyemily https://edge22-sea.live.mmcdn.com/live-hls/amlst:rosyemily-sd-434b11b5477a47d5ed9c69f61e3c26bf4a2c309afa09988fee27a047b9acaef8_trns_h264/playlist.m3u8
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加my_eyes_higher https://edge30-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7850674dfeea257520f36c8afb7abf393625bd44ca61868a2c763883e269c950_trns_h264/playlist.m3u8
+Tue Feb 17 15:30:21 CST 2026
+添加ee5844 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ct2SXPatmR32.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2N0MlNYUGF0bVIzMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0OTg0QkM2Qi01NkYzLTRFNDctQUFFRC1FRjIyQzBCNDUxMDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MTMxMzQyMSwiZXhwIjoxNzcxMzE0MDIxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qHfU9nGAOIdOtLq-y-LVdiFMLcRs-I6phhcvVuYNT5hEGi_-8NFvg9aKq1wBmx_cjarM2UMI957VuGShic0WKbwcrs4z6I5U4FWp6EABe2G7Kmz53KqwetAv2UidcSWW
+Tue Feb 17 15:30:31 CST 2026
+Tue Feb 17 15:32:17 CST 2026
+Tue Feb 17 15:33:19 CST 2026
