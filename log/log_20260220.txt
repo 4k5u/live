@@ -74,3 +74,8 @@ Fri Feb 20 05:54:50 CST 2026
 Fri Feb 20 05:56:37 CST 2026
 Fri Feb 20 05:57:36 CST 2026
 删除y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+添加sexygamesx https://edge19-chi.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-e9a39479059b883665c6c4e5e7cd7892a2b8a77942a0c90c748909739854d007_trns_h264/playlist.m3u8
+Fri Feb 20 06:36:39 CST 2026
+Fri Feb 20 06:36:46 CST 2026
+Fri Feb 20 06:38:32 CST 2026
+Fri Feb 20 06:39:39 CST 2026
