@@ -93,3 +93,7 @@ Fri Feb 20 07:48:34 CST 2026
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除my_eyes_higher https://edge19-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ab2cb301b0d1ee06f52c4c901c2294fa971e5e66ae32c2bb69b2d6996021f18c_trns_h264/playlist.m3u8
 删除calliadesigner https://edge6-ash.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-a827de01ea16df979957b12234c43911088b621abf8913cdcee7c99390bc4f63_trns_h264/playlist.m3u8
+Fri Feb 20 08:04:26 CST 2026
+Fri Feb 20 08:04:35 CST 2026
+Fri Feb 20 08:06:21 CST 2026
+Fri Feb 20 08:07:28 CST 2026
