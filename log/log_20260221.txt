@@ -154,3 +154,8 @@ Sat Feb 21 15:44:31 CST 2026
 删除taitehambelton https://edge25-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-f6e15c0fc0e8aa074b4f8db825638c6d64627621757ea6b40bcaebd1e8428a70_trns_h264/playlist.m3u8
 删除twinhayoung https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
 删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Sat Feb 21 15:59:43 CST 2026
+Sat Feb 21 15:59:52 CST 2026
+Sat Feb 21 16:01:40 CST 2026
+Sat Feb 21 16:02:46 CST 2026
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
