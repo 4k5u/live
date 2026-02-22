@@ -85,3 +85,9 @@ Mon Feb 23 05:55:57 CST 2026
 Mon Feb 23 05:56:04 CST 2026
 Mon Feb 23 05:57:50 CST 2026
 Mon Feb 23 05:58:49 CST 2026
+添加mode_bad https://edge22-chi.live.mmcdn.com/live-hls/amlst:mode_bad-sd-403155b8370bfe2ed6293a27d6831aebbea500b8602eb8ac4c364b6b2a6f3ca1_trns_h264/playlist.m3u8
+Mon Feb 23 06:30:25 CST 2026
+Mon Feb 23 06:30:32 CST 2026
+Mon Feb 23 06:32:17 CST 2026
+Mon Feb 23 06:33:24 CST 2026
+删除my_eyes_higher https://edge6-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1104ca0d010c3a2e13890e915223a84302ffb16598f10a0da045034ef2cbe045_trns_h264/playlist.m3u8
