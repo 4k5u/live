@@ -63,3 +63,8 @@ Tue Feb 24 06:06:59 CST 2026
 Tue Feb 24 06:08:42 CST 2026
 Tue Feb 24 06:09:43 CST 2026
 删除unauna99 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XlZr9iQGG7ql.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hsWnI5aVFHRzdxbCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNEUwMTBDMy04ODE0LTRDQzYtODQ4Ri02MzNGNDdBQkU2RUYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MTg3NTM2NywiZXhwIjoxNzcxODc1OTY3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.SvRlbi2V-DgZITjjTkZrWOXimzCuR3TeF3c5S4Ligr66j1k-ohcGtn-kRSckpb_vfFjD5ds96JzcHFGlD4vTV7zEFgkgjbArIvyAjTZ8UWRwKsUa9EI-TdcHX6Pv7acQ
+添加mode_bad https://edge26-sea.live.mmcdn.com/live-hls/amlst:mode_bad-sd-dc198d77688c5b2725c1b4ab048a5a03b4bd5c5e2ba8c24d183539352cec1269_trns_h264/playlist.m3u8
+Tue Feb 24 07:00:27 CST 2026
+Tue Feb 24 07:00:36 CST 2026
+Tue Feb 24 07:02:25 CST 2026
+Tue Feb 24 07:03:30 CST 2026
