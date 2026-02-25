@@ -9,3 +9,6 @@ dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_pla
 h920823 https://live-global-cdn-v02.sooplive.co.kr/live-stm-19/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.rhxVQTJ114Du_jK4Ea3Jx5eaDuNgajSZyr2mxB1YD7EexgDVxLllgil__CuzHLuil7jHh9DAu1u_T9PkQn-ACJiTJAKnS3Yj8YdOFyoOb7zCRwtuNKK7d8TSbl9Pii2fHuEMyy_yxY4ETDA-e5erF_edJeEOqpG3ZGMzvCWebJJ8sztCMKczO8tTZ9GGS7li
 May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
 SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+foxylovesyou https://edge35-phx.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-c8bfe431da14200a5a25920e0e4af819b4e7ffc8ab670f0f556d0d45fd05f42f_trns_h264/playlist.m3u8
+my_eyes_higher https://edge10-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-0dbd6b8fd05081723006545c1c98a53d00128f530fe0a57eece390902aad0be8_trns_h264/playlist.m3u8
+yeosi1004 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.atxJH1IreU5VhRIDP67jWoAUuWf2sokdHSZcK-R9JsKHU-jYvKDXglrxfkLYYhMygSgC78icU1nb1L1TN0HCrRXDoVblT53Z3kjQFpuvOcanxMFnek89bGtMGgCGsfND-J0R_lWuJXt1g5-s8VcF2AUEhA1QjeunFOiPy4u3krlsPeHDHdQmUjvB_qoT59Q4
