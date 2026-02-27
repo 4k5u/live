@@ -122,3 +122,11 @@ Fri Feb 27 14:09:33 CST 2026
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除taitehambelton https://edge36-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-832f35fc9c6d39194040700ddcbed85ff978b9803e2e7634cb6a738283e7e4e8_trns_h264/playlist.m3u8
 删除hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.AzTFfdrzpRaq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F6VEZmZHJ6cFJhcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMTBERkJFMC05Rjg2LTQ0MEYtOENENS00N0IwRUI5OTJDQTkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MjE2MzE1MSwiZXhwIjoxNzcyMTYzNzUxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.C9Qu0vFxP-72WMZzQ-mhwS3PwHwZtdOwE8vPMFtwQ1XtRa3BbBOHiDHOzwXSyHxqx0tTtCbGlk51uWupuY0Com0iUcx0PWHZJ75JsfWcxdg584_5zVR4YpjgYoOiqYPQ
+添加honey_pinkgreen https://edge7-chi.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-47ae82c9e84552b86854d8d5eceb3bf8ffbf1f52e7106b025ac9a508faee3431_trns_h264/playlist.m3u8
+添加sexygamesx https://edge8-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d73402906488ef2a2d9abd58000e3f602717c7be1f88e4622f25bd22a189fdb0_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge13-phx.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-42fec4b060dc40a9863bf0b32cf371aeb915bb56c2c7d7e37b0cb7478f04d555_trns_h264/playlist.m3u8
+Fri Feb 27 15:12:22 CST 2026
+Fri Feb 27 15:12:31 CST 2026
+Fri Feb 27 15:14:16 CST 2026
+Fri Feb 27 15:15:20 CST 2026
+删除bejeni-sweet https://edge-hls.doppiocdn.live/hls/89864150/master/89864150_auto.m3u8
