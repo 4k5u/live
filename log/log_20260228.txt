@@ -100,3 +100,8 @@ Sat Feb 28 06:43:56 CST 2026
 Sat Feb 28 06:45:04 CST 2026
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+添加my_eyes_higher https://edge23-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3c3cecdb6b30a20c3246d3dd218b6f087175c962bc033faff29b2269a91537ec_trns_h264/playlist.m3u8
+Sat Feb 28 07:00:48 CST 2026
+Sat Feb 28 07:00:58 CST 2026
+Sat Feb 28 07:02:40 CST 2026
+Sat Feb 28 07:03:42 CST 2026
