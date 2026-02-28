@@ -12,3 +12,4 @@ mini10062 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 mode_bad https://edge25-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-8fbaf67407a523e0d0cf21ed94ab2c8c3b2f0dc42221f24069aefd091cc3b792_trns_h264/playlist.m3u8
 my_eyes_higher https://edge23-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2ca291d024b716f3541414732ccb6b788a6fdaea5ef030907986caca95dfd7b4_trns_h264/playlist.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+calliadesigner https://edge23-atl.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-12610f61c85c12a81a5553d6511471a3d53d48afac9dc0269531bde112c7ab46_trns_h264/playlist.m3u8
