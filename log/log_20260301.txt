@@ -89,3 +89,9 @@ Sun Mar 1 05:26:25 CST 2026
 Sun Mar 1 05:28:05 CST 2026
 Sun Mar 1 05:29:01 CST 2026
 删除May-Squirt https://edge-hls.doppiocdn.live/hls/135061186/master/135061186_auto.m3u8
+Sun Mar 1 05:45:57 CST 2026
+Sun Mar 1 05:46:10 CST 2026
+Sun Mar 1 05:47:53 CST 2026
+Sun Mar 1 05:49:02 CST 2026
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+删除my_eyes_higher https://edge23-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-bf249bf1e0de02efdf65869bafbb02a6cc20c6d6de75c743d719eb8d3cf4cd4a_trns_h264/playlist.m3u8
