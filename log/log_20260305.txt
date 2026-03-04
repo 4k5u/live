@@ -89,3 +89,9 @@ Thu Mar 5 05:56:28 CST 2026
 Thu Mar 5 05:57:36 CST 2026
 删除my_eyes_higher https://edge13-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-84da906bae142240bedd3d71a933c7506b5bf5f9d256b50af06e0302d02741fc_trns_h264/playlist.m3u8
 删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+添加mode_bad https://edge8-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-b431740f8c87242502effb2525694e678edde21ec29e146d9ff5c11e8f4fdb7c_trns_h264/playlist.m3u8
+Thu Mar 5 06:37:07 CST 2026
+Thu Mar 5 06:37:16 CST 2026
+Thu Mar 5 06:38:58 CST 2026
+Thu Mar 5 06:39:59 CST 2026
+删除calliadesigner https://edge29-ash.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-7d3e497ef863634e3f3b3152699b921337e4e87474fcaf955ab3140cfb79b0af_trns_h264/playlist.m3u8
