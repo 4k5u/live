@@ -13,3 +13,4 @@ mode_bad https://edge16-ash.live.mmcdn.com/live-hls/amlst:mode_bad-sd-7463125434
 my_eyes_higher https://edge29-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-0bf3cfb8c0ea6cf0946db04018f70fea84e0981dad93aa2fb79b2beabf18b9ac_trns_h264/playlist.m3u8
 IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+calliadesigner https://edge7-lax.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-df424e9799d9fa5d522bcbcb4fbe03da565ca13daaf017d2d5ec5c23220f66bb_trns_h264/playlist.m3u8

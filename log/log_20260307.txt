@@ -101,3 +101,8 @@ Sat Mar 7 07:46:17 CST 2026
 Sat Mar 7 07:48:01 CST 2026
 Sat Mar 7 07:49:06 CST 2026
 删除calliadesigner https://edge12-lax.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-8b9f13b58bae0c0149fe5362cc2dae231e61b13fc996b876d85c5dc2784404f0_trns_h264/playlist.m3u8
+添加calliadesigner https://edge7-lax.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-df424e9799d9fa5d522bcbcb4fbe03da565ca13daaf017d2d5ec5c23220f66bb_trns_h264/playlist.m3u8
+Sat Mar 7 08:02:35 CST 2026
+Sat Mar 7 08:02:48 CST 2026
+Sat Mar 7 08:04:29 CST 2026
+Sat Mar 7 08:05:25 CST 2026
