@@ -182,3 +182,9 @@ Sat Mar 7 16:01:11 CST 2026
 Sat Mar 7 16:02:51 CST 2026
 Sat Mar 7 16:03:50 CST 2026
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+添加rosyemily https://edge5-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-01bd7cb97423d0f4e613640a97a0b3a17bed13e9bc58d0eb9e879027db3378e7_trns_h264/playlist.m3u8
+Sat Mar 7 16:45:00 CST 2026
+Sat Mar 7 16:45:17 CST 2026
+Sat Mar 7 16:47:01 CST 2026
+Sat Mar 7 16:48:06 CST 2026
+删除my_eyes_higher https://edge10-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8ab78feacfa29a485fc1dcf36cc6736dc677c959a58753b5d946d61a18a41825_trns_h264/playlist.m3u8
