@@ -85,3 +85,8 @@ Thu Mar 12 05:44:14 CST 2026
 Thu Mar 12 05:46:11 CST 2026
 Thu Mar 12 05:47:21 CST 2026
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Thu Mar 12 06:03:56 CST 2026
+Thu Mar 12 06:04:15 CST 2026
+Thu Mar 12 06:05:59 CST 2026
+Thu Mar 12 06:07:04 CST 2026
+删除rosyemily https://edge25-ash.live.mmcdn.com/live-hls/amlst:rosyemily-sd-736253e765384cf75c2433a2035f603e8e0a7be9d85ad89372ee84b4e9c43c3d_trns_h264/playlist.m3u8
