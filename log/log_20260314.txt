@@ -78,3 +78,10 @@ Sat Mar 14 03:43:54 CST 2026
 删除big541 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
 删除purelove2 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.i98lUbkYcjNqRPSpennrcLVg3GRlF2sVXwgESz2qNH-s6DzWUb9Z_qurRTbKAsG4iA6slJsRPY5ESaj3C0C49v_iscFLMgHLObr0Jku3WqJfPSbG3PRScukHHYGJMmLWyTBHL79KBrH56-mOkK3cTtlSwJLspqn9e5uF49J-43REKtyxg7Ri7RaeqW7fNT9F
 删除badangelsjennyx https://edge-hls.doppiocdn.live/hls/72074659/master/72074659_auto.m3u8
+Sat Mar 14 04:02:56 CST 2026
+添加nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.C5bR69iR5YzN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0M1YlI2OWlSNVl6TiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMTc5QzU0Qy1GNUZBLTQ5RTctODdGRC0yOEY5RjJBQTZEQTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MzQzMjE4OSwiZXhwIjoxNzczNDMyNzg5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.NG5MNTCwP435r3COm6h_DDa7_dkNrLSYRZVeHj9jM8zl5F6IjSjTPtGhw_GeF03oQ1X_1pqQ09qUKGKoWP-ot-QmH2xTNJ3_DfHghHpCecyW4CzQvfnJY4t-J-o--KB_
+Sat Mar 14 04:03:17 CST 2026
+Sat Mar 14 04:05:02 CST 2026
+Sat Mar 14 04:06:04 CST 2026
+删除glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.IDWrApjSfsN8IalL9rdV8ehRJ7n4w78mLiC5nOFgaPLgyOY2V-L4bKzPspYasuWi2A7tOo9oJYhok_zDcdSjszZfMl0oRWSoVk-ZRN8nWg-oY7DVPmz04D3BT8TG5qV1YGGXRzoQR1SMMznR6Lqino8DLTt2gzoNG_zCjeEn5c5cyPcqOkR0t4krGn89UFi1
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
