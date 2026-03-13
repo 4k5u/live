@@ -111,3 +111,8 @@ Sat Mar 14 06:43:16 CST 2026
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除my_eyes_higher https://edge27-atl.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-99a33c388c0aaffeada09eae59ebfcb36a5d6fe194c816d5001cbfd78f8559d1_trns_h264/playlist.m3u8
 删除calliadesigner https://edge22-ash.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-3df40e4663c1ee8f8f74ba90e6f10c036676a98bd7c2e03a4a9e2b126d0539a5_trns_h264/playlist.m3u8
+添加sexygamesx https://edge25-atl.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-48aacbc4cd561228182597799f0c4b23e27e1e71dbbc296830f604ca8bd3c9ae_trns_h264/playlist.m3u8
+Sat Mar 14 07:02:07 CST 2026
+Sat Mar 14 07:02:24 CST 2026
+Sat Mar 14 07:04:09 CST 2026
+Sat Mar 14 07:05:11 CST 2026
