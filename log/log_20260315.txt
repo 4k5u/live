@@ -233,3 +233,10 @@ Sun Mar 15 19:41:29 CST 2026
 添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
 删除yami1009 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LE04acpwfNSB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xFMDRhY3B3Zk5TQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RjkxMzAyMi0zMjZCLTQyRjEtQTQ5OC1CQjU1NkExNzQwODEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MzU0NTIwNCwiZXhwIjoxNzczNTQ1ODA0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.StnGS_ltKI5_RpeMevow8vDz8hKykFNaOjlvPPluj--MRN_CiJXHJVAI5deaWvDQNcyMln74kFyXFGXihtYqNvpmuoEShIJsDC7053RXpdh61nqWpvpT6iJIX5VmwGcW
 删除my_eyes_higher https://edge27-ash.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2070bc12164ab19456e110997e36cdb603b996679abdf2d3d044701727e5b3ec_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge25-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2070bc12164ab19456e110997e36cdb603b996679abdf2d3d044701727e5b3ec_trns_h264/playlist.m3u8
+Sun Mar 15 19:56:56 CST 2026
+Sun Mar 15 19:57:17 CST 2026
+添加kmj87990 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+Sun Mar 15 19:59:00 CST 2026
+Sun Mar 15 19:59:56 CST 2026
+添加-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
