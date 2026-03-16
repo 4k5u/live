@@ -57,3 +57,8 @@ Tue Mar 17 04:26:18 CST 2026
 Tue Mar 17 04:27:21 CST 2026
 添加Sweet-Angel999 https://edge-hls.doppiocdn.live/hls/159259976/master/159259976_auto.m3u8
 删除your_desssert https://edge29-atl.live.mmcdn.com/live-hls/amlst:your_desssert-sd-4688f770175eb705476f20004b079480c448d1aed7717a42fd9b09893cfe0e25_trns_h264/playlist.m3u8
+Tue Mar 17 05:07:16 CST 2026
+Tue Mar 17 05:07:31 CST 2026
+Tue Mar 17 05:09:13 CST 2026
+Tue Mar 17 05:10:09 CST 2026
+删除rosyemily https://edge10-chi.live.mmcdn.com/live-hls/amlst:rosyemily-sd-1762027641fb86f6701546c27704d693f9c1e095e468e6ab37304b41fe20bd62_trns_h264/playlist.m3u8
