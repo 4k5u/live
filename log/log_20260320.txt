@@ -78,3 +78,9 @@ Fri Mar 20 07:17:50 CST 2026
 Fri Mar 20 07:19:31 CST 2026
 Fri Mar 20 07:20:26 CST 2026
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Fri Mar 20 07:49:12 CST 2026
+Fri Mar 20 07:49:25 CST 2026
+Fri Mar 20 07:51:09 CST 2026
+Fri Mar 20 07:52:13 CST 2026
+添加Yaikun0-0 https://edge-hls.doppiocdn.live/hls/151024387/master/151024387_auto.m3u8
+删除sexygamesx https://edge15-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-98fb4478f1698ec208feab7b8c435934e493865c681871666b828a47e8fe363d_trns_h264/playlist.m3u8
