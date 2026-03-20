@@ -83,3 +83,9 @@ Sat Mar 21 05:05:13 CST 2026
 Sat Mar 21 05:06:55 CST 2026
 Sat Mar 21 05:07:53 CST 2026
 删除Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+添加calliadesigner https://edge25-ash.live.mmcdn.com/live-hls/amlst:calliadesigner-sd-e75534e1522bee285acf1263dc2caf7031de1e7eb9ee6366f04b3789a561a472_trns_h264/playlist.m3u8
+Sat Mar 21 05:45:03 CST 2026
+Sat Mar 21 05:45:28 CST 2026
+Sat Mar 21 05:47:13 CST 2026
+Sat Mar 21 05:48:15 CST 2026
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
