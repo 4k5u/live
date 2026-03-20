@@ -89,3 +89,9 @@ Sat Mar 21 05:45:28 CST 2026
 Sat Mar 21 05:47:13 CST 2026
 Sat Mar 21 05:48:15 CST 2026
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Sat Mar 21 06:03:26 CST 2026
+Sat Mar 21 06:03:51 CST 2026
+Sat Mar 21 06:05:34 CST 2026
+Sat Mar 21 06:06:38 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
