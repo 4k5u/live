@@ -176,3 +176,10 @@ Sat Mar 21 15:48:01 CST 2026
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
 Sat Mar 21 15:49:49 CST 2026
 Sat Mar 21 15:50:54 CST 2026
+Sat Mar 21 16:02:57 CST 2026
+Sat Mar 21 16:03:16 CST 2026
+Sat Mar 21 16:05:01 CST 2026
+Sat Mar 21 16:06:03 CST 2026
+添加miaomijiang https://edge-hls.doppiocdn.live/hls/137025934/master/137025934_auto.m3u8
+删除alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
