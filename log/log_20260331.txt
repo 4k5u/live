@@ -71,3 +71,10 @@ Tue Mar 31 06:00:08 CST 2026
 Tue Mar 31 06:01:48 CST 2026
 Tue Mar 31 06:02:42 CST 2026
 删除my_eyes_higher https://edge9-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ade9f6e3f4d8e16e7a41cb45143a6ed4d6b8d3a6ebf6f6c5af0c6cf029015c93_trns_h264/playlist.m3u8
+Tue Mar 31 06:50:23 CST 2026
+Tue Mar 31 06:50:42 CST 2026
+Tue Mar 31 06:52:24 CST 2026
+Tue Mar 31 06:53:26 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除embez-damdang https://edge-hls.doppiocdn.live/hls/119214188/master/119214188_auto.m3u8
+删除ioibibi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.66exLzO8T9sb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzY2ZXhMek84VDlzYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyRkVBQTI1Qy1BMkIyLTRBNzUtQUJGQy1DRUMxMDU5QjBDMkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3NDkwNzk5MCwiZXhwIjoxNzc0OTA4NTkwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.LpLT8dnbJfMOI_bkb7QR_UP3an3Wv7MgdHJBM2e4T6GOkGQrAAiWX1-dds7AzcKDUgXJNt9AyqjdFIpkXqkQkORvgN_bMB6pDLx3A3bFgDlqDT1dL24NCyHu28c-vT5-
