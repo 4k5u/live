@@ -32,3 +32,14 @@ Fri Apr 3 01:42:57 CST 2026
 删除nyakotan https://edge-hls.doppiocdn.live/hls/117758835/master/117758835_auto.m3u8
 删除eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stmc-33/auth_master_playlist.m3u8?aid=null
 删除N_Hibiki https://edge-hls.doppiocdn.live/hls/88876664/master/88876664_auto.m3u8
+Fri Apr 3 02:36:41 CST 2026
+Fri Apr 3 02:36:56 CST 2026
+Fri Apr 3 02:38:40 CST 2026
+Fri Apr 3 02:39:42 CST 2026
+删除jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.m69HEWnlcdvKHTFYb9DrSGQiY0_JADjMB2tF0K4emAKY5CxPWeTMX30HyhwbKRhS7RpqTpjIRMtW0bz7aaQLa45dHJW6NW1iSpQKH9Ea-yvDi-9MQxbfpw3DbAlOiPSRWnJGgCtwYbo7dQKqRlevROV-bVBglEFtCwx40AzBnCVQAGzEkSly-llQ9vdSmVzo
+删除glglehddl https://live-global-cdn-v02.sooplive.com/live-stm-05/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.hXK8e5__RfQHRlVWD-mX1JTMiaWqVPT7muFJpBAHkPsZe-aeGd80RXqNvw_VrsOFFSCpjgFAzjw3kIlmvrcZqfDW3i5x7fUKKKILBfy6H8Aj-yJbhocabDC1YYzSvL7sONUeo0JuEMUOVS6ZZ0Kk0AWy6tqVfqu2Y_1vkieF-CdSfBSoSWBdkQl8jO1xTEFw
+删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+删除niunew https://edge-hls.doppiocdn.live/hls/106158883/master/106158883_auto.m3u8
+删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
+删除my_eyes_higher https://edge15-ash.live.mmcdn.com/v1/edge/streams/origin.my_eyes_higher.01KN7C0YFDZA5Z8YS3781ZGG5W/llhls.m3u8?token=eyJhbGciOiJSU0EtT0FFUC0yNTYiLCJlbmMiOiJBMjU2R0NNIn0.UK8lnBHFRK-630kB9lF3my9Ps_QKUI6-xFpG1hdGM4vlHBFQX5utrWg2eQESLJxTQdq_1tZMZZ1RU28vcNdvsMSj2S-FbIdHkeKGidTJqQCPQWIJ1IqpK8M5G6UahqhJTegjkDq-KUZJVKykRV8q8fDOSEuJZzRkHHy-UKVANiLXdOI0TeElO9tOyglENjhuszEXA70SOStwpUHlKY_SU_PaIg2CKFXSRK5Oh3vt4-IVCfMGsapf7xU-cYrBI2iWyWTAr_SG03w3YZ3RcNDXJzYz6jDeaOmPvTy22nwu_qMUFv4TZS9sIVM60pffMGJdktJN2pzyc13nAatdldjUJg.iljcsS1XjJK5KqUO.kagbsfpZMhO-u633DmNMtuLEUkAF0iNvAnvmr1__yJiVHNblp87SL4Wn9kosTGPyeIpLLjVjijTwWjrcEehD7ueLzk_ziWVzmhX_WDpjQnww10Irpk6nQ7B7bTSvXIhYpmpJDI4fJEfYsh5g-sds7FdB0Dqmxmy65HaD3F7g9Tyzh-1YgMjndMCByIHNngu2Kbz556yFwvLPe7lWiaCGE6QgJPzIlLO-7QWiYlQOoeF8D32eqbrOwp9WOZLHsG3zO0wKu3V9GPY5n4HQZRDqc5LPvzaIP_UFWRjVzuz5GNaTBjrLDBdgNs8phWQJXN599qhEkSexVQK4N2gg2ugoAETX4idXd-R7bZkgNcZW9MAS6iH_TQW6uOkwxUwm6MO6ANYrkvkAesDIxMd3Ol8YEk-DRfPGwQQDcOPEFX4F4I7l-U8q_iIVpGuKDI2MknZ66R2u0I8rhomUlWhS7fkaHxBUJIXATk5DmLS0t2B0kjzg7idAc-qSGzDZzYo1FG9pY3qJxPTO4StArF-ABZxBt1TwikaF66FOhPedzh9N0TIozwINZUzJ7Jrp8g.aOrhOVqTRilnJFUuCU5hwA
+删除-Aricia- https://edge-hls.doppiocdn.live/hls/112671339/master/112671339_auto.m3u8
