@@ -80,3 +80,8 @@ Mon Apr 13 07:19:42 CST 2026
 Mon Apr 13 07:21:28 CST 2026
 Mon Apr 13 07:22:30 CST 2026
 删除Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Mon Apr 13 07:57:29 CST 2026
+Mon Apr 13 07:57:40 CST 2026
+Mon Apr 13 07:59:24 CST 2026
+Mon Apr 13 08:00:26 CST 2026
+删除ioibibi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.66exLzO8T9sb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzY2ZXhMek84VDlzYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNEZBRDE3RC1DNzdGLTQ1QkEtOTZGRi05RDgwNURCMkJENDgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3NjAyNjUyOSwiZXhwIjoxNzc2MDI3MTI5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.geQ69L4y_PKpZH1b4D_BJ7pzoRICNCfL7J5_2UmPHImMmYB8ypzIoKafXfzjNPz5iL9kki829fiNi-Io5x0I8RVyKvcL-d78ua_10CD595YSnvceK83K8aAqD_jKWcjs
