@@ -322,3 +322,12 @@ Mon Aug 24 17:08:01 CST 2026
 删除https://klondy23sayhnjxjq76e15118.edge.naverncp.com/live/video/ls-20260730201312-8uhZq/playlist.m3u8?token=st=1785848280~exp=1785891480~acl=/live/video/ls-20260730201312-8uhZq/*~hmac=b0fbff2f9324e8d5714096e86966a0a3b9493191df51fada592f1d735b610258 https://klondy23sayhnjxjq76e15118.edge.naverncp.com/live/video/ls-20260730201312-8uhZq/playlist.m3u8?token=st=1785848280~exp=1785891480~acl=/live/video/ls-20260730201312-8uhZq/*~hmac=b0fbff2f9324e8d5714096e86966a0a3b9493191df51fada592f1d735b610258
 删除stripchat-yaoyao https://edge-hls.doppiocdn.live/hls/64423096/master/64423096_auto.m3u8
 删除Eden-top https://edge-hls.doppiocdn.live/hls/103710327/master/103710327_auto.m3u8
+Mon Aug 24 18:01:49 CST 2026
+Mon Aug 24 18:04:46 CST 2026
+添加hanny27 ?aid=null
+Mon Aug 24 18:07:01 CST 2026
+Mon Aug 24 18:08:04 CST 2026
+删除https://klondy23sayhnjxjq76e15118.edge.naverncp.com/live/video/ls-20260730201312-8uhZq/720p-16-9/playlist.m3u8?token=st=1785848280~exp=1785891480~acl=/live/video/ls-20260730201312-8uhZq/*~hmac=b0fbff2f9324e8d5714096e86966a0a3b9493191df51fada592f1d735b610258 https://klondy23sayhnjxjq76e15118.edge.naverncp.com/live/video/ls-20260730201312-8uhZq/720p-16-9/playlist.m3u8?token=st=1785848280~exp=1785891480~acl=/live/video/ls-20260730201312-8uhZq/*~hmac=b0fbff2f9324e8d5714096e86966a0a3b9493191df51fada592f1d735b610258
+删除https://klondy23sayhnjxjq76e15118.edge.naverncp.com/live/video/ls-20260730201312-8uhZq/480p-16-9/playlist.m3u8?token=st=1785848280~exp=1785891480~acl=/live/video/ls-20260730201312-8uhZq/*~hmac=b0fbff2f9324e8d5714096e86966a0a3b9493191df51fada592f1d735b610258 https://klondy23sayhnjxjq76e15118.edge.naverncp.com/live/video/ls-20260730201312-8uhZq/480p-16-9/playlist.m3u8?token=st=1785848280~exp=1785891480~acl=/live/video/ls-20260730201312-8uhZq/*~hmac=b0fbff2f9324e8d5714096e86966a0a3b9493191df51fada592f1d735b610258
+删除https://klondy23sayhnjxjq76e15118.edge.naverncp.com/live/video/ls-20260730201312-8uhZq/playlist.m3u8?token=st=1785848280~exp=1785891480~acl=/live/video/ls-20260730201312-8uhZq/*~hmac=b0fbff2f9324e8d5714096e86966a0a3b9493191df51fada592f1d735b610258 https://klondy23sayhnjxjq76e15118.edge.naverncp.com/live/video/ls-20260730201312-8uhZq/playlist.m3u8?token=st=1785848280~exp=1785891480~acl=/live/video/ls-20260730201312-8uhZq/*~hmac=b0fbff2f9324e8d5714096e86966a0a3b9493191df51fada592f1d735b610258
+删除-ov-er- https://edge-hls.doppiocdn.live/hls/160401763/master/160401763_auto.m3u8
